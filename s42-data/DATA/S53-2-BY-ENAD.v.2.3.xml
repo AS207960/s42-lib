@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BY</GroupDescription>
+            <GroupItemCount>34</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Мирошниченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Мирошниченко, д.1</LineData>
+                            <LineData name="LINE 3">220131, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Мирошниченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Мирошниченко, д.1, кв.15</LineData>
+                            <LineData name="LINE 3">220131, г. Минск</LineData>
+                            <LineData name="LINE 4">Белоруссия</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220005</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">пр-т Машерова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">пр-т Машерова, д.1, кв.12</LineData>
+                            <LineData name="LINE 3">220005, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220137</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">1-й пер. Артема</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">1-й пер. Артема, д.1, кв.15</LineData>
+                            <LineData name="LINE 3">220137, г. Минск</LineData>
+                            <LineData name="LINE 4">Белоруссия</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">б-р Шевченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">б-р Шевченко, д.1, кв.15</LineData>
+                            <LineData name="LINE 3">220068, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220113</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Логойский тракт</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.7</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.128</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">Логойский тракт, д.7, кв.128</LineData>
+                            <LineData name="LINE 3">220113, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U30.26.00.00 uniq="U30Building">корп.2</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Шевченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">корп.2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Шевченко, д.1, корп.2, кв.15</LineData>
+                            <LineData name="LINE 3">220068, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Шевченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1Б</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Шевченко, д.1Б, кв.15</LineData>
+                            <LineData name="LINE 3">220068, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">213817</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Могилевской обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">г. Бобруйск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Мирошниченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.46</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Мирошниченко, д.1, кв.46</LineData>
+                            <LineData name="LINE 3">213817, г. Бобруйск</LineData>
+                            <LineData name="LINE 4">Могилевской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ЗАО &quot;Калинка&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">223709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Минская обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">г. Солигорск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">пр-т  Мира</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.28</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ЗАО &quot;Калинка&quot;</LineData>
+                            <LineData name="LINE 2">пр-т  Мира, д.28</LineData>
+                            <LineData name="LINE 3">223709, г. Солигорск</LineData>
+                            <LineData name="LINE 4">Минская обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Полиграфический холдинг</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220035</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Тимирязева</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65А</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">к. 325</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Полиграфический холдинг</LineData>
+                            <LineData name="LINE 2">ул. Тимирязева, 65А, к. 325</LineData>
+                            <LineData name="LINE 3">220035, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Ректору</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Высший государственный колледж связи</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">корп.1</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220114</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Скорины</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.8</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">корп.1</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ректору</LineData>
+                            <LineData name="LINE 2">Высший государственный колледж связи</LineData>
+                            <LineData name="LINE 3">ул. Скорины, д.8, корп.1</LineData>
+                            <LineData name="LINE 4">220114, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222615</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Минской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Несвижского р-на</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">аг. Снов</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Мирошниченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Мирошниченко, д.1, кв.2</LineData>
+                            <LineData name="LINE 3">222615, аг. Снов</LineData>
+                            <LineData name="LINE 4">Несвижского р-на</LineData>
+                            <LineData name="LINE 5">Минской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222612</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Минской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Несвижского р-на</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">д. Прости</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Мирошниченко</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">п/о Островки</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">ул. Мирошниченко, д.1, д. Прости</LineData>
+                            <LineData name="LINE 3">222612, п/о Островки</LineData>
+                            <LineData name="LINE 4">Несвижского р-на</LineData>
+                            <LineData name="LINE 5">Минской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ивану</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Свистунову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ивановичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222612</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Минской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Несвижского р-на</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">д. Прости</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.318</U40.24.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">п/о Островки</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свистунову Ивану Ивановичу</LineData>
+                            <LineData name="LINE 2">д. Прости, д.318</LineData>
+                            <LineData name="LINE 3">222612, п/о Островки</LineData>
+                            <LineData name="LINE 4">Несвижского р-на</LineData>
+                            <LineData name="LINE 5">Минской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Елене</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Казаковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Владимировне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">221032</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Брест</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">До востребования</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Казаковой Елене Владимировне</LineData>
+                            <LineData name="LINE 2">До востребования</LineData>
+                            <LineData name="LINE 3">221032, г. Брест</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Елене</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ермаковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220119</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Белоруссия</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Минск</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">а/я</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">140</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ермаковой Елене Сергеевне</LineData>
+                            <LineData name="LINE 2">а/я 140</LineData>
+                            <LineData name="LINE 3">220119, г. Минск</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Miroshnichenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Miroshnichenko, d.1</LineData>
+                            <LineData name="LINE 3">220131, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Miroshnichenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Miroshnichenko, d.1, kv.15</LineData>
+                            <LineData name="LINE 3">220131, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220005</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">pr-t Mašerova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">pr-t Mašerova, d.1, kv.12</LineData>
+                            <LineData name="LINE 3">220005, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220137</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">1-y per. Artema</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">1-y per. Artema, d.1, kv.15</LineData>
+                            <LineData name="LINE 3">220137, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">b-r  Shevchenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">b-r  Shevchenko, d.1, kv.15</LineData>
+                            <LineData name="LINE 3">220068, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220113</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Logoyskiy trakt</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.7</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.128</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">Logoyskiy trakt, d.7, kv.128</LineData>
+                            <LineData name="LINE 3">220113, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U30.26.00.00 uniq="U30Building">korp.2</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Shevchenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp.2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Shevchenko, d.1, korp.2, kv.15</LineData>
+                            <LineData name="LINE 3">220068, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220068</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Shevchenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1B</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Shevchenko, d.1B, kv.15</LineData>
+                            <LineData name="LINE 3">220068, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">213817</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Mogilevskoy obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">g. Bobruysk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Miroshnichenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.46</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Miroshnichenko, d.1, kv.46</LineData>
+                            <LineData name="LINE 3">213817, g. Bobruysk</LineData>
+                            <LineData name="LINE 4">Mogilevskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ZAO &quot;Kalinka&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">223709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Minskaya obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">g. Soligorsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">pr-t Mira</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.28</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ZAO &quot;Kalinka&quot;</LineData>
+                            <LineData name="LINE 2">pr-t Mira, d.28</LineData>
+                            <LineData name="LINE 3">223709, g. Soligorsk</LineData>
+                            <LineData name="LINE 4">Minskaya obl.</LineData>
+                            <LineData name="LINE 5">Belarus</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Poligraficheskiy kholding</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220035</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro"> ul. Timiryazeva</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65A</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">k. 325</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Poligraficheskiy kholding</LineData>
+                            <LineData name="LINE 2"> ul. Timiryazeva, 65A, k. 325</LineData>
+                            <LineData name="LINE 3">220035, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Rektoru</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Vysshiy gosudarstvennyy kolledzh svyazi</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">korp.1</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220114</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Skoriny</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.8</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp.1</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rektoru</LineData>
+                            <LineData name="LINE 2">Vysshiy gosudarstvennyy kolledzh svyazi</LineData>
+                            <LineData name="LINE 3">ul. Skoriny, d.8, korp.1</LineData>
+                            <LineData name="LINE 4">220114, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222615</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Minskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Nesvizhskogo r-na</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">ag. Snov </U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Miroshnichenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Miroshnichenko, d.1, kv.2</LineData>
+                            <LineData name="LINE 3">222615, ag. Snov </LineData>
+                            <LineData name="LINE 4">Nesvizhskogo r-na</LineData>
+                            <LineData name="LINE 5">Minskoy obl.</LineData>
+                            <LineData name="LINE 6">Belarus</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222612</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Minskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Nesvizhskogo r-na</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">d. Prosti</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Miroshnichenko</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">p/o Ostrovki</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">ul. Miroshnichenko, d.1, d. Prosti</LineData>
+                            <LineData name="LINE 3">222612, p/o Ostrovki</LineData>
+                            <LineData name="LINE 4">Nesvizhskogo r-na</LineData>
+                            <LineData name="LINE 5">Minskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivanu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Svistunovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanovichu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">222612</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Minskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Nesvizhskogo r-na</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">d. Prosti</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.318</U40.24.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">p/o Ostrovki</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svistunovu Ivanu Ivanovichu</LineData>
+                            <LineData name="LINE 2">d. Prosti, d.318</LineData>
+                            <LineData name="LINE 3">222612, p/o Ostrovki</LineData>
+                            <LineData name="LINE 4">Nesvizhskogo r-na</LineData>
+                            <LineData name="LINE 5">Minskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Yelene</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kazakovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Vladimirovne</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">221032</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Brest</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Do vostrebovaniya</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kazakovoy Yelene Vladimirovne</LineData>
+                            <LineData name="LINE 2">Do vostrebovaniya</LineData>
+                            <LineData name="LINE 3">221032, g. Brest</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Yelene</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yermakovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sergeyevne</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">220119</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Belarus</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Minsk</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType"> a/ya</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">140</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Yermakovoy Yelene Sergeyevne</LineData>
+                            <LineData name="LINE 2"> a/ya 140</LineData>
+                            <LineData name="LINE 3">220119, g. Minsk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

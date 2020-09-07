@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>IT</GroupDescription>
+            <GroupItemCount>40</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARCO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NICOLETTI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EUROPA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">300</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">PIANO</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">4</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">INTERNO</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">12</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARCO NICOLETTI</LineData>
+                            <LineData name="LINE 2">PIANO 4 INTERNO 12</LineData>
+                            <LineData name="LINE 3">VIALE EUROPA 300</LineData>
+                            <LineData name="LINE 4">00144 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARCELLO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MASTROIANNI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00142</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MAZZOLA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">10</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARCELLO MASTROIANNI</LineData>
+                            <LineData name="LINE 2">VIA MAZZOLA 10</LineData>
+                            <LineData name="LINE 3">00142 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ASSICURAZIONI</U10.00.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56122</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PISA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALDO MORO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">17</U40.24.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">ISOLATO</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">12</U40.26.21.21>
+                        <U40.30.11.11 uniq="U40StairwellType">SCALA</U40.30.11.11>
+                        <U40.30.11.21 uniq="U40StairwellInd">3</U40.30.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">INT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">3</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ASSICURAZIONI</LineData>
+                            <LineData name="LINE 2">C.A. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">ISOLATO 12 SCALA 3 INT 3</LineData>
+                            <LineData name="LINE 4">VIA ALDO MORO 17</LineData>
+                            <LineData name="LINE 5">56122 PISA PI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SIG.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80139</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NAPOLI</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PIAZZA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CARD S RIARIO SFORZA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">143</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 2">PIAZZA CARD S RIARIO SFORZA 143</LineData>
+                            <LineData name="LINE 3">80139 NAPOLI NA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SIG.RA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00122</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.31 uniq="U40PrimThoroNamePrefix">DEI</U40.21.11.31>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PROMONTORI</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">485</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SIG.RA MARIA ROSSI</LineData>
+                            <LineData name="LINE 2">VIALE DEI PROMONTORI 485</LineData>
+                            <LineData name="LINE 3">00122 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">FLEX</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DITTA</U10.05.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">PAOLO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">MALDINI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00183</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">APPIA NUOVA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">BIS</U40.24.11.31>
+                        <U40.29.11.11 uniq="U40WingType">ALA</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">B</U40.29.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">INTERNO</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">27</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DITTA FLEX</LineData>
+                            <LineData name="LINE 2">C.A. PAOLO MALDINI</LineData>
+                            <LineData name="LINE 3">ALA B INTERNO 27</LineData>
+                            <LineData name="LINE 4">VIA APPIA NUOVA 5/BIS</LineData>
+                            <LineData name="LINE 5">00183 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SIG.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">FEDERICO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FELLINI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20151</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MILANO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">FRANCESCO CILEA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">12</U40.24.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">ED.</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">12</U40.26.21.21>
+                        <U40.32.11.11 uniq="U40DoorType">INT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">27</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SIG. FEDERICO FELLINI</LineData>
+                            <LineData name="LINE 2">ED. 12 INT 27</LineData>
+                            <LineData name="LINE 3">VIA FRANCESCO CILEA 12</LineData>
+                            <LineData name="LINE 4">20151 MILANO MI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00173</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">19123</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO CINECITTA’ EST</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">UFFICIO CINECITTA’ EST</LineData>
+                            <LineData name="LINE 3">CASELLA POSTALE 19123</LineData>
+                            <LineData name="LINE 4">00173 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00173</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">19123</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO CINECITTA’ EST</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">C.A. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">UFFICIO CINECITTA’ EST</LineData>
+                            <LineData name="LINE 4">CASELLA POSTALE 19123</LineData>
+                            <LineData name="LINE 5">00173 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">DITTA FLEX</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.P.A.</U10.01.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">PIERO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">PIRELLI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">84011</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">AMALFI</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">SALITA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TUORO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">TOVERE</U40.26.21.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DITTA FLEX S.P.A.</LineData>
+                            <LineData name="LINE 2">C.A. PIERO PIRELLI</LineData>
+                            <LineData name="LINE 3">TOVERE</LineData>
+                            <LineData name="LINE 4">SALITA TUORO 2</LineData>
+                            <LineData name="LINE 5">84011 AMALFI SA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BIANCHI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03018</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">FR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PALIANO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PIAZZA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOVE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">CASTELLACCIO</U40.26.21.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIA BIANCHI</LineData>
+                            <LineData name="LINE 2">CASTELLACCIO</LineData>
+                            <LineData name="LINE 3">PIAZZA BOVE 2</LineData>
+                            <LineData name="LINE 4">03018 PALIANO FR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GIORGIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BIANCHI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30121</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">VENEZIA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">SESTIERE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CANNAREGIO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1678</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GIORGIO BIANCHI</LineData>
+                            <LineData name="LINE 2">SESTIERE CANNAREGIO 1678</LineData>
+                            <LineData name="LINE 3">30121 VENEZIA VE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">FLAVIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CALZAVARA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30121</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">VENEZIA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CANNAREGIO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.31 uniq="U40PrimThoroNamePrefix">DEL</U40.21.11.31>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CRISTO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1678</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FLAVIO CALZAVARA</LineData>
+                            <LineData name="LINE 2">CALLE DEL CRISTO CANNAREGIO 1678</LineData>
+                            <LineData name="LINE 3">30121 VENEZIA VE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">DINO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ZOFF</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80126</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NAPOLI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SOCCAVO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GIOVANNI XXIII</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DINO ZOFF</LineData>
+                            <LineData name="LINE 2">VIA GIOVANNI XXIII SOCCAVO 3</LineData>
+                            <LineData name="LINE 3">80126 NAPOLI NA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALFREDO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FONI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NAPOLI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SECONDIGLIANO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GIOVANNI XXIII</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">85</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ALFREDO FONI</LineData>
+                            <LineData name="LINE 2">VIA GIOVANNI XXIII SECONDIGLIANO 85</LineData>
+                            <LineData name="LINE 3">80144 NAPOLI NA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GAETANO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SCIREA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00134</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ARDEATINA</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">KM</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15,500</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GAETANO SCIREA</LineData>
+                            <LineData name="LINE 2">VIA ARDEATINA KM 15,500</LineData>
+                            <LineData name="LINE 3">00134 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">SERGIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BRIO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16147</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GENOVA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ARGINE POLCEVERA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">ROSSO</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SERGIO BRIO</LineData>
+                            <LineData name="LINE 2">VIA ARGINE POLCEVERA 3 ROSSO</LineData>
+                            <LineData name="LINE 3">16147 GENOVA GE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">FRANCO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BARESI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60129</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ANCONA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">FRAZIONE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MASSIGNANO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">SNC</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FRANCO BARESI</LineData>
+                            <LineData name="LINE 2">FRAZIONE MASSIGNANO SNC</LineData>
+                            <LineData name="LINE 3">60129 ANCONA AN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MARCO TARDELLI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DITTA</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60125</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ANCONA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">LUNGOMARE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ZONA INDUSTRIALE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">100</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DITTA MARCO TARDELLI</LineData>
+                            <LineData name="LINE 2">LUNGOMARE ZONA INDUSTRIALE 100</LineData>
+                            <LineData name="LINE 3">60125 ANCONA AN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ANDREA PIRLO</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DITTA</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80126</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NAPOLI</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">ZONA INDUSTRIALE</U40.17.12.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ETTORE MAJORANA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">10</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DITTA ANDREA PIRLO</LineData>
+                            <LineData name="LINE 2">ZONA INDUSTRIALE</LineData>
+                            <LineData name="LINE 3">VIA ETTORE MAJORANA 10</LineData>
+                            <LineData name="LINE 4">80126 NAPOLI NA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">DANIELE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BONERA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13822</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOSSO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">BORGATA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CAPOMOSSO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">17</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DANIELE BONERA</LineData>
+                            <LineData name="LINE 2">BORGATA CAPOMOSSO 17</LineData>
+                            <LineData name="LINE 3">13822 MOSSO BI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2421</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO ROMA 158</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">C.A. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20052</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MONZA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">123</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO MONZA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIO ROSSI</LineData>
+                            <LineData name="LINE 2">UFFICIO MONZA</LineData>
+                            <LineData name="LINE 3">CASELLA POSTALE 123</LineData>
+                            <LineData name="LINE 4">20052 MONZA MI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">44100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">FE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FERRARA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">456</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO FERRARA CENTRO</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIO ROSSI</LineData>
+                            <LineData name="LINE 2">UFFICIO FERRARA CENTRO</LineData>
+                            <LineData name="LINE 3">CASELLA POSTALE 456</LineData>
+                            <LineData name="LINE 4">44100 FERRARA FE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LA METEORA</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.R.L.</U10.01.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">FELICE</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">RIVA</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MATERA</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Z.I. JESCE</U40.17.12.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">S.S.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">271</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">KM.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">51.260</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LA METEORA S.R.L.</LineData>
+                            <LineData name="LINE 2">C.A. FELICE RIVA</LineData>
+                            <LineData name="LINE 3">Z.I. JESCE</LineData>
+                            <LineData name="LINE 4">S.S. 271 KM. 51.260</LineData>
+                            <LineData name="LINE 5">75100 MATERA MT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">POLFORM</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.R.L.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MATERA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ZONA INDUSTRIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LA MARTELLA</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">POLFORM S.R.L.</LineData>
+                            <LineData name="LINE 2">ZONA INDUSTRIALE LA MARTELLA</LineData>
+                            <LineData name="LINE 3">75100 MATERA MT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LA METEORA</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.R.L.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MATERA</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Z.I. JESCE</U40.17.12.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">S.S.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">271</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">KM.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">51.260</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LA METEORA S.R.L.</LineData>
+                            <LineData name="LINE 2">Z.I. JESCE</LineData>
+                            <LineData name="LINE 3">S.S. 271 KM. 51.260</LineData>
+                            <LineData name="LINE 4">75100 MATERA MT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">NOVELLA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">COPPA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOTT.SSA</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PIAZZALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALDO MORO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOTT.SSA NOVELLA COPPA</LineData>
+                            <LineData name="LINE 2">PIAZZALE ALDO MORO 7</LineData>
+                            <LineData name="LINE 3">00185 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GAETANO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CACCIOLA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOTT. ING.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">98126</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ME</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MESSINA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">S LUCIA CONTESSE</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NUOVA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOTT. ING. GAETANO CACCIOLA</LineData>
+                            <LineData name="LINE 2">VIA NUOVA S LUCIA CONTESSE 5</LineData>
+                            <LineData name="LINE 3">98126 MESSINA ME</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BANCA FINDOMESTIC</U10.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">RESPONSABILE COMUNICAZIONE E ANIMAZIONE</U20.03.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">FI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FIRENZE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BELFIORE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">26</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BANCA FINDOMESTIC</LineData>
+                            <LineData name="LINE 2">C.A. RESPONSABILE COMUNICAZIONE E ANIMAZIONE</LineData>
+                            <LineData name="LINE 3">VIALE BELFIORE 26</LineData>
+                            <LineData name="LINE 4">50144 FIRENZE FI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BANCA FINDOMESTIC</U10.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">DIREZIONE MARKETING E INNOVAZIONE</U20.02.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">DOTT. ING.</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">FI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FIRENZE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BELFIORE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">26</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BANCA FINDOMESTIC</LineData>
+                            <LineData name="LINE 2">DOTT. ING. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">DIREZIONE MARKETING E INNOVAZIONE</LineData>
+                            <LineData name="LINE 4">VIALE BELFIORE 26</LineData>
+                            <LineData name="LINE 5">50144 FIRENZE FI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSI</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C\O</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">CLAUDIA</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">FARELLI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65122</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PESCARA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">REGINA ELENA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">45</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIO ROSSI</LineData>
+                            <LineData name="LINE 2">C\O CLAUDIA FARELLI</LineData>
+                            <LineData name="LINE 3">VIALE REGINA ELENA 45</LineData>
+                            <LineData name="LINE 4">65122 PESCARA PE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">POSTE ITALIANE</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.P.A</U10.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">PRESIDENTE</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EUROPA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">175</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">POSTE ITALIANE S.P.A</LineData>
+                            <LineData name="LINE 2">PRESIDENTE</LineData>
+                            <LineData name="LINE 3">VIALE EUROPA 175</LineData>
+                            <LineData name="LINE 4">00144 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">FEDERICO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FELLINI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">47921</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIMINI</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RUGGERO BALDINI</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FEDERICO FELLINI</LineData>
+                            <LineData name="LINE 2">VIALE RUGGERO BALDINI 2/A</LineData>
+                            <LineData name="LINE 3">47921 RIMINI RN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">FLEX</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DITTA</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80143</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NAPOLI</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GIOVANNI PORZIO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4</U40.24.11.21>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">CENTRO DIREZIONALE</U40.26.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">ISOLA</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">G1</U40.26.21.21>
+                        <U40.31.11.11 uniq="U40FloorType">PIANO</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">19</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">INT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">145</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DITTA FLEX</LineData>
+                            <LineData name="LINE 2">CENTRO DIREZIONALE</LineData>
+                            <LineData name="LINE 3">ISOLA G1 PIANO 19 INT 145</LineData>
+                            <LineData name="LINE 4">VIA GIOVANNI PORZIO 4</LineData>
+                            <LineData name="LINE 5">80143 NAPOLI NA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>221</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.03.00.00 uniq="U20Function">RESP. COMUNIC. E ANIM.</U20.03.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2421</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO ROMA 158</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">C.A. RESP. COMUNIC. E ANIM. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>222</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">DIR MARKETING E INNOV.</U20.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2421</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO ROMA 158</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI DIR MARKETING E INNOV.</LineData>
+                            <LineData name="LINE 2">C.A. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>223</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">DIR MARKETING E INNOV.</U20.02.00.00>
+                        <U20.03.00.00 uniq="U20Function">RESP. COMUNIC. E ANIM.</U20.03.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASELLA POSTALE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2421</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">UFFICIO ROMA 158</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI DIR MARKETING E INNOV.</LineData>
+                            <LineData name="LINE 2">C.A. RESP. COMUNIC. E ANIM. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>225</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">DIREZIONE MARKETING E INNOVAZIONE</U20.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EUROPA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">300</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">C.A. SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">DIREZIONE MARKETING E INNOVAZIONE</LineData>
+                            <LineData name="LINE 4">VIALE EUROPA 300</LineData>
+                            <LineData name="LINE 5">00144 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>226</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARTOGRAFICA VERDI</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SPETT.</U10.05.00.00>
+                        <U20.03.00.00 uniq="U20Function">RESP. COMUNICAZIONE E ANIMAZIONE</U20.03.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C.A.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SIG.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MARIO</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">ROSSI</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ITALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROMA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">VIALE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EUROPA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">300</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">it</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">C.A. RESP. COMUNICAZIONE E ANIMAZIONE</LineData>
+                            <LineData name="LINE 3">SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 4">VIALE EUROPA 300</LineData>
+                            <LineData name="LINE 5">00144 ROMA RM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

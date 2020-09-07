@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>SA</GroupDescription>
+            <GroupItemCount>31</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">2345 Salem Street</LineData>
+                            <LineData name="LINE 3">Riyadh 12345 - 6789</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">2345 Salem Street</LineData>
+                            <LineData name="LINE 3">Unit 1</LineData>
+                            <LineData name="LINE 4">Riyadh 12345 - 6789</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Olaya District</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">2345 Salem Street - Olaya District</LineData>
+                            <LineData name="LINE 3">Riyadh 12345 - 6789</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Olaya District</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">2345 Olaya District</LineData>
+                            <LineData name="LINE 3">Riyadh 12345 - 6789</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">PO Box 1234</LineData>
+                            <LineData name="LINE 3">Riyadh 11345</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdulaziz</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Mohamad</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Abdallah</U20.08.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ahmad Abdulaziz</LineData>
+                            <LineData name="LINE 2">c/o Mohamad Abdallah</LineData>
+                            <LineData name="LINE 3">PO Box 1234</LineData>
+                            <LineData name="LINE 4">Riyadh 11345</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">First United Company</U20.00.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">First United Company</LineData>
+                            <LineData name="LINE 3">PO Box 1234</LineData>
+                            <LineData name="LINE 4">Riyadh 11345</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">First United Company</U10.00.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">First United Company</LineData>
+                            <LineData name="LINE 2">PO Box 1234</LineData>
+                            <LineData name="LINE 3">Riyadh 11345</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">First United Company</U20.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem St</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1234</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohamad Abdallah</LineData>
+                            <LineData name="LINE 2">First United Company</LineData>
+                            <LineData name="LINE 3">1234 Salem St</LineData>
+                            <LineData name="LINE 4">Riyadh 12345 - 6789</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">First United Company</U10.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem St</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1234</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">First United Company</LineData>
+                            <LineData name="LINE 2">1234 Salem St</LineData>
+                            <LineData name="LINE 3">Riyadh 12345 - 6789</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Al-Mohamad</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ahmad Al-Mohamad</LineData>
+                            <LineData name="LINE 2">8228</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Khaled</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Mohamed</U10.09.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Prof.</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">Esquire</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">King Abdul Aziz Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof. Ahmad Mohamed Khaled Esquire</LineData>
+                            <LineData name="LINE 2">8228 King Abdul Aziz Road</LineData>
+                            <LineData name="LINE 3">Riyadh 12643 - 2121</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Abdallah</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdallah</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abdul Rahman</U10.09.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dr.</U10.10.11.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">Al Amal District</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">King Saud Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Abdallah Abdul Rahman Abdallah</LineData>
+                            <LineData name="LINE 2">8228 King Saud Street - Al Amal District</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Abdul Rahman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ahmad</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Mohamad</U10.09.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Engineer</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">Esquire</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Engineer Abdul Rahman Mohamad Ahmad Esquire</LineData>
+                            <LineData name="LINE 2">8228</LineData>
+                            <LineData name="LINE 3">Riyadh 12643 - 2121</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tareq</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Khaled</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Bin Mohamad Bin Ahmad</U10.09.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">May God protect Him</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">King Abdul Aziz Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tareq Bin Mohamad Bin Ahmad Khaled May God protect Him</LineData>
+                            <LineData name="LINE 2">8228 King Abdul Aziz Road</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">GIS Director</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Saudi Post</U20.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">SAUDI ARABIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Riyadh</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Olaya District</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salem Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GIS Director</LineData>
+                            <LineData name="LINE 2">Saudi Post</LineData>
+                            <LineData name="LINE 3">2345 Salem Street - Olaya District</LineData>
+                            <LineData name="LINE 4">Riyadh 12345 - 6789</LineData>
+                            <LineData name="LINE 5">SAUDI ARABIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع سالم</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">2345 شارع سالم</LineData>
+                            <LineData name="LINE 3">الرياض 12345 - 6789</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع سالم</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">وحدة 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">2345 شارع سالم</LineData>
+                            <LineData name="LINE 3">وحدة 1</LineData>
+                            <LineData name="LINE 4">الرياض 12345 - 6789</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">حي العليا</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع سالم</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">2345 شارع سالم - حي العليا</LineData>
+                            <LineData name="LINE 3">الرياض 12345 - 6789</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6790</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">حي العليا</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">2345 حي العليا</LineData>
+                            <LineData name="LINE 3">الرياض 12345 - 6790</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">ص ب 1234</LineData>
+                            <LineData name="LINE 3">الرياض 11345</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">أحمد عبدالعزيز</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">بواسطة</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">محمد</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">عبدالله</U20.08.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11345</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">أحمد عبدالعزيز</LineData>
+                            <LineData name="LINE 2">بواسطة محمد عبدالله</LineData>
+                            <LineData name="LINE 3">ص ب 1234</LineData>
+                            <LineData name="LINE 4">الرياض 11345</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">الشركة المتحدة الأولى</U20.00.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11346</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1235</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">الشركة المتحدة الأولى</LineData>
+                            <LineData name="LINE 3">ص ب 1235</LineData>
+                            <LineData name="LINE 4">الرياض 11346</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">الشركة المتحدة الأولى</U20.00.00.00>
+                        <U40.13.11.31 uniq="U40PostCodePos1Part3">11346</U40.13.11.31>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1235</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الشركة المتحدة الأولى</LineData>
+                            <LineData name="LINE 2">ص ب 1235</LineData>
+                            <LineData name="LINE 3">الرياض 11346</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">الشركة المتحدة الأولى</U20.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع سالم</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">SA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد عبدالله</LineData>
+                            <LineData name="LINE 2">الشركة المتحدة الأولى</LineData>
+                            <LineData name="LINE 3">2345 شارع سالم</LineData>
+                            <LineData name="LINE 4">الرياض 12345 - 6789</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">الشركة المتحدة الأولى</U20.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12345</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6789</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع سالم</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الشركة المتحدة الأولى</LineData>
+                            <LineData name="LINE 2">2345 شارع سالم</LineData>
+                            <LineData name="LINE 3">الرياض 12345 - 6789</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">أحمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">المحمد</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">أحمد المحمد</LineData>
+                            <LineData name="LINE 2">8228</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">الأستاذ</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">أحمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">خالد</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">محمد</U10.09.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">المحترم</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">طريق الملك عبدالعزيز</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الأستاذ أحمد محمد خالد المحترم</LineData>
+                            <LineData name="LINE 2">8228 طريق الملك عبدالعزيز</LineData>
+                            <LineData name="LINE 3">الرياض 12643 - 2121</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">عبدالله</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدالله</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">عبدالرحمن</U10.09.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">الدكتور</U10.10.11.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">حي العمل</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع الملك سعود</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الدكتور عبدالله عبدالرحمن عبدالله</LineData>
+                            <LineData name="LINE 2">8228 شارع الملك سعود - حي العمل</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">عبدالرحمن</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">أحمد</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">محمد</U10.09.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">المهندس</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">المحترم</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرياض</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">المهندس عبدالرحمن محمد أحمد المحترم</LineData>
+                            <LineData name="LINE 2">8228</LineData>
+                            <LineData name="LINE 3">الرياض 12643 - 2121</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">طارق</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">خالد</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">بن محمد بن أحمد</U10.09.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">حفظه الله</U10.10.13.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">12643</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2121</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">المملكة العربية السعودية</U40.14.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">طريق الملك عبدالعزيز</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8228</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">SA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">طارق بن محمد بن أحمد خالد حفظه الله</LineData>
+                            <LineData name="LINE 2">8228 طريق الملك عبدالعزيز</LineData>
+                            <LineData name="LINE 3">12643 - 2121</LineData>
+                            <LineData name="LINE 4">المملكة العربية السعودية</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

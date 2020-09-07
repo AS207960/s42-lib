@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>MM</GroupDescription>
+            <GroupItemCount>42</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Shwe Maung</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06111</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Shan South</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Loilam</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Pwint Oo Street</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Shwe Maung</LineData>
+                            <LineData name="LINE 2">Pwint Oo Street</LineData>
+                            <LineData name="LINE 3">Loilam</LineData>
+                            <LineData name="LINE 4">Shan South, 06111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ရွှေမောင်</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၆၁၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ရှမ်း(တောင်)</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">လွိုင်လင်မြို့၊</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ပွင့်ဦးလမ်း</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးရွှေမောင်</LineData>
+                            <LineData name="LINE 2">ပွင့်ဦးလမ်း</LineData>
+                            <LineData name="LINE 3">လွိုင်လင်မြို့၊</LineData>
+                            <LineData name="LINE 4">ရှမ်း(တောင်)၊ ၀၆၁၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">May Than</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11021</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Yangon</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mingalardon</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Pan Myit Zu Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">No(10)</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Khayaypin Housing</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. May Than</LineData>
+                            <LineData name="LINE 2">No(10), Pan Myit Zu Street</LineData>
+                            <LineData name="LINE 3">Khayaypin Housing</LineData>
+                            <LineData name="LINE 4">Mingalardon</LineData>
+                            <LineData name="LINE 5">Yangon, 11021</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဒေါ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">မေသန်း</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၀၂၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ရန်ကုန်</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">မင်္ဂလာဒုံမြို့နယ်</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ပန်းမဇ္ဇူလမ်း</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">အမှတ် (၁၀)</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">ခရေပင်ရိပ်မွန်အိမ်ရာ၊</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဒေါ်မေသန်း</LineData>
+                            <LineData name="LINE 2">အမှတ် (၁၀)၊ ပန်းမဇ္ဇူလမ်း</LineData>
+                            <LineData name="LINE 3">ခရေပင်ရိပ်မွန်အိမ်ရာ၊</LineData>
+                            <LineData name="LINE 4">မင်္ဂလာဒုံမြို့နယ်</LineData>
+                            <LineData name="LINE 5">ရန်ကုန်၊ ၁၁၀၂၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Yangon</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kyauktada</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bo Aung Kyaw Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">No. 43</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">No. 43, Bo Aung Kyaw Street</LineData>
+                            <LineData name="LINE 2">Kyauktada</LineData>
+                            <LineData name="LINE 3">Yangon, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ရန်ကုန်</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">​ကျောက်တံတား မြို့နယ်</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ဗိုလ်အောင်ကျော်လမ်း</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">အမှတ်( ၄၃ )</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">အမှတ်( ၄၃ )၊ ဗိုလ်အောင်ကျော်လမ်း</LineData>
+                            <LineData name="LINE 2">​ကျောက်တံတား မြို့နယ်</LineData>
+                            <LineData name="LINE 3">ရန်ကုန်၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Kyaw Phe</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">02131</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Sagaing</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Banmauk</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Sattaw Village</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Kyaw Phe</LineData>
+                            <LineData name="LINE 2">Sattaw Village</LineData>
+                            <LineData name="LINE 3">Banmauk</LineData>
+                            <LineData name="LINE 4">Sagaing, 02131</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ကျော်ဖေ</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၂၁၃၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">စစ်ကိုင်း</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ဗန်းမောက်မြို့</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">စက်တောရွာ</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးကျော်ဖေ</LineData>
+                            <LineData name="LINE 2">စက်တောရွာ</LineData>
+                            <LineData name="LINE 3">ဗန်းမောက်မြို့</LineData>
+                            <LineData name="LINE 4">စစ်ကိုင်း၊ ၀၂၁၃၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">San Htauk Htauk</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O Box ( 411 )</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Yangon General Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. San Htauk Htauk</LineData>
+                            <LineData name="LINE 2">P.O Box ( 411 )</LineData>
+                            <LineData name="LINE 3">Yangon General Post Office, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">စံထောက်ထောက်</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">စာတိုက်သေတ္တာ နံပါတ် - ၄၁၁</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">ရန်ကုန်စာတိုက်ကြီး</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးစံထောက်ထောက်</LineData>
+                            <LineData name="LINE 2">စာတိုက်သေတ္တာ နံပါတ် - ၄၁၁</LineData>
+                            <LineData name="LINE 3">ရန်ကုန်စာတိုက်ကြီး၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">December Farm</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">05081</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mandalay</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Pyin Oo Lwin</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">December Farm</LineData>
+                            <LineData name="LINE 2">Pyin Oo Lwin</LineData>
+                            <LineData name="LINE 3">Mandalay, 05081</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ဒီဇင်ဘာခြံ</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၅၀၈၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">မန္တလေး</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ပြင်ဦးလွင်မြို့၊</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဒီဇင်ဘာခြံ</LineData>
+                            <LineData name="LINE 2">ပြင်ဦးလွင်မြို့၊</LineData>
+                            <LineData name="LINE 3">မန္တလေး၊ ၀၅၀၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O Box ( 38 )</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Yangon General Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">P.O Box ( 38 )</LineData>
+                            <LineData name="LINE 2">Yangon General Post Office, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">စာတိုက်သေတ္တာ နံပါတ် - ၃၈</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">ရန်ကုန်စာတိုက်ကြီး</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">စာတိုက်သေတ္တာ နံပါတ် - ၃၈</LineData>
+                            <LineData name="LINE 2">ရန်ကုန်စာတိုက်ကြီး၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Tin Oo</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O Box ( 38 )</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Yangon General Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Tin Oo</LineData>
+                            <LineData name="LINE 2">P.O Box ( 38 )</LineData>
+                            <LineData name="LINE 3">Yangon General Post Office, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">တင်ဦး</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">စာတိုက်သေတ္တာ နံပါတ် - ၃၈</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">ရန်ကုန်စာတိုက်ကြီး</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးတင်ဦး</LineData>
+                            <LineData name="LINE 2">စာတိုက်သေတ္တာ နံပါတ် - ၃၈</LineData>
+                            <LineData name="LINE 3">ရန်ကုန်စာတိုက်ကြီး၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Paradee</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chotamano</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">05011</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste restante</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Mandalay General Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Paradee Chotamano</LineData>
+                            <LineData name="LINE 2">Poste restante</LineData>
+                            <LineData name="LINE 3">Mandalay General Post Office, 05011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">မစ္စ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ပါရာဒီ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ချိုတာမနို</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၅၀၁၁</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">လာယူပေး ဌာန</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">မန္တလေးစာတိုက်ကြီး</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">မစ္စ်ပါရာဒီချိုတာမနို</LineData>
+                            <LineData name="LINE 2">လာယူပေး ဌာန</LineData>
+                            <LineData name="LINE 3">မန္တလေးစာတိုက်ကြီး၊ ၀၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Naing Lin Htun</U10.06.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Mrs.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Tin Aye</U20.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">05051</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mandalay</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Pyigitakhon</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Salein Ward</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Aye Myittar Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">No ( Dada 5/60)</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Naing Lin Htun</LineData>
+                            <LineData name="LINE 2">C/O Mrs. Tin Aye</LineData>
+                            <LineData name="LINE 3">No ( Dada 5/60), Aye Myittar Street</LineData>
+                            <LineData name="LINE 4">Salein Ward</LineData>
+                            <LineData name="LINE 5">Pyigitakhon</LineData>
+                            <LineData name="LINE 6">Mandalay, 05051</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ကို</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">နိုင်လင်းထွန်း</U10.06.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">တဆင့်</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">ဒေါ်</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">တင်အေး</U20.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၅၀၅၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">မန္တလေး</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ပြည်ကြီးတံခွန်မြို့နယ်</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">(ဆ) ရပ်ကွက်</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">အေးမေတ္တာလမ်း</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">အမှတ် (ဒဒ- ၅/၆၀)</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ကိုနိုင်လင်းထွန်း</LineData>
+                            <LineData name="LINE 2">တဆင့် ဒေါ် တင်အေး</LineData>
+                            <LineData name="LINE 3">အမှတ် (ဒဒ- ၅/၆၀)၊ အေးမေတ္တာလမ်း</LineData>
+                            <LineData name="LINE 4">(ဆ) ရပ်ကွက်</LineData>
+                            <LineData name="LINE 5">ပြည်ကြီးတံခွန်မြို့နယ်</LineData>
+                            <LineData name="LINE 6">မန္တလေး၊ ၀၅၀၅၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attn:</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Thida</U10.06.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Foreign Post Division</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Yangon</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attn: Mrs. Thida</LineData>
+                            <LineData name="LINE 2">Foreign Post Division</LineData>
+                            <LineData name="LINE 3">Yangon, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">​လိပ်</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဒေါ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">သီတာ</U10.06.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">ပြည်ပစာပို့လုပ်ငန်းစခန်း</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ရန်ကုန်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">​လိပ် - ဒေါ်သီတာ</LineData>
+                            <LineData name="LINE 2">ပြည်ပစာပို့လုပ်ငန်းစခန်း</LineData>
+                            <LineData name="LINE 3">ရန်ကုန်၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Myanmar Post</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Kham Aung</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Kham Aung</LineData>
+                            <LineData name="LINE 2">Myanmar Post</LineData>
+                            <LineData name="LINE 3">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">မြန်မာ့စာတိုက်လုပ်ငန်း</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ခမ်းအောင်</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးခမ်းအောင်</LineData>
+                            <LineData name="LINE 2">မြန်မာ့စာတိုက်လုပ်ငန်း</LineData>
+                            <LineData name="LINE 3">နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Myanmar Post</U10.00.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Ms.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Nu Nu Than</U20.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Myanmar Post</LineData>
+                            <LineData name="LINE 2">Ms. Nu Nu Than</LineData>
+                            <LineData name="LINE 3">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">မြန်မာ့စာတိုက်လုပ်ငန်း</U10.00.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">ဒေါ်</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">နုနုသန်း</U20.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">မြန်မာ့စာတိုက်လုပ်ငန်း</LineData>
+                            <LineData name="LINE 2">ဒေါ် နုနုသန်း</LineData>
+                            <LineData name="LINE 3">နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kaung Myat</U10.06.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Doctor</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">05031</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mandalay</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Corner of 81 and 45 Street</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doctor Kaung Myat</LineData>
+                            <LineData name="LINE 2">Corner of 81 and 45 Street</LineData>
+                            <LineData name="LINE 3">Mandalay, 05031</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ကောင်းမြတ်</U10.06.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">ဒေါက်တာ</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၀၅၀၃၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">မန္တလေး</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">၈၁ လမ်းနှင့် ၄၅ လမ်းထောင့်</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">​ဒေါက်တာကောင်းမြတ်</LineData>
+                            <LineData name="LINE 2">၈၁ လမ်းနှင့် ၄၅ လမ်းထောင့်</LineData>
+                            <LineData name="LINE 3">မန္တလေး၊ ၀၅၀၃၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Thet Thet Mar</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15012</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mandalay</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Pyinmana</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Yanaung - 2 Ward</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Yannaing - 2 Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">No ( 17/59 )</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Thet Thet Mar</LineData>
+                            <LineData name="LINE 2">No ( 17/59 ), Yannaing - 2 Street</LineData>
+                            <LineData name="LINE 3">Yanaung - 2 Ward</LineData>
+                            <LineData name="LINE 4">Pyinmana</LineData>
+                            <LineData name="LINE 5">Mandalay, 15012</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဒေါ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">သက်သက်မာ</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၂</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">မန္တလေး</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ပျဉ်းမနားမြို့</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ရန်အောင် - ၂ ရပ်ကွက်</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ရန်နိုင် - ၂ လမ်း</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">အမှတ် - ၁၇/၅၉</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">​ဒေါ်သက်သက်မာ</LineData>
+                            <LineData name="LINE 2">အမှတ် - ၁၇/၅၉၊ ရန်နိုင် - ၂ လမ်း</LineData>
+                            <LineData name="LINE 3">ရန်အောင် - ၂ ရပ်ကွက်</LineData>
+                            <LineData name="LINE 4">ပျဉ်းမနားမြို့</LineData>
+                            <LineData name="LINE 5">မန္တလေး၊ ၁၅၀၁၂</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">Central Mail Exchange</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Sorting Section</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11181</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Yangon</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sorting Section</LineData>
+                            <LineData name="LINE 2">Central Mail Exchange</LineData>
+                            <LineData name="LINE 3">Yangon, 11181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">စာရွေး/ စာပို့ စခန်း</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">စာရွေး ဌာနစိပ်</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၁၁၈၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ရန်ကုန်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">စာရွေး ဌာနစိပ်</LineData>
+                            <LineData name="LINE 2">စာရွေး/ စာပို့ စခန်း</LineData>
+                            <LineData name="LINE 3">ရန်ကုန်၊ ၁၁၁၈၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Zaw Min</U10.06.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Naypyitaw Central Post Office</U20.00.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">Assistant Manager</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Zaw Min</LineData>
+                            <LineData name="LINE 2">Assistant Manager</LineData>
+                            <LineData name="LINE 3">Naypyitaw Central Post Office</LineData>
+                            <LineData name="LINE 4">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဦး</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ဇော်မင်း</U10.06.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">နေပြည်တော်စာတိုက်ကြီး</U20.00.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">လက်ထောက်မန်နေဂျာ</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဦးဇော်မင်း</LineData>
+                            <LineData name="LINE 2">လက်ထောက်မန်နေဂျာ</LineData>
+                            <LineData name="LINE 3">နေပြည်တော်စာတိုက်ကြီး</LineData>
+                            <LineData name="LINE 4">နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Education</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Intelligence  Property Department</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Intelligence  Property Department</LineData>
+                            <LineData name="LINE 2">Ministry of Education</LineData>
+                            <LineData name="LINE 3">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">ပညာရေးဝန်ကြီးဌာန</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">မူပိုင်ခွင့်ဌာန</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">မူပိုင်ခွင့်ဌာန</LineData>
+                            <LineData name="LINE 2">ပညာရေးဝန်ကြီးဌာန</LineData>
+                            <LineData name="LINE 3">​နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">May June Aung</U10.06.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Myanmar Post ( Head Quarter )</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">Manager of Logistics Department</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. May June Aung</LineData>
+                            <LineData name="LINE 2">Manager of Logistics Department</LineData>
+                            <LineData name="LINE 3">Myanmar Post ( Head Quarter )</LineData>
+                            <LineData name="LINE 4">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဒေါ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">မေဂျွန်အောင်</U10.06.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">မြန်မာ့စာတိုက်လုပ်ငန်း ( ရုံးချုပ် )</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">ထောက်ပံ့ရေးဌာန မန်နေဂျာ</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ဒေါ်မေဂျွန်အောင်</LineData>
+                            <LineData name="LINE 2">ထောက်ပံ့ရေးဌာန မန်နေဂျာ</LineData>
+                            <LineData name="LINE 3">မြန်မာ့စာတိုက်လုပ်ငန်း ( ရုံးချုပ် )</LineData>
+                            <LineData name="LINE 4">​နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ohn Mar Soe</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15011</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Naypyitaw</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Thu Kha Theikdi Ward</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Building (4319)</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">Room No (01)</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Ohn Mar Soe</LineData>
+                            <LineData name="LINE 2">Room No (01), Building (4319)</LineData>
+                            <LineData name="LINE 3">Thu Kha Theikdi Ward</LineData>
+                            <LineData name="LINE 4">Naypyitaw, 15011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ဒေါ်</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ဥမ္မာစိုး</U10.06.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">၁၅၀၁၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">နေပြည်တော်</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">သုခသိဒ္ဓိ ရပ်ကွက်</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">တိုက် ( ၄၃၁၉ )</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">အခန်း ( ၀၁ )</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">​ဒေါ်ဥမ္မာစိုး</LineData>
+                            <LineData name="LINE 2">အခန်း ( ၀၁ )၊ တိုက် ( ၄၃၁၉ )</LineData>
+                            <LineData name="LINE 3">သုခသိဒ္ဓိ ရပ်ကွက်</LineData>
+                            <LineData name="LINE 4">​နေပြည်တော်၊ ၁၅၀၁၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">05031</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mandalay</U40.15.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Maharmuni East stairway</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Flower Shop</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">No. 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">No. 15, Flower Shop</LineData>
+                            <LineData name="LINE 2">Maharmuni East stairway</LineData>
+                            <LineData name="LINE 3">Mandalay, 05031</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">၀၅၀၃၁</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">မန္တလေး</U40.15.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">မဟာမြတ်မုနိ အရှေ့ဘက်စောင်းတန်း</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">ပန်းဆိုင်</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">အမှတ် (၁၅)</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Mymr</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">my</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">အမှတ် (၁၅)၊ ပန်းဆိုင်</LineData>
+                            <LineData name="LINE 2">မဟာမြတ်မုနိ အရှေ့ဘက်စောင်းတန်း</LineData>
+                            <LineData name="LINE 3">မန္တလေး၊ ၀၅၀၃၁</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

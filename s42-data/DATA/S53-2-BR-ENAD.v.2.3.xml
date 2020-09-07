@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BR</GroupDescription>
+            <GroupItemCount>43</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ilmo. Sr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Wagner</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">de Araújo Salles</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14940-000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ibitinga</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Santo André</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">13 de Maio</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1917</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ilmo. Sr.</LineData>
+                            <LineData name="LINE 2">Wagner de Araújo Salles</LineData>
+                            <LineData name="LINE 3">Rua 13 de Maio, 1917</LineData>
+                            <LineData name="LINE 4">Santo André</LineData>
+                            <LineData name="LINE 5">Ibitinga - SP</LineData>
+                            <LineData name="LINE 6">14940-000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ilma. Sra.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Júlia</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Oliveira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">69900-110</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Rio Branco</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Epaminôndas Jácome</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2828</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ilma. Sra.</LineData>
+                            <LineData name="LINE 2">Júlia Oliveira</LineData>
+                            <LineData name="LINE 3">Rua Epaminôndas Jácome, 2828</LineData>
+                            <LineData name="LINE 4">Centro</LineData>
+                            <LineData name="LINE 5">Rio Branco - AC</LineData>
+                            <LineData name="LINE 6">69900-110</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Prezada Sra.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Edite</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Vieira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57072-000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maceió</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Cidade Universitária</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lourival Melo Mota</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">389</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prezada Sra.</LineData>
+                            <LineData name="LINE 2">Edite Vieira</LineData>
+                            <LineData name="LINE 3">Rua Lourival Melo Mota, 389</LineData>
+                            <LineData name="LINE 4">Cidade Universitária</LineData>
+                            <LineData name="LINE 5">Maceió - AL</LineData>
+                            <LineData name="LINE 6">57072-000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ao Reverendo</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Raimundo</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Jacob</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Padre</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">69025-100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manaus</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Presidente Vargas</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Travessa</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Comendador Clementino</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">110</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ao Reverendo Padre</LineData>
+                            <LineData name="LINE 2">Raimundo Jacob</LineData>
+                            <LineData name="LINE 3">Travessa Comendador Clementino, 110</LineData>
+                            <LineData name="LINE 4">Presidente Vargas</LineData>
+                            <LineData name="LINE 5">Manaus - AM</LineData>
+                            <LineData name="LINE 6">69025-100</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">À Senhora</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Paula</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Santana</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">45995-041</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Teixeira de Freitas</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Marechal Castelo Branco</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">473</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">À Senhora</LineData>
+                            <LineData name="LINE 2">Paula Santana</LineData>
+                            <LineData name="LINE 3">Avenida Marechal Castelo Branco, 473</LineData>
+                            <LineData name="LINE 4">Centro</LineData>
+                            <LineData name="LINE 5">Teixeira de Freitas - BA</LineData>
+                            <LineData name="LINE 6">45995-041</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Guilherme</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Araújo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57010-001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maceió</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Prado</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Siqueira Campos</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1009</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr.</LineData>
+                            <LineData name="LINE 2">Guilherme Araújo</LineData>
+                            <LineData name="LINE 3">Avenida Siqueira Campos, 1009</LineData>
+                            <LineData name="LINE 4">Prado</LineData>
+                            <LineData name="LINE 5">Maceió - AL</LineData>
+                            <LineData name="LINE 6">57010-001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ao Dr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Juliano</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Pinto</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57010-003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maceió</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Prado</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Siqueira Campos</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1110</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ao Dr.</LineData>
+                            <LineData name="LINE 2">Juliano Pinto</LineData>
+                            <LineData name="LINE 3">Avenida Siqueira Campos, 1110</LineData>
+                            <LineData name="LINE 4">Prado</LineData>
+                            <LineData name="LINE 5">Maceió - AL</LineData>
+                            <LineData name="LINE 6">57010-003</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Tatiana</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Vasconcelos</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64076-170</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Teresina</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Tancredo Neves</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Criciúma</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">500</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tatiana Vasconcelos</LineData>
+                            <LineData name="LINE 2">Rua Criciúma, 500</LineData>
+                            <LineData name="LINE 3">Tancredo Neves</LineData>
+                            <LineData name="LINE 4">Teresina - PI</LineData>
+                            <LineData name="LINE 5">64076-170</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ivonete</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Quadros</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64075-470</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Teresina</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Extrema</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Professor Cláudio Pereira</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">78</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ivonete Quadros</LineData>
+                            <LineData name="LINE 2">Rua Professor Cláudio Pereira, 78</LineData>
+                            <LineData name="LINE 3">Extrema</LineData>
+                            <LineData name="LINE 4">Teresina - PI</LineData>
+                            <LineData name="LINE 5">64075-470</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Rui</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Ferreira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54759-051</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Camaragibe</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Travessa</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">dos Girassóis</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rui Ferreira</LineData>
+                            <LineData name="LINE 2">Travessa dos Girassóis, 7</LineData>
+                            <LineData name="LINE 3">Centro</LineData>
+                            <LineData name="LINE 4">Camaragibe - PE</LineData>
+                            <LineData name="LINE 5">54759-051</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Carlos</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Simionni</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54765-047</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Camaragibe</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Timbi</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Alvorada do Sul</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">502</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Carlos Simionni</LineData>
+                            <LineData name="LINE 2">Rua Alvorada do Sul, 502</LineData>
+                            <LineData name="LINE 3">Timbi</LineData>
+                            <LineData name="LINE 4">Camaragibe - PE</LineData>
+                            <LineData name="LINE 5">54765-047</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Glauco</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Rocha</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Neto</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53090-735</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Paulista</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Rio Doce</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Conselheiro de Oliveira Neto</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">790</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Glauco Rocha Neto</LineData>
+                            <LineData name="LINE 2">Rua Conselheiro de Oliveira Neto, 790</LineData>
+                            <LineData name="LINE 3">Rio Doce</LineData>
+                            <LineData name="LINE 4">Paulista - PE</LineData>
+                            <LineData name="LINE 5">53090-735</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Nelita</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Prado</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54400-295</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Jaboatão dos Guararapes</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Piedade</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Maria Florentina Ferreira</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">17</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nelita Prado</LineData>
+                            <LineData name="LINE 2">Rua Maria Florentina Ferreira, 17</LineData>
+                            <LineData name="LINE 3">Piedade</LineData>
+                            <LineData name="LINE 4">Jaboatão dos Guararapes - PE</LineData>
+                            <LineData name="LINE 5">54400-295</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Nair</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Salles</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09310-670</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mauá</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Vila São Francisco</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">João Rodrigues</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">345</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nair Salles</LineData>
+                            <LineData name="LINE 2">Rua João Rodrigues, 345</LineData>
+                            <LineData name="LINE 3">Vila São Francisco</LineData>
+                            <LineData name="LINE 4">Mauá - SP</LineData>
+                            <LineData name="LINE 5">09310-670</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Elso</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Martins</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09854-590</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São Bernardo do Campo</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Jardim das Orquídeas</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Paulo Freire</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">87</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Elso Martins</LineData>
+                            <LineData name="LINE 2">Rua Paulo Freire, 87 </LineData>
+                            <LineData name="LINE 3">Jardim das Orquídeas</LineData>
+                            <LineData name="LINE 4">São Bernardo do Campo - SP</LineData>
+                            <LineData name="LINE 5">09854-590</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ismael</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Braz</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09854-550</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São Bernardo do Campo</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Jardim das Orquídeas</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Herbert de Souza</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">267</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ismael Braz</LineData>
+                            <LineData name="LINE 2">Rua Herbert de Souza, 267</LineData>
+                            <LineData name="LINE 3">Jardim das Orquídeas</LineData>
+                            <LineData name="LINE 4">São Bernardo do Campo - SP</LineData>
+                            <LineData name="LINE 5">09854-550</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">João</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Carlos</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Barroso</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09371-067</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mauá</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Parque São Vicente</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Clarisse de Jesus Lázaro Bedeschi</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1269</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">João Carlos Barroso</LineData>
+                            <LineData name="LINE 2">Rua Clarisse de Jesus Lázaro Bedeschi, 1269</LineData>
+                            <LineData name="LINE 3">Parque São Vicente</LineData>
+                            <LineData name="LINE 4">Mauá - SP</LineData>
+                            <LineData name="LINE 5">09371-067</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ângelo</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Silva</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04856-000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São Paulo</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Jardim Taunay</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Carmino Amódio</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">234</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ângelo Silva</LineData>
+                            <LineData name="LINE 2">Rua Carmino Amódio, 234</LineData>
+                            <LineData name="LINE 3">Jardim Taunay</LineData>
+                            <LineData name="LINE 4">São Paulo - SP</LineData>
+                            <LineData name="LINE 5">04856-000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Albertino</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Paes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09931-492</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São Paulo</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Jardim Campanário</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Passagem</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">das Tulipas</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">14</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Albertino Paes</LineData>
+                            <LineData name="LINE 2">Passagem das Tulipas, 14</LineData>
+                            <LineData name="LINE 3">Jardim Campanário</LineData>
+                            <LineData name="LINE 4">São Paulo - SP</LineData>
+                            <LineData name="LINE 5">09931-492</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Cleusa</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Costa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">09185-665</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Santo André</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Vila Apiai</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Travessa</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">da Felicidade</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">23</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Cleusa Costa</LineData>
+                            <LineData name="LINE 2">Travessa da Felicidade, 23</LineData>
+                            <LineData name="LINE 3">Vila Apiai</LineData>
+                            <LineData name="LINE 4">Santo André - SP</LineData>
+                            <LineData name="LINE 5">09185-665</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Rachel</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Moura</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70296-080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brasília</U40.16.00.00>
+                        <U40.17.11.11 uniq="U40DistrictLev1Pos1Type">SQS</U40.17.11.11>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">413</U40.17.11.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Asa Sul</U40.17.41.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Bloco</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">H</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">Entrada A</U40.29.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Ap</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">106</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rachel Moura</LineData>
+                            <LineData name="LINE 2">SQS 413 Bloco H Entrada A Ap 106</LineData>
+                            <LineData name="LINE 3">Asa Sul</LineData>
+                            <LineData name="LINE 4">Brasília - DF</LineData>
+                            <LineData name="LINE 5">70296-080</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vanessa</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Boucinha</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70670-424</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Cruzeiro</U40.16.00.00>
+                        <U40.17.11.11 uniq="U40DistrictLev1Pos1Type">SQSW</U40.17.11.11>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">105</U40.17.11.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Setor Sudoeste</U40.17.41.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Bloco</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">D</U40.26.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Ap</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">450</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vanessa Boucinha</LineData>
+                            <LineData name="LINE 2">SQSW 105 Bloco D Ap 450</LineData>
+                            <LineData name="LINE 3">Setor Sudoeste</LineData>
+                            <LineData name="LINE 4">Cruzeiro - DF</LineData>
+                            <LineData name="LINE 5">70670-424</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jonas</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Ferreira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">73015-106</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sobradinho</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Quadra</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">2</U40.17.21.21>
+                        <U40.17.31.11 uniq="U40DistrictLev3Pos1Type">Conjunto</U40.17.31.11>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">A-6</U40.17.31.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Sobradinho</U40.17.41.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Bloco</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">I</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">Entrada A</U40.29.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Ap</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">220</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jonas Ferreira</LineData>
+                            <LineData name="LINE 2">Quadra 2 Conjunto A-6 Bloco I Entrada A Ap 220</LineData>
+                            <LineData name="LINE 3">Sobradinho</LineData>
+                            <LineData name="LINE 4">Sobradinho - DF</LineData>
+                            <LineData name="LINE 5">73015-106</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gerson</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Carvalho</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72715-025</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brazlândia</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Quadra</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">2</U40.17.21.21>
+                        <U40.17.31.11 uniq="U40DistrictLev3Pos1Type">Conjunto</U40.17.31.11>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">E</U40.17.31.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Setor Sul</U40.17.41.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Casa</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">95</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gerson Carvalho</LineData>
+                            <LineData name="LINE 2">Quadra 2 Conjunto E Casa 95</LineData>
+                            <LineData name="LINE 3">Setor Sul</LineData>
+                            <LineData name="LINE 4">Brazlândia - DF</LineData>
+                            <LineData name="LINE 5">72715-025</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jaqueline</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Bisset</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71745-300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brasília</U40.16.00.00>
+                        <U40.17.11.11 uniq="U40DistrictLev1Pos1Type">SMPW</U40.17.11.11>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Quadra</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">23</U40.17.21.21>
+                        <U40.17.31.11 uniq="U40DistrictLev3Pos1Type">Conjunto</U40.17.31.11>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">3</U40.17.31.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Park Way</U40.17.41.00>
+                        <U40.32.11.11 uniq="U40DoorType">Lote</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">14</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jaqueline Bisset</LineData>
+                            <LineData name="LINE 2">SMPW Quadra 23 Conjunto 3 Lote 14</LineData>
+                            <LineData name="LINE 3">Park Way</LineData>
+                            <LineData name="LINE 4">Brasília - DF</LineData>
+                            <LineData name="LINE 5">71745-300</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Arnaud</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Siqueira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17014-003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bauru</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Vila Santa Izabel</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Padre João</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Quadra</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">5</U40.26.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Ap.</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">29</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Arnaud Siqueira</LineData>
+                            <LineData name="LINE 2">Rua Padre João, Quadra 5 Ap. 29</LineData>
+                            <LineData name="LINE 3">Vila Santa Izabel</LineData>
+                            <LineData name="LINE 4">Bauru - SP</LineData>
+                            <LineData name="LINE 5">17014-003</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vítor</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Câmara</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Condomínio do Edifício Serra do Mar</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04117-902</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São Paulo</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Vila Mariana</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Francisco Cruz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">133</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Ap.</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">458</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vítor Câmara</LineData>
+                            <LineData name="LINE 2">Condomínio do Edifício Serra do Mar</LineData>
+                            <LineData name="LINE 3">Rua Francisco Cruz, 133 Ap. 458 </LineData>
+                            <LineData name="LINE 4">Vila Mariana</LineData>
+                            <LineData name="LINE 5">São Paulo - SP</LineData>
+                            <LineData name="LINE 6">04117-902</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vitória</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Chaves</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Free Shopping</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77020-900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Palmas</U40.16.00.00>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">104 Sul</U40.17.21.21>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Plano Diretor Sul</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Juscelino Kubitschek</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Lt.</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">118</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">2º Piso</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vitória Chaves</LineData>
+                            <LineData name="LINE 2">Free Shopping</LineData>
+                            <LineData name="LINE 3">104 Sul Avenida Juscelino Kubitschek, Lt. 118 2º Piso</LineData>
+                            <LineData name="LINE 4">Plano Diretor Sul</LineData>
+                            <LineData name="LINE 5">Palmas - TO</LineData>
+                            <LineData name="LINE 6">77020-900</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Valcir</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Gazeta</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Edifício Bruna Cardoso</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75113-900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Anápolis</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Jundiaí</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Pereira do Lago</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">335</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Valcir Gazeta</LineData>
+                            <LineData name="LINE 2">Edifício Bruna Cardoso</LineData>
+                            <LineData name="LINE 3">Rua Pereira do Lago, 335</LineData>
+                            <LineData name="LINE 4">Jundiaí</LineData>
+                            <LineData name="LINE 5">Anápolis - GO</LineData>
+                            <LineData name="LINE 6">75113-900</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Nirce</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Bulamarque</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Conjunto Residencial Garden</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">29160-903</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ES</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Serra</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Fátima</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">José Martins Rato</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">s/n</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nirce Bulamarque</LineData>
+                            <LineData name="LINE 2">Conjunto Residencial Garden</LineData>
+                            <LineData name="LINE 3">Avenida José Martins Rato, s/n </LineData>
+                            <LineData name="LINE 4">Fátima</LineData>
+                            <LineData name="LINE 5">Serra - ES</LineData>
+                            <LineData name="LINE 6">29160-903</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ao</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gilmar</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Ramalho</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Reitor</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Universidade Federal de Goiás</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">74605-901</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Goiânia</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Setor Leste Universitário</U40.17.41.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ao Reitor</LineData>
+                            <LineData name="LINE 2">Gilmar Ramalho</LineData>
+                            <LineData name="LINE 3">Universidade Federal de Goiás</LineData>
+                            <LineData name="LINE 4">Setor Leste Universitário</LineData>
+                            <LineData name="LINE 5">Goiânia - GO</LineData>
+                            <LineData name="LINE 6">74605-901</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Editora</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Globo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06455-972</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Barueri</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Alphaville Industrial</U40.17.41.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Caixa Postal</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">289</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Editora Globo</LineData>
+                            <LineData name="LINE 2">Caixa Postal 289</LineData>
+                            <LineData name="LINE 3">Alphaville Industrial</LineData>
+                            <LineData name="LINE 4">Barueri - SP</LineData>
+                            <LineData name="LINE 5">06455-972</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">À querida</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vani</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Alegrette</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Professora</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20010-974</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RJ</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Rio de Janeiro</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Caixa Postal</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">614</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">À querida Professora</LineData>
+                            <LineData name="LINE 2">Vani Alegrette</LineData>
+                            <LineData name="LINE 3">Caixa Postal 614</LineData>
+                            <LineData name="LINE 4">Centro</LineData>
+                            <LineData name="LINE 5">Rio de Janeiro - RJ</LineData>
+                            <LineData name="LINE 6">20010-974</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gerzília</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Dumont</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61600-970</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Caucaia</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Caixa Postal</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">113</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gerzília Dumont</LineData>
+                            <LineData name="LINE 2">Caixa Postal 113</LineData>
+                            <LineData name="LINE 3">Centro</LineData>
+                            <LineData name="LINE 4">Caucaia - CE</LineData>
+                            <LineData name="LINE 5">61600-970</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">José</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Pereira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70631-970</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DF</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brasília</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Caixa Postal</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">6008</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">José Pereira</LineData>
+                            <LineData name="LINE 2">Caixa Postal 6008</LineData>
+                            <LineData name="LINE 3">Brasília - DF</LineData>
+                            <LineData name="LINE 4">70631-970</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Wilson</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Athayde</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77402-970</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gurupi</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Caixa Postal</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">365</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wilson Athayde</LineData>
+                            <LineData name="LINE 2">Caixa Postal 365</LineData>
+                            <LineData name="LINE 3">Gurupi - TO</LineData>
+                            <LineData name="LINE 4">77402-970</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Alexandre</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Campos</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">89665-990</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Capinzal</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CPC</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">200</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Loteamento Parizotto</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alexandre Campos</LineData>
+                            <LineData name="LINE 2">Loteamento Parizotto - CPC 200</LineData>
+                            <LineData name="LINE 3">Capinzal - SC</LineData>
+                            <LineData name="LINE 4">89665-990</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Carlos</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Augusto</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Serra</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Filho</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">89813-998</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chapecó</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CPC</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1603</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Conjunto Habitacional Realeza</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Carlos Augusto Serra Filho</LineData>
+                            <LineData name="LINE 2">Conjunto Habitacional Realeza - CPC 1603</LineData>
+                            <LineData name="LINE 3">Chapecó - SC</LineData>
+                            <LineData name="LINE 4">89813-998</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Isabelle</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Santos</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15046-990</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SP</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">São José do Rio Preto</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CPC</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Estância Bacurí</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Isabelle Santos</LineData>
+                            <LineData name="LINE 2">Estância Bacurí - CPC 3</LineData>
+                            <LineData name="LINE 3">São José do Rio Preto - SP</LineData>
+                            <LineData name="LINE 4">15046-990</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Raíssa</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Bertoldo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">96503-992</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">RS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Cachoeira do Sul</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CPC</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">36</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Vila Verde</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Raíssa Bertoldo</LineData>
+                            <LineData name="LINE 2">Vila Verde - CPC 36</LineData>
+                            <LineData name="LINE 3">Cachoeira do Sul - RS</LineData>
+                            <LineData name="LINE 4">96503-992</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Juliana</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Mangabeira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">63100-990</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Crato</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CPC</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">99</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Belmonte</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Juliana Mangabeira</LineData>
+                            <LineData name="LINE 2">Belmonte - CPC 99</LineData>
+                            <LineData name="LINE 3">Crato - CE</LineData>
+                            <LineData name="LINE 4">63100-990</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ilmo. Sr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Fernando</U10.06.11.11>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">A/C</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">João</U20.06.11.11>
+                        <U20.08.00.00 uniq="U20Surname">Fernandes</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50610-100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Recife</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Bela Vista</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">São Gonçalo</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">61-A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ilmo. Sr.</LineData>
+                            <LineData name="LINE 2">Fernando</LineData>
+                            <LineData name="LINE 3">A/C João Fernandes</LineData>
+                            <LineData name="LINE 4">Rua São Gonçalo, 61-A</LineData>
+                            <LineData name="LINE 5">Bela Vista</LineData>
+                            <LineData name="LINE 6">Recife - PE</LineData>
+                            <LineData name="LINE 7">50610-100</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ilma. Sra.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sebastiana</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">35304-400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BRASIL</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MG</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Caratinga</U40.16.00.00>
+                        <U40.17.41.00 uniq="U40DistrictLev4Pos1">Centro</U40.17.41.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Rua</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Catarina Cimini</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">89</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Apto.</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">208</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ilma. Sra.</LineData>
+                            <LineData name="LINE 2">Sebastiana</LineData>
+                            <LineData name="LINE 3">Rua Catarina Cimini, 89 Apto. 208</LineData>
+                            <LineData name="LINE 4">Centro</LineData>
+                            <LineData name="LINE 5">Caratinga - MG</LineData>
+                            <LineData name="LINE 6">35304-400</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

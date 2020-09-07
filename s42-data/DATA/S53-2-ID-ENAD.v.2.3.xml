@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>ID</GroupDescription>
+            <GroupItemCount>39</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Etty</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Djuhaeni</U10.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">40192</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Pasir Layung Tengah</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">B3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Etty Djuhaeni</LineData>
+                            <LineData name="LINE 2">Jl. Pasir Layung Tengah B3</LineData>
+                            <LineData name="LINE 3">BANDUNG 40192</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Faisol</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Zakaria</U10.06.11.21>
+                        <U10.10.00.00 uniq="U10Qualification">Hj.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40123</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Taman Makam Pahlawan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 81</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Hj. Faisol Zakaria</LineData>
+                            <LineData name="LINE 2">Jl. Taman Makam Pahlawan No. 81</LineData>
+                            <LineData name="LINE 3">BANDUNG 40123</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Wisynuprapto</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40198</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ciburial Indah</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 47</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Wisynuprapto</LineData>
+                            <LineData name="LINE 2">Jl. Ciburial Indah No. 47</LineData>
+                            <LineData name="LINE 3">BANDUNG 40198</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Erick</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Agustin</U10.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">45364</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SUMEDANG</U40.16.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Perum Puteraco</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">C3</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">No. 27</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Erick Agustin</LineData>
+                            <LineData name="LINE 2">Perum Puteraco, C3 No. 27</LineData>
+                            <LineData name="LINE 3">SUMEDANG 45364</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Agung</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40394</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Bakung III</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 30</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Perum Bumi Rancaekek Kencana</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Agung</LineData>
+                            <LineData name="LINE 2">Perum Bumi Rancaekek Kencana</LineData>
+                            <LineData name="LINE 3">Jl. Bakung III No. 30</LineData>
+                            <LineData name="LINE 4">BANDUNG 40394</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Yuwono</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40184</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Cibeureum</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Katalina II</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Kompleks Cendrawasih</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Yuwono</LineData>
+                            <LineData name="LINE 2">Kompleks Cendrawasih</LineData>
+                            <LineData name="LINE 3">Jl. Katalina II No. 1</LineData>
+                            <LineData name="LINE 4">Cibeureum</LineData>
+                            <LineData name="LINE 5">BANDUNG 40184</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Personnel Manager</U10.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">KP.</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Lio</U40.17.21.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sukarno Hatta</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 122</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Personnel Manager</LineData>
+                            <LineData name="LINE 2">Jl. Sukarno Hatta No. 122</LineData>
+                            <LineData name="LINE 3">KP. Lio</LineData>
+                            <LineData name="LINE 4">BANDUNG 40286</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Bapak/Ibu Pimpinan</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sumatera Rotanindo Kawasan Industri Medan</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20244</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MEDAN</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Desa</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Mabar</U40.17.21.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Yos Sudarso</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">Km. 10.5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bapak/Ibu Pimpinan</LineData>
+                            <LineData name="LINE 2">Sumatera Rotanindo Kawasan Industri Medan</LineData>
+                            <LineData name="LINE 3">Jl. Yos Sudarso Km. 10.5</LineData>
+                            <LineData name="LINE 4">Desa Mabar</LineData>
+                            <LineData name="LINE 5">MEDAN 20244</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Bapak/Ibu Pimpinan</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Indonesia, PT.</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">PDM</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MEDAN</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Brigjen. Zein Hamid</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">Km. 6.9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bapak/Ibu Pimpinan</LineData>
+                            <LineData name="LINE 2">PDM Indonesia, PT.</LineData>
+                            <LineData name="LINE 3">Jl. Brigjen. Zein Hamid Km. 6.9</LineData>
+                            <LineData name="LINE 4">MEDAN 20146</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Muhammadiyah Ciparay</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">PC.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40381</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Ciparay</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Laswi</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 597/633</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PC. Muhammadiyah Ciparay</LineData>
+                            <LineData name="LINE 2">Jl. Laswi No. 597/633</LineData>
+                            <LineData name="LINE 3">Ciparay</LineData>
+                            <LineData name="LINE 4">BANDUNG 40381</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Widya</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Nurul</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">Fitri</U10.06.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">40565</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Gununghalu</U40.17.11.21>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Desa</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Tamanjaya</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 01/18</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Widya Nurul Fitri</LineData>
+                            <LineData name="LINE 2">Desa Tamanjaya RT 01/18</LineData>
+                            <LineData name="LINE 3">Gununghalu</LineData>
+                            <LineData name="LINE 4">BANDUNG 40565</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">MUHAMMAD</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">ARIEF</U10.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">15224</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">TANGERANG</U40.16.00.00>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Pondok Aren</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 004/001</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MUHAMMAD ARIEF</LineData>
+                            <LineData name="LINE 2">Pondok Aren RT 004/001</LineData>
+                            <LineData name="LINE 3">TANGERANG 15224</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RAHMAT</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">44188</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">GARUT</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Malangbong</U40.17.11.21>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Kampung</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Sukabatu</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 01/03</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RAHMAT</LineData>
+                            <LineData name="LINE 2">Kampung Sukabatu RT 01/03</LineData>
+                            <LineData name="LINE 3">Malangbong</LineData>
+                            <LineData name="LINE 4">GARUT 44188</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RAHMAT</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">44188</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MALANGBONG</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Kampung</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Sukabatu</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 01/03</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RAHMAT</LineData>
+                            <LineData name="LINE 2">Kampung Sukabatu RT 01/03</LineData>
+                            <LineData name="LINE 3">MALANGBONG 44188</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">KARTA</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">LHOGAWA</U10.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">45453</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">DAWUAN</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Dusun</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Pejaten</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 04/06</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KARTA LHOGAWA</LineData>
+                            <LineData name="LINE 2">Dusun Pejaten RT 04/06</LineData>
+                            <LineData name="LINE 3">DAWUAN 45453</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">12000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">Boneto</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PO Box Boneto</LineData>
+                            <LineData name="LINE 2">JAKARTA 12000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELSE</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSTE RESTANTE</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">MAIN POST OFFICE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. ELSE</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">MAIN POST OFFICE</LineData>
+                            <LineData name="LINE 4">BANDUNG 40000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELSE</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">12700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Jakarta</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Kepala Kantor Pos</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Jakarta Mampang</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. ELSE</LineData>
+                            <LineData name="LINE 2">Kepala Kantor Pos</LineData>
+                            <LineData name="LINE 3">Jakarta Mampang</LineData>
+                            <LineData name="LINE 4">Jakarta 12700</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELSE</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">12046</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4612</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. ELSE</LineData>
+                            <LineData name="LINE 2">PO BOX 4612</LineData>
+                            <LineData name="LINE 3">JAKARTA 12046</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELSE</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">7655</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. ELSE</LineData>
+                            <LineData name="LINE 2">PO BOX 7655</LineData>
+                            <LineData name="LINE 3">BANDUNG 40286</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELSE</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">INDONESIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">7627</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. ELSE</LineData>
+                            <LineData name="LINE 2">PO BOX 7627</LineData>
+                            <LineData name="LINE 3">BANDUNG 40286</LineData>
+                            <LineData name="LINE 4">INDONESIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">KAP AF. RAHMAN &amp; SOEJIPTO WS</U10.00.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">d/a.</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">BUDI</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">SATRIA</U20.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">40262</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KAMERA</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 58</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KAP AF. RAHMAN &amp; SOEJIPTO WS</LineData>
+                            <LineData name="LINE 2">d/a. BUDI SATRIA</LineData>
+                            <LineData name="LINE 3">Jl. KAMERA No. 58</LineData>
+                            <LineData name="LINE 4">BANDUNG 40262</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bapak/Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Suprapto</U10.06.11.11>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Orang Tua Sdr./I.</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Ario</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">Tegar</U20.06.11.21>
+                        <U20.06.11.31 uniq="U20PrecGivenNamePart3">Pratiko</U20.06.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">40237</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Kp.</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Mekar Wangi 5</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 07/19</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bapak/Ibu Suprapto</LineData>
+                            <LineData name="LINE 2">Orang Tua Sdr./I. Ario Tegar Pratiko</LineData>
+                            <LineData name="LINE 3">Kp. Mekar Wangi 5 RT 07/19</LineData>
+                            <LineData name="LINE 4">BANDUNG 40237</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">KARNI</U10.06.11.11>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">d/a.</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Mahyuini</U20.06.11.11>
+                        <U20.10.00.00 uniq="U20Qualification">Bu Hj.</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40521</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CIMAHI</U40.16.00.00>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 03/04</U40.17.31.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sukimun</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 84</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KARNI</LineData>
+                            <LineData name="LINE 2">d/a. Bu Hj. Mahyuini</LineData>
+                            <LineData name="LINE 3">Jl. Sukimun No. 84 RT 03/04</LineData>
+                            <LineData name="LINE 4">CIMAHI 40521</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Muhammadiyah Sukaluyu</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">PC.</U10.01.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MI Darul Arqam</U20.00.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">d/a.</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Ust.</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">Enoch</U20.06.11.21>
+                        <U20.06.11.31 uniq="U20PrecGivenNamePart3">Suherman</U20.06.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">43284</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CIANJUR</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Sukaluyu</U40.17.11.21>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">Kp.</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Bojong Sari</U40.17.21.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PC. Muhammadiyah Sukaluyu</LineData>
+                            <LineData name="LINE 2">d/a. Ust. Enoch Suherman</LineData>
+                            <LineData name="LINE 3">MI Darul Arqam</LineData>
+                            <LineData name="LINE 4">Kp. Bojong Sari</LineData>
+                            <LineData name="LINE 5">Sukaluyu</LineData>
+                            <LineData name="LINE 6">CIANJUR 43284</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">NY.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SUKAETI</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40284</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">KIARACONDONG</U40.17.11.21>
+                        <U40.17.21.11 uniq="U40DistrictLev2Pos1Type">KP.</U40.17.21.11>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">KEBUN KANGKUNG</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 05/06</U40.17.31.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NY. SUKAETI</LineData>
+                            <LineData name="LINE 2">KP. KEBUN KANGKUNG RT 05/06</LineData>
+                            <LineData name="LINE 3">KIARACONDONG</LineData>
+                            <LineData name="LINE 4">BANDUNG 40284</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bpk.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Yusuf</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Amir</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">Faisal</U10.06.11.31>
+                        <U20.00.00.00 uniq="U20OrgName">YAYASAN PGII BANDUNG</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40132</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Panatayudha</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bpk. Yusuf Amir Faisal</LineData>
+                            <LineData name="LINE 2">YAYASAN PGII BANDUNG</LineData>
+                            <LineData name="LINE 3">Jl. Panatayudha No. 1</LineData>
+                            <LineData name="LINE 4">BANDUNG 40132</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Budi</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Nurani</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">R.</U10.06.11.31>
+                        <U10.10.00.00 uniq="U10Qualification">Prof. Dr.</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Journal of The Indonesia Mathematical Society (JIMS)</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Jurusan Matematika FMIPA UNPAD</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40115</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ir. H. Juanda</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 40</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof. Dr. Budi Nurani R.</LineData>
+                            <LineData name="LINE 2">Journal of The Indonesia Mathematical Society (JIMS)</LineData>
+                            <LineData name="LINE 3">Jurusan Matematika FMIPA UNPAD</LineData>
+                            <LineData name="LINE 4">Jl. Ir. H. Juanda No. 40</LineData>
+                            <LineData name="LINE 5">BANDUNG 40115</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Kepada Yth.</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sdr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Guntara</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Purasenjaya</U10.06.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">40553</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Padalarang</U40.17.11.21>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Ciburuy</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 02/16</U40.17.31.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sadang</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 51</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kepada Yth.</LineData>
+                            <LineData name="LINE 2">Sdr. Guntara Purasenjaya</LineData>
+                            <LineData name="LINE 3">Jl. Sadang No. 51 RT 02/16</LineData>
+                            <LineData name="LINE 4">Ciburuy</LineData>
+                            <LineData name="LINE 5">Padalarang</LineData>
+                            <LineData name="LINE 6">BANDUNG 40553</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">KEPADA YTH.</U10.04.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">BAGJA MULYA SADAYA, PT.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40258</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">DAYEUHKOLOT</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">JL.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KAUM TIMUR</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">NO. 5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KEPADA YTH.</LineData>
+                            <LineData name="LINE 2">BAGJA MULYA SADAYA, PT.</LineData>
+                            <LineData name="LINE 3">JL. KAUM TIMUR NO. 5</LineData>
+                            <LineData name="LINE 4">DAYEUHKOLOT</LineData>
+                            <LineData name="LINE 5">BANDUNG 40258</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SYGMA EXAMEDIA ARKANLEEMA</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">PT</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40283</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Kiaracondong</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Babakan Sari I</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 71</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PT SYGMA EXAMEDIA ARKANLEEMA</LineData>
+                            <LineData name="LINE 2">Jl. Babakan Sari I No. 71</LineData>
+                            <LineData name="LINE 3">Kiaracondong</LineData>
+                            <LineData name="LINE 4">BANDUNG 40283</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Redaksi Gogirl! Magazine</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11560</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kebayoran Lama Raya</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 236</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Redaksi Gogirl! Magazine</LineData>
+                            <LineData name="LINE 2">Jl. Kebayoran Lama Raya No. 236</LineData>
+                            <LineData name="LINE 3">JAKARTA 11560</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Rajawali Citra Televisi Indonesia</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">PT.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11530</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Kebon Jeruk</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Raya Perjuangan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PT. Rajawali Citra Televisi Indonesia</LineData>
+                            <LineData name="LINE 2">Jl. Raya Perjuangan No. 1</LineData>
+                            <LineData name="LINE 3">Kebon Jeruk</LineData>
+                            <LineData name="LINE 4">JAKARTA 11530</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Bapak/Ibu Pimpinan</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Perusahaan Perdagangan Indonesia (Persero)</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">PT</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Medan Branch</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MEDAN</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Prof. Dr. Moh. Yamin SH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bapak/Ibu Pimpinan</LineData>
+                            <LineData name="LINE 2">PT Perusahaan Perdagangan Indonesia (Persero)</LineData>
+                            <LineData name="LINE 3">Medan Branch</LineData>
+                            <LineData name="LINE 4">Jl. Prof. Dr. Moh. Yamin SH No. 3</LineData>
+                            <LineData name="LINE 5">MEDAN 20111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Rektor</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sekolah Tinggi Farmasi Indonesia</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Soekarno Hatta</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 354</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rektor</LineData>
+                            <LineData name="LINE 2">Sekolah Tinggi Farmasi Indonesia</LineData>
+                            <LineData name="LINE 3">Jl. Soekarno Hatta No. 354</LineData>
+                            <LineData name="LINE 4">BANDUNG 40286</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Bambang</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Harianto</U10.06.11.21>
+                        <U20.00.00.00 uniq="U20OrgName">Publikasi International</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">PT</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11460</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Layumenten V/</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Bambang Harianto</LineData>
+                            <LineData name="LINE 2">PT Publikasi International</LineData>
+                            <LineData name="LINE 3">Jl. Layumenten V/ 27</LineData>
+                            <LineData name="LINE 4">JAKARTA 11460</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Bapak/Ibu Pimpinan</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Humpuss Trading, PT.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12940</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">JAKARTA</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Kuningan</U40.17.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HR. Rasuna Said</U40.21.11.41>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Sentra Mulia Building</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Kav. X-6</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">5th Floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">No. 8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bapak/Ibu Pimpinan</LineData>
+                            <LineData name="LINE 2">Humpuss Trading, PT.</LineData>
+                            <LineData name="LINE 3">Sentra Mulia Building, Kav. X-6 No. 8, 5th Floor</LineData>
+                            <LineData name="LINE 4">Jl. HR. Rasuna Said</LineData>
+                            <LineData name="LINE 5">Kuningan</LineData>
+                            <LineData name="LINE 6">JAKARTA 12940</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Yuwono</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 001/001</U40.17.31.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jl.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Margacinta I</U40.21.11.41>
+                        <U40.21.21.21 uniq="U40PrecSecThoroType">Gg.</U40.21.21.21>
+                        <U40.21.21.41 uniq="U40SecThoroName">Anggur</U40.21.21.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Yuwono</LineData>
+                            <LineData name="LINE 2">Jl. Margacinta I, Gg. Anggur No. 8 RT 001/001</LineData>
+                            <LineData name="LINE 3">BANDUNG 40286</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ibu</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Yuwono</U10.06.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40286</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANDUNG</U40.16.00.00>
+                        <U40.17.11.21 uniq="U40DistrictLev1Pos1Ind">Buahbatu</U40.17.11.21>
+                        <U40.17.21.21 uniq="U40DistrictLev2Pos1Ind">Margacinta</U40.17.21.21>
+                        <U40.17.31.21 uniq="U40DistrictLev3Pos1Ind">RT 001/001</U40.17.31.21>
+                        <U40.21.21.21 uniq="U40PrecSecThoroType">Gg.</U40.21.21.21>
+                        <U40.21.21.41 uniq="U40SecThoroName">Anggur</U40.21.21.41>
+                        <U40.24.00.00 uniq="U40PremId">No. 8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">id</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ID</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ID</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ibu Yuwono</LineData>
+                            <LineData name="LINE 2">Gg. Anggur No. 8 RT 001/001</LineData>
+                            <LineData name="LINE 3">Margacinta</LineData>
+                            <LineData name="LINE 4">Buahbatu</LineData>
+                            <LineData name="LINE 5">BANDUNG 40286</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

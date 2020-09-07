@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>IR</GroupDescription>
+            <GroupItemCount>34</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yazdani</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1619614153</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Tehranpars</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">West 196 street</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">No.12</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">third floor</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Ali Yazdani</LineData>
+                            <LineData name="LINE 2">Tehran, Tehranpars</LineData>
+                            <LineData name="LINE 3">West 196 street</LineData>
+                            <LineData name="LINE 4">No.12, third floor</LineData>
+                            <LineData name="LINE 5">Tehran Province</LineData>
+                            <LineData name="LINE 6">1619614153</LineData>
+                            <LineData name="LINE 7">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Hossein</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Moghadam</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1318914915</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ekbatan Complex</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Phase2</U40.17.21.00>
+                        <U40.26.00.00 uniq="U40Building">Block no.13</U40.26.00.00>
+                        <U40.29.00.00 uniq="U40Wing">east entrance</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Seventh floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">no.17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Hossein Moghadam</LineData>
+                            <LineData name="LINE 2">Tehran, Ekbatan Complex</LineData>
+                            <LineData name="LINE 3">Phase2, Block no.13, east entrance, Seventh floor, no.17</LineData>
+                            <LineData name="LINE 4">Tehran Province</LineData>
+                            <LineData name="LINE 5">1318914915</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">6th boostan</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Pasdaran Ave.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">Nr. 18</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tehran, 6th boostan</LineData>
+                            <LineData name="LINE 2">Pasdaran Ave.</LineData>
+                            <LineData name="LINE 3">Nr. 18</LineData>
+                            <LineData name="LINE 4">Tehran Province</LineData>
+                            <LineData name="LINE 5">9999999999</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Jafar</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sobhani</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8453193445</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Markazi Province</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Mahallat Township</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Khurhe village</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Jafar Sobhani</LineData>
+                            <LineData name="LINE 2">Mahallat Township, Khurhe village</LineData>
+                            <LineData name="LINE 3">Markazi Province</LineData>
+                            <LineData name="LINE 4">8453193445</LineData>
+                            <LineData name="LINE 5">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Azim</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rezaei</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Fars Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Shiraz</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O.Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">71515-393</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Azim Rezaei</LineData>
+                            <LineData name="LINE 2">Shiraz</LineData>
+                            <LineData name="LINE 3">Fars Province</LineData>
+                            <LineData name="LINE 4">P.O.Box 71515-393</LineData>
+                            <LineData name="LINE 5">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Hossein</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jafari</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Kerman Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Kerman</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Restant Mail</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Tohid Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Restant Mail</LineData>
+                            <LineData name="LINE 2">Mr. Hossein Jafari</LineData>
+                            <LineData name="LINE 3">Kerman</LineData>
+                            <LineData name="LINE 4">Kerman Province</LineData>
+                            <LineData name="LINE 5">Tohid Post Office</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Leila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sadri</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">South Khorasan Province</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Birjand Township</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Gahem Town</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Rasooli street</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">Nr. 45</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Leila Sadri</LineData>
+                            <LineData name="LINE 2">Birjand Township, Gahem Town</LineData>
+                            <LineData name="LINE 3">Rasooli street</LineData>
+                            <LineData name="LINE 4">Nr. 45</LineData>
+                            <LineData name="LINE 5">South Khorasan Province</LineData>
+                            <LineData name="LINE 6">9999999999</LineData>
+                            <LineData name="LINE 7">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Jhila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Akhtar</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Telecommunication Company of Tehran Province</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.31.00.00 uniq="U40Floor">8th floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 815</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Jhila Akhtar</LineData>
+                            <LineData name="LINE 2">Telecommunication Company of Tehran Province</LineData>
+                            <LineData name="LINE 3">Tehran</LineData>
+                            <LineData name="LINE 4">8th floor, Room 815</LineData>
+                            <LineData name="LINE 5">Tehran Province</LineData>
+                            <LineData name="LINE 6">9999999999</LineData>
+                            <LineData name="LINE 7">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Milad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Noori</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sanitation Ministry</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Special disease Departement</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Yazd Province</U40.15.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Milad Noori</LineData>
+                            <LineData name="LINE 2">Special disease Departement</LineData>
+                            <LineData name="LINE 3">Sanitation Ministry</LineData>
+                            <LineData name="LINE 4">Yazd Province</LineData>
+                            <LineData name="LINE 5">9999999999</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">D.G. of public relations</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Hassan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kazemi</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Blood transfusion organisation</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran</U40.15.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Hassan Kazemi</LineData>
+                            <LineData name="LINE 2">D.G. of public relations</LineData>
+                            <LineData name="LINE 3">Blood transfusion organisation</LineData>
+                            <LineData name="LINE 4">Tehran</LineData>
+                            <LineData name="LINE 5">9999999999</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Manijheh</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sakhaei</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">East Azarbaijan Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tabriz city</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Elgoli</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">Parsian Tower</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">10th floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">nr. 103</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Manijheh Sakhaei</LineData>
+                            <LineData name="LINE 2">Tabriz city, Elgoli</LineData>
+                            <LineData name="LINE 3">Parsian Tower, 10th floor, nr. 103</LineData>
+                            <LineData name="LINE 4">East Azarbaijan Province</LineData>
+                            <LineData name="LINE 5">9999999999</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Morad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sajasi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9999999999</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran Province</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Omid Town</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">Block B</U40.26.00.00>
+                        <U40.29.00.00 uniq="U40Wing">South entrance</U40.29.00.00>
+                        <U40.30.00.00 uniq="U40Stairwell">east part</U40.30.00.00>
+                        <U40.31.00.00 uniq="U40Floor">7th floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">nr.713</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Morad Sajasi</LineData>
+                            <LineData name="LINE 2">Tehran, Omid Town</LineData>
+                            <LineData name="LINE 3">Block B, South entrance, east part, 7th floor, nr.713</LineData>
+                            <LineData name="LINE 4">Tehran Province</LineData>
+                            <LineData name="LINE 5">9999999999</LineData>
+                            <LineData name="LINE 6">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Superpipe Company</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1514663647</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">I.R.Iran</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Motahari Avenue</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Atabak alley</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">No.135</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Superpipe Company</LineData>
+                            <LineData name="LINE 2">Tehran</LineData>
+                            <LineData name="LINE 3">Motahari Avenue, Atabak alley</LineData>
+                            <LineData name="LINE 4">No.135</LineData>
+                            <LineData name="LINE 5">Tehran</LineData>
+                            <LineData name="LINE 6">1514663647</LineData>
+                            <LineData name="LINE 7">I.R.Iran</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Science Ministry</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1575698365</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Tehranpars</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Beheshti st.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Takhti sq.</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">NO.784</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Science Ministry</LineData>
+                            <LineData name="LINE 2">Tehran, Tehranpars</LineData>
+                            <LineData name="LINE 3">Beheshti st., Takhti sq.</LineData>
+                            <LineData name="LINE 4">NO.784</LineData>
+                            <LineData name="LINE 5">Tehran</LineData>
+                            <LineData name="LINE 6">1575698365</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Blood Organization</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1478945613</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tehran</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Hemmat</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Hemmat exp</U40.21.11.00>
+                        <U40.26.00.00 uniq="U40Building">Blood Building</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Blood Organization</LineData>
+                            <LineData name="LINE 2">Tehran, Hemmat</LineData>
+                            <LineData name="LINE 3">Hemmat exp</LineData>
+                            <LineData name="LINE 4">Blood Building</LineData>
+                            <LineData name="LINE 5">Tehran</LineData>
+                            <LineData name="LINE 6">1478945613</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Zahra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Shorabi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6134798457</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Khuzestan</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Ahvaz</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Kianpars</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">east davazdah st.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">first closed end</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">NO.57</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">3rd floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">aprtm12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS. Zahra Shorabi</LineData>
+                            <LineData name="LINE 2">Ahvaz, Kianpars</LineData>
+                            <LineData name="LINE 3">east davazdah st., first closed end</LineData>
+                            <LineData name="LINE 4">NO.57, 3rd floor, aprtm12</LineData>
+                            <LineData name="LINE 5">Khuzestan</LineData>
+                            <LineData name="LINE 6">6134798457</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mitra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Momeni</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7967178914</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hormozgan</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Qeshm</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Arabs locality</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Bakery alley</U40.21.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Mr. Momeni house</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Mitra Momeni</LineData>
+                            <LineData name="LINE 2">Qeshm, Arabs locality</LineData>
+                            <LineData name="LINE 3">Bakery alley</LineData>
+                            <LineData name="LINE 4">Mr. Momeni house</LineData>
+                            <LineData name="LINE 5">Hormozgan</LineData>
+                            <LineData name="LINE 6">7967178914</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Valiasr Millitary zone</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9345176589</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Sistan</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Zabol</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zahedan road</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">5 km</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Valiasr Millitary zone</LineData>
+                            <LineData name="LINE 2">Zabol</LineData>
+                            <LineData name="LINE 3">Zahedan road</LineData>
+                            <LineData name="LINE 4">5 km</LineData>
+                            <LineData name="LINE 5">Sistan</LineData>
+                            <LineData name="LINE 6">9345176589</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Shirali</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5671365784</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">West azerbayjan</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Maraghe</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Paeen locality</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Jafari st.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">naz alley</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">NO.13</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Shirali</LineData>
+                            <LineData name="LINE 2">Maraghe, Paeen locality</LineData>
+                            <LineData name="LINE 3">Jafari st., naz alley</LineData>
+                            <LineData name="LINE 4">NO.13</LineData>
+                            <LineData name="LINE 5">West azerbayjan</LineData>
+                            <LineData name="LINE 6">5671365784</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sogol</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7561789764</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Kerman</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Pishkooh township</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">jafar village</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Mirzaee alley</U40.21.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Saraee house</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss Sogol</LineData>
+                            <LineData name="LINE 2">Pishkooh township, jafar village</LineData>
+                            <LineData name="LINE 3">Mirzaee alley</LineData>
+                            <LineData name="LINE 4">Saraee house</LineData>
+                            <LineData name="LINE 5">Kerman</LineData>
+                            <LineData name="LINE 6">7561789764</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mohammadi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1897634675</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tehran</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Varamin</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Pishva locality</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Kordovan st.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Minaee alley</U40.21.21.00>
+                        <U40.21.31.00 uniq="U40TertiThoro">3rd closed end</U40.21.31.00>
+                        <U40.24.00.00 uniq="U40PremId">No.12, room 8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Mohammadi</LineData>
+                            <LineData name="LINE 2">Varamin, Pishva locality</LineData>
+                            <LineData name="LINE 3">Kordovan st., Minaee alley, 3rd closed end</LineData>
+                            <LineData name="LINE 4">No.12, room 8</LineData>
+                            <LineData name="LINE 5">Tehran</LineData>
+                            <LineData name="LINE 6">1897634675</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">علی</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">یزدانی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1619614153</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">جمهوری اسلامی ایران</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان تهران</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">تهران</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">تهرانپارس</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان 196 غربی</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 12</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">طبقه سوم</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای علی یزدانی</LineData>
+                            <LineData name="LINE 2">تهران، تهرانپارس</LineData>
+                            <LineData name="LINE 3">خیابان 196 غربی</LineData>
+                            <LineData name="LINE 4">پلاک 12، طبقه سوم</LineData>
+                            <LineData name="LINE 5">استان تهران</LineData>
+                            <LineData name="LINE 6">1619614153</LineData>
+                            <LineData name="LINE 7">جمهوری اسلامی ایران</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">جعفر</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">سبحانی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8453193445</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">جمهوری اسلامی ایران</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان مرکزی</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">شهرستان محلات</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">روستای خورهه</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای جعفر سبحانی</LineData>
+                            <LineData name="LINE 2">شهرستان محلات، روستای خورهه</LineData>
+                            <LineData name="LINE 3">استان مرکزی</LineData>
+                            <LineData name="LINE 4">8453193445</LineData>
+                            <LineData name="LINE 5">جمهوری اسلامی ایران</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">عظیم</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">رضایـی</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">جمهوری اسلامی ایران</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان فارس</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">شیراز</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">صندوق پستی</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">71515-393</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای عظیم رضایـی</LineData>
+                            <LineData name="LINE 2">شیراز</LineData>
+                            <LineData name="LINE 3">استان فارس</LineData>
+                            <LineData name="LINE 4">صندوق پستی 71515-393</LineData>
+                            <LineData name="LINE 5">جمهوری اسلامی ایران</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">حسین</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">جعفری</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">جمهوری اسلامی ایران</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان کرمان</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">کرمان</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">پست رستانت</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">دفتر پستی توحید</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">پست رستانت</LineData>
+                            <LineData name="LINE 2">آقای حسین جعفری</LineData>
+                            <LineData name="LINE 3">کرمان</LineData>
+                            <LineData name="LINE 4">استان کرمان</LineData>
+                            <LineData name="LINE 5">دفتر پستی توحید</LineData>
+                            <LineData name="LINE 6">جمهوری اسلامی ایران</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شرکت سوپرپایپ</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1514663647</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">جمهوری اسلامی ایران</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان تهران</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">تهران</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان مطهری</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">کوچه اتابک</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 135</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شرکت سوپرپایپ</LineData>
+                            <LineData name="LINE 2">تهران</LineData>
+                            <LineData name="LINE 3">خیابان مطهری، کوچه اتابک</LineData>
+                            <LineData name="LINE 4">پلاک 135</LineData>
+                            <LineData name="LINE 5">استان تهران</LineData>
+                            <LineData name="LINE 6">1514663647</LineData>
+                            <LineData name="LINE 7">جمهوری اسلامی ایران</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">وزارت علوم و تحقیقات</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1575698365</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان تهران</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">تهران</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">عباس آباد</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان شهید بهشتی</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">میدان تختی</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 784</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">وزارت علوم و تحقیقات</LineData>
+                            <LineData name="LINE 2">تهران، عباس آباد</LineData>
+                            <LineData name="LINE 3">خیابان شهید بهشتی، میدان تختی</LineData>
+                            <LineData name="LINE 4">پلاک 784</LineData>
+                            <LineData name="LINE 5">استان تهران</LineData>
+                            <LineData name="LINE 6">1575698365</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">سازمان انتقال خون</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1478945613</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان تهران</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">تهران</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">شهید همت</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">ب ر شهید همت</U40.21.11.00>
+                        <U40.26.00.00 uniq="U40Building">ساختمان خون</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">سازمان انتقال خون</LineData>
+                            <LineData name="LINE 2">تهران، شهید همت</LineData>
+                            <LineData name="LINE 3">ب ر شهید همت</LineData>
+                            <LineData name="LINE 4">ساختمان خون</LineData>
+                            <LineData name="LINE 5">استان تهران</LineData>
+                            <LineData name="LINE 6">1478945613</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">خانم</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">زهرا</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">شورابی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6134798457</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان خوزستان</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">اهواز</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">کیانپارس</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان دوازدهم شرقی</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">بن بست اول</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 57</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">طبقه سوم</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">واحد 12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">خانم زهرا شورابی</LineData>
+                            <LineData name="LINE 2">اهواز، کیانپارس</LineData>
+                            <LineData name="LINE 3">خیابان دوازدهم شرقی، بن بست اول</LineData>
+                            <LineData name="LINE 4">پلاک 57، طبقه سوم، واحد 12</LineData>
+                            <LineData name="LINE 5">استان خوزستان</LineData>
+                            <LineData name="LINE 6">6134798457</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">خانم</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">میترا</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">مومنی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7967178914</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان هرمزگان</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">قشم</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">محله عربها</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">کوچه نانوایی</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">منزل عباس مومنی</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">خانم میترا مومنی</LineData>
+                            <LineData name="LINE 2">قشم، محله عربها</LineData>
+                            <LineData name="LINE 3">کوچه نانوایی</LineData>
+                            <LineData name="LINE 4">منزل عباس مومنی</LineData>
+                            <LineData name="LINE 5">استان هرمزگان</LineData>
+                            <LineData name="LINE 6">7967178914</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">عباس</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">حسنی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9345176589</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان سیستان و بلوچستان</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">زابل</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">پادگان ولیعصر</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">جاده زهدان</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">کیلومتر 5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای عباس حسنی</LineData>
+                            <LineData name="LINE 2">زابل، پادگان ولیعصر</LineData>
+                            <LineData name="LINE 3">جاده زهدان</LineData>
+                            <LineData name="LINE 4">کیلومتر 5</LineData>
+                            <LineData name="LINE 5">استان سیستان و بلوچستان</LineData>
+                            <LineData name="LINE 6">9345176589</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">شیرعلی</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">مراغه ای</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5671365784</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان آذربایجان غربی</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">مراغه</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">محله پایین</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان شهید جعفری</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">کوچه ناز</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 13</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای شیرعلی مراغه ای</LineData>
+                            <LineData name="LINE 2">مراغه، محله پایین</LineData>
+                            <LineData name="LINE 3">خیابان شهید جعفری، کوچه ناز</LineData>
+                            <LineData name="LINE 4">پلاک 13</LineData>
+                            <LineData name="LINE 5">استان آذربایجان غربی</LineData>
+                            <LineData name="LINE 6">5671365784</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">خانم</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">سوگول</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">سرایی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7561789764</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان کرمان</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">شهرستان پیشکوه</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">روستای جعفر آباد</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">کوچه شهید میرزایی</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">منزل سرایی</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">خانم سوگول سرایی</LineData>
+                            <LineData name="LINE 2">شهرستان پیشکوه، روستای جعفر آباد</LineData>
+                            <LineData name="LINE 3">کوچه شهید میرزایی</LineData>
+                            <LineData name="LINE 4">منزل سرایی</LineData>
+                            <LineData name="LINE 5">استان کرمان</LineData>
+                            <LineData name="LINE 6">7561789764</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">آقای</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">محسن</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">محمدی</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1897634675</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">استان تهران</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">ورامین</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">پیشوا</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">خیابان شهید کردوان</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">کوچه مینایی</U40.21.21.00>
+                        <U40.21.31.00 uniq="U40TertiThoro">بن سوم</U40.21.31.00>
+                        <U40.24.00.00 uniq="U40PremId">پلاک 12</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">واحد 8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fa</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">IR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">IR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">آقای محسن محمدی</LineData>
+                            <LineData name="LINE 2">ورامین، پیشوا</LineData>
+                            <LineData name="LINE 3">خیابان شهید کردوان، کوچه مینایی، بن سوم</LineData>
+                            <LineData name="LINE 4">پلاک 12، واحد 8</LineData>
+                            <LineData name="LINE 5">استان تهران</LineData>
+                            <LineData name="LINE 6">1897634675</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

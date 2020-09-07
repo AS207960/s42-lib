@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>AU</GroupDescription>
+            <GroupItemCount>52</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">ATTENTION</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Alistair</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Wise</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Big Smithy&apos;s Tractor Supplies</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Scarifier Parts Unit</U20.02.00.00>
+                        <U20.03.00.00 uniq="U20Function">Manager</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7173</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TAS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PRIMROSE SANDS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CRES</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ROE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">24</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ATTENTION Mr Alistair Wise</LineData>
+                            <LineData name="LINE 2">Manager</LineData>
+                            <LineData name="LINE 3">Scarifier Parts Unit</LineData>
+                            <LineData name="LINE 4">Big Smithy&apos;s Tractor Supplies Pty Ltd</LineData>
+                            <LineData name="LINE 5">24 ROE CRES</LineData>
+                            <LineData name="LINE 6">PRIMROSE SANDS  TAS  7173</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Margo</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Hayden-Smythe</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">6713</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">DAMPIER</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ESPLANADE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">37</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Margo Hayden-Smythe</LineData>
+                            <LineData name="LINE 2">37 ESPLANADE</LineData>
+                            <LineData name="LINE 3">DAMPIER  WA  6713</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Emma</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">J</U10.06.11.21>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Summers</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Van</U10.08.11.31>
+                        <U20.00.00.00 uniq="U20OrgName">Jones&apos;s Farm Getaways</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Ltd</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6302</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">YORK</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COODE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Lot</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">82</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Emma J Van Summers</LineData>
+                            <LineData name="LINE 2">Jones&apos;s Farm Getaways Ltd</LineData>
+                            <LineData name="LINE 3">Lot 82 COODE ST</LineData>
+                            <LineData name="LINE 4">YORK  WA  6302</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Alan</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Farmer</U10.08.11.11>
+                        <U10.10.13.00 uniq="U10SuccQualification">MD</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">6152</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">COMO</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MODILLION</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">252</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Villa</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Alan Farmer, MD</LineData>
+                            <LineData name="LINE 2">Villa 2</LineData>
+                            <LineData name="LINE 3">252 MODILLION ST</LineData>
+                            <LineData name="LINE 4">COMO  WA  6152</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">The Right Honorable</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Georgia</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Sutton</U10.08.11.11>
+                        <U10.10.13.00 uniq="U10SuccQualification">OAM</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">6148</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHELLEY</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">N</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NEWCASTLE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">76</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Right Honorable Georgia Sutton, OAM</LineData>
+                            <LineData name="LINE 2">76 NEWCASTLE AVE N</LineData>
+                            <LineData name="LINE 3">SHELLEY  WA  6148</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">For the Attention of</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Abigail</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Brown</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">5070</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FIRLE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CARE PO</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">For the Attention of Ms Abigail Brown</LineData>
+                            <LineData name="LINE 2">CARE PO</LineData>
+                            <LineData name="LINE 3">FIRLE  SA  5070</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attn:</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">John</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Smith</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">AAA Carpet Cleaners</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4871</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOUNT MOLLOY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3021</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attn: Mr John Smith</LineData>
+                            <LineData name="LINE 2">AAA Carpet Cleaners Pty Ltd</LineData>
+                            <LineData name="LINE 3">PRIVATE BAG 3021</LineData>
+                            <LineData name="LINE 4">MOUNT MOLLOY  QLD  4871</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Frank</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Jones</U10.08.11.11>
+                        <U10.10.13.00 uniq="U10SuccQualification">BA</U10.10.13.00>
+                        <U20.00.00.00 uniq="U20OrgName">Madcow Media</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Inc</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Director</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4655</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TORQUAY</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">THE STRAND</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">500</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">9</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Frank Jones, BA</LineData>
+                            <LineData name="LINE 2">Director</LineData>
+                            <LineData name="LINE 3">Madcow Media Inc</LineData>
+                            <LineData name="LINE 4">Unit 9</LineData>
+                            <LineData name="LINE 5">500 THE STRAND</LineData>
+                            <LineData name="LINE 6">TORQUAY  QLD  4655</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">John</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Lanyon</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">George Tallis Fish Supplies</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Managing Director</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4655</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TORQUAY</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HOOD</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">421</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">9</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr John Lanyon</LineData>
+                            <LineData name="LINE 2">Managing Director</LineData>
+                            <LineData name="LINE 3">George Tallis Fish Supplies Pty Ltd</LineData>
+                            <LineData name="LINE 4">Unit 9</LineData>
+                            <LineData name="LINE 5">421 HOOD ST</LineData>
+                            <LineData name="LINE 6">TORQUAY  QLD  4655</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Fatin</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Surur</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">4171</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BULIMBA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PIER</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3-5</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">3</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss Fatin Surur</LineData>
+                            <LineData name="LINE 2">Unit 3</LineData>
+                            <LineData name="LINE 3">3-5 PIER AVE</LineData>
+                            <LineData name="LINE 4">BULIMBA  QLD  4171</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Matthew</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Reid</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">MegaDesigns</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Inc</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Manager</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4125</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PARK RIDGE SOUTH</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BLUNDER</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">42-48</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Matthew Reid</LineData>
+                            <LineData name="LINE 2">Manager</LineData>
+                            <LineData name="LINE 3">MegaDesigns Inc</LineData>
+                            <LineData name="LINE 4">42-48 BLUNDER RD</LineData>
+                            <LineData name="LINE 5">PARK RIDGE SOUTH  QLD  4125</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">P</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">George</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">4109</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SUNNYBANK HILLS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1489</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr P George</LineData>
+                            <LineData name="LINE 2">PO BOX 1489</LineData>
+                            <LineData name="LINE 3">SUNNYBANK HILLS  QLD  4109</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Eleanor</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Johns</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Just Foods Catering</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Manager</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4077</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">DURACK</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CHESTERFIELD</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">27</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">17N</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss Eleanor Johns</LineData>
+                            <LineData name="LINE 2">Manager</LineData>
+                            <LineData name="LINE 3">Just Foods Catering Pty Ltd</LineData>
+                            <LineData name="LINE 4">Unit 17N</LineData>
+                            <LineData name="LINE 5">27 CHESTERFIELD RD</LineData>
+                            <LineData name="LINE 6">DURACK  QLD  4077</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Tristan</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Tallis</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Green-cycled Waste</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Inc</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">CEO</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4021</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KIPPA-RING</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOARDMAN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">79</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tristan Tallis</LineData>
+                            <LineData name="LINE 2">CEO</LineData>
+                            <LineData name="LINE 3">Green-cycled Waste Inc</LineData>
+                            <LineData name="LINE 4">Suite 2</LineData>
+                            <LineData name="LINE 5">79 BOARDMAN RD</LineData>
+                            <LineData name="LINE 6">KIPPA-RING  QLD  4021</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ann</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Fitzgerald</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Burns</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Inc</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Assistant</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3844</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TRARALGON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GREAT OCEAN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ann Fitzgerald</LineData>
+                            <LineData name="LINE 2">Assistant</LineData>
+                            <LineData name="LINE 3">Burns Inc</LineData>
+                            <LineData name="LINE 4">23 GREAT OCEAN DR</LineData>
+                            <LineData name="LINE 5">TRARALGON  VIC  3844</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Manager</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ACME Datasets</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3636</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NUMURKAH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RMB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8887</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Manager</LineData>
+                            <LineData name="LINE 2">ACME Datasets Pty Ltd</LineData>
+                            <LineData name="LINE 3">RMB 8887</LineData>
+                            <LineData name="LINE 4">NUMURKAH  VIC  3636</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Michael</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Nguyen</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Term Assets</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Ltd</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Corporate Accounts Executive</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3501</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MILDURA CENTRE PLAZA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">234CP</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Michael Nguyen</LineData>
+                            <LineData name="LINE 2">Corporate Accounts Executive</LineData>
+                            <LineData name="LINE 3">Term Assets Ltd</LineData>
+                            <LineData name="LINE 4">PO BOX 234CP</LineData>
+                            <LineData name="LINE 5">MILDURA CENTRE PLAZA  VIC  3501</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sarah</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Connor</U10.08.11.11>
+                        <U20.03.00.00 uniq="U20Function">Managing Director</U20.03.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">Private and confidential</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3221</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KENNETT RIVER</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NORTH CONCOURSE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Rear</U40.26.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Private and confidential</LineData>
+                            <LineData name="LINE 2">Dr Sarah Connor</LineData>
+                            <LineData name="LINE 3">Managing Director</LineData>
+                            <LineData name="LINE 4">Rear</LineData>
+                            <LineData name="LINE 5">41 NORTH CONCOURSE RD</LineData>
+                            <LineData name="LINE 6">KENNETT RIVER  VIC  3221</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jenny</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Burns</U10.08.11.11>
+                        <U10.10.13.00 uniq="U10SuccQualification">FRACS</U10.10.13.00>
+                        <U20.00.00.00 uniq="U20OrgName">Alfred Memorial Medical Centre</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">Surgeon (Consultative)</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3193</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BEAUMARIS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">POINT</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MITCHELL</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">32</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss Jenny Burns, FRACS</LineData>
+                            <LineData name="LINE 2">Surgeon (Consultative)</LineData>
+                            <LineData name="LINE 3">Alfred Memorial Medical Centre</LineData>
+                            <LineData name="LINE 4">32 MITCHELL POINT</LineData>
+                            <LineData name="LINE 5">BEAUMARIS  VIC  3193</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jane</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Smithers</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Broken Arrow</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Corporation</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">CEO</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3186</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BRIGHTON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PORTER</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">87-89</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Penthouse</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Jane Smithers</LineData>
+                            <LineData name="LINE 2">CEO</LineData>
+                            <LineData name="LINE 3">Broken Arrow Corporation</LineData>
+                            <LineData name="LINE 4">Penthouse 1</LineData>
+                            <LineData name="LINE 5">87-89 PORTER ST</LineData>
+                            <LineData name="LINE 6">BRIGHTON  VIC  3186</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Alan</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Wheeler</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Sortein Medical Hire</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3181</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PRAHRAN</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BAY</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">61-62</U40.24.11.21>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Building E</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alan Wheeler</LineData>
+                            <LineData name="LINE 2">Sortein Medical Hire Pty Ltd</LineData>
+                            <LineData name="LINE 3">Building E</LineData>
+                            <LineData name="LINE 4">61-62 BAY ST</LineData>
+                            <LineData name="LINE 5">PRAHRAN  VIC  3181</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Carol</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Connor</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Lighthouse Investigations</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3166</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HUGHESDALE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOWEN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">27</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Carol Connor</LineData>
+                            <LineData name="LINE 2">Lighthouse Investigations</LineData>
+                            <LineData name="LINE 3">27 BOWEN ST</LineData>
+                            <LineData name="LINE 4">HUGHESDALE  VIC  3166</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sukgur</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Meenjit</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">3131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FOREST HILL</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOX</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Sukgur Meenjit</LineData>
+                            <LineData name="LINE 2">8 BOX AVE</LineData>
+                            <LineData name="LINE 3">FOREST HILL  VIC  3131</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Elizabeth</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Chan</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Angelis Corporate Training</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3084</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HEIDELBERG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">LOCKED BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">711</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Elizabeth Chan</LineData>
+                            <LineData name="LINE 2">Angelis Corporate Training Pty Ltd</LineData>
+                            <LineData name="LINE 3">LOCKED BAG 711</LineData>
+                            <LineData name="LINE 4">HEIDELBERG  VIC  3084</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Executive</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kalgoorlie Investments</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Pty Ltd</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Finance Department</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MELBOURNE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">GPO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">7777</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Executive</LineData>
+                            <LineData name="LINE 2">Finance Department</LineData>
+                            <LineData name="LINE 3">Kalgoorlie Investments Pty Ltd</LineData>
+                            <LineData name="LINE 4">GPO BOX 7777</LineData>
+                            <LineData name="LINE 5">MELBOURNE  VIC  3001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Rev Dr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hartmuth</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Scholz</U10.08.11.11>
+                        <U10.10.13.00 uniq="U10SuccQualification">PhD.</U10.10.13.00>
+                        <U20.00.00.00 uniq="U20OrgName">Boort Baptist Church</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">Minister</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MELBOURNE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LONSDALE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">11</U40.31.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rev Dr Hartmuth Scholz, PhD.</LineData>
+                            <LineData name="LINE 2">Minister</LineData>
+                            <LineData name="LINE 3">Boort Baptist Church</LineData>
+                            <LineData name="LINE 4">Level 11</LineData>
+                            <LineData name="LINE 5">15 LONSDALE ST</LineData>
+                            <LineData name="LINE 6">MELBOURNE  VIC  3000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gene</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Fitzgerald</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">Fitzgerald Consulting</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MELBOURNE</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">QUEEN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">250</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Ground Floor</U40.31.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gene Fitzgerald</LineData>
+                            <LineData name="LINE 2">Fitzgerald Consulting</LineData>
+                            <LineData name="LINE 3">Ground Floor</LineData>
+                            <LineData name="LINE 4">250 QUEEN ST E</LineData>
+                            <LineData name="LINE 5">MELBOURNE  VIC  3000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sir</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Benjamin</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Platt</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2747</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CAMBRIDGE GARDENS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CRES</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KOORINGAL</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">87</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sir Benjamin Platt</LineData>
+                            <LineData name="LINE 2">87 KOORINGAL CRES</LineData>
+                            <LineData name="LINE 3">CAMBRIDGE GARDENS  NSW  2747</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jane</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Harkman</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2650</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KOORINGAL</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GRANGE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">492</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Jane Harkman</LineData>
+                            <LineData name="LINE 2">492 GRANGE RD</LineData>
+                            <LineData name="LINE 3">KOORINGAL  NSW  2650</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Bethany</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Howell</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2604</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ACT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KINGSTON</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">LOCKED BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">233E</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Bethany Howell</LineData>
+                            <LineData name="LINE 2">LOCKED BAG 233E</LineData>
+                            <LineData name="LINE 3">KINGSTON  ACT  2604</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Joseph</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Bradshaw</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2478</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BALLINA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DIAMOND BEACH</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">U</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Joseph Bradshaw</LineData>
+                            <LineData name="LINE 2">U 1</LineData>
+                            <LineData name="LINE 3">8 DIAMOND BEACH DR</LineData>
+                            <LineData name="LINE 4">BALLINA  NSW  2478</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">THE RESIDENT</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2430</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HALLIDAYS POINT</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PIPER</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">342</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE RESIDENT</LineData>
+                            <LineData name="LINE 2">342 PIPER RD</LineData>
+                            <LineData name="LINE 3">HALLIDAYS POINT  NSW  2430</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">TO THE OFFICE MANAGER</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Smith Street Medical Centre</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2340</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TAMWORTH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RMB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">87</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TO THE OFFICE MANAGER</LineData>
+                            <LineData name="LINE 2">Smith Street Medical Centre</LineData>
+                            <LineData name="LINE 3">RMB 87</LineData>
+                            <LineData name="LINE 4">TAMWORTH  NSW  2340</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sally</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Border</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2228</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MIRANDA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GIBSON</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">100</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">U</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Sally Border</LineData>
+                            <LineData name="LINE 2">U 1</LineData>
+                            <LineData name="LINE 3">100 GIBSON RD</LineData>
+                            <LineData name="LINE 4">MIRANDA  NSW  2228</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Khi</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Hoang</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2220</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HURSTVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KARIMBLA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Khi Hoang</LineData>
+                            <LineData name="LINE 2">Unit 1</LineData>
+                            <LineData name="LINE 3">23 KARIMBLA AVE</LineData>
+                            <LineData name="LINE 4">HURSTVILLE  NSW  2220</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">J</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Aaron</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2216</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROCKDALE</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">THE AVENUE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr J Aaron</LineData>
+                            <LineData name="LINE 2">2 THE AVENUE</LineData>
+                            <LineData name="LINE 3">ROCKDALE  NSW  2216</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">B</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Tran</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2211</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PADSTOW</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LISTER</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">74</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">B Tran</LineData>
+                            <LineData name="LINE 2">74 LISTER AVE</LineData>
+                            <LineData name="LINE 3">PADSTOW  NSW  2211</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">George</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Papadopoulous</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PARRAMATTA WESTFIELD</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">722L</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">George Papadopoulous</LineData>
+                            <LineData name="LINE 2">PO BOX 722L</LineData>
+                            <LineData name="LINE 3">PARRAMATTA WESTFIELD  NSW  2150</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Mahmoud</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Said</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2120</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PENNANT HILLS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CHIFLEY</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8-10</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Mahmoud Said</LineData>
+                            <LineData name="LINE 2">8-10 CHIFLEY ST</LineData>
+                            <LineData name="LINE 3">PENNANT HILLS  NSW  2120</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JP</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Roland</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2032</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KINGSFORD</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALBION</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">161-165</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss JP Roland</LineData>
+                            <LineData name="LINE 2">161-165 ALBION RD</LineData>
+                            <LineData name="LINE 3">KINGSFORD  NSW  2032</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Bich</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Le</U10.08.11.11>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Care Of</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Mr</U20.05.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Don</U20.06.11.11>
+                        <U20.08.11.11 uniq="U20SurnamePart1">Bradley</U20.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">2016</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">REDFERN</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BUNNERONG</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">34-46</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">U</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">7</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Bich Le</LineData>
+                            <LineData name="LINE 2">Care Of Mr Don Bradley</LineData>
+                            <LineData name="LINE 3">U 7</LineData>
+                            <LineData name="LINE 4">34-46 BUNNERONG ST</LineData>
+                            <LineData name="LINE 5">REDFERN  NSW  2016</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sarah</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">McDuff</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">McDuff Enterprises</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NSW</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SYDNEY</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">SQ</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">REGENT</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">SE</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Sarah McDuff</LineData>
+                            <LineData name="LINE 2">McDuff Enterprises</LineData>
+                            <LineData name="LINE 3">SE 2</LineData>
+                            <LineData name="LINE 4">2 REGENT SQ</LineData>
+                            <LineData name="LINE 5">SYDNEY  NSW  2000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Capt</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Phillipe</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">MacGlinkley</U10.08.11.11>
+                        <U20.02.00.00 uniq="U20OrgUnit">HMAS Northern Star</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6958</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PERTH</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Capt Phillipe MacGlinkley</LineData>
+                            <LineData name="LINE 2">HMAS Northern Star</LineData>
+                            <LineData name="LINE 3">PERTH  WA  6958</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Private</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">G</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Cassowary</U10.08.11.11>
+                        <U20.00.00.00 uniq="U20OrgName">RAAC Museum</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3662</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PUCKAPUNYAL</U40.16.00.00>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Hopkins Barracks</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Private G Cassowary</LineData>
+                            <LineData name="LINE 2">RAAC Museum</LineData>
+                            <LineData name="LINE 3">Hopkins Barracks</LineData>
+                            <LineData name="LINE 4">PUCKAPUNYAL  VIC  3662</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Betty</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Neill</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">3537</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BOORT</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">WYCHEPROOF</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Betty Neill</LineData>
+                            <LineData name="LINE 2">WYCHEPROOF RD</LineData>
+                            <LineData name="LINE 3">BOORT  VIC  3537</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Kelvin</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Night</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">0828</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BERRIMAH</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">832</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">17</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Kelvin Night</LineData>
+                            <LineData name="LINE 2">Unit 17</LineData>
+                            <LineData name="LINE 3">832 MOO STREET</LineData>
+                            <LineData name="LINE 4">BERRIMAH  NT  0828</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sharon</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Raynes-Shield</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">6035</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">YANCHEP</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NORTH</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CRES</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOUSEHOLE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">92</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">87E</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Sharon Raynes-Shield</LineData>
+                            <LineData name="LINE 2">Suite 87E</LineData>
+                            <LineData name="LINE 3">92 MOUSEHOLE CRES NORTH</LineData>
+                            <LineData name="LINE 4">YANCHEP  WA  6035</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Clarence</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Handforth</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">3525</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WYCHITELLA NORTH</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KOOLYANOBBING SOUTHERN CROSS</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">24</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Studio</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">7</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Clarence Handforth</LineData>
+                            <LineData name="LINE 2">Studio 7</LineData>
+                            <LineData name="LINE 3">24 KOOLYANOBBING SOUTHERN CROSS RD</LineData>
+                            <LineData name="LINE 4">WYCHITELLA NORTH  VIC  3525</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Curator</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ROCK HISTORY MUSEUM</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MELBOURNE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">LANE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ACDC</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Curator</LineData>
+                            <LineData name="LINE 2">ROCK HISTORY MUSEUM</LineData>
+                            <LineData name="LINE 3">ACDC LANE</LineData>
+                            <LineData name="LINE 4">MELBOURNE  VIC  3000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr &amp; Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">J</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Schmidt</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">4343</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">QLD</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLACK DUCK CREEK</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CARE PO</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr &amp; Mrs J Schmidt</LineData>
+                            <LineData name="LINE 2">CARE PO</LineData>
+                            <LineData name="LINE 3">BLACK DUCK CREEK  QLD  4343</LineData>
+                            <LineData name="LINE 4">AUSTRALIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Elizabeth</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Pucci</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">3518</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MYSIA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JONES</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">7</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">3</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Elizabeth Pucci</LineData>
+                            <LineData name="LINE 2">Suite 3 Level 7</LineData>
+                            <LineData name="LINE 3">7 JONES STREET</LineData>
+                            <LineData name="LINE 4">MYSIA  VIC  3518</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Fitzgerald Consulting</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">AUSTRALIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MELBOURNE</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">QUEEN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">250</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AU</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">AU</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fitzgerald Consulting</LineData>
+                            <LineData name="LINE 2">250 QUEEN STREET E</LineData>
+                            <LineData name="LINE 3">MELBOURNE  VIC  3000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

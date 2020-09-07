@@ -1,0 +1,1908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>ZA</GroupDescription>
+            <GroupItemCount>63</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">HATTINGH</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1401</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">50106</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">GERMISTON</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR B HATTINGH</LineData>
+                            <LineData name="LINE 2">PO BOX 50106</LineData>
+                            <LineData name="LINE 3">GERMISTON</LineData>
+                            <LineData name="LINE 4">1401</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">THE MEMBERS</U10.05.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">CONCRETESTONE</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">CC</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0305</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">21214</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PROTEA PARK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE MEMBERS</LineData>
+                            <LineData name="LINE 2">CONCRETESTONE CC</LineData>
+                            <LineData name="LINE 3">PO BOX 21214</LineData>
+                            <LineData name="LINE 4">PROTEA PARK</LineData>
+                            <LineData name="LINE 5">0305</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MNR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PRETORIUS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1786</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSBUS</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3151</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">GLENHARVIE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MNR G PRETORIUS</LineData>
+                            <LineData name="LINE 2">POSBUS 3151</LineData>
+                            <LineData name="LINE 3">GLENHARVIE</LineData>
+                            <LineData name="LINE 4">1786</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">KAK ATTORNEYS</U10.00.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.08.00.00 uniq="U20Surname">GILES</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2146</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">781272</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">SANDTON</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">C/O GILES</LineData>
+                            <LineData name="LINE 2">KAK ATTORNEYS</LineData>
+                            <LineData name="LINE 3">PO BOX 781272</LineData>
+                            <LineData name="LINE 4">SANDTON</LineData>
+                            <LineData name="LINE 5">2146</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">COMPENSATION COMMISSIONER</U10.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">955</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRETORIA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COMPENSATION COMMISSIONER</LineData>
+                            <LineData name="LINE 2">PO BOX 955</LineData>
+                            <LineData name="LINE 3">PRETORIA</LineData>
+                            <LineData name="LINE 4">0001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MISS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">M</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SUSAN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1097</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">109</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RIETKUIL</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MISS M SUSAN</LineData>
+                            <LineData name="LINE 2">BOX 109</LineData>
+                            <LineData name="LINE 3">RIETKUIL</LineData>
+                            <LineData name="LINE 4">1097</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">K</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FISHER</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">DR</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">7532</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSBUS</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1640</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">SANLAMHOF</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DR K FISHER</LineData>
+                            <LineData name="LINE 2">POSBUS 1640</LineData>
+                            <LineData name="LINE 3">SANLAMHOF</LineData>
+                            <LineData name="LINE 4">7532</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">ATTN:</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">H.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DU PLESSIS</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">CONSUPAQ</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">(PTY) LTD</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2144</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">76202</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WENDYWOOD</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ATTN: MR. H. DU PLESSIS</LineData>
+                            <LineData name="LINE 2">CONSUPAQ (PTY) LTD</LineData>
+                            <LineData name="LINE 3">P.O. BOX 76202</LineData>
+                            <LineData name="LINE 4">WENDYWOOD</LineData>
+                            <LineData name="LINE 5">2144</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARE</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">221</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WITS</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CARE</LineData>
+                            <LineData name="LINE 2">PO BOX 221</LineData>
+                            <LineData name="LINE 3">WITS</LineData>
+                            <LineData name="LINE 4">2050</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">RECEIVER OF REVENUE</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1051</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">JOHANNESBURG</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RECEIVER OF REVENUE</LineData>
+                            <LineData name="LINE 2">PO BOX 1051</LineData>
+                            <LineData name="LINE 3">JOHANNESBURG</LineData>
+                            <LineData name="LINE 4">2000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">UIF</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0052</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRETORIA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">UIF</LineData>
+                            <LineData name="LINE 2">PRETORIA</LineData>
+                            <LineData name="LINE 3">0052</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">READERS DIGEST</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8065</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">9</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">CAPE MAIL</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">READERS DIGEST</LineData>
+                            <LineData name="LINE 2">PRIVATE BAG 9</LineData>
+                            <LineData name="LINE 3">CAPE MAIL</LineData>
+                            <LineData name="LINE 4">8065</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">AAH</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KLOBERIE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X20578</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">BLOEMFONTEIN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR AAH KLOBERIE</LineData>
+                            <LineData name="LINE 2">PRIVATE BAG X20578</LineData>
+                            <LineData name="LINE 3">BLOEMFONTEIN</LineData>
+                            <LineData name="LINE 4">9300</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SLIPKNOT INVESTMENTS</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">LTD.</U10.01.00.00>
+                        <U20.02.21.00 uniq="U20OrgUnitLev2Pos1">DIE DIREKTOR</U20.02.21.00>
+                        <U20.03.00.00 uniq="U20Function">DIE DIREKTOR</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2106</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVAATSAK</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X03</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">LYNDHURST</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DIE DIREKTOR</LineData>
+                            <LineData name="LINE 2">SLIPKNOT INVESTMENTS LTD.</LineData>
+                            <LineData name="LINE 3">PRIVAATSAK X03</LineData>
+                            <LineData name="LINE 4">LYNDHURST</LineData>
+                            <LineData name="LINE 5">2106</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">RG</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MUGABE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">NORTH END PRISON</U20.00.00.00>
+                        <U20.02.21.00 uniq="U20OrgUnitLev2Pos1">HEAD WARDEN</U20.02.21.00>
+                        <U20.03.00.00 uniq="U20Function">HEAD WARDEN</U20.03.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X2590</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PORT ELIZABETH</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RG MUGABE</LineData>
+                            <LineData name="LINE 2">C/O HEAD WARDEN</LineData>
+                            <LineData name="LINE 3">NORTH END PRISON</LineData>
+                            <LineData name="LINE 4">PRIVATE BAG X2590</LineData>
+                            <LineData name="LINE 5">PORT ELIZABETH</LineData>
+                            <LineData name="LINE 6">6000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">O</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MARIE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">DEUTZ DIESELPOWER</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1406</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">ELANDSFONTEIN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">O MARIE</LineData>
+                            <LineData name="LINE 2">DEUTZ DIESELPOWER</LineData>
+                            <LineData name="LINE 3">PRIVATE BAG 10</LineData>
+                            <LineData name="LINE 4">ELANDSFONTEIN</LineData>
+                            <LineData name="LINE 5">1406</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MNR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">DA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KILIAN</U10.08.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">SUITE 190</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0040</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVAATSAK</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X025</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">LYNNWOODDRIF</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MNR DA KILIAN</LineData>
+                            <LineData name="LINE 2">SUITE 190</LineData>
+                            <LineData name="LINE 3">PRIVAATSAK X025</LineData>
+                            <LineData name="LINE 4">LYNNWOODDRIF</LineData>
+                            <LineData name="LINE 5">0040</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">E</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MAJELA</U10.08.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">POSTNET SUITE 339</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1715</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X09</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WELTEVREDENPARK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS E MAJELA</LineData>
+                            <LineData name="LINE 2">POSTNET SUITE 339</LineData>
+                            <LineData name="LINE 3">PRIVATE BAG X09</LineData>
+                            <LineData name="LINE 4">WELTEVREDENPARK</LineData>
+                            <LineData name="LINE 5">1715</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">MTN REGISTRATION FORM</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2146</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">780001</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">SANDTON</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MTN REGISTRATION FORM</LineData>
+                            <LineData name="LINE 2">PO BOX 780001</LineData>
+                            <LineData name="LINE 3">SANDTON</LineData>
+                            <LineData name="LINE 4">2146</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">CLIENTELE LIFE ASSURANCE</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2128</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X101</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RIVONIA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CLIENTELE LIFE ASSURANCE</LineData>
+                            <LineData name="LINE 2">PRIVATE BAG X101</LineData>
+                            <LineData name="LINE 3">RIVONIA</LineData>
+                            <LineData name="LINE 4">2128</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR &amp; MRS</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KAHNS&apos;</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4093</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOSELEY</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">TERRACE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">THERON</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">34</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR &amp; MRS KAHNS&apos;</LineData>
+                            <LineData name="LINE 2">34 THERON TERRACE</LineData>
+                            <LineData name="LINE 3">MOSELEY</LineData>
+                            <LineData name="LINE 4">4093</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">A</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DESAI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7975</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FISH HOEK</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVENUE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">13TH</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. A DESAI</LineData>
+                            <LineData name="LINE 2">4 13TH AVENUE</LineData>
+                            <LineData name="LINE 3">FISH HOEK</LineData>
+                            <LineData name="LINE 4">7975</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MISS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KHUMALO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1055</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MIDDELBURG</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TLALE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">210</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MISS G KHUMALO</LineData>
+                            <LineData name="LINE 2">210 TLALE STREET</LineData>
+                            <LineData name="LINE 3">MIDDELBURG</LineData>
+                            <LineData name="LINE 4">1055</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PJ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RANKIN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">IDASVALLEI</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">WEG</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RUSTENBURG</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">38</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PJ RANKIN</LineData>
+                            <LineData name="LINE 2">38 RUSTENBURG WEG</LineData>
+                            <LineData name="LINE 3">IDASVALLEI</LineData>
+                            <LineData name="LINE 4">7600</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">HC</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOTES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7945</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RETREAT</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVENUE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NINTH</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">24</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS HC BOTES</LineData>
+                            <LineData name="LINE 2">24 NINTH AVENUE</LineData>
+                            <LineData name="LINE 3">RETREAT</LineData>
+                            <LineData name="LINE 4">7945</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MEV</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">WL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOZACK</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0022</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">EERSTERUS</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KOLBESTRAAT</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">370</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MEV WL BOZACK</LineData>
+                            <LineData name="LINE 2">370 KOLBESTRAAT</LineData>
+                            <LineData name="LINE 3">EERSTERUS</LineData>
+                            <LineData name="LINE 4">0022</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MISS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">CJ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">THOMAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7493</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PO CRAVENBY EST</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">2ND</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MISS CJ THOMAS</LineData>
+                            <LineData name="LINE 2">5 2ND AVE</LineData>
+                            <LineData name="LINE 3">PO CRAVENBY EST</LineData>
+                            <LineData name="LINE 4">7493</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">MAHMOED</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4126</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHLONE PARK</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">WAVE CREST</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">33</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MAHMOED</LineData>
+                            <LineData name="LINE 2">33 WAVE CREST ROAD</LineData>
+                            <LineData name="LINE 3">ATHLONE PARK</LineData>
+                            <LineData name="LINE 4">4126</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GERALD</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">STROPU</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1501</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RYNFIELD EXT 3</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TRUMPET</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">21B</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR GERALD STROPU</LineData>
+                            <LineData name="LINE 2">21B TRUMPET STREET</LineData>
+                            <LineData name="LINE 3">RYNFIELD EXT 3</LineData>
+                            <LineData name="LINE 4">1501</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ALKEMA FURNITURE SHOP</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">CC</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BRIXTON</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HIGHSTRAAT</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">83</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ALKEMA FURNITURE SHOP CC</LineData>
+                            <LineData name="LINE 2">83 HIGHSTRAAT</LineData>
+                            <LineData name="LINE 3">BRIXTON</LineData>
+                            <LineData name="LINE 4">2092</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARCO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LIBERATORE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ITALIAN MOTORS CC</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">ACCOUNTS DEPARTMENT</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1401</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PRIMROSE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RIETFONTEIN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">152</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARCO LIBERATORE</LineData>
+                            <LineData name="LINE 2">ACCOUNTS DEPARTMENT</LineData>
+                            <LineData name="LINE 3">ITALIAN MOTORS CC</LineData>
+                            <LineData name="LINE 4">152 RIETFONTEIN ROAD</LineData>
+                            <LineData name="LINE 5">PRIMROSE</LineData>
+                            <LineData name="LINE 6">1401</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GEORGE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VAN WILLIGH</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2196</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SANDOWN</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">STELLA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">THE PADDOCK</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. GEORGE VAN WILLIGH</LineData>
+                            <LineData name="LINE 2">THE PADDOCK</LineData>
+                            <LineData name="LINE 3">7 STELLA STREET</LineData>
+                            <LineData name="LINE 4">SANDOWN</LineData>
+                            <LineData name="LINE 5">2196</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">E</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SINGLETON</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">RSA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FERNESS ESTATE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JASMYN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">26</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. E SINGLETON</LineData>
+                            <LineData name="LINE 2">26 JASMYN STR</LineData>
+                            <LineData name="LINE 3">FERNESS ESTATE</LineData>
+                            <LineData name="LINE 4">7800</LineData>
+                            <LineData name="LINE 5">RSA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FERNANDES</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">MR</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">GARY</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">SEGAL</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7806</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">DIEP RIVER</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">OLD KENDAL</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">MUSGRAVE PARK</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">G247</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS G FERNANDES</LineData>
+                            <LineData name="LINE 2">C/O MR GARY SEGAL</LineData>
+                            <LineData name="LINE 3">G247 MUSGRAVE PARK</LineData>
+                            <LineData name="LINE 4">OLD KENDAL ROAD</LineData>
+                            <LineData name="LINE 5">DIEP RIVER</LineData>
+                            <LineData name="LINE 6">7806</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">THE HONOURABLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOYO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">STELLENBOSCH</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVENUE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">8TH</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">436</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">ZONE O</U40.26.00.00>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">BEHIND BAKERY SHOP</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE HONOURABLE S MOYO</LineData>
+                            <LineData name="LINE 2">ZONE O, BEHIND BAKERY SHOP</LineData>
+                            <LineData name="LINE 3">436 8TH AVENUE</LineData>
+                            <LineData name="LINE 4">STELLENBOSCH</LineData>
+                            <LineData name="LINE 5">7600</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SJ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NYAKA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1852</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LYNDHURST</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DRIVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COLLET</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">449</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">COLLET HEIGHTS</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">39</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR SJ NYAKA</LineData>
+                            <LineData name="LINE 2">39 COLLET HEIGHTS</LineData>
+                            <LineData name="LINE 3">449 COLLET DRIVE</LineData>
+                            <LineData name="LINE 4">LYNDHURST</LineData>
+                            <LineData name="LINE 5">1852</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">J</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KANGAMAN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">DURBAN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MARINE PARADE</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">BELMONT</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">1701</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR J KANGAMAN</LineData>
+                            <LineData name="LINE 2">1701 BELMONT</LineData>
+                            <LineData name="LINE 3">MARINE PARADE</LineData>
+                            <LineData name="LINE 4">DURBAN</LineData>
+                            <LineData name="LINE 5">4001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">REVEREND</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">K</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VAN DER MERWE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2194</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FERNDALE</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SOUTH</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LONG</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">424</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">COCONO FLATS</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">REVEREND K VAN DER MERWE</LineData>
+                            <LineData name="LINE 2">5 COCONO FLATS</LineData>
+                            <LineData name="LINE 3">424 LONG ROAD SOUTH</LineData>
+                            <LineData name="LINE 4">FERNDALE</LineData>
+                            <LineData name="LINE 5">2194</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR. AND MRS</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">WEINBURG</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2198</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BELLEVUE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CRESCENT</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SHARP</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">INGLENOOK</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">FLAT NO. 201</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR. AND MRS WEINBURG</LineData>
+                            <LineData name="LINE 2">FLAT NO. 201 INGLENOOK</LineData>
+                            <LineData name="LINE 3">SHARP CRESCENT</LineData>
+                            <LineData name="LINE 4">BELLEVUE</LineData>
+                            <LineData name="LINE 5">2198</LineData>
+                            <LineData name="LINE 6">SOUTH AFRICA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">RM</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LOGAN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1685</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ERAND GARDENS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SEVENTH</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">SUMATRA RESIDENTIAL ESTATE</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">61</U40.32.00.00>
+                        <U40.34.12.00 uniq="U40SuppDelPointDataPos2">COR. EIGTH ROAD</U40.34.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS RM LOGAN</LineData>
+                            <LineData name="LINE 2">61 SUMATRA RESIDENTIAL ESTATE</LineData>
+                            <LineData name="LINE 3">SEVENTH ROAD, COR. EIGTH ROAD</LineData>
+                            <LineData name="LINE 4">ERAND GARDENS</LineData>
+                            <LineData name="LINE 5">1685</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">PYRO SAFETY EQUIPMENT</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">SA PTY LTD</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BELLEVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BILL BEZUIDENHOUT</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">OLD DUTCH SQUARE</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">UNIT 13</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PYRO SAFETY EQUIPMENT SA PTY LTD</LineData>
+                            <LineData name="LINE 2">UNIT 13 OLD DUTCH SQUARE</LineData>
+                            <LineData name="LINE 3">BILL BEZUIDENHOUT STREET</LineData>
+                            <LineData name="LINE 4">BELLEVILLE</LineData>
+                            <LineData name="LINE 5">8001</LineData>
+                            <LineData name="LINE 6">SOUTH AFRICA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">PIETER</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOTHA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1928</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BOPHELONG</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">EXT 8</U40.21.11.12>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MUVHANGO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4403</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR PIETER BOTHA</LineData>
+                            <LineData name="LINE 2">4403 MUVHANGO EXT 8</LineData>
+                            <LineData name="LINE 3">BOPHELONG</LineData>
+                            <LineData name="LINE 4">1928</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">K R</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MEARS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7784</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KHAYELITSHA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SITE B</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">L 749</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR K R MEARS</LineData>
+                            <LineData name="LINE 2">L 749 SITE B</LineData>
+                            <LineData name="LINE 3">KHAYELITSHA</LineData>
+                            <LineData name="LINE 4">7784</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MBOKANE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1055</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MHLUZI EXT 1</U40.16.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">STAND NO</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3345</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS SA MBOKANE</LineData>
+                            <LineData name="LINE 2">STAND NO 3345</LineData>
+                            <LineData name="LINE 3">MHLUZI EXT 1</LineData>
+                            <LineData name="LINE 4">1055</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MAKOBA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9725</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FOURIESBURG</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MASHAENG</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2840</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR S MAKOBA</LineData>
+                            <LineData name="LINE 2">2840 MASHAENG</LineData>
+                            <LineData name="LINE 3">FOURIESBURG</LineData>
+                            <LineData name="LINE 4">9725</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">M</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MTSHEMLA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1682</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TEMBISA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ELDINGA SECTION</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">192</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M MTSHEMLA</LineData>
+                            <LineData name="LINE 2">192 ELDINGA SECTION</LineData>
+                            <LineData name="LINE 3">TEMBISA</LineData>
+                            <LineData name="LINE 4">1682</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">P</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PIETERSE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0122</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MAMELODI WEST</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SECTION B</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">345</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">P PIETERSE</LineData>
+                            <LineData name="LINE 2">345 SECTION B</LineData>
+                            <LineData name="LINE 3">MAMELODI WEST</LineData>
+                            <LineData name="LINE 4">0122</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">TV</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MATEMALA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1982</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SEBOKENG</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ZONE 12</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5285</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TV MATEMALA</LineData>
+                            <LineData name="LINE 2">5285 ZONE 12</LineData>
+                            <LineData name="LINE 3">SEBOKENG</LineData>
+                            <LineData name="LINE 4">1982</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">NONDINDWA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MAMOYENI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5170</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">NOMBODLELANA</U40.17.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">150133</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">TSOLO</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NONDINDWA MAMOYENI</LineData>
+                            <LineData name="LINE 2">150133 NOMBODLELANA</LineData>
+                            <LineData name="LINE 3">TSOLO</LineData>
+                            <LineData name="LINE 4">5170</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SAKHUMZI PRE-SCHOOL</U10.00.00.00>
+                        <U20.02.21.00 uniq="U20OrgUnitLev2Pos1">THE PRINCIPAL</U20.02.21.00>
+                        <U20.03.00.00 uniq="U20Function">THE PRINCIPAL</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5640</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">FENI</U40.17.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">010203</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PEDDIE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE PRINCIPAL</LineData>
+                            <LineData name="LINE 2">SAKHUMZI PRE-SCHOOL</LineData>
+                            <LineData name="LINE 3">010203 FENI</LineData>
+                            <LineData name="LINE 4">PEDDIE</LineData>
+                            <LineData name="LINE 5">5640</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">OROHANAGE CHURCH</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5228</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">NXINGXOLO PART 1</U40.17.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">12151</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">MOOIPLAAS</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">OROHANAGE CHURCH</LineData>
+                            <LineData name="LINE 2">12151 NXINGXOLO PART 1</LineData>
+                            <LineData name="LINE 3">MOOIPLAAS</LineData>
+                            <LineData name="LINE 4">5228</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JOKO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">OXO</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">BAMBA ZONKE SPAZA SHOP</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5130</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.17.00.00 uniq="U40District">KWATSITA VILLAGE</U40.17.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">60401</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">NTABANKULU</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOKO OXO</LineData>
+                            <LineData name="LINE 2">BAMBA ZONKE SPAZA SHOP</LineData>
+                            <LineData name="LINE 3">60401 KWATSITA VILLAGE</LineData>
+                            <LineData name="LINE 4">NTABANKULU</LineData>
+                            <LineData name="LINE 5">5130</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">P</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MYBURGH</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">SGT.</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">C COMPANY</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0106</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">FIELD POST OFFICE 3</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRETORIA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SGT. P MYBURGH</LineData>
+                            <LineData name="LINE 2">C COMPANY</LineData>
+                            <LineData name="LINE 3">FIELD POST OFFICE 3</LineData>
+                            <LineData name="LINE 4">PRETORIA</LineData>
+                            <LineData name="LINE 5">0106</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JP</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROSSOUW</U10.08.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">PR. ENG.</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">0074</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">CORPORATE POST OFFICE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JP ROSSOUW PR. ENG.</LineData>
+                            <LineData name="LINE 2">CORPORATE POST OFFICE</LineData>
+                            <LineData name="LINE 3">0074</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">BALDWIN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1639</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">JIMC POST OFFICE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BALDWIN</LineData>
+                            <LineData name="LINE 2">JIMC POST OFFICE</LineData>
+                            <LineData name="LINE 3">1639</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.00.00 uniq="U10OrgUnit">SALES OFFICE</U10.02.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">IBM SOUTH AFRICA</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">LTD</U20.01.00.00>
+                        <U20.02.22.00 uniq="U20OrgUnitLev2Pos2">BLOCK E</U20.02.22.00>
+                        <U40.13.00.00 uniq="U40PostCode">2196</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SANDTON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">OXFORD</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SALES OFFICE</LineData>
+                            <LineData name="LINE 2">BLOCK E</LineData>
+                            <LineData name="LINE 3">IBM SOUTH AFRICA LTD</LineData>
+                            <LineData name="LINE 4">3 OXFORD ROAD</LineData>
+                            <LineData name="LINE 5">SANDTON</LineData>
+                            <LineData name="LINE 6">2196</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BHEKI</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KHUMALO</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">SIEMENS</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">CUSTOMER SERVICES DEPARTMENT</U20.02.12.00>
+                        <U20.02.22.00 uniq="U20OrgUnitLev2Pos2">INDUSTRIAL SOLUTIONS DIVISION</U20.02.22.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1685</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X71</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">HALFWAY HOUSE</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BHEKI KHUMALO</LineData>
+                            <LineData name="LINE 2">C/O CUSTOMER SERVICES DEPARTMENT</LineData>
+                            <LineData name="LINE 3">INDUSTRIAL SOLUTIONS DIVISION</LineData>
+                            <LineData name="LINE 4">SIEMENS</LineData>
+                            <LineData name="LINE 5">PRIVATE BAG X71</LineData>
+                            <LineData name="LINE 6">HALFWAY HOUSE</LineData>
+                            <LineData name="LINE 7">1685</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">NATIONAL KEY ACCOUNTS MANAGER</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GRANT</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DAVIES</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">SAMSUNG ELECTRONICS SA</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">(PTY) LTD</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2021</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">70006</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">BRYANSTON</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GRANT DAVIES</LineData>
+                            <LineData name="LINE 2">NATIONAL KEY ACCOUNTS MANAGER</LineData>
+                            <LineData name="LINE 3">SAMSUNG ELECTRONICS SA (PTY) LTD</LineData>
+                            <LineData name="LINE 4">PO BOX 70006</LineData>
+                            <LineData name="LINE 5">BRYANSTON</LineData>
+                            <LineData name="LINE 6">2021</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">GIS TECHNICAL SPECIALIST</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">JAMES</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">WALES</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">DR.</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">PH.D.</U10.10.13.00>
+                        <U20.00.00.00 uniq="U20OrgName">GERMISTON METROPOLITAN MUNICIPALITY</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">DEVELOPMENT PLANNING DEPARTMENT</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1619</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KEMPTON PARK</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVENUE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MARGARET</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">12</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">SANLAM BUILDING</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">303</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DR. JAMES WALES PH.D.</LineData>
+                            <LineData name="LINE 2">GIS TECHNICAL SPECIALIST</LineData>
+                            <LineData name="LINE 3">DEVELOPMENT PLANNING DEPARTMENT</LineData>
+                            <LineData name="LINE 4">GERMISTON METROPOLITAN MUNICIPALITY</LineData>
+                            <LineData name="LINE 5">303 SANLAM BUILDING</LineData>
+                            <LineData name="LINE 6">12 MARGARET AVENUE</LineData>
+                            <LineData name="LINE 7">KEMPTON PARK</LineData>
+                            <LineData name="LINE 8">1619</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">PRODUCT MANAGER</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">VICKY</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">QUEIRO</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">PITNEY BOWES SA</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">(PTY) LTD.</U20.01.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">PRINTING SOLUTIONS DEPARTMENT</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1684</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KYALAMI</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">BOULEVARD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KYALAMI</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">145</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">KYALAMI BUILDING</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS. VICKY QUEIRO</LineData>
+                            <LineData name="LINE 2">PRODUCT MANAGER</LineData>
+                            <LineData name="LINE 3">PRINTING SOLUTIONS DEPARTMENT</LineData>
+                            <LineData name="LINE 4">PITNEY BOWES SA (PTY) LTD.</LineData>
+                            <LineData name="LINE 5">KYALAMI BUILDING</LineData>
+                            <LineData name="LINE 6">145 KYALAMI BOULEVARD</LineData>
+                            <LineData name="LINE 7">KYALAMI</LineData>
+                            <LineData name="LINE 8">1684</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">VIS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PIETERS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0063</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSTE RESTANTE</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">MENLYN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">VIS PIETERS</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">MENLYN</LineData>
+                            <LineData name="LINE 4">0063</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">THE BRANCH MANAGER</U10.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1684</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">KYALAMI</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE BRANCH MANAGER</LineData>
+                            <LineData name="LINE 2">KYALAMI</LineData>
+                            <LineData name="LINE 3">1684</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MBOKANE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1055</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUTH AFRICA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MHLUZI EXT 1</U40.16.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3345</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS SA MBOKANE</LineData>
+                            <LineData name="LINE 2">3345</LineData>
+                            <LineData name="LINE 3">MHLUZI EXT 1</LineData>
+                            <LineData name="LINE 4">1055</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

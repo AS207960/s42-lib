@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>MN</GroupDescription>
+            <GroupItemCount>46</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BATCHIMEG</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dorjiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15120</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MONGOLIA</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ULAANBAATAR</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sukhbaatar Dist</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">15th khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Naran Street 7</U40.21.00.00>
+                        <U40.32.00.00 uniq="U40Door">112 court</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dorjiin BATCHIMEG</LineData>
+                            <LineData name="LINE 2">Naran Street 7 112 court</LineData>
+                            <LineData name="LINE 3">15th khoroo, Sukhbaatar Dist</LineData>
+                            <LineData name="LINE 4">ULAANBAATAR 15120</LineData>
+                            <LineData name="LINE 5">MONGOLIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BATCHIMEG</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dorjiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14560</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MONGOLIA</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Jigjidjav street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">11 toot</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dorjiin BATCHIMEG</LineData>
+                            <LineData name="LINE 2">Jigjidjav street 9-11 toot</LineData>
+                            <LineData name="LINE 3">Ulaanbaatar 14560</LineData>
+                            <LineData name="LINE 4">MONGOLIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Enkhjargal</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Boldiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bayangol duureg</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-r khoroo</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">10-r khoroolol</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Temuulel town</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">101</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">57 toot</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Boldiin Enkhjargal</LineData>
+                            <LineData name="LINE 2">Temuulel town 101-57 toot</LineData>
+                            <LineData name="LINE 3">10-r khoroolol</LineData>
+                            <LineData name="LINE 4">8-r khoroo, Bayangol duureg</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 13345</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Enkhjargal</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Boldiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14190-0007</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sukhbaatar district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">7-r khoroo</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">11-r khoroolol</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Erkhuu street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">286 toot</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Boldiin Enkhjargal</LineData>
+                            <LineData name="LINE 2">Erkhuu street 7-286 toot</LineData>
+                            <LineData name="LINE 3">11-r khoroolol</LineData>
+                            <LineData name="LINE 4">7-r khoroo, Sukhbaatar district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 14190-0007</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bold</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">M.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16063-0003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bayangol district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">17-r khoroo</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">4-r khoroolol</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Amarsanaa street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">36a</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">80 door</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M. Bold</LineData>
+                            <LineData name="LINE 2">Amarsanaa street 36a-80 door</LineData>
+                            <LineData name="LINE 3">4-r khoroolol</LineData>
+                            <LineData name="LINE 4">17-r khoroo, Bayangol district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 16063-0003</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bold</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">M.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">18022</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Songinikhairkhan district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">25-r khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Odont street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">37 court</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M. Bold</LineData>
+                            <LineData name="LINE 2">Odont street 13-37 court</LineData>
+                            <LineData name="LINE 3">25-r khoroo, Songinikhairkhan district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 18022</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BAATAR</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bold</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Khuvsgul aimag</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tarialan sum</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Tavan tolgoin bag</U40.15.31.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">sunny side of mountain Namnan</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bold BAATAR</LineData>
+                            <LineData name="LINE 2">sunny side of mountain Namnan</LineData>
+                            <LineData name="LINE 3">Tavan tolgoin bag, Tarialan sum</LineData>
+                            <LineData name="LINE 4">Khuvsgul aimag 67013</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bat</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dorj</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">21011</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dornod aimag</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Khalkh gol sum</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Sunmber Bagh</U40.15.31.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dorj Bat</LineData>
+                            <LineData name="LINE 2">Sunmber Bagh, Khalkh gol sum</LineData>
+                            <LineData name="LINE 3">Dornod aimag 21011</LineData>
+                            <LineData name="LINE 4">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bulgan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Boloriin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13370</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2109</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PO 48</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Boloriin Bulgan</LineData>
+                            <LineData name="LINE 2">P.Box 2109 PO 48</LineData>
+                            <LineData name="LINE 3">Ulaanbaatar 13370</LineData>
+                            <LineData name="LINE 4">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">BULGAN</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Boloriin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0026</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">005/99168526</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Central post</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Boloriin BULGAN</LineData>
+                            <LineData name="LINE 2">Post box 005/99168526 Central post</LineData>
+                            <LineData name="LINE 3">Ulaanbaatar 15160-0026</LineData>
+                            <LineData name="LINE 4">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gerel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">O.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17030</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Khan-Uul district</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">15</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Post office 36</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">O. Gerel</LineData>
+                            <LineData name="LINE 2">POB 15 Post office 36</LineData>
+                            <LineData name="LINE 3">Khan-Uul district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 17030</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tuul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">83129</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Bayan-Ulgii aimag</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">poste restante</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Postal service department</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batiin Tuul</LineData>
+                            <LineData name="LINE 2">poste restante</LineData>
+                            <LineData name="LINE 3">Postal service department</LineData>
+                            <LineData name="LINE 4">Bayan-Ulgii aimag 83129</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Choijin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yadamiin</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Garmaa</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">N</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bayarzurkh district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-r horoo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Amar street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24a</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">75</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Yadamiin Choijin</LineData>
+                            <LineData name="LINE 2">c/o Garmaa N</LineData>
+                            <LineData name="LINE 3">Amar street 24a-75</LineData>
+                            <LineData name="LINE 4">8-r horoo, Bayarzurkh district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 13345</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Garmaa</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Naranhuugiin</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Confederation of Mongolian trade unions</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0065</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chingeltei district</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sukhbaatar square</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Naranhuugiin Garmaa</LineData>
+                            <LineData name="LINE 2">Confederation of Mongolian trade unions</LineData>
+                            <LineData name="LINE 3">Sukhbaatar square 65</LineData>
+                            <LineData name="LINE 4">Chingeltei district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 15160-0065</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Dorj</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gotoviin</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Nonary finance nonbank financial institutions</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16050-0023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bayangol district</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ikh toiruu</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Gotoviin Dorj</LineData>
+                            <LineData name="LINE 2">Nonary finance nonbank financial institutions</LineData>
+                            <LineData name="LINE 3">Ikh toiruu 65</LineData>
+                            <LineData name="LINE 4">Bayangol district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 16050-0023</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bat</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sambuugiin</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Doctor</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Intermed hospital</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Khan-Uul district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-r khoroo</U40.17.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doctor Sambuugiin Bat</LineData>
+                            <LineData name="LINE 2">Intermed hospital</LineData>
+                            <LineData name="LINE 3">2-r khoroo, Khan-Uul district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 17040-0001</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Dolgor</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Baldangiin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bayanzurkh district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-r khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">street Amar</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24a</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Baldangiin Dolgor</LineData>
+                            <LineData name="LINE 2">street Amar 24a-15</LineData>
+                            <LineData name="LINE 3">8-r khoroo, Bayanzurkh district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 13345</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Distillery  APU Co.Ltd</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Khan-uul district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-r khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chingis avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Distillery  APU Co.Ltd</LineData>
+                            <LineData name="LINE 2">Chingis avenue 4</LineData>
+                            <LineData name="LINE 3">2-r khoroo, Khan-uul district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 17040-0001</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Administration    “EREL” LLC</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0046</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Khan-uul district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-r khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chingis avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">23</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Administration    “EREL” LLC</LineData>
+                            <LineData name="LINE 2">Chingis avenue 23</LineData>
+                            <LineData name="LINE 3">2-r khoroo, Khan-uul district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 17040-0046</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Erel bank</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0038</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Khan-uul district</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-r khoroo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chingis avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">25</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Erel bank</LineData>
+                            <LineData name="LINE 2">Chingis avenue 25</LineData>
+                            <LineData name="LINE 3">2-r khoroo, Khan-uul district</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 17040-0038</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Manager</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Tsetseg</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">D.</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">service centre &quot;Khurs&quot;</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">18070-0009</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Songinokhairkhan district</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. D. Tsetseg</LineData>
+                            <LineData name="LINE 2">Manager</LineData>
+                            <LineData name="LINE 3">service centre &quot;Khurs&quot;</LineData>
+                            <LineData name="LINE 4">Songinokhairkhan district</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 18070-0009</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Tsetseg</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">D.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chingeltei duureg</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">3-r khoroo</U40.17.21.00>
+                        <U40.26.00.00 uniq="U40Building">BODI tower</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. D. Tsetseg</LineData>
+                            <LineData name="LINE 2">BODI tower</LineData>
+                            <LineData name="LINE 3">3-r khoroo, Chingeltei duureg</LineData>
+                            <LineData name="LINE 4">Ulaanbaatar 15160-0023</LineData>
+                            <LineData name="LINE 5">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Suhee</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Suren</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Mongolia</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ulaanbaatar</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chingeltei duureg</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">3-r khoroo</U40.17.21.00>
+                        <U40.26.00.00 uniq="U40Building">Khangarid palace</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">floor 11</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">door 1102</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Suren Suhee</LineData>
+                            <LineData name="LINE 2">Khangarid palace</LineData>
+                            <LineData name="LINE 3">floor 11 door 1102</LineData>
+                            <LineData name="LINE 4">3-r khoroo, Chingeltei duureg</LineData>
+                            <LineData name="LINE 5">Ulaanbaatar 15160-0023</LineData>
+                            <LineData name="LINE 6">Mongolia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Батчимэг</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Доржийн</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15120</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Сүхбаатар дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">15-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Нарангийн гудамж 7</U40.21.00.00>
+                        <U40.32.00.00 uniq="U40Door">112 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Доржийн Батчимэг</LineData>
+                            <LineData name="LINE 2">Нарангийн гудамж 7 112 тоот</LineData>
+                            <LineData name="LINE 3">15-р хороо, Сүхбаатар дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 15120</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Батчимэг</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Доржийн</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14560</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ц.Жигжиджавын гудамж</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">11 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Доржийн Батчимэг</LineData>
+                            <LineData name="LINE 2">Ц.Жигжиджавын гудамж 9-11 тоот</LineData>
+                            <LineData name="LINE 3">Улаанбаатар 14560</LineData>
+                            <LineData name="LINE 4">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ЭНХЖАРГАЛ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Болдын</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Баянгол дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-р хороо</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">10-р хороолол</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Тэмүүлэл хотхон</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">101</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">57 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Болдын ЭНХЖАРГАЛ</LineData>
+                            <LineData name="LINE 2">Тэмүүлэл хотхон 101-57 тоот</LineData>
+                            <LineData name="LINE 3">10-р хороолол</LineData>
+                            <LineData name="LINE 4">8-р хороо, Баянгол дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 13345</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ЭНХЖАРГАЛ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Болдын</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14190-0007</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Сүхбаатар дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">7-р хороо</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">11-р хороолол</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Эрхүүгийн гудамж</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">286 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Болдын ЭНХЖАРГАЛ</LineData>
+                            <LineData name="LINE 2">Эрхүүгийн гудамж 7-286 тоот</LineData>
+                            <LineData name="LINE 3">11-р хороолол</LineData>
+                            <LineData name="LINE 4">7-р хороо, Сүхбаатар дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 14190-0007</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Болд</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">М.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16063-0003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Баянгол дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">17-р хороо</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">4-р хороолол</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Амарсанаагийн гудамж</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">36а</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">80 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">М. Болд</LineData>
+                            <LineData name="LINE 2">Амарсанаагийн гудамж 36а-80 тоот</LineData>
+                            <LineData name="LINE 3">4-р хороолол</LineData>
+                            <LineData name="LINE 4">17-р хороо, Баянгол дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 16063-0003</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Болд</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">М.</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">18022</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Сонгинохайрхан дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">25-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Одотын</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">37 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">М. Болд</LineData>
+                            <LineData name="LINE 2">Одотын 13-37 тоот</LineData>
+                            <LineData name="LINE 3">25-р хороо, Сонгинохайрхан дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 18022</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">БААТАР</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Болд</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Хөвсгөл аймаг</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Тариалан сум</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Таван толгой баг</U40.15.31.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Намнан Уулын өвөр</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Болд БААТАР</LineData>
+                            <LineData name="LINE 2">Намнан Уулын өвөр</LineData>
+                            <LineData name="LINE 3">Таван толгой баг, Тариалан сум</LineData>
+                            <LineData name="LINE 4">Хөвсгөл аймаг 67013</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Бат</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ДОРЖ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">21011</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дорнод аймаг</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Халх гол сум</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Сүмбэр баг</U40.15.31.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ДОРЖ Бат</LineData>
+                            <LineData name="LINE 2">Сүмбэр баг, Халх гол сум</LineData>
+                            <LineData name="LINE 3">Дорнод аймаг 21011</LineData>
+                            <LineData name="LINE 4">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">БУЛГАН</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Болор</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13370</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Ш/х</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2109</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Шуудангийн салбар 48</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Болор БУЛГАН</LineData>
+                            <LineData name="LINE 2">Ш/х 2109 Шуудангийн салбар 48</LineData>
+                            <LineData name="LINE 3">Улаанбаатар 13370</LineData>
+                            <LineData name="LINE 4">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">БУЛГАН</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Болор</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0026</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар хот</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Ш/х</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">005/99168526</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Төв шуудан</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Болор БУЛГАН</LineData>
+                            <LineData name="LINE 2">Ш/х 005/99168526 Төв шуудан</LineData>
+                            <LineData name="LINE 3">Улаанбаатар хот 15160-0026</LineData>
+                            <LineData name="LINE 4">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ГЭРЭЛ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Очир</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17030</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Хан-Уул дүүрэг</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Ш/х</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">15</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Шуудангийн салбар-36</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Очир ГЭРЭЛ</LineData>
+                            <LineData name="LINE 2">Ш/х 15 Шуудангийн салбар-36</LineData>
+                            <LineData name="LINE 3">Хан-Уул дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 17030</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Туул</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батын</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">83129</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Баян-Өлгийн аймаг</U40.15.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">өөрөө хүлээн авагч</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Шуудангийн үйлчилгээний газар</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батын Туул</LineData>
+                            <LineData name="LINE 2">өөрөө хүлээн авагч</LineData>
+                            <LineData name="LINE 3">Шуудангийн үйлчилгээний газар</LineData>
+                            <LineData name="LINE 4">Баян-Өлгийн аймаг 83129</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Чойжинд</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ЯДАМ</U10.08.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">ГАРМАА</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Наранхүүгийн</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Баянзүрх дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Амарын гудамж</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24а</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">75 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ЯДАМ Чойжинд</LineData>
+                            <LineData name="LINE 2">ГАРМАА Наранхүүгийн</LineData>
+                            <LineData name="LINE 3">Амарын гудамж 24а-75 тоот</LineData>
+                            <LineData name="LINE 4">8-р хороо, Баянзүрх дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 13345</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ГАРМАА</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Наранхүү</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Монголын үйлдвэрчний эвлэлийн холбоо</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0065</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Чингэлтэй дүүрэг</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Сүхбаатарын талбай</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Наранхүү ГАРМАА</LineData>
+                            <LineData name="LINE 2">Монголын үйлдвэрчний эвлэлийн холбоо</LineData>
+                            <LineData name="LINE 3">Сүхбаатарын талбай 65</LineData>
+                            <LineData name="LINE 4">Чингэлтэй дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 15160-0065</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ДОРЖ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Готов</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Есөн финанс ББСБ</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16050-0023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Баянгол дүүрэг</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Их тойруу</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Готов ДОРЖ</LineData>
+                            <LineData name="LINE 2">Есөн финанс ББСБ</LineData>
+                            <LineData name="LINE 3">Их тойруу 65</LineData>
+                            <LineData name="LINE 4">Баянгол дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 16050-0023</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">БАТ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Самбуу</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Доктор</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Интермед эмнэлэг</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Хан-Уул дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-р хороо</U40.17.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Доктор Самбуу БАТ</LineData>
+                            <LineData name="LINE 2">Интермед эмнэлэг</LineData>
+                            <LineData name="LINE 3">2-р хороо, Хан-Уул дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 17040-0001</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Балдан</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Долгор</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Баянзүрх</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">8-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Амарын гудамж</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24а</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">15 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Долгор Балдан</LineData>
+                            <LineData name="LINE 2">Амарын гудамж 24а-15 тоот</LineData>
+                            <LineData name="LINE 3">8-р хороо, Баянзүрх</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 13345</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">АПУ ХХК-ний үйлдвэр</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17040-0001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Хан-Уул дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Чингисийн өргөн чөлөө</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">АПУ ХХК-ний үйлдвэр</LineData>
+                            <LineData name="LINE 2">Чингисийн өргөн чөлөө 4</LineData>
+                            <LineData name="LINE 3">2-р хороо, Хан-Уул дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 17040-0001</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Эрэл Группын захиргаа</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17061-0046</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Хан-Уул дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">2-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Чингисийн өргөн чөлөө</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">23</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Эрэл Группын захиргаа</LineData>
+                            <LineData name="LINE 2">Чингисийн өргөн чөлөө 23</LineData>
+                            <LineData name="LINE 3">2-р хороо, Хан-Уул дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 17061-0046</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Эрэл банк</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">17061-0038</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Хан-Уул  дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">3-р хороо</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Чингисийн өргөн чөлөө</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">25</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Эрэл банк</LineData>
+                            <LineData name="LINE 2">Чингисийн өргөн чөлөө 25</LineData>
+                            <LineData name="LINE 3">3-р хороо, Хан-Уул  дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 17061-0038</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">зохион байгуулагч</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ЦЭЦЭГ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Дорж</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Хөрс үйлчилгээний төв</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">18070-0009</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Сонгинохайрхан дүүрэг</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Дорж ЦЭЦЭГ</LineData>
+                            <LineData name="LINE 2">зохион байгуулагч</LineData>
+                            <LineData name="LINE 3">Хөрс үйлчилгээний төв</LineData>
+                            <LineData name="LINE 4">Сонгинохайрхан дүүрэг</LineData>
+                            <LineData name="LINE 5">Улаанбаатар 18070-0009</LineData>
+                            <LineData name="LINE 6">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ЦЭЦЭГ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Дорж</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15160-0023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар хот</U40.15.11.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Чингэлтэй дүүрэг</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">3-р хороо</U40.17.21.00>
+                        <U40.26.00.00 uniq="U40Building">Бодь цамхаг</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Дорж ЦЭЦЭГ</LineData>
+                            <LineData name="LINE 2">Бодь цамхаг</LineData>
+                            <LineData name="LINE 3">3-р хороо, Чингэлтэй дүүрэг</LineData>
+                            <LineData name="LINE 4">Улаанбаатар хот 15160-0023</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">СҮХЭЭ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сүрэн</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15161-0011</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Монгол Улс</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Улаанбаатар</U40.15.11.00>
+                        <U40.26.00.00 uniq="U40Building">Хангарьд ордон</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">11 давхар</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">1102 тоот</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">mn</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сүрэн СҮХЭЭ</LineData>
+                            <LineData name="LINE 2">Хангарьд ордон</LineData>
+                            <LineData name="LINE 3">11 давхар 1102 тоот</LineData>
+                            <LineData name="LINE 4">Улаанбаатар 15161-0011</LineData>
+                            <LineData name="LINE 5">Монгол Улс</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

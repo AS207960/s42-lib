@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>UA</GroupDescription>
+            <GroupItemCount>44</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49015</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Дніпропетровськ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Федорової</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Федорової, буд. 1</LineData>
+                            <LineData name="LINE 3">м. Дніпропетровськ, 49015</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49015</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Україна</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Дніпропетровськ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Федорової</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 13</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Федорової, буд. 1, кв. 13</LineData>
+                            <LineData name="LINE 3">м. Дніпропетровськ, 49015</LineData>
+                            <LineData name="LINE 4">Україна</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Дніпропетровськ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">просп. Гагаріна</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 23</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">просп. Гагаріна, буд. 23, кв. 15</LineData>
+                            <LineData name="LINE 3">м. Дніпропетровськ, 49010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">02121</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Україна</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">5-й пров. Баха</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 2</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">5-й пров. Баха, буд. 2, кв. 17</LineData>
+                            <LineData name="LINE 3">м. Київ, 02121</LineData>
+                            <LineData name="LINE 4">Україна</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03057</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">бульв. Шевченка</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 65</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 19</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">бульв. Шевченка, буд. 65, кв. 19</LineData>
+                            <LineData name="LINE 3">м. Київ, 03057</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01030</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Андріївський узвіз</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 5</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">Андріївський узвіз, буд. 5, кв. 1</LineData>
+                            <LineData name="LINE 3">м. Київ, 01030</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Щербакова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 60</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">корп. 2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Щербакова, буд. 60, корп. 2, кв. 86</LineData>
+                            <LineData name="LINE 3">м. Київ, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Щербакова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 60 Б</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Щербакова, буд. 60 Б, кв. 86</LineData>
+                            <LineData name="LINE 3">м. Київ, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24302</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Вінницька обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">м. Тростянець</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Визволителів</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 6</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 81</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Визволителів, буд. 6, кв. 81</LineData>
+                            <LineData name="LINE 3">м. Тростянець</LineData>
+                            <LineData name="LINE 4">Вінницька обл., 24302</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ТОВ &quot;Ів Роше&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20640</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Черкаська обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">м. Шпола</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">просп. Вєтрова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 62</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ТОВ &quot;Ів Роше&quot;</LineData>
+                            <LineData name="LINE 2">просп. Вєтрова, буд. 62</LineData>
+                            <LineData name="LINE 3">м. Шпола</LineData>
+                            <LineData name="LINE 4">Черкаська обл., 20640</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Краєзнавчий музей</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51410</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дніпропетровська обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">м. Павлоград</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Миру</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 62А</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Краєзнавчий музей</LineData>
+                            <LineData name="LINE 2">вул. Миру, буд. 62А</LineData>
+                            <LineData name="LINE 3">м. Павлоград</LineData>
+                            <LineData name="LINE 4">Дніпропетровська обл., 51410</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Київський коледж зв&quot;язку </U10.00.00.00>
+                        <U10.03.00.00 uniq="U10Function">Ректору</U10.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01033</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Леонтовича</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 11</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">корп. 5</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ректору</LineData>
+                            <LineData name="LINE 2">Київський коледж зв&quot;язку </LineData>
+                            <LineData name="LINE 3">вул. Леонтовича, буд. 11, корп. 5</LineData>
+                            <LineData name="LINE 4">м. Київ, 01033</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53551</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дніпропетровська обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Томаківський р-н</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">с. Ганнівка</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Теліги</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 45</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Теліги, буд. 3, кв. 45</LineData>
+                            <LineData name="LINE 3">с. Ганнівка</LineData>
+                            <LineData name="LINE 4">Томаківський р-н</LineData>
+                            <LineData name="LINE 5">Дніпропетровська обл., 53551</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53551</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дніпропетровська обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Томаківський р-н</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">с. Ганнівка</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Виноградна</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">вул. Виноградна, буд. 5</LineData>
+                            <LineData name="LINE 3">с. Ганнівка</LineData>
+                            <LineData name="LINE 4">Томаківський р-н</LineData>
+                            <LineData name="LINE 5">Дніпропетровська обл., 53551</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Віталію</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ломанову</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Анатолійовичу</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53150</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дніпропетровська обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Софіївський р-н</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">селище Степове</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">проїзд Машиністів</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 458</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ломанову Віталію Анатолійовичу</LineData>
+                            <LineData name="LINE 2">проїзд Машиністів, буд. 458</LineData>
+                            <LineData name="LINE 3">селище Степове</LineData>
+                            <LineData name="LINE 4">Софіївський р-н</LineData>
+                            <LineData name="LINE 5">Дніпропетровська обл., 53150</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Вірі</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гончар</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Микитівні</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">До запитання</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">м. Київ 111</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гончар Вірі Микитівні</LineData>
+                            <LineData name="LINE 2">До запитання</LineData>
+                            <LineData name="LINE 3">м. Київ 111, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Аллі</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Орищак</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Борисівні</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04128</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">а/с 158</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">м. Київ 126</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Орищак Аллі Борисівні</LineData>
+                            <LineData name="LINE 2">а/с 158</LineData>
+                            <LineData name="LINE 3">м. Київ 126, 04128</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ТОВ &quot;Імакс&quot;</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Тарасу</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Іванову</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Володимировичу</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20702</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Черкаська обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">м. Сміла</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">просп. Кольцова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 58</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ТОВ &quot;Імакс&quot;</LineData>
+                            <LineData name="LINE 2">Іванову Тарасу Володимировичу</LineData>
+                            <LineData name="LINE 3">просп. Кольцова, буд. 58</LineData>
+                            <LineData name="LINE 4">м. Сміла</LineData>
+                            <LineData name="LINE 5">Черкаська обл., 20702</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ательє &quot;Ірена&quot;</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ірині</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Макаровій</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Степанівні</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51206</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Дніпропетровська обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">м. Новомосковськ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Будівельників</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 2А</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ательє &quot;Ірена&quot;</LineData>
+                            <LineData name="LINE 2">Макаровій Ірині Степанівні</LineData>
+                            <LineData name="LINE 3">вул. Будівельників, буд. 2А</LineData>
+                            <LineData name="LINE 4">м. Новомосковськ</LineData>
+                            <LineData name="LINE 5">Дніпропетровська обл., 51206</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Київського політехнічного інституту</U10.00.00.00>
+                        <U10.03.00.00 uniq="U10Function">Ректору</U10.03.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Івану</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Захарову</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Леонідовичу</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01033</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">м. Київ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">вул. Перемоги</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">буд. 1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">корп. 1</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ректору </LineData>
+                            <LineData name="LINE 2">Київського політехнічного інституту</LineData>
+                            <LineData name="LINE 3">Захарову Івану Леонідовичу</LineData>
+                            <LineData name="LINE 4">вул. Перемоги, буд. 1, корп. 1</LineData>
+                            <LineData name="LINE 5">м. Київ, 01033</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49015</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Dnipropetrovs&apos;k</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Fedorovoi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Fedorovoi, bud. 1</LineData>
+                            <LineData name="LINE 3">m. Dnipropetrovs&apos;k, 49015</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49015</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Ukraina</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Dnipropetrovs&apos;k</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Fedorovoi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 13</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Fedorovoi, bud. 1, kv. 13</LineData>
+                            <LineData name="LINE 3">m. Dnipropetrovs&apos;k, 49015</LineData>
+                            <LineData name="LINE 4">Ukraina</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Dnipropetrovs&apos;k</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">prosp. Haharina</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 23</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">prosp. Haharina, bud. 23, kv. 15</LineData>
+                            <LineData name="LINE 3">m. Dnipropetrovs&apos;k, 49010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">02121</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Ukraina</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">5-i prov. Bakha</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 2</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">5-i prov. Bakha, bud. 2, kv. 17</LineData>
+                            <LineData name="LINE 3">m. Kyiv, 02121</LineData>
+                            <LineData name="LINE 4">Ukraina</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03057</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">bul&apos;v. Shevchenka</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 65</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 19</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">bul&apos;v. Shevchenka, bud. 65, kv. 19</LineData>
+                            <LineData name="LINE 3">m. Kyiv, 03057</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01030</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Andriivs&apos;kyi uzviz</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 5</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">Andriivs&apos;kyi uzviz, bud. 5, kv. 1</LineData>
+                            <LineData name="LINE 3">m. Kyiv, 01030</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Shcherbakova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 60</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp. 2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Shcherbakova, bud. 60, korp. 2, kv. 86</LineData>
+                            <LineData name="LINE 3">m. Kyiv, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Shcherbakova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 60 B</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Shcherbakova, bud. 60 B, kv. 86</LineData>
+                            <LineData name="LINE 3">m. Kyiv, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24302</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Vinnyts&apos;ka obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">m. Trostianets&apos;</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Vyzvolyteliv</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 6</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 81</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Vyzvolyteliv, bud. 6, kv. 81</LineData>
+                            <LineData name="LINE 3">m. Trostianets&apos;</LineData>
+                            <LineData name="LINE 4">Vinnyts&apos;ka obl., 24302</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">TOV &quot;Iv Roshe&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20640</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Cherkas&apos;ka obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">m. Shpola</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">prosp. Vietrova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 62</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TOV &quot;Iv Roshe&quot;</LineData>
+                            <LineData name="LINE 2">prosp. Vietrova, bud. 62</LineData>
+                            <LineData name="LINE 3">m. Shpola</LineData>
+                            <LineData name="LINE 4">Cherkas&apos;ka obl., 20640</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kraieznavchyi muzei</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51410</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dnipropetrovs&apos;ka obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">m. Pavlohrad</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Myru</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 62A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kraieznavchyi muzei</LineData>
+                            <LineData name="LINE 2">vul. Myru, bud. 62A</LineData>
+                            <LineData name="LINE 3">m. Pavlohrad</LineData>
+                            <LineData name="LINE 4">Dnipropetrovs&apos;ka obl., 51410</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kyivs&apos;kyi koledzh zv&quot;iazku </U10.00.00.00>
+                        <U10.03.00.00 uniq="U10Function">Rektoru</U10.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01033</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Leontovycha</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 11</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp. 5</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rektoru</LineData>
+                            <LineData name="LINE 2">Kyivs&apos;kyi koledzh zv&quot;iazku </LineData>
+                            <LineData name="LINE 3">vul. Leontovycha, bud. 11, korp. 5</LineData>
+                            <LineData name="LINE 4">m. Kyiv, 01033</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53551</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dnipropetrovs&apos;ka obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tomakivs&apos;kyi r-n</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">s. Hannivka</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Telihy</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 45</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Telihy, bud. 3, kv. 45</LineData>
+                            <LineData name="LINE 3">s. Hannivka</LineData>
+                            <LineData name="LINE 4">Tomakivs&apos;kyi r-n</LineData>
+                            <LineData name="LINE 5">Dnipropetrovs&apos;ka obl., 53551</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53551</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dnipropetrovs&apos;ka obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tomakivs&apos;kyi r-n</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">s. Hannivka</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Vynohradna</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">vul. Vynohradna, bud. 5</LineData>
+                            <LineData name="LINE 3">s. Hannivka</LineData>
+                            <LineData name="LINE 4">Tomakivs&apos;kyi r-n</LineData>
+                            <LineData name="LINE 5">Dnipropetrovs&apos;ka obl., 53551</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vitaliiu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lomanovu</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anatoliiovychu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53150</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dnipropetrovs&apos;ka obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Sofiivs&apos;kyi r-n</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">selyshche Stepove</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">proizd Mashynistiv</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 458</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lomanovu Vitaliiu Anatoliiovychu</LineData>
+                            <LineData name="LINE 2">proizd Mashynistiv, bud. 458</LineData>
+                            <LineData name="LINE 3">selyshche Stepove</LineData>
+                            <LineData name="LINE 4">Sofiivs&apos;kyi r-n</LineData>
+                            <LineData name="LINE 5">Dnipropetrovs&apos;ka obl., 53150</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Viri</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Honchar</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Mykytivni</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04111</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Do zapytannia</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">m. Kyiv 111</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Honchar Viri Mykytivni</LineData>
+                            <LineData name="LINE 2">Do zapytannia</LineData>
+                            <LineData name="LINE 3">m. Kyiv 111, 04111</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alli</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Oryshchak</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Borysivni</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">04128</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">a/s 158</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">m. Kyiv 126</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oryshchak Alli Borysivni</LineData>
+                            <LineData name="LINE 2">a/s 158</LineData>
+                            <LineData name="LINE 3">m. Kyiv 126, 04128</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">TOV &quot;Imaks&quot;</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Tarasu</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Ivanovu</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Volodymyrovychu</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20702</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Cherkas&apos;ka obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">m. Smila</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">prosp. Kol&apos;tsova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 58</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TOV &quot;Imaks&quot;</LineData>
+                            <LineData name="LINE 2">Ivanovu Tarasu Volodymyrovychu</LineData>
+                            <LineData name="LINE 3">prosp. Kol&apos;tsova, bud. 58</LineData>
+                            <LineData name="LINE 4">m. Smila</LineData>
+                            <LineData name="LINE 5">Cherkas&apos;ka obl., 20702</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Atel&apos;ie &quot;Irena&quot;</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Iryni</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Makarovii</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Stepanivni</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51206</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Dnipropetrovs&apos;ka obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">m. Novomoskovs&apos;k</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Budivel&apos;nykiv</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 2A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Atel&apos;ie &quot;Irena&quot;</LineData>
+                            <LineData name="LINE 2">Makarovii Iryni Stepanivni</LineData>
+                            <LineData name="LINE 3">vul. Budivel&apos;nykiv, bud. 2A</LineData>
+                            <LineData name="LINE 4">m. Novomoskovs&apos;k</LineData>
+                            <LineData name="LINE 5">Dnipropetrovs&apos;ka obl., 51206</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kyivs&apos;koho politekhnichnoho instytutu</U10.00.00.00>
+                        <U10.03.00.00 uniq="U10Function">Rektoru</U10.03.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ivanu</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Zakharovu</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">Leonidovychu</U20.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01033</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">m. Kyiv</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">vul. Peremohy</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bud. 1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp. 1</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rektoru </LineData>
+                            <LineData name="LINE 2">Kyivs&apos;koho politekhnichnoho instytutu</LineData>
+                            <LineData name="LINE 3">Zakharovu Ivanu Leonidovychu</LineData>
+                            <LineData name="LINE 4">vul. Peremohy, bud. 1, korp. 1</LineData>
+                            <LineData name="LINE 5">m. Kyiv, 01033</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Людмилі</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Бровкіній</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Григорівні</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01001</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">До запитання</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">м.Київ 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Бровкіній Людмилі Григорівні</LineData>
+                            <LineData name="LINE 2">До запитання</LineData>
+                            <LineData name="LINE 3">м.Київ 1, 01001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Валентині</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Соколовій</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Вікторівні</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03190</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">а/с 325</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">м.Київ 190</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Соколовій Валентині Вікторівні</LineData>
+                            <LineData name="LINE 2">а/с 325</LineData>
+                            <LineData name="LINE 3">м.Київ 190, 03190</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Liudmyli</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brovkinii</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Hryhorivni</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01001</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Do zapytannia</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">m.Kyiv 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brovkinii Liudmyli Hryhorivni</LineData>
+                            <LineData name="LINE 2">Do zapytannia</LineData>
+                            <LineData name="LINE 3">m.Kyiv 1, 01001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Valentyni</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sokolovii</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Viktorivni</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03190</U40.13.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">a/s 325</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">m.Kyiv 190</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uk</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sokolovii Valentyni Viktorivni</LineData>
+                            <LineData name="LINE 2">a/s 325</LineData>
+                            <LineData name="LINE 3">m.Kyiv 190, 03190</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

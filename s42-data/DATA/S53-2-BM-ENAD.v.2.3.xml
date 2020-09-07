@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BM</GroupDescription>
+            <GroupItemCount>12</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">C. J.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Fox</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">PG 04</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BERMUDA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Paget</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">South Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">157</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Twin Gables</U40.26.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. C. J. Fox</LineData>
+                            <LineData name="LINE 2">Twin Gables</LineData>
+                            <LineData name="LINE 3">157 South Road</LineData>
+                            <LineData name="LINE 4">Paget PG 04</LineData>
+                            <LineData name="LINE 5">BERMUDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Karl</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rygh</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">HM 08</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Par-La-Ville Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Karl Rygh</LineData>
+                            <LineData name="LINE 2">12 Par-La-Ville Road</LineData>
+                            <LineData name="LINE 3">Hamilton HM 08</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Dominic</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Powell</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">WK BX</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Warwick</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PO Box WK 120</U40.19.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Dominic Powell</LineData>
+                            <LineData name="LINE 2">PO Box WK 120</LineData>
+                            <LineData name="LINE 3">Warwick WK BX</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Emmanuel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Durousseau</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Arch Reinsurance Ltd.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">HM 08</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Pembroke</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Pitts Bay Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">100</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Waterloo House</U40.26.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Emmanuel Durousseau</LineData>
+                            <LineData name="LINE 2">Arch Reinsurance Ltd.</LineData>
+                            <LineData name="LINE 3">Waterloo House</LineData>
+                            <LineData name="LINE 4">100 Pitts Bay Road</LineData>
+                            <LineData name="LINE 5">Pembroke HM 08</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Private &amp; Confidential</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Celia E.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jones</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Island Health Services</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">DV BX</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Devonshire</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PO Box DV 131</U40.19.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Private &amp; Confidential Mrs. Celia E. Jones</LineData>
+                            <LineData name="LINE 2">Island Health Services</LineData>
+                            <LineData name="LINE 3">PO Box DV 131</LineData>
+                            <LineData name="LINE 4">Devonshire DV BX</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Raymond</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">O&apos;Leary</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">HM AX</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PO Box HM 393</U40.19.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Raymond O&apos;Leary</LineData>
+                            <LineData name="LINE 2">PO Box HM 393</LineData>
+                            <LineData name="LINE 3">Hamilton HM AX</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Edith</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Phipps</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">HM 17</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Angle Street</U40.21.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss Edith Phipps</LineData>
+                            <LineData name="LINE 2">Angle Street</LineData>
+                            <LineData name="LINE 3">Hamilton HM 17</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Madame</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Jennifer</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smith</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">CR 01</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Crawl</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Abbott Cliff</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Madame Jennifer Smith</LineData>
+                            <LineData name="LINE 2">8 Abbott Cliff</LineData>
+                            <LineData name="LINE 3">Crawl CR 01</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">June</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rawlins</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">DV 02</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Devonshire</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mary Victoria Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss June Rawlins</LineData>
+                            <LineData name="LINE 2">27 Mary Victoria Road</LineData>
+                            <LineData name="LINE 3">Devonshire DV 02</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Gilbert Institute School PTA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">PG 04</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Paget</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">St. Michael&apos;s Lane</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">43</U40.24.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gilbert Institute School PTA</LineData>
+                            <LineData name="LINE 2">43 St. Michael&apos;s Lane</LineData>
+                            <LineData name="LINE 3">Paget PG 04</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kenneth</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hammond</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">CR 04</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BERMUDA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mount Wyndham Drive</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit 9</U40.32.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kenneth Hammond</LineData>
+                            <LineData name="LINE 2">Unit 9</LineData>
+                            <LineData name="LINE 3">10 Mount Wyndham Drive</LineData>
+                            <LineData name="LINE 4">Hamilton CR 04</LineData>
+                            <LineData name="LINE 5">BERMUDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Lucia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Reyes Alonzo De Gift</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">PG 06</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BERMUDA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Devonshire</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Parsons Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">68</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Lower Apt.</U40.32.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Lucia Reyes Alonzo De Gift</LineData>
+                            <LineData name="LINE 2">Lower Apt.</LineData>
+                            <LineData name="LINE 3">68 Parsons Road</LineData>
+                            <LineData name="LINE 4">Devonshire PG 06</LineData>
+                            <LineData name="LINE 5">BERMUDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

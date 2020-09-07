@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This is the Morocco template representing the French and Arabic street address and postal box formats using UPU codes and rendition instructions.  It has been validated using the Postal Address Template Description Language (PATDL) versiom 2.7.3 W3C schema. 
+	The first content definition is for Arabic, and the second is for French.
+	The file name is S42-8-MA-PATDL.v.2.7.3.xml.
+-->
+<patdl.2.7.3.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PATDL.v.2.7.3.xsd">
+	<!--  -->
+	<identifier>
+		<referenceKey>UPU-MA</referenceKey>
+		<elementIdentifier>
+			<type>code</type>
+			<prefix>U</prefix>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</elementIdentifier>
+		<elementDefiner>
+			<type>descriptive</type>
+			<language>English</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</elementDefiner>
+		<elementDescriptor>
+			<type/>
+			<language/>
+			<system/>
+			<version/>
+			<source/>
+		</elementDescriptor>
+		<renditionInstruction>
+			<type>mnemonic</type>
+			<language>EN</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</renditionInstruction>
+		<templateSelectionData>
+			<conditionalTemplateData>
+				<useTemplateIdentifier>
+					<templateType>ADR</templateType>
+					<countryCode>MA</countryCode>
+					<userId>UPU</userId>
+					<templateSeqNum>001</templateSeqNum>
+					<templateVersion>0001</templateVersion>
+				</useTemplateIdentifier>	
+				<category>U50.50.00.00</category>
+				<value>Arab</value>
+			</conditionalTemplateData>
+			<conditionalTemplateData>
+				<useTemplateIdentifier>
+					<templateType>ADR</templateType>
+					<countryCode>MA</countryCode>
+					<userId>UPU</userId>
+					<templateSeqNum>002</templateSeqNum>
+					<templateVersion>0001</templateVersion>
+				</useTemplateIdentifier>	
+				<category>U50.50.00.00</category>
+				<value>Latn</value>
+			</conditionalTemplateData>
+		</templateSelectionData>
+	</identifier>
+	<contentDefinition>
+		<templateName>MA</templateName>
+		<templateIdentifier>
+			<templateType>ADR</templateType>
+			<countryCode>MA</countryCode>
+			<userId>UPU</userId>
+			<templateSeqNum>001</templateSeqNum>
+			<templateVersion>0001</templateVersion>
+		</templateIdentifier>
+		<defaultDelimiter>' '</defaultDelimiter>
+		<defaultSeparator>';'</defaultSeparator>
+		<defaultSequencer>','</defaultSequencer>
+		<defaultCollector>'-'</defaultCollector>
+		<userPreferences>
+			<characterSet>UNICODE</characterSet>
+			<qualityThreshold/>
+		</userPreferences>
+		<addressMetadata>
+			<addressLanguage>ar</addressLanguage>
+			<addressLanguage>fr</addressLanguage>
+			<addressScript>Arab</addressScript>
+			<addressScript>Latn</addressScript>
+			<addressFormat>
+				<addressFormatTypeNumber>1</addressFormatTypeNumber>
+				<addressFormatTypeDescription>S42 Testing</addressFormatTypeDescription>
+			</addressFormat>
+			<despatchingCountry></despatchingCountry>
+			<deliveringCountry></deliveringCountry>
+		</addressMetadata>
+		<triggerConditions>
+			<lineSelect>
+				<lineName lineNumber="001">name</lineName>
+			</lineSelect>
+			<lineSelect>
+				<hasValue>U50.50.00.00;"Arab"</hasValue>
+				<lineName lineNumber="002">building details ar</lineName>
+				<defaultCase/>
+				<lineName lineNumber="002">building details fr</lineName>				
+			</lineSelect>
+			<lineSelect>
+				<lineName lineNumber="003">building</lineName>
+				<lineName lineNumber="004">street address</lineName>
+				<lineName lineNumber="005">post office box</lineName>
+				<lineName lineNumber="006">district</lineName>
+			</lineSelect>
+			<lineSelect>
+				<hasValue>U50.50.00.00;"Arab"</hasValue>
+				<lineName lineNumber="007">postcode ar</lineName>
+				<defaultCase/>
+				<lineName lineNumber="007">postcode fr</lineName>
+			</lineSelect>	
+			<lineSelect>
+			 	<isNotPopulated>U50.53.00.00</isNotPopulated> 
+				<lineName lineNumber="008">external country</lineName>
+			</lineSelect>
+		</triggerConditions>
+		<lineData>
+			<lineName lineNumber="001">name</lineName>
+			<lineComponent>
+				<componentId>NM-AR</componentId>
+				<priority>001</priority>
+				<elementData>
+					<elementId>U10.05.00.00</elementId>
+					<elementDef>form of address</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.10.00.00</elementId>
+					<elementDef>qualification</elementDef>
+     			</elementData>
+				<elementData>
+					<elementId>U10.06.00.00</elementId>
+					<elementDef>given name</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.08.00.00</elementId>
+					<elementDef>surname</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="002">building details ar</lineName>
+			<lineComponent>
+				<componentId>BD-AR</componentId>
+				<priority>005</priority>
+				<elementData>
+					<elementId>U40.31.00.00</elementId>
+					<elementDef>floor</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.32.11.11</elementId>
+					<elementDef>door type</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.32.11.21</elementId>
+					<elementDef>door ind</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="002">building details fr</lineName>
+			<lineComponent>
+				<componentId>BD-FR</componentId>
+				<priority>005</priority>
+				<elementData>
+					<elementId>U40.32.11.11</elementId>
+					<elementDef>door type</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.32.11.21</elementId>
+					<elementDef>door ind</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.31.00.00</elementId>
+					<elementDef>floor</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="003">building</lineName>
+			<lineComponent>
+				<componentId>BG</componentId>
+				<priority>006</priority>
+				<elementData>
+					<elementId>U40.29.00.00</elementId>
+					<elementDef>wing</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>		
+			<lineName lineNumber="004">street address</lineName>		
+			<lineComponent>
+				<componentId>ST</componentId>
+				<priority>003</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>street no</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.21</elementId>
+					<elementDef>prec primary thoro type</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.41</elementId>
+					<elementDef>primary thoro name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="005">post office box</lineName>
+			<lineComponent>
+				<componentId>PB</componentId>
+				<priority>004</priority>
+				<elementData>
+					<elementId>U40.19.11.11</elementId>
+					<elementDef>del serv type</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>			
+				<elementData>
+					<elementId>U40.19.11.21</elementId>
+					<elementDef>del serv indicator</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="006">district</lineName>
+			<lineComponent>
+				<componentId>DS</componentId>
+				<priority>007</priority>
+				<elementData>
+					<elementId>U40.17.00.00</elementId>
+					<elementDef>district</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="007">postcode ar</lineName>
+			<lineComponent>
+				<componentId>PC-AR</componentId>
+				<priority>002</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.13.00.00</elementId>
+					<elementDef>postcode</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="007">postcode fr</lineName>
+			<lineComponent>
+				<componentId>PC-FR</componentId>
+				<priority>002</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+					<elementData>
+					<elementId>U40.13.00.00</elementId>
+					<elementDef>postcode</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="008">external country</lineName>
+			<lineComponent>
+				<componentId>EC</componentId>
+				<priority>008</priority>
+				<elementData>
+					<elementId>U40.14.00.00</elementId>
+					<elementDef>country name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+	</contentDefinition>
+</patdl.2.7.3.xml>

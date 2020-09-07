@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>CZ</GroupDescription>
+            <GroupItemCount>25</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Paní</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Božena</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Novotná</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 16</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Stavbařů</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4211</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA 916</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paní</LineData>
+                            <LineData name="LINE 2">Božena Novotná</LineData>
+                            <LineData name="LINE 3">Stavbařů 4211</LineData>
+                            <LineData name="LINE 4">190 16 PRAHA 916</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Paní</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Božena</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Novotná</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">narozena 1946</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 16</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Stavbařů</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4211</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA 916</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paní</LineData>
+                            <LineData name="LINE 2">Božena Novotná</LineData>
+                            <LineData name="LINE 3">narozena 1946</LineData>
+                            <LineData name="LINE 4">Stavbařů 4211</LineData>
+                            <LineData name="LINE 5">190 16 PRAHA 916</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Slečna</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Kamila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zelená</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">u</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">pana</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Tomáše</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Červeného</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">186 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Borovského</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">33</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA 86</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Slečna</LineData>
+                            <LineData name="LINE 2">Kamila Zelená</LineData>
+                            <LineData name="LINE 3">u pana Tomáše Červeného</LineData>
+                            <LineData name="LINE 4">Borovského 33</LineData>
+                            <LineData name="LINE 5">186 00 PRAHA 86</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Vážená paní</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Marie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kousalová</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">513 01</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Roprachtice</U40.16.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">129</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">SEMILY</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vážená paní</LineData>
+                            <LineData name="LINE 2">Marie Kousalová</LineData>
+                            <LineData name="LINE 3">Roprachtice 129</LineData>
+                            <LineData name="LINE 4">513 01 SEMILY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">OKNOPLAST</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">a.s.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">460 15</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nám. Svobody</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">45</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">LIBEREC 15</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">OKNOPLAST, a.s.</LineData>
+                            <LineData name="LINE 2">Nám. Svobody 45</LineData>
+                            <LineData name="LINE 3">460 15 LIBEREC 15</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Pan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">František</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Koucký</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">273 01</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poštovní přihrádka</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">72</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Kamenné Žehrovice</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pan</LineData>
+                            <LineData name="LINE 2">František Koucký</LineData>
+                            <LineData name="LINE 3">Poštovní přihrádka 72</LineData>
+                            <LineData name="LINE 4">273 01 Kamenné Žehrovice</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Vážená paní</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Anežka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Česká</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">senátorka PČR</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">118 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Valdštejnské nám.</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">17</U40.24.11.21>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">4</U40.24.12.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA 011</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vážená paní</LineData>
+                            <LineData name="LINE 2">Anežka Česká, senátorka PČR</LineData>
+                            <LineData name="LINE 3">Valdštejnské nám. 17/4</LineData>
+                            <LineData name="LINE 4">118 00 PRAHA 011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Eva</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hásková</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Mgr.</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">daňová poradkyně</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">512 11</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Věnceslava Metelky</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">114</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Vysoké nad Jizerou</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mgr. Eva Hásková</LineData>
+                            <LineData name="LINE 2">daňová poradkyně</LineData>
+                            <LineData name="LINE 3">Věnceslava Metelky 114</LineData>
+                            <LineData name="LINE 4">512 11 Vysoké nad Jizerou</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Pan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bohumil</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Frkal</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">398 11</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Dodávací schrána</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">B/52</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PROTIVÍN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pan</LineData>
+                            <LineData name="LINE 2">Bohumil Frkal</LineData>
+                            <LineData name="LINE 3">Dodávací schrána B/52</LineData>
+                            <LineData name="LINE 4">398 11 PROTIVÍN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Vážený pan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Matěj</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kopecký</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">MUDr.</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">397 04</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste restante</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PÍSEK 4</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vážený pan</LineData>
+                            <LineData name="LINE 2">MUDr. Matěj Kopecký</LineData>
+                            <LineData name="LINE 3">Poste restante</LineData>
+                            <LineData name="LINE 4">397 04 PÍSEK 4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Vojtěch Pavlát</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">s.r.o.</U10.01.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Firma</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">623 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Truhlářská</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">BRNO 23</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Firma</LineData>
+                            <LineData name="LINE 2">Vojtěch Pavlát, s.r.o.</LineData>
+                            <LineData name="LINE 3">Truhlářská 7</LineData>
+                            <LineData name="LINE 4">623 00 BRNO 23</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Pan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Václav</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ptáček</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MOTOSPORT</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">a.s.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">378 08</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Plantážníků</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">421</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Dvory nad Lužnicí</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pan</LineData>
+                            <LineData name="LINE 2">Václav Ptáček</LineData>
+                            <LineData name="LINE 3">MOTOSPORT, a.s.</LineData>
+                            <LineData name="LINE 4">Plantážníků 421</LineData>
+                            <LineData name="LINE 5">378 08 Dvory nad Lužnicí</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MOTOSPORT</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">a.s.</U10.01.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">k rukám</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Václav</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Ptáček</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">378 08</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Plantážníků</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">421</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Dvory nad Lužnicí</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MOTOSPORT, a.s.</LineData>
+                            <LineData name="LINE 2">k rukám Václav Ptáček</LineData>
+                            <LineData name="LINE 3">Plantážníků 421</LineData>
+                            <LineData name="LINE 4">378 08 Dvory nad Lužnicí</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Manželé</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Karel a Marie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Weberovi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">335 01</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Zvonková</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2256</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">NEPOMUK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Manželé</LineData>
+                            <LineData name="LINE 2">Karel a Marie Weberovi</LineData>
+                            <LineData name="LINE 3">Zvonková 2256</LineData>
+                            <LineData name="LINE 4">335 01 NEPOMUK</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">NOVÁ MÓDA</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">s.r.o.</U10.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Závod Kalhoty</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">530 72</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poštovní přihrádka</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">72</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PARDUBICE 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NOVÁ MÓDA, s.r.o.</LineData>
+                            <LineData name="LINE 2">Závod Kalhoty</LineData>
+                            <LineData name="LINE 3">Poštovní přihrádka 72</LineData>
+                            <LineData name="LINE 4">530 72 PARDUBICE 2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alexandr</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brablc</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Mgr.</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Net-System</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Ltd.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">46 001</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Gen.Svobody</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">112</U40.24.11.21>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">50</U40.24.12.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">LIBEREC 13</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mgr. Alexandr Brablc</LineData>
+                            <LineData name="LINE 2">Net-System, Ltd.</LineData>
+                            <LineData name="LINE 3">Gen.Svobody 112/50</LineData>
+                            <LineData name="LINE 4">46 001 LIBEREC 13</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director of Dept.</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">David</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Knechtl</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry Of Foreign Affairs</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">118 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Loretanske Nam.</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAGUE 011</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">David Knechtl</LineData>
+                            <LineData name="LINE 2">Director of Dept.</LineData>
+                            <LineData name="LINE 3">Ministry Of Foreign Affairs</LineData>
+                            <LineData name="LINE 4">Loretanske Nam. 5</LineData>
+                            <LineData name="LINE 5">118 00 PRAGUE 011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kopecky</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Expert And Partner Engineering</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">147 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Na Lysinach</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">852</U40.24.11.21>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">41</U40.24.12.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA 47</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ivo Kopecky</LineData>
+                            <LineData name="LINE 2">Expert And Partner Engineering</LineData>
+                            <LineData name="LINE 3">Na Lysinach 852/41</LineData>
+                            <LineData name="LINE 4">147 00 PRAHA 47</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Karel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Novotny</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Intercom Systems</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">s r.o.</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Sales and Technical Support</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">128 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Na Morani</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAHA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Karel Novotny</LineData>
+                            <LineData name="LINE 2">Sales and Technical Support</LineData>
+                            <LineData name="LINE 3">Intercom Systems, s r.o.</LineData>
+                            <LineData name="LINE 4">Na Morani 3</LineData>
+                            <LineData name="LINE 5">128 00 PRAHA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Pavel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Puzmanova</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dr.</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Czech Technical University, Fnspe</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">166 36</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Brehova</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAGUE 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Pavel Puzmanova</LineData>
+                            <LineData name="LINE 2">Czech Technical University, Fnspe</LineData>
+                            <LineData name="LINE 3">Brehova 7</LineData>
+                            <LineData name="LINE 4">166 36 PRAGUE 1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sourozenci</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Karel a Bedřich</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Weberovi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">378 07</U40.13.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">č. p.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RAPŠACH</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sourozenci</LineData>
+                            <LineData name="LINE 2">Karel a Bedřich Weberovi</LineData>
+                            <LineData name="LINE 3">č. p. 8</LineData>
+                            <LineData name="LINE 4">378 07 RAPŠACH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Karel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Got</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">541 01</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bernartice</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Truhlářská</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">TRUTNOV 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Karel Got</LineData>
+                            <LineData name="LINE 2">Truhlářská 7</LineData>
+                            <LineData name="LINE 3">Bernartice</LineData>
+                            <LineData name="LINE 4">541 01 TRUTNOV 1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry Of Foreign Affairs</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">118 00</U40.13.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Loretanske Nam.</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PRAGUE 011</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Director</LineData>
+                            <LineData name="LINE 2">Ministry Of Foreign Affairs</LineData>
+                            <LineData name="LINE 3">Loretanske Nam. 5</LineData>
+                            <LineData name="LINE 4">118 00 PRAGUE 011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.00.00 uniq="U10OrgUnit">Závod Kalhoty</U10.02.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">NOVÁ MÓDA</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">s.r.o.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">530 72</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poštovní přihrádka</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">72</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">PARDUBICE 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Závod Kalhoty</LineData>
+                            <LineData name="LINE 2">NOVÁ MÓDA, s.r.o.</LineData>
+                            <LineData name="LINE 3">Poštovní přihrádka 72</LineData>
+                            <LineData name="LINE 4">530 72 PARDUBICE 2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Eva</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Drobná</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">742 45</U40.13.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">NA POŠTU</U40.19.11.11>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">+420 777 123 456</U40.34.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">FULNEK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">cs</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Eva Drobná</LineData>
+                            <LineData name="LINE 2">NA POŠTU</LineData>
+                            <LineData name="LINE 3">742 45 FULNEK</LineData>
+                            <LineData name="LINE 4">+420 777 123 456</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

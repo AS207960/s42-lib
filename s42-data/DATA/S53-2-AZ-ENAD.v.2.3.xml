@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>AZ</GroupDescription>
+            <GroupItemCount>17</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zərifə Əliyeva küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Zərifə Əliyeva küç., ev 9</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zərifə Əliyeva küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.18</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Zərifə Əliyeva küç., ev 1, mən.18</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1033</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Heydər Əliyev pr-ti.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Heydər Əliyev pr-ti., ev 1, mən.12</LineData>
+                            <LineData name="LINE 3">AZ1033, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1023</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Salyan şossesi</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Salyan şossesi, ev 1, mən.14</LineData>
+                            <LineData name="LINE 3">AZ1023, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1001</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Mehdi Hüseyn küç.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">döngə 1</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.13</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Mehdi Hüseyn küç., döngə 1, ev 9, mən.13</LineData>
+                            <LineData name="LINE 3">AZ1001, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1009</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Mirzə Fətəli küç.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">dalan 1</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 2</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.13</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Mirzə Fətəli küç., dalan 1, ev 2, mən.13</LineData>
+                            <LineData name="LINE 3">AZ1009, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1045</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Dadaş Bünyadzadə küç.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">keçid 1</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Dadaş Bünyadzadə küç., keçid 1, ev 1, mən.3</LineData>
+                            <LineData name="LINE 3">AZ1045, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1063</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Lökbatan qəs.</U40.17.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">2-ci massiv</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">keçid 3</U40.21.21.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">2-ci massiv, keçid 3, ev 9</LineData>
+                            <LineData name="LINE 3">AZ1063, Lökbatan qəs., Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zərifə Əliyeva küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp.1</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.18</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Zərifə Əliyeva küç., ev 1, korp.1, mən.18</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zərifə Əliyeva küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 5/13</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.18</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Zərifə Əliyeva küç., ev 5/13, mən.18</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ7001</U40.13.00.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Naxçıvan Muxtar Respublikası</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Naxçıvan şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Əhməd Cavad küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 6A</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">mən.3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Əhməd Cavad küç., ev 6A, mən.3</LineData>
+                            <LineData name="LINE 3">AZ7001, Naxçıvan şəh.</LineData>
+                            <LineData name="LINE 4">Naxçıvan Muxtar Respublikası</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Gəncə Appelyasiya Məhkəməsi</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ2000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gəncə şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Atatürk pr-ti</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 22</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gəncə Appelyasiya Məhkəməsi</LineData>
+                            <LineData name="LINE 2">Atatürk pr-ti, ev 22</LineData>
+                            <LineData name="LINE 3">AZ2000, Gəncə şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bakı Dövlət Universitetinin Rektoru</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1073</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Zahid Xəlilov</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 23</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">korp. 2</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bakı Dövlət Universitetinin Rektoru</LineData>
+                            <LineData name="LINE 2">Zahid Xəlilov, ev 23, korp. 2</LineData>
+                            <LineData name="LINE 3">AZ1073, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cavid</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kərimli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Anar oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ5435</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Sabirabad rayonu</U40.15.11.00>
+                        <U40.17.00.00 uniq="U40District">Suqovşağı kəndi</U40.17.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Koroğlu küç.</U40.21.11.00>
+                        <U40.24.00.00 uniq="U40PremId">ev 1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kərimli Cavid Anar oğlu</LineData>
+                            <LineData name="LINE 2">Koroğlu küç., ev 1</LineData>
+                            <LineData name="LINE 3">AZ5435, Suqovşağı kəndi</LineData>
+                            <LineData name="LINE 4">Sabirabad rayonu</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Elçin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zamanlı</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ələddin oğlu</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ6715</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Babək rayonu</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Naxçıvan Muxtar Respublikası</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Nehrəm kəndi</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Zamanlı Elçin Ələddin oğlu</LineData>
+                            <LineData name="LINE 2">AZ6715, Nehrəm kəndi</LineData>
+                            <LineData name="LINE 3">Babək rayonu</LineData>
+                            <LineData name="LINE 4">Naxçıvan Muxtar Respublikası</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aylin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Məmmədli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Elşad qızı</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Tələb olunanadək</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Məmmədli Aylin Elşad qızı</LineData>
+                            <LineData name="LINE 2">Tələb olunanadək</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aylin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Məmmədli</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Elşad qızı</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">AZ1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bakı şəh.</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">a/q</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">140</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">az</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">AZ</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>4</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Məmmədli Aylin Elşad qızı</LineData>
+                            <LineData name="LINE 2">a/q 140</LineData>
+                            <LineData name="LINE 3">AZ1000, Bakı şəh.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

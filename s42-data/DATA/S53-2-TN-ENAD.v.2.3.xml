@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>TN</GroupDescription>
+            <GroupItemCount>44</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TOUNSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARDO</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Essaada</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">15</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Ali TOUNSI</LineData>
+                            <LineData name="LINE 2">15 rue Essaada</LineData>
+                            <LineData name="LINE 3">2000 BARDO</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">le Directeur Général</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Société Maxi Plast</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manar 2</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Flen Ben Flen</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">03</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr le Directeur Général</LineData>
+                            <LineData name="LINE 2">Société Maxi Plast</LineData>
+                            <LineData name="LINE 3">03 rue Flen Ben Flen</LineData>
+                            <LineData name="LINE 4">2092 Manar 2</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société sfaxienne de Confection SOSFAX</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SFAX</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Ali Belhouane</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">47</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société sfaxienne de Confection SOSFAX</LineData>
+                            <LineData name="LINE 2">47 rue Ali Belhouane</LineData>
+                            <LineData name="LINE 3">3000 SFAX</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mme</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Fatma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ben Said</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2042</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">cité des Jardins</U40.16.00.00>
+                        <U40.29.00.00 uniq="U40Wing">Bloc 20</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">Appt N° 242</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mme Fatma Ben Said</LineData>
+                            <LineData name="LINE 2">Appt N° 242 Bloc 20</LineData>
+                            <LineData name="LINE 3">2042 cité des Jardins</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société Joui-SA-RECYCLE</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manar 3</U40.16.00.00>
+                        <U40.26.00.00 uniq="U40Building">Centre d&apos;Ora</U40.26.00.00>
+                        <U40.29.00.00 uniq="U40Wing">Bloc B</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">2ème étage</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">Appt N° 08</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société Joui-SA-RECYCLE</LineData>
+                            <LineData name="LINE 2">Centre d&apos;Ora</LineData>
+                            <LineData name="LINE 3">Appt N° 08 Bloc B 2ème étage</LineData>
+                            <LineData name="LINE 4">2092 Manar 3</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Flen</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ben Flen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4160</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Benguerdane</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue Zarzis</U40.21.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">km 1,5</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Flen Ben Flen</LineData>
+                            <LineData name="LINE 2">Rue Zarzis km 1,5</LineData>
+                            <LineData name="LINE 3">4160 Benguerdane</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Khaled</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sayari</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Chez</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Yassine</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Chafroud</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">l&apos;epicier</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KENITRA</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Khaled Sayari</LineData>
+                            <LineData name="LINE 2">Chez l&apos;epicier Yassine Chafroud</LineData>
+                            <LineData name="LINE 3">3050 KENITRA</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmed</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Trabelsi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SFAX</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">78</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ahmed Trabelsi</LineData>
+                            <LineData name="LINE 2">BP 78</LineData>
+                            <LineData name="LINE 3">3000 SFAX</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SREPT</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manar2</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">31</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SREPT</LineData>
+                            <LineData name="LINE 2">PO BOX 31</LineData>
+                            <LineData name="LINE 3">2092 Manar2</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BNA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tunis CEDEX</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BNA</LineData>
+                            <LineData name="LINE 2">1080 Tunis CEDEX</LineData>
+                            <LineData name="LINE 3">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GHARBI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Medenine</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M Ali GHARBI</LineData>
+                            <LineData name="LINE 2">Poste restante</LineData>
+                            <LineData name="LINE 3">4100 Medenine</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Salem</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gnaoui</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Chez</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ali</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Ben Salah</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tunis</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">impasse la Courtoisie</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">3</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M Salem Gnaoui</LineData>
+                            <LineData name="LINE 2">Chez Ali Ben Salah</LineData>
+                            <LineData name="LINE 3">3 impasse la Courtoisie</LineData>
+                            <LineData name="LINE 4">1000 Tunis</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Yassine</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ben Youssef</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">La Poste Tunisienne</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1030</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tunis</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue Hedi Nouira</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Yassine Ben Youssef</LineData>
+                            <LineData name="LINE 2">La Poste Tunisienne</LineData>
+                            <LineData name="LINE 3">Rue Hedi Nouira</LineData>
+                            <LineData name="LINE 4">1030 Tunis</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société Excellence</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ali</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Zouari</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ben Arous</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Hannibal</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société Excellence</LineData>
+                            <LineData name="LINE 2">Ali Zouari</LineData>
+                            <LineData name="LINE 3">1 rue Hannibal</LineData>
+                            <LineData name="LINE 4">2013 Ben Arous</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Taoufik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ben Fredj</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Docteur</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gabes</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">avenue La Liberté</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">16</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Docteur Taoufik Ben Fredj</LineData>
+                            <LineData name="LINE 2">16 avenue La Liberté</LineData>
+                            <LineData name="LINE 3">6000 Gabes</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Khaled</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hammami</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nabeul</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Eljazira</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">01</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M Khaled Hammami</LineData>
+                            <LineData name="LINE 2">01 rue Eljazira</LineData>
+                            <LineData name="LINE 3">8000 Nabeul</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société Abeille</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Soliman</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue Khourtoum</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">28</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société Abeille</LineData>
+                            <LineData name="LINE 2">28 rue Khourtoum</LineData>
+                            <LineData name="LINE 3">8020 Soliman</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société Al-Khuttaf SA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2073</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Borj Louzir</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue de l&apos;UMA</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">21</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société Al-Khuttaf SA</LineData>
+                            <LineData name="LINE 2">21 rue de l&apos;UMA</LineData>
+                            <LineData name="LINE 3">2073 Borj Louzir</LineData>
+                            <LineData name="LINE 4">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Société Le METAL SARL</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Construction métallique</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ariana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">rue de l&apos;environnement</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">05</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Société Le METAL SARL</LineData>
+                            <LineData name="LINE 2">Construction métallique</LineData>
+                            <LineData name="LINE 3">05 rue de l&apos;environnement</LineData>
+                            <LineData name="LINE 4">2080 Ariana</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Directeur des études</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mokhtar</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rejili</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ISET Tataouine</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tataouine</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M Mokhtar Rejili</LineData>
+                            <LineData name="LINE 2">Directeur des études</LineData>
+                            <LineData name="LINE 3">ISET Tataouine</LineData>
+                            <LineData name="LINE 4">3200 Tataouine</LineData>
+                            <LineData name="LINE 5">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mme</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Maaloul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sonia</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sfax</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Avenue Majida Boulila</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">Immeuble Ghamgui</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Appt 6</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mme Maaloul Sonia</LineData>
+                            <LineData name="LINE 2">Immeuble Ghamgui</LineData>
+                            <LineData name="LINE 3">Appt 6</LineData>
+                            <LineData name="LINE 4">Avenue Majida Boulila</LineData>
+                            <LineData name="LINE 5">3000 Sfax</LineData>
+                            <LineData name="LINE 6">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mlle</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Karima</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Belhadj</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Tunisie</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">cité Ennasr</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">place de l&apos;indépendance</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">4</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Résidence Yamama</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">1er étage</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mlle Karima Belhadj</LineData>
+                            <LineData name="LINE 2">Résidence Yamama</LineData>
+                            <LineData name="LINE 3">1er étage</LineData>
+                            <LineData name="LINE 4">4 place de l&apos;indépendance</LineData>
+                            <LineData name="LINE 5">2001 cité Ennasr</LineData>
+                            <LineData name="LINE 6">Tunisie</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">علي</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">التونسي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">باردو</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع السعادة</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">15</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد علي التونسي</LineData>
+                            <LineData name="LINE 2">15 شارع السعادة</LineData>
+                            <LineData name="LINE 3">باردو 2000</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">الرئيس المدير العام</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">شركة ماكسي بلاست</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنار II</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع فلان بن فلان</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">3</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد الرئيس المدير العام</LineData>
+                            <LineData name="LINE 2">شركة ماكسي بلاست</LineData>
+                            <LineData name="LINE 3">3 شارع فلان بن فلان</LineData>
+                            <LineData name="LINE 4">المنار II 2092</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">الشركة الصفاقسية للتجهيز</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">صفاقس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع علي بلهوان</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">47</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الشركة الصفاقسية للتجهيز</LineData>
+                            <LineData name="LINE 2">47 شارع علي بلهوان</LineData>
+                            <LineData name="LINE 3">صفاقس 3000</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">فاطمة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بن سعيد</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2042</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">حي الحديقة</U40.16.00.00>
+                        <U40.29.00.00 uniq="U40Wing">العمارة 3</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">الشقة 242</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة فاطمة بن سعيد</LineData>
+                            <LineData name="LINE 2">الشقة 242 العمارة 3</LineData>
+                            <LineData name="LINE 3">حي الحديقة 2042</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة Joui-SA-RECYCLE</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنار الثالث</U40.16.00.00>
+                        <U40.26.00.00 uniq="U40Building">مركز درة</U40.26.00.00>
+                        <U40.29.00.00 uniq="U40Wing">الجناح ب</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق الثاني</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">الشقة 08</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة Joui-SA-RECYCLE</LineData>
+                            <LineData name="LINE 2">مركز درة</LineData>
+                            <LineData name="LINE 3">الشقة 08 الجناح ب الطابق الثاني</LineData>
+                            <LineData name="LINE 4">المنار الثالث 2092</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">فلان</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بن فلان</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4160</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">بن قردان</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع جرجيس</U40.21.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">1,5 كلم</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">فلان بن فلان</LineData>
+                            <LineData name="LINE 2">1,5 كلم شارع جرجيس</LineData>
+                            <LineData name="LINE 3">بن قردان 4160</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">خالد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">السياري</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">عند</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">ياسين</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">شفرود</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">التاجر</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">قتيطرة</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">خالد السياري</LineData>
+                            <LineData name="LINE 2">عند التاجر ياسين شفرود</LineData>
+                            <LineData name="LINE 3">قتيطرة 3050</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">أحمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">الطرابلسي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">صفاقس</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">78</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">أحمد الطرابلسي</LineData>
+                            <LineData name="LINE 2">ص ب 78</LineData>
+                            <LineData name="LINE 3">صفاقس 3000</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة سيرابت</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2092</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنار II</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">31</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة سيرابت</LineData>
+                            <LineData name="LINE 2">ص ب 31</LineData>
+                            <LineData name="LINE 3">المنار II 2092</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">البنك الوطني الفلاحي</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">تونس سيداكس</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">البنك الوطني الفلاحي</LineData>
+                            <LineData name="LINE 2">تونس سيداكس 1080</LineData>
+                            <LineData name="LINE 3">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">علي</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">الغربي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">مدنين</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">البريد المحفوظ</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد علي الغربي</LineData>
+                            <LineData name="LINE 2">البريد المحفوظ</LineData>
+                            <LineData name="LINE 3">مدنين 4100</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">سالم</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">القناوي</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">عند</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">السيد</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">علي</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">بن سالم</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">تونس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">زنقة المجاملة</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">3</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد سالم القناوي</LineData>
+                            <LineData name="LINE 2">عند السيد علي بن سالم</LineData>
+                            <LineData name="LINE 3">3 زنقة المجاملة</LineData>
+                            <LineData name="LINE 4">تونس 1000</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ياسين</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بن يوسف</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">البريد التونسي</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1030</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">تونس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع الهادي نويرة</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ياسين بن يوسف</LineData>
+                            <LineData name="LINE 2">البريد التونسي</LineData>
+                            <LineData name="LINE 3">شارع الهادي نويرة</LineData>
+                            <LineData name="LINE 4">تونس 1030</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة الإمتياز</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">علي</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">الزواري</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">بن عروس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع حنبعل</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة الإمتياز</LineData>
+                            <LineData name="LINE 2">علي الزواري</LineData>
+                            <LineData name="LINE 3">1 شارع حنبعل</LineData>
+                            <LineData name="LINE 4">بن عروس 2013</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">توفيق</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بن فرج</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">الدكتور</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">قابس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع الحرية</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">16</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الدكتور توفيق بن فرج</LineData>
+                            <LineData name="LINE 2">16 شارع الحرية</LineData>
+                            <LineData name="LINE 3">قابس 6000</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">خالد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">حمامي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">نابل</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">نهج الجزيرة</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">01</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد خالد حمامي</LineData>
+                            <LineData name="LINE 2">01 نهج الجزيرة</LineData>
+                            <LineData name="LINE 3">نابل 8000</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة النحلة</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">سليمان</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع الخرطوم</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">28</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة النحلة</LineData>
+                            <LineData name="LINE 2">28 شارع الخرطوم</LineData>
+                            <LineData name="LINE 3">سليمان 8020</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة الخطاف شركة محدودة</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2073</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">برج الوزير</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع المغرب العربي</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">21</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة الخطاف شركة محدودة</LineData>
+                            <LineData name="LINE 2">21 شارع المغرب العربي</LineData>
+                            <LineData name="LINE 3">برج الوزير 2073</LineData>
+                            <LineData name="LINE 4">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">شركة المعادن شركة ذات مسؤولية محدودة</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">منشأة معدنية</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">أريانة</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع البيئة</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">05</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">شركة المعادن شركة ذات مسؤولية محدودة</LineData>
+                            <LineData name="LINE 2">منشأة معدنية</LineData>
+                            <LineData name="LINE 3">05 شارع البيئة</LineData>
+                            <LineData name="LINE 4">أريانة 2080</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">مدير الدراسات</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">مختار</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">الرجيلي</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">المعهد العالي للدراسات التكنولوجية بتطاوين</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">تطاوين</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد مختار الرجيلي</LineData>
+                            <LineData name="LINE 2">مدير الدراسات</LineData>
+                            <LineData name="LINE 3">المعهد العالي للدراسات التكنولوجية بتطاوين</LineData>
+                            <LineData name="LINE 4">تطاوين 3200</LineData>
+                            <LineData name="LINE 5">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">سنية</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">معلول</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">صفاقس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع مجيدة بوليلة</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">عمارة غامقي</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">الشقة عدد 6</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة سنية معلول</LineData>
+                            <LineData name="LINE 2">عمارة غامقي</LineData>
+                            <LineData name="LINE 3">الشقة عدد 6</LineData>
+                            <LineData name="LINE 4">شارع مجيدة بوليلة</LineData>
+                            <LineData name="LINE 5">صفاقس 3000</LineData>
+                            <LineData name="LINE 6">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">الأنسة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">كريمة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بلحاج</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">تونس</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">حي النصر</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ساحة الإستقلال</U40.21.00.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">4</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">إقامة اليمامة</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق الأول</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الأنسة كريمة بلحاج</LineData>
+                            <LineData name="LINE 2">إقامة اليمامة</LineData>
+                            <LineData name="LINE 3">الطابق الأول</LineData>
+                            <LineData name="LINE 4">4 ساحة الإستقلال</LineData>
+                            <LineData name="LINE 5">حي النصر 2001</LineData>
+                            <LineData name="LINE 6">تونس</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

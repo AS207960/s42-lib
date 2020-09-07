@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>LT</GroupDescription>
+            <GroupItemCount>21</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">08112</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bebrų g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Bebrų g. 8</LineData>
+                            <LineData name="LINE 3">08112 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">82</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06109</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Gabijos g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">23</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Gabijos g. 23 - 82</LineData>
+                            <LineData name="LINE 3">06109 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">2</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01103</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">V. Kudirkos a.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">V. Kudirkos a. 11A - 2</LineData>
+                            <LineData name="LINE 3">01103 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">2</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">97176</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kretinga</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Alyvų aklg.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Alyvų aklg. 8 - 2</LineData>
+                            <LineData name="LINE 3">97176 Kretinga</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">4</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">44215</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kaunas</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Laisvės al.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Laisvės al. 10 - 4</LineData>
+                            <LineData name="LINE 3">44215 Kaunas</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">1</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11307</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Juodasis kel.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Juodasis kel. 4 - 1</LineData>
+                            <LineData name="LINE 3">11307 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">3</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10102</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nemenčinės pl.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Nemenčinės pl. 6 - 3</LineData>
+                            <LineData name="LINE 3">10102 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">40</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03120</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Savanorių pr.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">36</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Savanorių pr. 36 - 40</LineData>
+                            <LineData name="LINE 3">03120 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">5</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01207</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Baltasis skg.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Baltasis skg. 9 - 5</LineData>
+                            <LineData name="LINE 3">01207 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">1</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01118</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Reformatų skv.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Reformatų skv. 1 - 1</LineData>
+                            <LineData name="LINE 3">01118 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">1</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11351</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ribiškių tak.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Ribiškių tak. 5 - 1</LineData>
+                            <LineData name="LINE 3">11351 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">UAB „Dubysa“</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60249</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Raseinių r. sav.</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ariogala</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Vytauto g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">UAB „Dubysa“</LineData>
+                            <LineData name="LINE 2">Vytauto g. 10</LineData>
+                            <LineData name="LINE 3">Ariogala</LineData>
+                            <LineData name="LINE 4">60249 Raseinių r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">UAB „Saga“</U20.00.00.00>
+                        <U30.32.00.00 uniq="U30Door">11</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06131</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Žemynos g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">41</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">UAB „Saga“</LineData>
+                            <LineData name="LINE 2">Žemynos g. 41 - 11</LineData>
+                            <LineData name="LINE 3">06131 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Vilniaus apygardos teismo pirmininkui</U10.04.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01501</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vilnius</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Gedimino pr.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">40</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vilniaus apygardos teismo pirmininkui</LineData>
+                            <LineData name="LINE 2">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 3">Gedimino pr. 40</LineData>
+                            <LineData name="LINE 4">01501 Vilnius</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U30.32.00.00 uniq="U30Door">2</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">33261</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Molėtų r. sav.</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Dubingiai</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kranto g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Kranto g. 3 - 2</LineData>
+                            <LineData name="LINE 3">Dubingiai</LineData>
+                            <LineData name="LINE 4">33261 Molėtų r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53123</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kauno r. sav.</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Šlienavos k.</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bokšto g.</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Samylų pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Bokšto g. 2</LineData>
+                            <LineData name="LINE 3">Šlienavos k.</LineData>
+                            <LineData name="LINE 4">Samylų pšt.</LineData>
+                            <LineData name="LINE 5">53123 Kauno r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">33264</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Molėtų r. sav.</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Galinių k.</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Dubingių pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Galinių k.</LineData>
+                            <LineData name="LINE 3">Dubingių pšt.</LineData>
+                            <LineData name="LINE 4">33264 Molėtų r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">94001</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Klaipėda</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Iki pareikalavimo</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">10-asis pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Iki pareikalavimo</LineData>
+                            <LineData name="LINE 3">10-asis pšt.</LineData>
+                            <LineData name="LINE 4">94001 Klaipėda</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">33037</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Molėtų r. sav.</U40.15.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Iki pareikalavimo</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Alantos pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">Iki pareikalavimo</LineData>
+                            <LineData name="LINE 3">Alantos pšt.</LineData>
+                            <LineData name="LINE 4">33037 Molėtų r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">52002</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kaunas</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P. d.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1200</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">23-iasis pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">P. d. 1200</LineData>
+                            <LineData name="LINE 3">23-iasis pšt.</LineData>
+                            <LineData name="LINE 4">52002 Kaunas</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Vardeniui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pavardeniui</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60020</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Raseinių r. sav.</U40.15.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P. d.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Ariogalos pšt.</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">lt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">LT</U50.53.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vardeniui Pavardeniui</LineData>
+                            <LineData name="LINE 2">P. d. 2</LineData>
+                            <LineData name="LINE 3">Ariogalos pšt.</LineData>
+                            <LineData name="LINE 4">60020 Raseinių r. sav.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>RS</GroupDescription>
+            <GroupItemCount>24</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Petar</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petrović</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">456769</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bajmok</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Beogradska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">24210 Bajmok</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Petar Petrović</LineData>
+                            <LineData name="LINE 2">Beogradska 3</LineData>
+                            <LineData name="LINE 3">Bajmok</LineData>
+                            <LineData name="LINE 4">24210 Bajmok</LineData>
+                            <LineData name="LINE 5">PAK 456769</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Zoran</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mirković</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">271113</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mišar</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Vuka Karadžića</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">15000 Šabac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Zoran Mirković</LineData>
+                            <LineData name="LINE 2">Vuka Karadžića 5</LineData>
+                            <LineData name="LINE 3">Mišar</LineData>
+                            <LineData name="LINE 4">15000 Šabac</LineData>
+                            <LineData name="LINE 5">PAK 271113</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aleksandar</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Savić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">425121</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Telečka</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Jagnjevo salaši</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">25221 Kljajićevo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Aleksandar Savić</LineData>
+                            <LineData name="LINE 2">Jagnjevo salaši 15</LineData>
+                            <LineData name="LINE 3">Telečka</LineData>
+                            <LineData name="LINE 4">25221 Kljajićevo</LineData>
+                            <LineData name="LINE 5">PAK 425121</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Goran</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Đorđević</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">442440</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gornja Rogatica</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kosmajska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.35.00.00 uniq="U40DelServQualifier">24341 Krivaja</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Goran Đorđević</LineData>
+                            <LineData name="LINE 2">Kosmajska 2A</LineData>
+                            <LineData name="LINE 3">Gornja Rogatica</LineData>
+                            <LineData name="LINE 4">24341 Krivaja</LineData>
+                            <LineData name="LINE 5">PAK 442440</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Zdravko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gajević</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">563052</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ribnica</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Avalska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">37</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">6</U40.32.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">36103 Kraljevo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Zdravko Gajević</LineData>
+                            <LineData name="LINE 2">Avalska 37/6</LineData>
+                            <LineData name="LINE 3">Ribnica</LineData>
+                            <LineData name="LINE 4">36103 Kraljevo</LineData>
+                            <LineData name="LINE 5">PAK 563052</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Zvonko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smiljanić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">541016</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Aranđelovac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Maksima Gorkog</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">16</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">stan</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">6</U40.32.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">34300 Aranđelovac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Zvonko Smiljanić</LineData>
+                            <LineData name="LINE 2">Maksima Gorkog 16 stan 6</LineData>
+                            <LineData name="LINE 3">Aranđelovac</LineData>
+                            <LineData name="LINE 4">34300 Aranđelovac</LineData>
+                            <LineData name="LINE 5">PAK 541016</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mirko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zorić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">242213</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Banjani</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Savska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">14214 Banjani</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mirko Zorić</LineData>
+                            <LineData name="LINE 2">Savska 2</LineData>
+                            <LineData name="LINE 3">Banjani</LineData>
+                            <LineData name="LINE 4">14214 Banjani</LineData>
+                            <LineData name="LINE 5">PAK 242213</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jovana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mitrović</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">562237</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vrdila</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">(blank line)</U40.21.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">36000 Kraljevo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jovana Mitrović</LineData>
+                            <LineData name="LINE 2">(blank line)</LineData>
+                            <LineData name="LINE 3">Vrdila</LineData>
+                            <LineData name="LINE 4">36000 Kraljevo</LineData>
+                            <LineData name="LINE 5">PAK 562237</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Marina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Stojanović</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lajkovac (Varoš)</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PP</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">14224 Lajkovac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Marina Stojanović</LineData>
+                            <LineData name="LINE 2">PP 2</LineData>
+                            <LineData name="LINE 3">Lajkovac (Varoš)</LineData>
+                            <LineData name="LINE 4">14224 Lajkovac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Alfa beta</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">d.o.o.</U10.01.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zemun</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PP</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">18</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">11080 Beograd</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alfa beta d.o.o.</LineData>
+                            <LineData name="LINE 2">PP 18</LineData>
+                            <LineData name="LINE 3">Zemun</LineData>
+                            <LineData name="LINE 4">11080 Beograd</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mihailo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Berić</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">Valjevo</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSTE RESTANTE</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">14000 Valjevo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mihailo Berić</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">Valjevo</LineData>
+                            <LineData name="LINE 4">14000 Valjevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Izgradnja</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">d.o.o.</U10.01.00.00>
+                        <U40.16.00.00 uniq="U40Town">Subotica</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">POSTE RESTANTE</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">24000 Subotica</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Izgradnja d.o.o.</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">Subotica</LineData>
+                            <LineData name="LINE 4">24000 Subotica</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Dragan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Preradović</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">Savski venac</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Vojna pošta</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1246</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">11105 Beograd</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dragan Preradović</LineData>
+                            <LineData name="LINE 2">Vojna pošta 1246</LineData>
+                            <LineData name="LINE 3">Savski venac</LineData>
+                            <LineData name="LINE 4">11105 Beograd</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sandra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Biljić</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">kod</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Jovana</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Jovanovića</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">641010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bobište</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Desete brigade</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">3</U40.32.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">16000 Leskovac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sandra Biljić kod Jovana Jovanovića</LineData>
+                            <LineData name="LINE 2">Desete brigade 1/3</LineData>
+                            <LineData name="LINE 3">Bobište</LineData>
+                            <LineData name="LINE 4">16000 Leskovac</LineData>
+                            <LineData name="LINE 5">PAK 641010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jovan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Starović</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Gama delta</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">d.o.o.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">671129</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Malo Golovode</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Miodraga Nauparca</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">28</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">37000 Kruševac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jovan Starović</LineData>
+                            <LineData name="LINE 2">Gama delta d.o.o.</LineData>
+                            <LineData name="LINE 3">Miodraga Nauparca 28</LineData>
+                            <LineData name="LINE 4">Malo Golovode</LineData>
+                            <LineData name="LINE 5">37000 Kruševac</LineData>
+                            <LineData name="LINE 6">PAK 671129</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Trgovina</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">a.d.</U10.01.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Zoran</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Mišović</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">230149</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Udovice</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Moše Pijade</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">53</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">11300 Smederevo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Trgovina a.d.</LineData>
+                            <LineData name="LINE 2">Zoran Mišović</LineData>
+                            <LineData name="LINE 3">Moše Pijade 53</LineData>
+                            <LineData name="LINE 4">Udovice</LineData>
+                            <LineData name="LINE 5">11300 Smederevo</LineData>
+                            <LineData name="LINE 6">PAK 230149</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nikola</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nikolić</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Prof. dr</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">702857</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Deveti maj</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Beriljska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">18250 Novo Selo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof. dr Nikola Nikolić</LineData>
+                            <LineData name="LINE 2">Beriljska 1</LineData>
+                            <LineData name="LINE 3">Deveti maj</LineData>
+                            <LineData name="LINE 4">18250 Novo Selo</LineData>
+                            <LineData name="LINE 5">PAK 702857</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">G.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Milan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Žarković</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">522512</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Parmenac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Braće Kovačević</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">65</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">32102 Čačak</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">G. Milan Žarković</LineData>
+                            <LineData name="LINE 2">Braće Kovačević 65</LineData>
+                            <LineData name="LINE 3">Parmenac</LineData>
+                            <LineData name="LINE 4">32102 Čačak</LineData>
+                            <LineData name="LINE 5">PAK 522512</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">„Janković”</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Preduzeće</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">456215</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bikovo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bratstva jedinstva</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">47</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">24206 Bikovo</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Preduzeće „Janković”</LineData>
+                            <LineData name="LINE 2">Bratstva jedinstva 47</LineData>
+                            <LineData name="LINE 3">Bikovo</LineData>
+                            <LineData name="LINE 4">24206 Bikovo</LineData>
+                            <LineData name="LINE 5">PAK 456215</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kreativa</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">a.d.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">555902</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Stanovo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ajnštajnova</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">34113 Kragujevac</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kreativa a.d.</LineData>
+                            <LineData name="LINE 2">Ajnštajnova 6</LineData>
+                            <LineData name="LINE 3">Stanovo</LineData>
+                            <LineData name="LINE 4">34113 Kragujevac</LineData>
+                            <LineData name="LINE 5">PAK 555902</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Transport</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">a.d.</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Direkcija za logistiku</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">106603</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Stari grad</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kosovska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">43</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">11103 Beograd</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Transport a.d.</LineData>
+                            <LineData name="LINE 2">Direkcija za logistiku</LineData>
+                            <LineData name="LINE 3">Kosovska 43</LineData>
+                            <LineData name="LINE 4">Stari grad</LineData>
+                            <LineData name="LINE 5">11103 Beograd</LineData>
+                            <LineData name="LINE 6">PAK 106603</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Špedicija</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">d.o.o.</U10.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Generalni direktor</U20.03.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Milan</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Savić</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">706259</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Donja Vrežina</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Alberta Ajnštajna</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">56</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">18103 Niš</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Špedicija d.o.o.</LineData>
+                            <LineData name="LINE 2">Generalni direktor Milan Savić</LineData>
+                            <LineData name="LINE 3">Alberta Ajnštajna 56</LineData>
+                            <LineData name="LINE 4">Donja Vrežina</LineData>
+                            <LineData name="LINE 5">18103 Niš</LineData>
+                            <LineData name="LINE 6">PAK 706259</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Predrag</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jokić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">200499</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zemun</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Vojvođanska</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">bb</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">11080 Beograd</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">RS</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Predrag Jokić</LineData>
+                            <LineData name="LINE 2">Vojvođanska bb</LineData>
+                            <LineData name="LINE 3">Zemun</LineData>
+                            <LineData name="LINE 4">11080 Beograd</LineData>
+                            <LineData name="LINE 5">PAK 200499</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Luka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ristić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">580215</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Republika Srbija</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Jagodina</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Slavke Đurđević</U40.21.00.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">B5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">35000 Jagodina</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">sr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">RS</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luka Ristić</LineData>
+                            <LineData name="LINE 2">Slavke Đurđević B5</LineData>
+                            <LineData name="LINE 3">Jagodina</LineData>
+                            <LineData name="LINE 4">35000 Jagodina</LineData>
+                            <LineData name="LINE 5">PAK 580215</LineData>
+                            <LineData name="LINE 6">Republika Srbija</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

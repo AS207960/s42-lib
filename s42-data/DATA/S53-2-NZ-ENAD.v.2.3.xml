@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>NZ</GroupDescription>
+            <GroupItemCount>68</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Andrea</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cawley</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Dunedin</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Waikari</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lynn</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">161</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Andrea Cawley</LineData>
+                            <LineData name="LINE 2">161 Lynn Street</LineData>
+                            <LineData name="LINE 3">Waikari</LineData>
+                            <LineData name="LINE 4">Dunedin 9010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Geordy</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7930</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Geraldine</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Place</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Williamson</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">10</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Geordy</LineData>
+                            <LineData name="LINE 2">10 Williamson Place</LineData>
+                            <LineData name="LINE 3">Geraldine 7930</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Angela</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rhodes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1024</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Mt Eden</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Essex</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Angela Rhodes</LineData>
+                            <LineData name="LINE 2">23 Essex Road</LineData>
+                            <LineData name="LINE 3">Mt Eden</LineData>
+                            <LineData name="LINE 4">Auckland 1024</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Derek</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Briggs</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3200</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">St Andrews</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Terrace</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Burnley</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">103</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Derek Briggs</LineData>
+                            <LineData name="LINE 2">103 Burnley Terrace</LineData>
+                            <LineData name="LINE 3">St Andrews</LineData>
+                            <LineData name="LINE 4">Hamilton 3200</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tui</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bradwood</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0405</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kaikohe</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Heights</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Rowsell</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">32</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tui Bradwood</LineData>
+                            <LineData name="LINE 2">32 Rowsell Heights</LineData>
+                            <LineData name="LINE 3">Kaikohe 0405</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joe</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ryan</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Christchurch</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">East</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Chester</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">120</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joe Ryan</LineData>
+                            <LineData name="LINE 2">2/120 Chester Street East</LineData>
+                            <LineData name="LINE 3">Christchurch 8011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smith</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5012</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lower Hutt</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Petone</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Heretaunga</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Smith</LineData>
+                            <LineData name="LINE 2">41A Heretaunga Street</LineData>
+                            <LineData name="LINE 3">Petone</LineData>
+                            <LineData name="LINE 4">Lower Hutt 5012</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Grant</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Davies</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5012</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lower Hutt</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Petone</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Britannia</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">42</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Kirk Flats</U40.26.00.00>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Grant Davies</LineData>
+                            <LineData name="LINE 2">Kirk Flats</LineData>
+                            <LineData name="LINE 3">1/42 Britannia Street</LineData>
+                            <LineData name="LINE 4">Petone</LineData>
+                            <LineData name="LINE 5">Lower Hutt 5012</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Susan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Peters</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8014</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Christchurch</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">St Albans</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Berwick</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">31</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Berwick Courts</U40.26.00.00>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Susan Peters</LineData>
+                            <LineData name="LINE 2">Berwick Courts</LineData>
+                            <LineData name="LINE 3">1/31 Berwick Street</LineData>
+                            <LineData name="LINE 4">St Albans</LineData>
+                            <LineData name="LINE 5">Christchurch 8014</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Roger</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Walken</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4412</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Palmerston North</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Crescent</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Jackson</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">86</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Daphne Courts</U40.26.00.00>
+                        <U40.32.11.21 uniq="U40DoorInd">9</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Roger Walken</LineData>
+                            <LineData name="LINE 2">Daphne Courts</LineData>
+                            <LineData name="LINE 3">9/86 Jackson Crescent</LineData>
+                            <LineData name="LINE 4">Palmerston North 4412</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">George</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Moore</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9092</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mosgiel</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">School</U40.21.11.41>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">George Moore</LineData>
+                            <LineData name="LINE 2">School Road</LineData>
+                            <LineData name="LINE 3">RD 2</LineData>
+                            <LineData name="LINE 4">Mosgiel 9092</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Daniel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cartwright</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5373</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wainuiomata</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Moores Valley</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">273</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">The Cottage</U40.26.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Daniel Cartwright</LineData>
+                            <LineData name="LINE 2">The Cottage</LineData>
+                            <LineData name="LINE 3">273 Moores Valley</LineData>
+                            <LineData name="LINE 4">RD 1</LineData>
+                            <LineData name="LINE 5">Wainuiomata 5373</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jenny</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Keenan</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7692</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kaiapoi</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Turners</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Brownlie Farm</U40.26.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jenny Keenan</LineData>
+                            <LineData name="LINE 2">Brownlie Farm</LineData>
+                            <LineData name="LINE 3">Turners Road</LineData>
+                            <LineData name="LINE 4">RD 2</LineData>
+                            <LineData name="LINE 5">Kaiapoi 7692</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kirsty</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cadless</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12999</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kirsty Cadless</LineData>
+                            <LineData name="LINE 2">PO Box 12999</LineData>
+                            <LineData name="LINE 3">Wellington 6140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attention:</U10.04.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Collins</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">ASB Bank</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">5140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lower Hutt</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">36990</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attention: Joseph Collins</LineData>
+                            <LineData name="LINE 2">ASB Bank</LineData>
+                            <LineData name="LINE 3">PO Box 36990</LineData>
+                            <LineData name="LINE 4">Lower Hutt 5140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Manager</U10.03.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">McCleods Plumbing</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">5145</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">501</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Te Puni Mail Centre</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Manager</LineData>
+                            <LineData name="LINE 2">McCleods Plumbing</LineData>
+                            <LineData name="LINE 3">PO Box 501</LineData>
+                            <LineData name="LINE 4">Te Puni Mail Centre</LineData>
+                            <LineData name="LINE 5">Wellington 5145</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Janice</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bolton</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Taupo Postshop</U20.00.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/-</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3351</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Taupo</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4800</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Janice Bolton</LineData>
+                            <LineData name="LINE 2">C/- Taupo Postshop</LineData>
+                            <LineData name="LINE 3">PO Box 4800</LineData>
+                            <LineData name="LINE 4">Taupo 3351</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Manager</U10.03.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Better Electrical</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">6140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">39999</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Manager</LineData>
+                            <LineData name="LINE 2">Better Electrical</LineData>
+                            <LineData name="LINE 3">Private Bag 39999</LineData>
+                            <LineData name="LINE 4">Wellington 6140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Dragon Ball Z Competition</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">What Now</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2161</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dragon Ball Z Competition</LineData>
+                            <LineData name="LINE 2">What Now</LineData>
+                            <LineData name="LINE 3">Private Bag</LineData>
+                            <LineData name="LINE 4">Auckland 2161</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jollys Jewellery</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Mount Victoria</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Majoribanks</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">236</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jollys Jewellery</LineData>
+                            <LineData name="LINE 2">236 Majoribanks Street</LineData>
+                            <LineData name="LINE 3">Mount Victoria</LineData>
+                            <LineData name="LINE 4">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attention</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Martin</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Jollys Jewellery</U20.00.12.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">SMS-2413826</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Mount Victoria</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Majoribanks</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">236</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SMS-2413826</LineData>
+                            <LineData name="LINE 2">Attention Mr Martin</LineData>
+                            <LineData name="LINE 3">Jollys Jewellery</LineData>
+                            <LineData name="LINE 4">236 Majoribanks Street</LineData>
+                            <LineData name="LINE 5">Mount Victoria</LineData>
+                            <LineData name="LINE 6">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attention</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Martin</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Jollys Jewellery</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">6140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">324</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attention Mr Martin</LineData>
+                            <LineData name="LINE 2">Jollys Jewellery</LineData>
+                            <LineData name="LINE 3">PO Box 324</LineData>
+                            <LineData name="LINE 4">Wellington 6140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brown</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Jabid Electrical</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">6140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">39990</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Brown</LineData>
+                            <LineData name="LINE 2">Jabid Electrical</LineData>
+                            <LineData name="LINE 3">Private Bag 39990</LineData>
+                            <LineData name="LINE 4">Wellington 6140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brown</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7692</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kaiapoi</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Guy</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Maplethorpe Farm</U40.26.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 3</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Brown</LineData>
+                            <LineData name="LINE 2">Maplethorpe Farm</LineData>
+                            <LineData name="LINE 3">Guy Road</LineData>
+                            <LineData name="LINE 4">RD 3</LineData>
+                            <LineData name="LINE 5">Kaiapoi 7692</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hammer Hitters</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Inc</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6440</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Johnsonville</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13999</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hammer Hitters Inc</LineData>
+                            <LineData name="LINE 2">PO Box 13999</LineData>
+                            <LineData name="LINE 3">Johnsonville 6440</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ABC Company</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Quay</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Waterloo</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ABC Company</LineData>
+                            <LineData name="LINE 2">7 Waterloo Quay</LineData>
+                            <LineData name="LINE 3">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jones</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6035</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Khandallah</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Main</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">101</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">5</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Jones</LineData>
+                            <LineData name="LINE 2">5/101 Main Street</LineData>
+                            <LineData name="LINE 3">Khandallah</LineData>
+                            <LineData name="LINE 4">Wellington 6035</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jones</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6035</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Khandallah</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Main</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">21</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Jones</LineData>
+                            <LineData name="LINE 2">21A Main Street</LineData>
+                            <LineData name="LINE 3">Khandallah</LineData>
+                            <LineData name="LINE 4">Wellington 6035</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jones Enterprises</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lower Hutt</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Place</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Central</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1600</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Bldg 14</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jones Enterprises</LineData>
+                            <LineData name="LINE 2">Bldg 14</LineData>
+                            <LineData name="LINE 3">1600 Central Place</LineData>
+                            <LineData name="LINE 4">Lower Hutt 5010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Peacock</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Mrs</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Jones</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">The Terrace</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">55</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Peacock</LineData>
+                            <LineData name="LINE 2">C/O Mrs Jones</LineData>
+                            <LineData name="LINE 3">55 The Terrace</LineData>
+                            <LineData name="LINE 4">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Stuart</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3210</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">Nth</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">St</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Smith</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">234</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Stuart</LineData>
+                            <LineData name="LINE 2">234 Smith St Nth</LineData>
+                            <LineData name="LINE 3">Hamilton 3210</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dentice</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5019</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Upper Hutt</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">East Valley</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Dentice</LineData>
+                            <LineData name="LINE 2">East Valley Road</LineData>
+                            <LineData name="LINE 3">Upper Hutt 5019</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mcquade</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4440</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Palmerston North</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Place</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ranui</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Mcquade</LineData>
+                            <LineData name="LINE 2">3 Ranui Place</LineData>
+                            <LineData name="LINE 3">Palmerston North 4440</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brown</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6021</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Brooklyn</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Smith</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">123</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Flat</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Brown</LineData>
+                            <LineData name="LINE 2">Flat 1</LineData>
+                            <LineData name="LINE 3">123 Smith Street</LineData>
+                            <LineData name="LINE 4">Brooklyn</LineData>
+                            <LineData name="LINE 5">Wellington 6021</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jeffrey</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jackson</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0626</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Birkdale</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Smyth</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">321</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Apartment</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">B</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jeffrey Jackson</LineData>
+                            <LineData name="LINE 2">Apartment B</LineData>
+                            <LineData name="LINE 3">321 Smyth Street</LineData>
+                            <LineData name="LINE 4">Birkdale</LineData>
+                            <LineData name="LINE 5">Auckland 0626</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brown</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Auckland Central</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Queen</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">21</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Floor</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">3</U40.31.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Brown</LineData>
+                            <LineData name="LINE 2">Floor 3</LineData>
+                            <LineData name="LINE 3">21 Queen Street</LineData>
+                            <LineData name="LINE 4">Auckland Central</LineData>
+                            <LineData name="LINE 5">Auckland 1011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jeff</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smith</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Auckland Central</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Queen</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">24</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">4</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">A</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jeff Smith</LineData>
+                            <LineData name="LINE 2">Suite A Level 4</LineData>
+                            <LineData name="LINE 3">24 Queen Street</LineData>
+                            <LineData name="LINE 4">Auckland Central</LineData>
+                            <LineData name="LINE 5">Auckland 1011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jenny</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jones</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Te Aro</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Quay</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lambton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">123</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Floor</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">1</U40.31.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jenny Jones</LineData>
+                            <LineData name="LINE 2">Floor 1</LineData>
+                            <LineData name="LINE 3">2/123 Lambton Quay</LineData>
+                            <LineData name="LINE 4">Te Aro</LineData>
+                            <LineData name="LINE 5">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jeremy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Healy</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Te Aro</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">The Terrace</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">155</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Radio New Zealand House</U40.26.00.00>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">9</U40.31.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jeremy Healy</LineData>
+                            <LineData name="LINE 2">Level 9 Radio New Zealand House</LineData>
+                            <LineData name="LINE 3">155 The Terrace</LineData>
+                            <LineData name="LINE 4">Te Aro</LineData>
+                            <LineData name="LINE 5">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Brown</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4293</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Porangahau</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 3</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Brown</LineData>
+                            <LineData name="LINE 2">RD 3</LineData>
+                            <LineData name="LINE 3">Porangahau 4293</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jeff</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smith</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3271</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Morrinsville</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Riverside</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">The Cottage</U40.26.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jeff Smith</LineData>
+                            <LineData name="LINE 2">The Cottage</LineData>
+                            <LineData name="LINE 3">Riverside Road</LineData>
+                            <LineData name="LINE 4">RD 1</LineData>
+                            <LineData name="LINE 5">Morrinsville 3271</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">H G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Guy</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8051</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Christchurch</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Redwood</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uxbridge</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">79</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr H G Guy</LineData>
+                            <LineData name="LINE 2">79 Uxbridge Street</LineData>
+                            <LineData name="LINE 3">Redwood</LineData>
+                            <LineData name="LINE 4">Christchurch 8051</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ross Norman Max</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Arthur</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3500</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Thames</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tararu</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1914</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ross Norman Max Arthur</LineData>
+                            <LineData name="LINE 2">1914 Tararu Road</LineData>
+                            <LineData name="LINE 3">Thames 3500</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B R</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smith</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3118</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mt Maunganui</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Papamoa</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Range</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">392</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr B R Smith</LineData>
+                            <LineData name="LINE 2">392A Range Road</LineData>
+                            <LineData name="LINE 3">Papamoa</LineData>
+                            <LineData name="LINE 4">Mt Maunganui 3118</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Heyes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nelson</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Tahunanui</U40.17.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">East</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Halifax</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">195</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Flat</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">7C</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">S Heyes</LineData>
+                            <LineData name="LINE 2">Flat 7C</LineData>
+                            <LineData name="LINE 3">195 Halifax Street East</LineData>
+                            <LineData name="LINE 4">Tahunanui</LineData>
+                            <LineData name="LINE 5">Nelson 7011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">M</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bright</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Beckenham Retirement Village</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">8023</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Christchurch</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Sydenham</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Colombo</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1222</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">17</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs M Bright</LineData>
+                            <LineData name="LINE 2">Beckenham Retirement Village</LineData>
+                            <LineData name="LINE 3">17/1222 Colombo Street</LineData>
+                            <LineData name="LINE 4">Sydenham</LineData>
+                            <LineData name="LINE 5">Christchurch 8023</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">J G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">McAllister</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3120</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Whakatane</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Coastlands</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">The Glebe</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">45</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.32.11.21 uniq="U40DoorInd">8A</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss J G McAllister</LineData>
+                            <LineData name="LINE 2">8A/45A The Glebe</LineData>
+                            <LineData name="LINE 3">Coastlands</LineData>
+                            <LineData name="LINE 4">Whakatane 3120</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jason</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hamilton</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3110</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tauranga</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Otumoetai</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Norton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">31</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.32.11.21 uniq="U40DoorInd">B</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jason Hamilton</LineData>
+                            <LineData name="LINE 2">B/31A Norton Road</LineData>
+                            <LineData name="LINE 3">Otumoetai</LineData>
+                            <LineData name="LINE 4">Tauranga 3110</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">NZ Feng Shui Society</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3200</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamilton</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Whitiora</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ulster</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">512</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">2</U40.31.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NZ Feng Shui Society</LineData>
+                            <LineData name="LINE 2">Level 2</LineData>
+                            <LineData name="LINE 3">512 Ulster Street</LineData>
+                            <LineData name="LINE 4">Whitiora</LineData>
+                            <LineData name="LINE 5">Hamilton 3200</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Heywood</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4110</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Napier</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Bluff Hill</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Parade</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Marine</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">718</U40.24.11.21>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">3</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs S Heywood</LineData>
+                            <LineData name="LINE 2">Suite 1 Level 3</LineData>
+                            <LineData name="LINE 3">718 Marine Parade</LineData>
+                            <LineData name="LINE 4">Bluff Hill</LineData>
+                            <LineData name="LINE 5">Napier 4110</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attention:</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mart</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Name Plate Engravers</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">7010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nelson</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Atawhai</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Drive</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Atawhai</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1855</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">The Emporium</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attention: Mr S Mart</LineData>
+                            <LineData name="LINE 2">Name Plate Engravers</LineData>
+                            <LineData name="LINE 3">The Emporium</LineData>
+                            <LineData name="LINE 4">1855 Atawhai Drive</LineData>
+                            <LineData name="LINE 5">Atawhai</LineData>
+                            <LineData name="LINE 6">Nelson 7010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attn</U10.04.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Neil</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mardell</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Dyson Smith &amp; Gledwell</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">7910</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Timaru</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Queen</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">57</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Winscombe Mall</U40.26.00.00>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">2</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Shop</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">4</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attn Neil Mardell</LineData>
+                            <LineData name="LINE 2">Dyson Smith &amp; Gledwell</LineData>
+                            <LineData name="LINE 3">Shop 4 Level 2 Winscombe Mall</LineData>
+                            <LineData name="LINE 4">57 Queen Street</LineData>
+                            <LineData name="LINE 5">Timaru 7910</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">AB</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Claridge</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lower Hutt</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Drive</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Queens</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Westfield Queensgate</U40.26.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Shop</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">99</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs AB Claridge</LineData>
+                            <LineData name="LINE 2">Shop 99</LineData>
+                            <LineData name="LINE 3">Westfield Queensgate</LineData>
+                            <LineData name="LINE 4">Queens Drive</LineData>
+                            <LineData name="LINE 5">Lower Hutt 5010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">W</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Miller</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/-</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Mr</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">B</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Hills</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5581</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Otaki</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lynwood</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">220</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs W Miller</LineData>
+                            <LineData name="LINE 2">C/- Mr B Hills</LineData>
+                            <LineData name="LINE 3">220 Lynwood Avenue</LineData>
+                            <LineData name="LINE 4">RD 1</LineData>
+                            <LineData name="LINE 5">Otaki 5581</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Louise</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Barnes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5781</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Martinborough</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Drive</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dinsdale</U40.21.11.41>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Louise Barnes</LineData>
+                            <LineData name="LINE 2">Dinsdale Drive</LineData>
+                            <LineData name="LINE 3">RD 1</LineData>
+                            <LineData name="LINE 4">Martinborough 5781</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Glen</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Miller</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9597</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Middlemarch</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">East</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Valley</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">128</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Flat</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Glen Miller</LineData>
+                            <LineData name="LINE 2">Flat 2</LineData>
+                            <LineData name="LINE 3">128 Valley Road East</LineData>
+                            <LineData name="LINE 4">RD 2</LineData>
+                            <LineData name="LINE 5">Middlemarch 9597</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Gordon</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rameka</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9382</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wanaka</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Boulevard</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Maple</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">56</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 2</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Gordon Rameka</LineData>
+                            <LineData name="LINE 2">56A Maple Boulevard</LineData>
+                            <LineData name="LINE 3">RD 2</LineData>
+                            <LineData name="LINE 4">Wanaka 9382</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Prudence</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Walker</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Acme Company</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1546</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">17999</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Greenlane</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Prudence Walker</LineData>
+                            <LineData name="LINE 2">Acme Company</LineData>
+                            <LineData name="LINE 3">PO Box 17999</LineData>
+                            <LineData name="LINE 4">Greenlane</LineData>
+                            <LineData name="LINE 5">Auckland 1546</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">William</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tariki</U10.08.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">FreePost 1653</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">0753</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Auckland</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">93899</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Browns Bay</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FreePost 1653</LineData>
+                            <LineData name="LINE 2">William Tariki</LineData>
+                            <LineData name="LINE 3">Private Bag 93899</LineData>
+                            <LineData name="LINE 4">Browns Bay</LineData>
+                            <LineData name="LINE 5">Auckland 0753</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ace Super Pie Corporation</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8140</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Christchurch</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Response Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">500500</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ace Super Pie Corporation</LineData>
+                            <LineData name="LINE 2">Response Bag 500500</LineData>
+                            <LineData name="LINE 3">Christchurch 8140</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mills</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3771</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Huntly</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CMB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">A53</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">RD 1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr B Mills</LineData>
+                            <LineData name="LINE 2">CMB A53</LineData>
+                            <LineData name="LINE 3">RD 1</LineData>
+                            <LineData name="LINE 4">Huntly 3771</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Kerry A</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ross</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7010</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maitai Valley</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CMB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">68</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Kerry A Ross</LineData>
+                            <LineData name="LINE 2">CMB 68</LineData>
+                            <LineData name="LINE 3">Maitai Valley 7010</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Junior</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sumner</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5247</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Porirua City</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Counter Delivery</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Mana PostShop</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Junior Sumner</LineData>
+                            <LineData name="LINE 2">Counter Delivery</LineData>
+                            <LineData name="LINE 3">Mana PostShop</LineData>
+                            <LineData name="LINE 4">Porirua City 5247</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">David</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Franklin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5540</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NEW ZEALAND</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Levin</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">David Franklin</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">Levin 5540</LineData>
+                            <LineData name="LINE 4">NEW ZEALAND</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Parker</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">McKay&apos;s Emporium</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Thorndon</U40.17.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">West</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sydney</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">320</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.26.00.00 uniq="U40Building">Gibb House</U40.26.00.00>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">2</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Shop</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Parker</LineData>
+                            <LineData name="LINE 2">McKay&apos;s Emporium</LineData>
+                            <LineData name="LINE 3">Shop 1 Level 2 Gibb House</LineData>
+                            <LineData name="LINE 4">320A Sydney Street West</LineData>
+                            <LineData name="LINE 5">Thorndon</LineData>
+                            <LineData name="LINE 6">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Parker</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">McKay&apos;s Emporium</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Thorndon</U40.17.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">West</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sydney</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">320</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">A</U40.24.11.31>
+                        <U40.26.00.00 uniq="U40Building">Gibb House</U40.26.00.00>
+                        <U40.31.11.11 uniq="U40FloorType">Level</U40.31.11.11>
+                        <U40.31.11.21 uniq="U40FloorInd">2</U40.31.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Shop</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Parker</LineData>
+                            <LineData name="LINE 2">McKay&apos;s Emporium</LineData>
+                            <LineData name="LINE 3">Shop 1 Level 2</LineData>
+                            <LineData name="LINE 4">Gibb House</LineData>
+                            <LineData name="LINE 5">320A Sydney Street West</LineData>
+                            <LineData name="LINE 6">Thorndon</LineData>
+                            <LineData name="LINE 7">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">F</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Stewart</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wellington</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Wellington Central</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">The Terrace</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Terrace House</U40.26.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">3203</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">2</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr F Stewart</LineData>
+                            <LineData name="LINE 2">Unit 3203</LineData>
+                            <LineData name="LINE 3">Terrace House</LineData>
+                            <LineData name="LINE 4">The Terrace</LineData>
+                            <LineData name="LINE 5">Wellington Central</LineData>
+                            <LineData name="LINE 6">Wellington 6011</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jason</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hamilton</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3110</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tauranga</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Otumoetai</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Norton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">31</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">B</U40.24.11.31>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">1</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NZ</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jason Hamilton</LineData>
+                            <LineData name="LINE 2">31B Norton Road</LineData>
+                            <LineData name="LINE 3">Otumoetai</LineData>
+                            <LineData name="LINE 4">Tauranga 3110</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>UY</GroupDescription>
+            <GroupItemCount>22</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Pedro</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pérez</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Correo Uruguayo</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Recursos Humanos</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Misiones</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1315</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 3</U40.31.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">esquina Buenos Aires</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Correo Uruguayo</LineData>
+                            <LineData name="LINE 2">Recursos Humanos</LineData>
+                            <LineData name="LINE 3">Sr. Pedro Pérez</LineData>
+                            <LineData name="LINE 4">Misiones 1315 Piso 3</LineData>
+                            <LineData name="LINE 5">esquina Buenos Aires</LineData>
+                            <LineData name="LINE 6">11000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 7">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Augusto</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rodríguez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chaná</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1215</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">apto. 152</U40.32.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Augusto Rodríguez</LineData>
+                            <LineData name="LINE 2">Chaná 1215 apto. 152</LineData>
+                            <LineData name="LINE 3">12000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 4">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Jacinto</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Caballero</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Correo Uruguayo</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Geomática</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Misiones</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1315</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 3</U40.31.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Casilla de Correo 1592</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Correo Uruguayo</LineData>
+                            <LineData name="LINE 2">Geomática</LineData>
+                            <LineData name="LINE 3">Sr. Jacinto Caballero</LineData>
+                            <LineData name="LINE 4">Misiones 1315 Piso 3</LineData>
+                            <LineData name="LINE 5">Casilla de Correo 1592</LineData>
+                            <LineData name="LINE 6">11000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 7">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paula</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cervantes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">97000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Durazno</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Durazno</U40.16.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Manzana</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">103</U40.26.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">Solar</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">11</U40.26.21.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Calle 4 de Octubre de 1828</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paula Cervantes</LineData>
+                            <LineData name="LINE 2">Manzana 103 Solar 11</LineData>
+                            <LineData name="LINE 3">Calle 4 de Octubre de 1828</LineData>
+                            <LineData name="LINE 4">97000 - Durazno, Durazno</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Subdirector de Desarrollo</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Sergio</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Carrasco</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">HOSPITAL DE CLINICAS</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Avenida Italia</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">s/n</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 1B</U40.31.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">esquina Américo Ricaldoni</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HOSPITAL DE CLINICAS</LineData>
+                            <LineData name="LINE 2">Subdirector de Desarrollo</LineData>
+                            <LineData name="LINE 3">Dr. Sergio Carrasco</LineData>
+                            <LineData name="LINE 4">Avenida Italia s/n Piso 1B</LineData>
+                            <LineData name="LINE 5">esquina Américo Ricaldoni</LineData>
+                            <LineData name="LINE 6">11600 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 7">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Patricia Carolina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Paredes Montes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Convención</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1595</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">apto. 145</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">entre San Jośe y Rio Branco</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Patricia Carolina Paredes Montes</LineData>
+                            <LineData name="LINE 2">Convención 1595 apto. 145</LineData>
+                            <LineData name="LINE 3">entre San Jośe y Rio Branco</LineData>
+                            <LineData name="LINE 4">11100 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Cecilia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ramirez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Camino Francisco Lecocq</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1013</U40.24.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Cecilia Ramirez</LineData>
+                            <LineData name="LINE 2">Camino Francisco Lecocq 1013</LineData>
+                            <LineData name="LINE 3">12900 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 4">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lorena</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Díaz Martínez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sayago</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Complejo Habitacional - Millán y Raffo</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Calle 3</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">4575</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Block 14</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Apto. 103</U40.32.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lorena Díaz Martínez</LineData>
+                            <LineData name="LINE 2">Calle 3 4575, Block 14, Apto. 103</LineData>
+                            <LineData name="LINE 3">Complejo Habitacional - Millán y Raffo - Sayago</LineData>
+                            <LineData name="LINE 4">12900 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lucas</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Montero Bilbao</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ciudad Vieja</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Castellano Pérez</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1988</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Edificio 19 de Junio</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Apto. 1203</U40.32.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lucas Montero Bilbao</LineData>
+                            <LineData name="LINE 2">Castellano Pérez 1988, Edificio 19 de Junio, Apto. 1203</LineData>
+                            <LineData name="LINE 3">Ciudad Vieja</LineData>
+                            <LineData name="LINE 4">11000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Luis Manuel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">De León</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Cordón</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Dr. Alejandro Flemming</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1245</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">apto. 154</U40.32.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luis Manuel De León</LineData>
+                            <LineData name="LINE 2">Dr. Alejandro Flemming 1245 apto. 154</LineData>
+                            <LineData name="LINE 3">Cordón</LineData>
+                            <LineData name="LINE 4">12000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Cra.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">María</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Paz Méndez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Avenida Gral. Rivera</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2503</U40.24.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Cra. María Paz Méndez</LineData>
+                            <LineData name="LINE 2">Avenida Gral. Rivera 2503</LineData>
+                            <LineData name="LINE 3">11600 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 4">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Roberto</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pérez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Canelones</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Canelones</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Continuación Javier de Viana</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">s/n</U40.24.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Esquina Martinez Monegal</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Roberto Pérez</LineData>
+                            <LineData name="LINE 2">Continuación Javier de Viana s/n</LineData>
+                            <LineData name="LINE 3">Esquina Martinez Monegal</LineData>
+                            <LineData name="LINE 4">90000 - Canelones, Canelones</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sra.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Guadalupe</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">García</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Canelones</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Juanicó</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">MEVIR - Juanicó</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bolivia</U40.21.00.00>
+                        <U40.32.00.00 uniq="U40Door">apto. 9</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Esquina Vanoni</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sra. Guadalupe García</LineData>
+                            <LineData name="LINE 2">Bolivia apto. 9</LineData>
+                            <LineData name="LINE 3">Esquina Vanoni</LineData>
+                            <LineData name="LINE 4">MEVIR - Juanicó</LineData>
+                            <LineData name="LINE 5">90000 - Juanicó, Canelones</LineData>
+                            <LineData name="LINE 6">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Lic.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mario</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pereira Campo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Canelones</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Pando</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ruta 8 - Brig. Gral. Juan A. Lavalleja</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">KM 31.200</U40.24.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lic. Mario Pereira Campo</LineData>
+                            <LineData name="LINE 2">Ruta 8 - Brig. Gral. Juan A. Lavalleja KM 31.200</LineData>
+                            <LineData name="LINE 3">15600 - Pando, Canelones</LineData>
+                            <LineData name="LINE 4">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Directora de Desarrollo</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ing.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Manuela</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gómez Santos</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Palacio Legislativo</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Avenida De las Leyes</U40.21.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 4</U40.31.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Palacio Legislativo</LineData>
+                            <LineData name="LINE 2">Directora de Desarrollo</LineData>
+                            <LineData name="LINE 3">Ing. Manuela Gómez Santos</LineData>
+                            <LineData name="LINE 4">Avenida De las Leyes Piso 4</LineData>
+                            <LineData name="LINE 5">11800 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 6">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sra.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mariana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cáceres</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Zona Franca - Zonamérica</U40.17.21.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ruta 8 - Brig. Gral. Juan A. Lavalleja</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">KM 17.500</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Edificio @3</U40.26.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sra. Mariana Cáceres</LineData>
+                            <LineData name="LINE 2">Ruta 8 - Brig. Gral. Juan A. Lavalleja KM 17.500, Edificio @3</LineData>
+                            <LineData name="LINE 3">Zona Franca - Zonamérica</LineData>
+                            <LineData name="LINE 4">13000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Gerardo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cardozo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Canelones</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Santa Lucía del Este</U40.16.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Manzana</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">42</U40.26.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">Solar</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">5</U40.26.21.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Casa blanca de dos pisos</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. Gerardo Cardozo</LineData>
+                            <LineData name="LINE 2">Manzana 42 Solar 5</LineData>
+                            <LineData name="LINE 3">Casa blanca de dos pisos</LineData>
+                            <LineData name="LINE 4">15400 - Santa Lucía del Este, Canelones</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">José María</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Aguirre</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Canelones</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Solymar</U40.16.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Manzana</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">42</U40.26.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">Solar</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">1151</U40.26.21.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Calle Botafogo</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. José María Aguirre</LineData>
+                            <LineData name="LINE 2">Manzana 42 Solar 1151</LineData>
+                            <LineData name="LINE 3">Calle Botafogo</LineData>
+                            <LineData name="LINE 4">15800 - Solymar, Canelones</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dra.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Lucía</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rodríguez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Paysandú</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Paysandú</U40.16.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Manzana</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">243</U40.26.11.21>
+                        <U40.26.21.11 uniq="U40PrecBuildingLev2Type">Solar</U40.26.21.11>
+                        <U40.26.21.21 uniq="U40BuildingLev2Ind">15</U40.26.21.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Calle 33 Orientales</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dra. Lucía Rodríguez</LineData>
+                            <LineData name="LINE 2">Manzana 243 Solar 15</LineData>
+                            <LineData name="LINE 3">Calle 33 Orientales</LineData>
+                            <LineData name="LINE 4">60000 - Paysandú, Paysandú</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mario Rogelio</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sánchez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ruta 1 - Brig. Gral. Manuel Oribe</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">KM 14.350</U40.24.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Casa de ladrillos de dos pisos</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mario Rogelio Sánchez</LineData>
+                            <LineData name="LINE 2">Ruta 1 - Brig. Gral. Manuel Oribe KM 14.350</LineData>
+                            <LineData name="LINE 3">Casa de ladrillos de dos pisos</LineData>
+                            <LineData name="LINE 4">12800 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 5">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Gerente</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Lic.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Raúl</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Moreira</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Correo Uruguayo</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Recursos Humanos</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Misiones</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1315</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 3</U40.31.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">esquina Buenos Aires</U40.34.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Correo Uruguayo</LineData>
+                            <LineData name="LINE 2">Gerente Recursos Humanos</LineData>
+                            <LineData name="LINE 3">Lic. Raúl Moreira</LineData>
+                            <LineData name="LINE 4">Misiones 1315 Piso 3</LineData>
+                            <LineData name="LINE 5">esquina Buenos Aires</LineData>
+                            <LineData name="LINE 6">11000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 7">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ruben</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Celiani</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Uruguay</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Montevideo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montevideo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ruta 8 - Brig. Gral. Juan A. Lavalleja</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">KM 22.300 izquierdo</U40.24.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. Ruben Celiani</LineData>
+                            <LineData name="LINE 2">Ruta 8 - Brig. Gral. Juan A. Lavalleja KM 22.300 izquierdo</LineData>
+                            <LineData name="LINE 3">13000 - Montevideo, Montevideo</LineData>
+                            <LineData name="LINE 4">Uruguay</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

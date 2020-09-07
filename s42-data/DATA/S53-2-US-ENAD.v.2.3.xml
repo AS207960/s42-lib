@@ -1,0 +1,2303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>US</GroupDescription>
+            <GroupItemCount>72</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SENOR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JUAN</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">CASTELLANOS</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">RODRIGUEZ</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">00601</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2302</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ADJUNTAS</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">URB SAN JOAQUIN</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CALLE A RODRIGUEZ</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">38</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SENOR JUAN CASTELLANOS RODRIGUEZ</LineData>
+                            <LineData name="LINE 2">URB SAN JOAQUIN</LineData>
+                            <LineData name="LINE 3">38 CALLE A RODRIGUEZ</LineData>
+                            <LineData name="LINE 4">ADJUNTAS PR  00601-2302</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ALMA</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GONZALES</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">00912</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">4028</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN JUAN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AVE BALDORIOTY DE CASTRO</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1998</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS ALMA GONZALES</LineData>
+                            <LineData name="LINE 2">1998 AVE BALDORIOTY DE CASTRO</LineData>
+                            <LineData name="LINE 3">SAN JUAN PR  00912-4028</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">CURATOR</U10.03.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">MUSEO DE ARTE DE SAN JUAN</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">00909</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1799</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN JUAN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AVE DE DIEGO</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">299</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CURATOR</LineData>
+                            <LineData name="LINE 2">MUSEO DE ARTE DE SAN JUAN</LineData>
+                            <LineData name="LINE 3">299 AVE DE DIEGO</LineData>
+                            <LineData name="LINE 4">SAN JUAN PR  00909-1799</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">GEORGE</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">WALKER</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">00923</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3244</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN JUAN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AVE DE DIEGO</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">305INT</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR GEORGE WALKER</LineData>
+                            <LineData name="LINE 2">305INT AVE DE DIEGO</LineData>
+                            <LineData name="LINE 3">SAN JUAN PR  00923-3244</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">BILLY</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">BOB</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">JONES</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">84603</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0320</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">UT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PROVO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">S</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BILLY BOB JONES</LineData>
+                            <LineData name="LINE 2">PO BOX S</LineData>
+                            <LineData name="LINE 3">PROVO UT  84603-0320</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MS</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">PRISCILLA</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">PRUNELY</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">84604</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9658</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">UT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PROVO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">624A</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RR 3</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MS PRISCILLA PRUNELY</LineData>
+                            <LineData name="LINE 2">RR 3 BOX 624A</LineData>
+                            <LineData name="LINE 3">PROVO UT  84604-9658</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">WILDA</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">CARTERIS</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">84604</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1253</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">UT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PROVO</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">W</U40.21.11.12>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1000</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2100</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DR WILDA CARTERIS</LineData>
+                            <LineData name="LINE 2">2100 N 1000 W</LineData>
+                            <LineData name="LINE 3">PROVO UT  84604-1253</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">ATTN</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">RABBI</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">HYMAN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GOLDMAN</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">SINAI TEMPLE</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">01108</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3199</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SPRINGFIELD</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">WAY</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RAOUL WALLENBERG</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ATTN RABBI HYMAN GOLDMAN</LineData>
+                            <LineData name="LINE 2">SINAI TEMPLE</LineData>
+                            <LineData name="LINE 3">2 RAOUL WALLENBERG WAY</LineData>
+                            <LineData name="LINE 4">SPRINGFIELD MA  01108-3199</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">GILDA</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GRACE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">10001</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6315</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NEW YORK</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AVENUE OF THE AMERICAS</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">775</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2F</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GILDA GRACE</LineData>
+                            <LineData name="LINE 2">775 AVENUE OF THE AMERICAS APT 2F</LineData>
+                            <LineData name="LINE 3">NEW YORK NY  10001-6315</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOHN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">DOE</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">USPS HQ</U20.00.12.00>
+                        <U20.03.00.00 uniq="U20Function">MANAGER IT-FRM-OPS</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">20260</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2300</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PLZ</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LENFANT</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">475</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">RM</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2300</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOHN DOE</LineData>
+                            <LineData name="LINE 2">MANAGER IT-FRM-OPS</LineData>
+                            <LineData name="LINE 3">USPS HQ</LineData>
+                            <LineData name="LINE 4">475 LENFANT PLZ SW RM 2300</LineData>
+                            <LineData name="LINE 5">WASHINGTON DC  20260-2300</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JILL</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">SAINT JOHN</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">84102</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1667</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">UT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SALT LAKE CITY</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ELIZABETH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">64A</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">4</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JILL SAINT JOHN</LineData>
+                            <LineData name="LINE 2">64A ELIZABETH ST APT 4</LineData>
+                            <LineData name="LINE 3">SALT LAKE CITY UT  84102-1667</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CHARLES</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">G</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">GRISSOM</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">MISSIONARY TRAINING CENTER</U20.00.12.00>
+                        <U20.03.00.00 uniq="U20Function">MANAGER OF EDUCATION</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">84604</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1763</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">UT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PROVO</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.41 uniq="U40PrimThoroName">900</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2005</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CHARLES G GRISSOM</LineData>
+                            <LineData name="LINE 2">MANAGER OF EDUCATION</LineData>
+                            <LineData name="LINE 3">MISSIONARY TRAINING CENTER</LineData>
+                            <LineData name="LINE 4">2005 N 900 E</LineData>
+                            <LineData name="LINE 5">PROVO UT  84604-1763</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CECIL</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">BOB</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">DEMILLE</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">COLUMBIA PICTURES</U20.00.12.00>
+                        <U20.03.00.00 uniq="U20Function">PRODUCER</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">92262</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0604</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PALM SPRINGS</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CIR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LOS FELICES</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2800</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">C100</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CECIL BOB DEMILLE</LineData>
+                            <LineData name="LINE 2">PRODUCER</LineData>
+                            <LineData name="LINE 3">COLUMBIA PICTURES</LineData>
+                            <LineData name="LINE 4">2800 N LOS FELICES CIR E UNIT C100</LineData>
+                            <LineData name="LINE 5">PALM SPRINGS CA  92262-0604</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">CAPT</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JAMES</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">T</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">KIRK</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">92260</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3002</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PALM SPRINGS</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">E</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">N</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CIR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GLEN</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">300</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CAPT JAMES T KIRK</LineData>
+                            <LineData name="LINE 2">300 E GLEN CIR N</LineData>
+                            <LineData name="LINE 3">PALM SPRINGS CA  92260-3002</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">OCCUPANT</U10.05.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">92301</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9327</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ADELANTO</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">260TH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">40200</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">OCCUPANT</LineData>
+                            <LineData name="LINE 2">40200 N 260TH ST E</LineData>
+                            <LineData name="LINE 3">ADELANTO CA  92301-9327</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">P</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">J</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">HOFFMAN</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">92220</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9702</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BANNING</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">9</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HC 1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">P J HOFFMAN</LineData>
+                            <LineData name="LINE 2">HC 1 BOX 9</LineData>
+                            <LineData name="LINE 3">BANNING CA  92220-9702</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">AL</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JOLSON</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">92225</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9701</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLYTHE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">37A</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HC 10</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AL JOLSON</LineData>
+                            <LineData name="LINE 2">HC 10 BOX 37A</LineData>
+                            <LineData name="LINE 3">BLYTHE CA  92225-9701</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">PFC</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">TIM</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">CONNORS</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">34002</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0339</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">339</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PSC 2</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PFC TIM CONNORS</LineData>
+                            <LineData name="LINE 2">PSC 2 BOX 339</LineData>
+                            <LineData name="LINE 3">APO AA  34002-0339</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SGT</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">WILL</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GARNER</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">34040</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0040</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">40</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CMR</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SGT WILL GARNER</LineData>
+                            <LineData name="LINE 2">CMR BOX 40</LineData>
+                            <LineData name="LINE 3">APO AA  34040-0040</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MAST SGT</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">KEN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">BILDER</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">34020</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9500</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">UNIT 250</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MAST SGT KEN BILDER</LineData>
+                            <LineData name="LINE 2">UNIT 250</LineData>
+                            <LineData name="LINE 3">APO AA  34020-9500</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">CAPTAIN</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SAMUEL</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">SAMSON</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">09521</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2820</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NIMITZ CVN 68</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CAPTAIN SAMUEL SAMSON</LineData>
+                            <LineData name="LINE 2">NIMITZ CVN 68</LineData>
+                            <LineData name="LINE 3">APO AE  09521-2820</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">STAFF SGT</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RON</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">REILLY</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">09074</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0001</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">UNIT 21101</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">STAFF SGT RON REILLY</LineData>
+                            <LineData name="LINE 2">UNIT 21101 BOX 1</LineData>
+                            <LineData name="LINE 3">APO AE  09074-0001</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">CAPTAIN</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">FRED</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">FREITAG</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">09595</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">4076</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">USNS ZEUS TARC 7</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CAPTAIN FRED FREITAG</LineData>
+                            <LineData name="LINE 2">USNS ZEUS TARC 7</LineData>
+                            <LineData name="LINE 3">APO AE  09595-4076</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">POSTAL MANAGER</U10.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">96555</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">0100</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">APO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">400</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">UNIT 1-1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">POSTAL MANAGER</LineData>
+                            <LineData name="LINE 2">UNIT 1-1 BOX 400</LineData>
+                            <LineData name="LINE 3">APO AE  96555-0100</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ROBIN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">PIERCE</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">SR</U10.09.00.00>
+                        <U20.03.00.00 uniq="U20Function">BUILDING MANAGER</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">98407</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2686</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TACOMA</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">37TH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5601</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">QQ1</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ROBIN PIERCE SR</LineData>
+                            <LineData name="LINE 2">BUILDING MANAGER</LineData>
+                            <LineData name="LINE 3">5601 N 37TH ST APT QQ1</LineData>
+                            <LineData name="LINE 4">TACOMA WA  98407-2686</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">REVEREND</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JACOB</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">FEENEY</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">98418</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6706</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TACOMA</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">S</U40.21.11.11>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">38TH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">750 1/2</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">A</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">REVEREND JACOB FEENEY</LineData>
+                            <LineData name="LINE 2">750 1/2 S 38TH ST APT A</LineData>
+                            <LineData name="LINE 3">TACOMA WA  98418-6706</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">TOMAS</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GONZALES</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">III</U10.09.00.00>
+                        <U20.03.00.00 uniq="U20Function">POSTMASTER</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">98431</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9998</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TACOMA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">319998</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TOMAS GONZALES III</LineData>
+                            <LineData name="LINE 2">POSTMASTER</LineData>
+                            <LineData name="LINE 3">PO BOX 319998</LineData>
+                            <LineData name="LINE 4">TACOMA WA  98431-9998</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CYRUS</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">T</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">VANCE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53597</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9559</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WAUNAKEE</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">STATE ROAD 19 AND 113</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5738</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CYRUS T VANCE</LineData>
+                            <LineData name="LINE 2">5738 STATE ROAD 19 AND 113</LineData>
+                            <LineData name="LINE 3">WAUNAKEE WI  53597-9559</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SANDI</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">DOT</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53561</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9709</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MERRIMAC</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SUE KAY</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">E13353A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SANDI DOT</LineData>
+                            <LineData name="LINE 2">E13353A SUE KAY DR</LineData>
+                            <LineData name="LINE 3">MERRIMAC WI  53561-9709</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SUSIE</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">QUEUE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53561</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9615</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MERRIMAC</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BLACKLOCK</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">N4166 1/2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SUSIE QUEUE</LineData>
+                            <LineData name="LINE 2">N4166 1/2 BLACKLOCK RD</LineData>
+                            <LineData name="LINE 3">MERRIMAC WI  53561-9615</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">FATHER</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOSEPH</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">P</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">KANNEDY</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53508</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9654</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BELLEVILLE</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">W</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COUNTY</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">W3890</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FATHER JOSEPH P KANNEDY</LineData>
+                            <LineData name="LINE 2">W3890 COUNTY RD W</LineData>
+                            <LineData name="LINE 3">BELLEVILLE WI  53508-9654</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RICKARD</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">BANDECOOT</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53520</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9517</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BRODHEAD</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COUNTY ROAD FF</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">N3900</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RICKARD BANDECOOT</LineData>
+                            <LineData name="LINE 2">N3900 COUNTY ROAD FF</LineData>
+                            <LineData name="LINE 3">BRODHEAD WI  53520-9517</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ARNIE</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">FRIZIER</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53402</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3110</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">RACINE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">3 MILE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">96</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ARNIE FRIZIER</LineData>
+                            <LineData name="LINE 2">96 3 MILE RD</LineData>
+                            <LineData name="LINE 3">RACINE WI  53402-3110</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">REGINALD</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">PERCIVAL</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">FERMIN</U10.06.11.31>
+                        <U10.08.00.00 uniq="U10Surname">FRAZIER</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">III</U10.09.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">ESQ</U10.10.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">53502</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9768</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALBANY</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COUNTY ROAD C</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">W700</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">REGINALD PERCIVAL FERMIN FRAZIER III ESQ</LineData>
+                            <LineData name="LINE 2">W700 COUNTY ROAD C</LineData>
+                            <LineData name="LINE 3">ALBANY WI  53502-9768</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">COURTNEY</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">HASSELHOFFER</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">PHD</U10.10.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">20003</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2717</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">E</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">WALK</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ARCHIBALD</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">500</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COURTNEY HASSELHOFFER PHD</LineData>
+                            <LineData name="LINE 2">500 E ARCHIBALD WALK SW</LineData>
+                            <LineData name="LINE 3">WASHINGTON DC  20003-2717</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SALLY</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">ANN</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">FORTE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">30673</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">5050</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PARK</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BASTON TRAILER</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">100</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SALLY ANN FORTE</LineData>
+                            <LineData name="LINE 2">100 BASTON TRAILER PARK</LineData>
+                            <LineData name="LINE 3">WASHINGTON GA  30673-5050</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">HEMPSTEAD</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">COUNTY</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">71862</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9999</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GENERAL DELIVERY</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HEMPSTEAD COUNTY</LineData>
+                            <LineData name="LINE 2">GENERAL DELIVERY</LineData>
+                            <LineData name="LINE 3">WASHINGTON AR  71862-9999</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">COUNTY</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">TAZEWELL</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">61571</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9602</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">IL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">36</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RR 1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COUNTY TAZEWELL</LineData>
+                            <LineData name="LINE 2">RR 1 BOX 36</LineData>
+                            <LineData name="LINE 3">WASHINGTON IL  61571-9602</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ELVIS</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">CORNWALLIS</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">41135</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9701</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">KY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HEAD OF GRASS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">54</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HC 79</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ELVIS CORNWALLIS</LineData>
+                            <LineData name="LINE 2">HC 79 BOX 54</LineData>
+                            <LineData name="LINE 3">HEAD OF GRASS KY  41135-9701</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">POSTMASTER</U10.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">59448</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9998</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HEART BUTTE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">9998</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">POSTMASTER</LineData>
+                            <LineData name="LINE 2">PO BOX 9998</LineData>
+                            <LineData name="LINE 3">HEART BUTTE MT  59448-9998</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SIR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">DEREK</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">DEAVERS</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">17901</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3884</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">POTTSVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">BLVD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">C A LORD</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">362</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SIR DEREK DEAVERS</LineData>
+                            <LineData name="LINE 2">362 C A LORD BLVD</LineData>
+                            <LineData name="LINE 3">POTTSVILLE PA  17901-3884</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">PETER</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">PEPPERS</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">17921</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9397</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELFENSTEIN</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">LN</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CLOUSER</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PETER PEPPERS</LineData>
+                            <LineData name="LINE 2">1 CLOUSER LN</LineData>
+                            <LineData name="LINE 3">HELFENSTEIN PA  17921-9397</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CALVERT</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">RICHMOND</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">30815</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">4635</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HEPHZIBAH</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GA HIGHWAY 88</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2202</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CALVERT RICHMOND</LineData>
+                            <LineData name="LINE 2">2202 GA HIGHWAY 88</LineData>
+                            <LineData name="LINE 3">HEPHZIBAH GA  30815-4635</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RIVER</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">SNEEZIX</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">10004</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1017</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NEW YORK</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RIVER PIERS</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RIVER SNEEZIX</LineData>
+                            <LineData name="LINE 2">A N RIVER PIERS</LineData>
+                            <LineData name="LINE 3">NEW YORK NY  10004-1017</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">GORDON</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">LEE</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">GRACE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">10924</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">6725</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GOSHEN</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">6 1/2 STATION</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">28</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GORDON LEE GRACE</LineData>
+                            <LineData name="LINE 2">28 6 1/2 STATION RD</LineData>
+                            <LineData name="LINE 3">GOSHEN NY  10924-6725</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SISTER</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">MARY</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">LOUISE</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">CARRIE</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">CONVENT OF THE SACRED HEART</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">10128</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">5301</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NEW YORK</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">E</U40.21.11.11>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">91ST</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">323</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SISTER MARY LOUISE CARRIE</LineData>
+                            <LineData name="LINE 2">CONVENT OF THE SACRED HEART</LineData>
+                            <LineData name="LINE 3">323 E 91ST ST</LineData>
+                            <LineData name="LINE 4">NEW YORK NY  10128-5301</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">ALI</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">KAT</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">96818</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">4326</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">HI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">HONOLULU</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HALAWA VIEW LOOP</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">418</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">L</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ALI KAT</LineData>
+                            <LineData name="LINE 2">418 HALAWA VIEW LOOP APT L</LineData>
+                            <LineData name="LINE 3">HONOLULU HI  96818-4326</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">GRANT</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">COULEE</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">99133</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8740</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GRAND COULEE</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ROAD 28 1/2 REX</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2899</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR GRANT COULEE</LineData>
+                            <LineData name="LINE 2">2899 ROAD 28 1/2 REX</LineData>
+                            <LineData name="LINE 3">GRAND COULEE WA  99133-8740</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">COLT</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">GRANGER</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">99133</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8792</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GRAND COULEE</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">W</U40.21.11.11>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NE</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CARDINAL</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">28900</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COLT GRANGER</LineData>
+                            <LineData name="LINE 2">28900 W CARDINAL RD NE</LineData>
+                            <LineData name="LINE 3">GRAND COULEE WA  99133-8792</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">DUSTY</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">GRANT</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">LEE</U10.06.11.31>
+                        <U10.08.00.00 uniq="U10Surname">RHODES</U10.08.00.00>
+                        <U20.03.00.00 uniq="U20Function">GRAND MARSHAL</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">67510</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9608</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">KS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ABBYVILLE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">72A</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RR 1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DUSTY GRANT LEE RHODES</LineData>
+                            <LineData name="LINE 2">GRAND MARSHAL</LineData>
+                            <LineData name="LINE 3">RR 1 BOX 72A</LineData>
+                            <LineData name="LINE 4">ABBYVILLE KS  67510-9608</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">DR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">RENE</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">RUSSO</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">94538</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1120</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">FREMONT</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CT</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BUD</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">39110</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DR RENE RUSSO</LineData>
+                            <LineData name="LINE 2">39110 BUD CT</LineData>
+                            <LineData name="LINE 3">FREMONT CA  94538-1120</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CAROL</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">CAIN</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">MONROE CLINIC</U20.00.12.00>
+                        <U20.03.00.00 uniq="U20Function">DIRECTOR</U20.03.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">94560</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">1083</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">CA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">NEWARK</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1083</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CAROL CAIN</LineData>
+                            <LineData name="LINE 2">DIRECTOR</LineData>
+                            <LineData name="LINE 3">MONROE CLINIC</LineData>
+                            <LineData name="LINE 4">PO BOX 1083</LineData>
+                            <LineData name="LINE 5">NEWARK CA  94560-1083</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">US POSTAL SERVICE</U10.00.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">20260</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3100</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WASHINGTON</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PLAZA</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">L&apos;ENFANT</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">475</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">US POSTAL SERVICE</LineData>
+                            <LineData name="LINE 2">475 L&apos;ENFANT PLAZA SW</LineData>
+                            <LineData name="LINE 3">WASHINGTON DC  20260-3100</LineData>
+                            <LineData name="LINE 4">USA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">FLUOR</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">INC</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">PIPELINE DIVISION</U10.02.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">MSC 7-2</U30.33.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">40742</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8174</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">KY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">LONDON</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8174</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MSC 7-2</LineData>
+                            <LineData name="LINE 2">FLUOR INC</LineData>
+                            <LineData name="LINE 3">PIPELINE DIVISION</LineData>
+                            <LineData name="LINE 4">PO BOX 8174</LineData>
+                            <LineData name="LINE 5">LONDON KY  40742-8174</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">THOMAS</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">HARDY</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">MRS</U20.05.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">ELEANOR</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">J</U20.06.11.21>
+                        <U20.06.11.31 uniq="U20PrecGivenNamePart3">G</U20.06.11.31>
+                        <U20.08.00.00 uniq="U20Surname">HARDY</U20.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">60625</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3806</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">IL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHICAGO</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">N</U40.21.11.11>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">AVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">FRANCISCO</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4437</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THOMAS HARDY</LineData>
+                            <LineData name="LINE 2">C/O MRS ELEANOR J G HARDY</LineData>
+                            <LineData name="LINE 3">4437 N FRANCISCO AVE</LineData>
+                            <LineData name="LINE 4">CHICAGO IL  60625-3806</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CHRIS</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JONES</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">JONES ENTERPRISES</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">INC</U20.01.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">COMPTROLLER</U20.02.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">ADAM</U20.06.11.11>
+                        <U20.08.00.00 uniq="U20Surname">JONES</U20.08.00.00>
+                        <U20.09.00.00 uniq="U20NameQualifier">III</U20.09.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">ESQ</U20.10.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">60614</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2322</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">IL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHICAGO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2322</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CHRIS JONES</LineData>
+                            <LineData name="LINE 2">C/O ADAM JONES III ESQ</LineData>
+                            <LineData name="LINE 3">COMPTROLLER</LineData>
+                            <LineData name="LINE 4">JONES ENTERPRISES INC</LineData>
+                            <LineData name="LINE 5">PO BOX 2322</LineData>
+                            <LineData name="LINE 6">CHICAGO IL  60614-2322</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">BOB</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">O&apos;LINK</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">CALLAWAY GOLF CLUBS</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">INC</U20.01.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">LOGISTICS MGR</U20.02.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">60204</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">7545</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">IL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">EVANSTON</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">7545</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BOB O&apos;LINK</LineData>
+                            <LineData name="LINE 2">C/O LOGISTICS MGR</LineData>
+                            <LineData name="LINE 3">CALLAWAY GOLF CLUBS INC</LineData>
+                            <LineData name="LINE 4">PO BOX 7545</LineData>
+                            <LineData name="LINE 5">EVANSTON IL  60204-7545</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">CHRISTIAN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">SIZEMORE</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">SR</U10.09.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">15219</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2403</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PITTSBURGH</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALLEGHENY COUNTY COURTHOUSE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">303</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CHRISTIAN SIZEMORE SR</LineData>
+                            <LineData name="LINE 2">303 ALLEGHENY COUNTY COURTHOUSE</LineData>
+                            <LineData name="LINE 3">PITTSBURGH PA  15219-2403</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AIRPORT BANK PROCESSING</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">BALDARIC AND ASSOCIATES ACCTG</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">15122</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2605</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WEST MIFFLIN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALLEGHENY COUNTY AIRPORT</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">STE</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">111</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AIRPORT BANK PROCESSING</LineData>
+                            <LineData name="LINE 2">BALDARIC AND ASSOCIATES ACCTG</LineData>
+                            <LineData name="LINE 3">12 ALLEGHENY COUNTY AIRPORT STE 111</LineData>
+                            <LineData name="LINE 4">WEST MIFFLIN PA  15122-2605</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">SILAS</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">VAUGHN</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">15108</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8913</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CORAOPOLIS</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PARK</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PITTSBURGH AIRPORT INDUSTRIA</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">199</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR SILAS VAUGHN</LineData>
+                            <LineData name="LINE 2">199 PITTSBURGH AIRPORT INDUSTRIA PARK</LineData>
+                            <LineData name="LINE 3">CORAOPOLIS PA  15108-8913</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">51 MANOR TRAILER PARK MGMT</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">INC</U10.01.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">15012</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3918</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BELLE VERNON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">51 MANOR TRAILER PARK</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">101</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">51 MANOR TRAILER PARK MGMT INC</LineData>
+                            <LineData name="LINE 2">101 51 MANOR TRAILER PARK RD</LineData>
+                            <LineData name="LINE 3">BELLE VERNON PA  15012-3918</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">GRAMBLING SCHOOL</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">GRAMBLING SCHOOL BOARD</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">29322</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8438</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CAMPOBELLO</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CAMPOBELLO GRAMLING SCHOOL</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">897</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GRAMBLING SCHOOL</LineData>
+                            <LineData name="LINE 2">GRAMBLING SCHOOL BOARD</LineData>
+                            <LineData name="LINE 3">897 CAMPOBELLO GRAMLING SCHOOL RD</LineData>
+                            <LineData name="LINE 4">CAMPOBELLO SC  29322-8438</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">GRISHAM MAILING SERVICES</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">BENSON AND ASSOCIATES STAFFING</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">CO</U20.01.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">14710</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9641</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ASHVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BLOCKVILLE WATTS FLATS</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1099</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GRISHAM MAILING SERVICES</LineData>
+                            <LineData name="LINE 2">BENSON AND ASSOCIATES STAFFING CO</LineData>
+                            <LineData name="LINE 3">1099 BLOCKVILLE WATTS FLATS RD</LineData>
+                            <LineData name="LINE 4">ASHVILLE NY  14710-9641</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">DRUCILLA</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">ANNE</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">SIMON</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">28786</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">7785</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WAYNESVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">EXPY</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GREAT SMOKEY MOUNTAIN</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">20499</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS DRUCILLA ANNE SIMON</LineData>
+                            <LineData name="LINE 2">20499 GREAT SMOKEY MOUNTAIN EXPY</LineData>
+                            <LineData name="LINE 3">WAYNESVILLE NC  28786-7785</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">CONTROLLER</U10.03.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">MOUNT JEFFERSON STATE BANK</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">28694</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8331</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">WEST JEFFERSON</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOUNT JEFFERSON STATE BANK</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">401</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CONTROLLER</LineData>
+                            <LineData name="LINE 2">MOUNT JEFFERSON STATE BANK</LineData>
+                            <LineData name="LINE 3">401 MOUNT JEFFERSON STATE BANK RD</LineData>
+                            <LineData name="LINE 4">WEST JEFFERSON NC  28694-8331</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">DELIVERANCE BAPTIST CHURCH BULLETIN</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">DELIVERANCE BAPTIST CHURCH</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">28670</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8984</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">RONDA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DELIVERANCE BAPTIST CHURCH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">900</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DELIVERANCE BAPTIST CHURCH BULLETIN</LineData>
+                            <LineData name="LINE 2">DELIVERANCE BAPTIST CHURCH</LineData>
+                            <LineData name="LINE 3">900 DELIVERANCE BAPTIST CHURCH RD</LineData>
+                            <LineData name="LINE 4">RONDA NC  28670-8984</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">WASHINGTON JR HIGH SCHOOL BAND</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">WASHINGTON JR HIGH SCHOOL</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">77301</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">3881</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TX</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CONROE</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">N</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PL</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DR MARTIN LUTHER KING JR</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">507</U40.24.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">RM</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">201</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">WASHINGTON JR HIGH SCHOOL BAND</LineData>
+                            <LineData name="LINE 2">WASHINGTON JR HIGH SCHOOL</LineData>
+                            <LineData name="LINE 3">507 DR MARTIN LUTHER KING JR PL N RM 201</LineData>
+                            <LineData name="LINE 4">CONROE TX  77301-3881</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JO</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">ANNE</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">LEE</U10.06.11.31>
+                        <U10.08.00.00 uniq="U10Surname">JOHNSON</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">77355</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">7919</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TX</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MAGNOLIA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DECKER PRAIRIE ROSEHL</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">26821-1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JO ANNE LEE JOHNSON</LineData>
+                            <LineData name="LINE 2">26821-1 DECKER PRAIRIE ROSEHL RD</LineData>
+                            <LineData name="LINE 3">MAGNOLIA TX  77355-7919</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>69</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">DIEGO</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">RODRIGUEZ</U10.06.11.21>
+                        <U10.06.11.31 uniq="U10PrecGivenNamePart3">HERNANDES</U10.06.11.31>
+                        <U10.08.00.00 uniq="U10Surname">ORTEGA</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">78102</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8191</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TX</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BEEVILLE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CIR</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PRIVATE COUNTRY VILLAGE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">101A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DIEGO RODRIGUEZ HERNANDES ORTEGA</LineData>
+                            <LineData name="LINE 2">101A PRIVATE COUNTRY VILLAGE CIR</LineData>
+                            <LineData name="LINE 3">BEEVILLE TX  78102-8191</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>70</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MRS</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">MAE</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">B</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">SECONDI</U10.08.00.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">54414</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">8648</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BIRNAMWOOD</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">RD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HUTCHINS ANIWA TOWN LINE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">N11300</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MRS MAE B SECONDI</LineData>
+                            <LineData name="LINE 2">N11300 HUTCHINS ANIWA TOWN LINE RD</LineData>
+                            <LineData name="LINE 3">BIRNAMWOOD WI  54414-8648</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>71</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">CONSERVADORS</U10.03.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">ESTATE DE MARTENE DE SAN JUAN</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">00926</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">9567</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">PR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN JUAN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">URB BRISAS DEL VALLE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CONSERVADORS</LineData>
+                            <LineData name="LINE 2">ESTATE DE MARTENE DE SAN JUAN</LineData>
+                            <LineData name="LINE 3">1 URB BRISAS DEL VALLE</LineData>
+                            <LineData name="LINE 4">SAN JUAN PR  00926-9567</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>72</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOHN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JOHNSON</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">DIPLOMATIC CORPS</U20.00.12.00>
+                        <U40.13.11.11 uniq="U40PostCodePos1Part1">34001</U40.13.11.11>
+                        <U40.13.11.21 uniq="U40PostCodePos1Part2">2000</U40.13.11.21>
+                        <U40.14.00.00 uniq="U40CountryName">USA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">DPO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2000</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">UNIT 6100</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">US</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOHN JOHNSON</LineData>
+                            <LineData name="LINE 2">DIPLOMATIC CORPS</LineData>
+                            <LineData name="LINE 3">UNIT 6100 BOX 2000</LineData>
+                            <LineData name="LINE 4">DPO AA  34001-2000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

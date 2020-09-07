@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>CA</GroupDescription>
+            <GroupItemCount>77</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AcupunctureCare Holistic Centre</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T8A 2H5</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CANADA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sherwood Park</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Blvd</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Brentwood</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">50</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">204</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AcupunctureCare Holistic Centre</LineData>
+                            <LineData name="LINE 2">204-50 Brentwood Blvd</LineData>
+                            <LineData name="LINE 3">Sherwood Park AB  T8A 2H5</LineData>
+                            <LineData name="LINE 4">CANADA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attn.</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Cedric</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Miller</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Buckingham</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">The Health Network</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">N6H 1R5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">London</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">W</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Oxford</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">43</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Attn. Dr. Cedric Miller Buckingham</LineData>
+                            <LineData name="LINE 2">The Health Network</LineData>
+                            <LineData name="LINE 3">43 Oxford Street W</LineData>
+                            <LineData name="LINE 4">London ON  N6H 1R5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Donald</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">B.</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Millar</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Jr.</U10.09.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">FCCSS (C)</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N6B 1M3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">London</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Horton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">448</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Donald B. Millar Jr. FCCSS (C)</LineData>
+                            <LineData name="LINE 2">448 Horton Street E</LineData>
+                            <LineData name="LINE 3">London ON  N6B 1M3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Centre Chiropratique Santé Optimale</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H4R 1C7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Saint-Laurent</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">O</U40.21.11.12>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">boulevard</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Henri-Bourassa</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6245</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Centre Chiropratique Santé Optimale</LineData>
+                            <LineData name="LINE 2">6245 boulevard Henri-Bourassa O</LineData>
+                            <LineData name="LINE 3">Saint-Laurent QC  H4R 1C7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Penny Lane Chiropractic &amp; Health</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T2P 1G3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Calgary</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">8</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">513</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">214</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Penny Lane Chiropractic &amp; Health</LineData>
+                            <LineData name="LINE 2">214-513 8 Avenue SW</LineData>
+                            <LineData name="LINE 3">Calgary AB  T2P 1G3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Centre Santé Chiropratique des Ormeaux</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H1L 4X3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montréal</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">rue</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">des Ormeaux</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2306</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Centre Santé Chiropratique des Ormeaux</LineData>
+                            <LineData name="LINE 2">2306 rue des Ormeaux</LineData>
+                            <LineData name="LINE 3">Montréal QC  H1L 4X3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jonathan</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Pierce</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Fenshay</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">C/O</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Paul</U20.06.11.11>
+                        <U20.08.00.00 uniq="U20Surname">Labelle</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H1L 1B6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montréal</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">rue</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sherbrooke</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8565</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jonathan Pierce Fenshay</LineData>
+                            <LineData name="LINE 2">C/O Paul Labelle</LineData>
+                            <LineData name="LINE 3">8565 rue Sherbrooke E</LineData>
+                            <LineData name="LINE 4">Montréal QC  H1L 1B6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MacKay Chartered Accountants</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">LLP</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T5J 3L8</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Edmonton</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">106</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">10010</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">705</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MacKay Chartered Accountants LLP</LineData>
+                            <LineData name="LINE 2">705-10010 106 Street NW</LineData>
+                            <LineData name="LINE 3">Edmonton AB  T5J 3L8</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Pierre Labrecque</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J3B 5L4</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Saint-Jean-Sur-Richelieu</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">N</U40.21.11.12>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">boulevard</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">du Séminaire</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">439</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pierre Labrecque</LineData>
+                            <LineData name="LINE 2">439 boulevard du Séminaire N</LineData>
+                            <LineData name="LINE 3">Saint-Jean-Sur-Richelieu QC  J3B 5L4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ladd D R &amp; Co</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V3W 0A8</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Surrey</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">78</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">13443</U40.24.11.21>
+                        <U40.32.11.21 uniq="U40DoorInd">101</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ladd D R &amp; Co</LineData>
+                            <LineData name="LINE 2">101-13443 78 Avenue</LineData>
+                            <LineData name="LINE 3">Surrey BC  V3W 0A8</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Isabelle</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">De Poirier</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J0R 1T0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Prévost</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">boul</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">du Curé-Labelle</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2888</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Isabelle De Poirier</LineData>
+                            <LineData name="LINE 2">2888 boul du Curé-Labelle</LineData>
+                            <LineData name="LINE 3">Prévost QC  J0R 1T0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dr.</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Guthrie</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">X1A 2N1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">NT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Yellowknife</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1500</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Guthrie</LineData>
+                            <LineData name="LINE 2">PO Box 1500</LineData>
+                            <LineData name="LINE 3">Yellowknife NT  X1A 2N1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Watzin Veterinary Clinic</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L0R 2H6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Waterdown</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">N</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hamilton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">64</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Watzin Veterinary Clinic</LineData>
+                            <LineData name="LINE 2">64 Hamilton Street N</LineData>
+                            <LineData name="LINE 3">Waterdown ON  L0R 2H6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Upper Canada Animal Hospital</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L0S 1J0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Niagara On The Lake</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mary</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">323</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Upper Canada Animal Hospital</LineData>
+                            <LineData name="LINE 2">323 Mary</LineData>
+                            <LineData name="LINE 3">Niagara On The Lake ON  L0S 1J0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Pet Vet Hospitals</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L8G 1C1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Stoney Creek</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hwy 8</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">111</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pet Vet Hospitals</LineData>
+                            <LineData name="LINE 2">111 Hwy 8</LineData>
+                            <LineData name="LINE 3">Stoney Creek ON  L8G 1C1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Animal Hospital Of River Oaks</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L6H 1M2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Oakville</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Old Upper Middle</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">161</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Animal Hospital Of River Oaks</LineData>
+                            <LineData name="LINE 2">161 Old Upper Middle Road</LineData>
+                            <LineData name="LINE 3">Oakville ON  L6H 1M2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hôpital Vétérinaire Piedmont</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J0R 1K0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Piedmont</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">rue</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Principale</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">750</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hôpital Vétérinaire Piedmont</LineData>
+                            <LineData name="LINE 2">750 rue Principale</LineData>
+                            <LineData name="LINE 3">RR 1</LineData>
+                            <LineData name="LINE 4">Piedmont QC  J0R 1K0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Clinique Vétérinaire Chainé Et Ass.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">G9N 6T5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Shawinigan-Sud</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">av</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">12</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4470</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clinique Vétérinaire Chainé Et Ass.</LineData>
+                            <LineData name="LINE 2">4470 av 12</LineData>
+                            <LineData name="LINE 3">Shawinigan-Sud QC  G9N 6T5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Great Slave Animal Hospital</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">X1A 2P7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">NT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Yellowknife</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2255</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Stn Main</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Great Slave Animal Hospital</LineData>
+                            <LineData name="LINE 2">PO Box 2255 Stn Main</LineData>
+                            <LineData name="LINE 3">Yellowknife NT  X1A 2P7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Clinique Vétérinaire L&apos;Assomption Enrg</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J5W 3H3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">L&apos;Assomption</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">rue</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Marguerite-Bourgeoys</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">155</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clinique Vétérinaire L&apos;Assomption Enrg</LineData>
+                            <LineData name="LINE 2">155 rue Marguerite-Bourgeoys</LineData>
+                            <LineData name="LINE 3">L&apos;Assomption QC  J5W 3H3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Clinique Vétérinaire Sagamie Enr</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">G8B 5B7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Alma</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">Nord</U40.21.11.12>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">chemin</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">du Pont-Taché</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">741</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clinique Vétérinaire Sagamie Enr</LineData>
+                            <LineData name="LINE 2">741 chemin du Pont-Taché Nord</LineData>
+                            <LineData name="LINE 3">Alma QC  G8B 5B7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Wingrove Veterinary Services</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N1H 6H7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Guelph</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Lcd Royal City Mail</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wingrove Veterinary Services</LineData>
+                            <LineData name="LINE 2">RR 1 Lcd Royal City Mail</LineData>
+                            <LineData name="LINE 3">Guelph ON  N1H 6H7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hillcrest Animal Hospital</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">K8V 5P7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Trenton</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Stn Main</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hillcrest Animal Hospital</LineData>
+                            <LineData name="LINE 2">RR 4 Stn Main</LineData>
+                            <LineData name="LINE 3">Trenton ON  K8V 5P7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Centre Chiropratique OPTIMAL de Repentigny</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J6A 7K4</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Repentigny</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">boulevard</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Industriel</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">121</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Centre Chiropratique OPTIMAL de Repentigny</LineData>
+                            <LineData name="LINE 2">121 boulevard Industriel</LineData>
+                            <LineData name="LINE 3">Repentigny QC  J6A 7K4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Atrium Chiropractic Centre</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L4M 6L5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Barrie</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">E</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Rd</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Cundles</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">190</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Atrium Chiropractic Centre</LineData>
+                            <LineData name="LINE 2">190 Cundles Rd E</LineData>
+                            <LineData name="LINE 3">Barrie ON  L4M 6L5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hopital Vétérinaire De Candiac</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J5R 4Z5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Candiac</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ch</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">St-François-Xavier</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">68</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hopital Vétérinaire De Candiac</LineData>
+                            <LineData name="LINE 2">68 ch St-François-Xavier</LineData>
+                            <LineData name="LINE 3">Candiac QC  J5R 4Z5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Brunhilda</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Cesare</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R7B 3B9</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brandon</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ottawa</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2145</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Apt</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2b</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brunhilda Cesare</LineData>
+                            <LineData name="LINE 2">2145 Ottawa Ave Apt 2b</LineData>
+                            <LineData name="LINE 3">Brandon MB  R7B 3B9</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jules</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Janiak</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L0M 1S0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Stayner</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">St</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Eric</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">254</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jules Janiak</LineData>
+                            <LineData name="LINE 2">254 Eric St</LineData>
+                            <LineData name="LINE 3">RR 4</LineData>
+                            <LineData name="LINE 4">Stayner ON  L0M 1S0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Li</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Song</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T1B 3M1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Medicine Hat</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SE</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Way</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sprague</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">102</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">APT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">205</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Li Song</LineData>
+                            <LineData name="LINE 2">102 Sprague Way SE APT 205</LineData>
+                            <LineData name="LINE 3">Medicine Hat AB  T1B 3M1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ronald</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Cricket</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N0C 1E0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Flesherton</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Ronald Cricket</LineData>
+                            <LineData name="LINE 2">RR 2</LineData>
+                            <LineData name="LINE 3">Flesherton ON  N0C 1E0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Andy</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">T.</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Grandheart</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N0L 1A0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Appin</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Dr</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Glendon</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5128</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Andy T. Grandheart</LineData>
+                            <LineData name="LINE 2">5128 Glendon Dr</LineData>
+                            <LineData name="LINE 3">RR 3</LineData>
+                            <LineData name="LINE 4">Appin ON  N0L 1A0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Warner</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Warden</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">III</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V0E 1V5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Enderby</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">5</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Rd</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Frederick</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">56</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Warner Warden III</LineData>
+                            <LineData name="LINE 2">56 Frederick Rd</LineData>
+                            <LineData name="LINE 3">RR 5</LineData>
+                            <LineData name="LINE 4">Enderby BC  V0E 1V5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Elizabeth</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Grail</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R0E 2C0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Victoria Beach</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">GD</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Elizabeth Grail</LineData>
+                            <LineData name="LINE 2">GD</LineData>
+                            <LineData name="LINE 3">Victoria Beach MB  R0E 2C0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Francois</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Ferme</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J8E 1C7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mont-Tremblant</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ch</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">des Cerfs</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">189</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Francois Ferme</LineData>
+                            <LineData name="LINE 2">189 ch des Cerfs</LineData>
+                            <LineData name="LINE 3">Mont-Tremblant QC  J8E 1C7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Georgia</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">English</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T3H 1L3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Calgary</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">SW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Close</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Strathcona</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">112</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Georgia English</LineData>
+                            <LineData name="LINE 2">112 Strathcona Close SW</LineData>
+                            <LineData name="LINE 3">Calgary AB  T3H 1L3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Arnold</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Straithern</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Whatley</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0B 2G0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Innisfree</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">223</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Arnold Straithern Whatley</LineData>
+                            <LineData name="LINE 2">PO Box 223</LineData>
+                            <LineData name="LINE 3">Innisfree AB  T0B 2G0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Emma</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Pahls</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0A 3A1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">St Paul</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">St</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">60</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4434</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Emma Pahls</LineData>
+                            <LineData name="LINE 2">4434 60 St</LineData>
+                            <LineData name="LINE 3">St Paul AB  T0A 3A1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Simone</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">LeGrande</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H4B 2R2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montreal</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Cres</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Benny</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2500</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Simone LeGrande</LineData>
+                            <LineData name="LINE 2">2500 Cres Benny</LineData>
+                            <LineData name="LINE 3">Montreal QC  H4B 2R2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">John</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Landon</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L5L 2N6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mississauga</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sir John&apos;s Homestead</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3137</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Landon</LineData>
+                            <LineData name="LINE 2">3137 Sir John&apos;s Homestead</LineData>
+                            <LineData name="LINE 3">Mississauga ON  L5L 2N6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Ted</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Bender</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N7M 5J1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chatham</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Stn Main</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ted Bender</LineData>
+                            <LineData name="LINE 2">RR 1 Stn Main</LineData>
+                            <LineData name="LINE 3">Chatham ON  N7M 5J1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Grendel</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Llewellyn</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Johnson</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">L3B 2A1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Welland</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">S</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">St</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Southworth</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">575</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">226</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Grendel Llewellyn Johnson</LineData>
+                            <LineData name="LINE 2">575 Southworth St S Unit 226</LineData>
+                            <LineData name="LINE 3">Welland ON  L3B 2A1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Kevin</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Davis</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N9H 1H5</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Windsor</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Rd</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Huron Church Line</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4715</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kevin Davis</LineData>
+                            <LineData name="LINE 2">4715 Huron Church Line Rd</LineData>
+                            <LineData name="LINE 3">Windsor ON  N9H 1H5</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Billy</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Wooden</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T3A 1Y1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Calgary</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Dr</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Varsity</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4827A</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Billy Wooden</LineData>
+                            <LineData name="LINE 2">4827A Varsity Dr NW</LineData>
+                            <LineData name="LINE 3">Calgary AB  T3A 1Y1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Velma</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Valencia</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T4C 1A1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Cochrane</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">51031</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Stn Main</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Velma Valencia</LineData>
+                            <LineData name="LINE 2">PO Box 51031 Stn Main</LineData>
+                            <LineData name="LINE 3">Cochrane AB  T4C 1A1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Catty</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Calcarne</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0A 3A1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">St Paul</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">52</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5218</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Catty Calcarne</LineData>
+                            <LineData name="LINE 2">5218 52 Ave</LineData>
+                            <LineData name="LINE 3">St Paul AB  T0A 3A1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Selma</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hatcher</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R7C 3B9</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Brandon</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Selma Hatcher</LineData>
+                            <LineData name="LINE 2">RR 10</LineData>
+                            <LineData name="LINE 3">Brandon MB  R7C 3B9</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sally</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Dover</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R8A 1M6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Flin Flon</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sally Dover</LineData>
+                            <LineData name="LINE 2">PO Box 8</LineData>
+                            <LineData name="LINE 3">Flin Flon MB  R8A 1M6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Phillipa</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Silvers</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H1Y 2P6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Montreal</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">av</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">6e</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5204</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Phillipa Silvers</LineData>
+                            <LineData name="LINE 2">5204 6e av</LineData>
+                            <LineData name="LINE 3">Montreal QC  H1Y 2P6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Silvia</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Aligne</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J0B 3E3</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ogden</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3</U40.19.11.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ch</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Griffin</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">285</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Silvia Aligne</LineData>
+                            <LineData name="LINE 2">285 ch Griffin</LineData>
+                            <LineData name="LINE 3">RR 3</LineData>
+                            <LineData name="LINE 4">Ogden QC  J0B 3E3</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Harold</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Fines</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V2X 9Z8</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maple Ridge</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">123b</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23104</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Harold Fines</LineData>
+                            <LineData name="LINE 2">23104 123b Ave</LineData>
+                            <LineData name="LINE 3">Maple Ridge BC  V2X 9Z8</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Doug</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Fairfield</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V0A 1K0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Radium Hot Springs</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">GD</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doug Fairfield</LineData>
+                            <LineData name="LINE 2">GD</LineData>
+                            <LineData name="LINE 3">Radium Hot Springs BC  V0A 1K0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Fred</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Stein</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">K0B 1L0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Plantagenet</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">County Road 17</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5785</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fred Stein</LineData>
+                            <LineData name="LINE 2">5785 County Road 17</LineData>
+                            <LineData name="LINE 3">Plantagenet ON  K0B 1L0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Benny</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Burke</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V0J 1P0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Fort Saint James</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">11</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Benny Burke</LineData>
+                            <LineData name="LINE 2">PO Box 11</LineData>
+                            <LineData name="LINE 3">Fort Saint James BC  V0J 1P0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Janna</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hawe</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">N0M 2T0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zurich</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Janna Hawe</LineData>
+                            <LineData name="LINE 2">RR 2</LineData>
+                            <LineData name="LINE 3">Zurich ON  N0M 2T0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gigio</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Topo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0C 2L1</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Stettler</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">41</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5726</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gigio Topo</LineData>
+                            <LineData name="LINE 2">5726 41 Ave</LineData>
+                            <LineData name="LINE 3">Stettler AB  T0C 2L1</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Stephen</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Stevens</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R7N 2T9</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Dauphin</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">26</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Stephen Stevens</LineData>
+                            <LineData name="LINE 2">PO Box 26</LineData>
+                            <LineData name="LINE 3">Dauphin MB  R7N 2T9</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Francesca</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Toma</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">J9H 7S2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gatineau</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">rue</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Des Grands-Chateaux</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">126</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Francesca Toma</LineData>
+                            <LineData name="LINE 2">126 rue Des Grands-Chateaux</LineData>
+                            <LineData name="LINE 3">Gatineau QC  J9H 7S2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hardy</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Grange</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">H9W 1T6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Beaconsfield</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Rd</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Beacon Hill</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">176</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hardy Grange</LineData>
+                            <LineData name="LINE 2">176 Beacon Hill Rd</LineData>
+                            <LineData name="LINE 3">Beaconsfield QC  H9W 1T6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Joanie</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Stevens</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V4C 1Y2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Delta</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">80</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">11872</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joanie Stevens</LineData>
+                            <LineData name="LINE 2">11872 80 Ave</LineData>
+                            <LineData name="LINE 3">Delta BC  V4C 1Y2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hernaies</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Periott</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V6T 2H4</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vancouver</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Pl</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hampton</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5657</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Ph</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">3</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hernaies Periott</LineData>
+                            <LineData name="LINE 2">5657 Hampton Pl Ph 3</LineData>
+                            <LineData name="LINE 3">Vancouver BC  V6T 2H4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Fred</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Winston</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sr.</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">K9J 6X2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Calgary</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Stn Delivery Centre</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fred Winston Sr.</LineData>
+                            <LineData name="LINE 2">RR 1 Stn Delivery Centre</LineData>
+                            <LineData name="LINE 3">Calgary ON  K9J 6X2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ukrainian Peoples Home</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">R0A 1X0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarto</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ukrainian Peoples Home</LineData>
+                            <LineData name="LINE 2">PO Box 12</LineData>
+                            <LineData name="LINE 3">Sarto MB  R0A 1X0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Calgary Mennonite Centre</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Service Canada Community Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T2A 6L8</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Calgary</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NE</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">St</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">36</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">920</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Calgary Mennonite Centre</LineData>
+                            <LineData name="LINE 2">Service Canada Community Office</LineData>
+                            <LineData name="LINE 3">920 36 St NE</LineData>
+                            <LineData name="LINE 4">Calgary AB  T2A 6L8</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Drumheller MH Enterprises</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Service Canada Community Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0J 0Y0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Drumheller</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">3rd</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">90</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Drumheller MH Enterprises</LineData>
+                            <LineData name="LINE 2">Service Canada Community Office</LineData>
+                            <LineData name="LINE 3">90 3rd Avenue</LineData>
+                            <LineData name="LINE 4">Drumheller AB  T0J 0Y0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vernon</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Sellers</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Jr</U10.09.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Penticton Service Canada Centre</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">V2A 8C9</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Penticton</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ellis</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">386</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Vernon Sellers Jr</LineData>
+                            <LineData name="LINE 2">Penticton Service Canada Centre</LineData>
+                            <LineData name="LINE 3">386 Ellis Street</LineData>
+                            <LineData name="LINE 4">Penticton BC  V2A 8C9</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Dawson City Service Canada Site</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">Y0B 1G0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">YT</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Dawson</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Front</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">902</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dawson City Service Canada Site</LineData>
+                            <LineData name="LINE 2">902 Front Street</LineData>
+                            <LineData name="LINE 3">Dawson YT  Y0B 1G0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bathurst Service Canada Centre</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">E2A 1R6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">NB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bathurst</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4000</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Boulevard</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Harbourview</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">120</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bathurst Service Canada Centre</LineData>
+                            <LineData name="LINE 2">120 Harbourview Boulevard</LineData>
+                            <LineData name="LINE 3">PO Box 4000</LineData>
+                            <LineData name="LINE 4">Bathurst NB  E2A 1R6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Prairie Farm Rehabilitation Administration</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">North Battleford District Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">S9A 3N6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SK</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">North Battleford</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Place</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Territorial</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">9800</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Room</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">121</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prairie Farm Rehabilitation Administration</LineData>
+                            <LineData name="LINE 2">North Battleford District Office</LineData>
+                            <LineData name="LINE 3">9800 Territorial Place Room 121</LineData>
+                            <LineData name="LINE 4">North Battleford SK  S9A 3N6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>69</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Prairie Farm Rehabilitation Administration</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Vegreville District Office</U10.02.00.00>
+                        <U30.26.00.00 uniq="U30Building">Professional Building</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T9C 1S2</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vegreville</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1079</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">50th</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4902</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Professional Building</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prairie Farm Rehabilitation Administration</LineData>
+                            <LineData name="LINE 2">Vegreville District Office</LineData>
+                            <LineData name="LINE 3">Professional Building</LineData>
+                            <LineData name="LINE 4">4902 50th Street</LineData>
+                            <LineData name="LINE 5">PO Box 1079</LineData>
+                            <LineData name="LINE 6">Vegreville AB  T9C 1S2</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>70</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Prairie Farm Rehabilitation Administration</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Westlock District Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T7P 2J4</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Westlock</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">100th</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">10619</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">Apt</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">204</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prairie Farm Rehabilitation Administration</LineData>
+                            <LineData name="LINE 2">Westlock District Office</LineData>
+                            <LineData name="LINE 3">10619 100th Ave Apt 204</LineData>
+                            <LineData name="LINE 4">Westlock AB  T7P 2J4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>71</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">PFRA</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Beausejour District Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">ROE OCO</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">MB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Beausejour</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2000</U40.19.11.21>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">S</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">First</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">31</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PFRA</LineData>
+                            <LineData name="LINE 2">Beausejour District Office</LineData>
+                            <LineData name="LINE 3">31 First Street S</LineData>
+                            <LineData name="LINE 4">PO Box 2000</LineData>
+                            <LineData name="LINE 5">Beausejour MB  ROE OCO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>72</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AECL – Atomic Energy of Canada</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Limited</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Global Nuclear Products Division</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">K0J 1J0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chalk River</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AECL – Atomic Energy of Canada Limited</LineData>
+                            <LineData name="LINE 2">Global Nuclear Products Division</LineData>
+                            <LineData name="LINE 3">PO Box 13</LineData>
+                            <LineData name="LINE 4">Chalk River ON  K0J 1J0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>73</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Office of the Auditor General of Canada</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">K1A 0G6</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CANADA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ottawa</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sparks</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">240</U40.24.11.21>
+                        <U40.41.00.00 uniq="U40CountryCode">Canada</U40.41.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Office of the Auditor General of Canada</LineData>
+                            <LineData name="LINE 2">240 Sparks Street</LineData>
+                            <LineData name="LINE 3">Ottawa ON  K1A 0G6</LineData>
+                            <LineData name="LINE 4">CANADA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>74</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Any Canadian Soldier</U10.05.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">OP BRONZE</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">K8N 5W6</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">ON</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bellleville</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">5000</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Station Forces</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Any Canadian Soldier</LineData>
+                            <LineData name="LINE 2">OP BRONZE</LineData>
+                            <LineData name="LINE 3">PO Box 5000 Station Forces</LineData>
+                            <LineData name="LINE 4">Bellleville ON  K8N 5W6</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>75</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOHN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JONES</U10.08.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">MARKETING DEPT</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">H3Z 2Y7</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">QC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MONTREAL</U40.16.00.00>
+                        <U40.21.11.12 uniq="U40SuccPrimThoroQualifier">NW</U40.21.11.12>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MAIN</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">123</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">1/2</U40.24.11.31>
+                        <U40.32.11.21 uniq="U40DoorInd">10</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOHN JONES</LineData>
+                            <LineData name="LINE 2">MARKETING DEPT</LineData>
+                            <LineData name="LINE 3">10-123 1/2 MAIN ST NW</LineData>
+                            <LineData name="LINE 4">MONTREAL QC  H3Z 2Y7</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>76</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOHN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JONES</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">JR</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">V8X 3X4</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">BC</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">VICTORIA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4001</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ST</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JAMES</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1425</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">STN A</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOHN JONES JR</LineData>
+                            <LineData name="LINE 2">1425 JAMES ST</LineData>
+                            <LineData name="LINE 3">PO BOX 4001 STN A</LineData>
+                            <LineData name="LINE 4">VICTORIA BC  V8X 3X4</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>77</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">JOHN</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">JONES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">T0L 1K0</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">AB</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MILLARVILLE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">RR</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8</U40.19.11.21>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CONCESSION</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">7TH</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2765</U40.24.11.21>
+                        <U40.29.11.11 uniq="U40WingType">SITE</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">6</U40.29.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">COMP</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">10</U40.32.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">STN MAIN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR JOHN JONES</LineData>
+                            <LineData name="LINE 2">2765 7TH CONCESSION</LineData>
+                            <LineData name="LINE 3">SITE 6 COMP 10</LineData>
+                            <LineData name="LINE 4">RR 8 STN MAIN</LineData>
+                            <LineData name="LINE 5">MILLARVILLE AB  T0L 1K0</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

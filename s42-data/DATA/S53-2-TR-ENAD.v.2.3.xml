@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>TR</GroupDescription>
+            <GroupItemCount>35</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Can</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Atay</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">47400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">MARDİN</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Kızıltepe</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kuytu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:14</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Can Atay</LineData>
+                            <LineData name="LINE 2">Kuytu Sok. No:14</LineData>
+                            <LineData name="LINE 3">47400 Kızıltepe/MARDİN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Mado Cafe</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ADANA</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Güzelyalı</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Bulvarı</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Turgut Özal</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:118</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mado Cafe</LineData>
+                            <LineData name="LINE 2">Turgut Özal Bulvarı No:118</LineData>
+                            <LineData name="LINE 3">Güzelyalı/ADANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Can</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Atay</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">47400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">MARDİN</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Kızıltepe</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Aslan Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kuytu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:14</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Can Atay</LineData>
+                            <LineData name="LINE 2">Aslan Mah.</LineData>
+                            <LineData name="LINE 3">Kuytu Sok. No:14</LineData>
+                            <LineData name="LINE 4">47400 Kızıltepe/MARDİN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DOĞRU</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Keçiören</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">A.Eðlence Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Martı</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Özdemir Sit.</U40.26.11.00>
+                        <U40.29.11.11 uniq="U40WingType">BLOK</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">A</U40.29.11.21>
+                        <U40.32.00.00 uniq="U40Door">4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mehmet DOĞRU</LineData>
+                            <LineData name="LINE 2">A.Eðlence Mah.</LineData>
+                            <LineData name="LINE 3">Martı Sok. Özdemir Sit. A BLOK 1/4</LineData>
+                            <LineData name="LINE 4">06010 Keçiören/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DOĞRU</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Keçiören</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Martı</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Özdemir Sit.</U40.26.11.00>
+                        <U40.29.11.11 uniq="U40WingType">BLOK</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">A</U40.29.11.21>
+                        <U40.32.00.00 uniq="U40Door">4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mehmet DOĞRU</LineData>
+                            <LineData name="LINE 2">Martı Sok. Özdemir Sit. A BLOK 1/4</LineData>
+                            <LineData name="LINE 3">06010 Keçiören/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DOĞRU</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Keçiören</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Martı</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Özdemir Sit.</U40.26.11.00>
+                        <U40.29.00.00 uniq="U40Wing">A</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mehmet DOĞRU</LineData>
+                            <LineData name="LINE 2">Martı Sok. Özdemir Sit. 1/A/4</LineData>
+                            <LineData name="LINE 3">Keçiören/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DOĞRU</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Keçiören</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Martı</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">A</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mehmet DOĞRU</LineData>
+                            <LineData name="LINE 2">Martı Sok. 1/A/4</LineData>
+                            <LineData name="LINE 3">Keçiören/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Önder</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">YILMAZ</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">NEVŞEHİR</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Ürgüp</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Bağlar</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:14</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Babam Apt.</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Önder YILMAZ</LineData>
+                            <LineData name="LINE 2">Bağlar cad. Babam Apt. No:14</LineData>
+                            <LineData name="LINE 3">Ürgüp/NEVŞEHİR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CAN</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Yenimahalle Devlet Hastanesi</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Yenimahalle</U40.15.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ali CAN</LineData>
+                            <LineData name="LINE 2">Yenimahalle Devlet Hastanesi</LineData>
+                            <LineData name="LINE 3">Yenimahalle/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Emel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ERKEN</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">MARDİN</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Kızıltepe</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Aktepe Köyü</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Emel ERKEN</LineData>
+                            <LineData name="LINE 2">Aktepe Köyü</LineData>
+                            <LineData name="LINE 3">Kızıltepe/MARDİN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Usta</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Olacak Çiftliği</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">MARDİN</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Kızıltepe</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Aktepe Köyü</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ahmet Usta</LineData>
+                            <LineData name="LINE 2">Olacak Çiftliği</LineData>
+                            <LineData name="LINE 3">Aktepe Köyü</LineData>
+                            <LineData name="LINE 4">Kızıltepe/MARDİN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alp</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KARAKURT</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34739</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Erenköy</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PK.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">61</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alp KARAKURT</LineData>
+                            <LineData name="LINE 2">PK. 61</LineData>
+                            <LineData name="LINE 3">34739 Erenköy/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Yaşa</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yılmaz</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">İbni Sina İlkokulu</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Etlik</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sk.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kızıldağ</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Yaşa Yılmaz</LineData>
+                            <LineData name="LINE 2">İbni Sina İlkokulu</LineData>
+                            <LineData name="LINE 3">Kızıldağ Sk. No:6</LineData>
+                            <LineData name="LINE 4">Etlik/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ptt Genel Müdürlüğü</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Adresbank İşlemleri ve Bilgi İletişim Müdürlüğü</U10.02.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Altındağ</U40.15.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ptt Genel Müdürlüğü</LineData>
+                            <LineData name="LINE 2">Adresbank İşlemleri ve Bilgi İletişim Müdürlüğü</LineData>
+                            <LineData name="LINE 3">Altındağ/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bülent</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Arınç</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Türkiye Büyük Millet Meclisi</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bülent Arınç</LineData>
+                            <LineData name="LINE 2">Türkiye Büyük Millet Meclisi</LineData>
+                            <LineData name="LINE 3">ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">İnka İnsan Kaynakları</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34360</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Şişli</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Caddesi</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">19 Mayıs</U40.21.11.41>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Golden Plaza</U40.26.11.00>
+                        <U40.31.00.00 uniq="U40Floor">Kat:3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">No:3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">İnka İnsan Kaynakları</LineData>
+                            <LineData name="LINE 2">19 Mayıs Caddesi Golden Plaza Kat:3 No:3</LineData>
+                            <LineData name="LINE 3">34360 Şişli/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Aydın</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ALTıNDAĞ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Aktaş Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mevlana</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:214C</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">C6 Blok</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">D:33</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mehmet Aydın</LineData>
+                            <LineData name="LINE 2">Aktaş Mah.</LineData>
+                            <LineData name="LINE 3">Mevlana Cad. No:214C C6 Blok D:33</LineData>
+                            <LineData name="LINE 4">ALTıNDAĞ/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Melike</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Avcý</U10.08.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Çankaya</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Ata mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1042.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:110</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Yurtoðlu ap.</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">D:8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Melike Avcý</LineData>
+                            <LineData name="LINE 2">Ata mah.</LineData>
+                            <LineData name="LINE 3">1042. cad. Yurtoðlu ap. No:110 D:8</LineData>
+                            <LineData name="LINE 4">Çankaya/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tuba</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Arslan</U10.08.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Etlik</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Emrah mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Basýn</U40.21.11.41>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Gata lojmanlarý Pamir ap.</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">D:26</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tuba Arslan</LineData>
+                            <LineData name="LINE 2">Emrah mah.</LineData>
+                            <LineData name="LINE 3">Basýn cad. Gata lojmanlarý Pamir ap. D:26</LineData>
+                            <LineData name="LINE 4">Etlik/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Taşkin</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">PTT A.Ş. POSTA TELGRAF D. BŞK.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06101</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ALTıNDAĞ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">DOĞANBEY MAH.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CAD.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ŞEHİT TEĞMEN KALMAZ</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:2</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">POSTA SARAYI</U40.26.11.00>
+                        <U40.29.11.11 uniq="U40WingType">BLOK</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">A</U40.29.11.21>
+                        <U40.32.00.00 uniq="U40Door">311</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan Taşkin</LineData>
+                            <LineData name="LINE 2">PTT A.Ş. POSTA TELGRAF D. BŞK.</LineData>
+                            <LineData name="LINE 3">DOĞANBEY MAH.</LineData>
+                            <LineData name="LINE 4">ŞEHİT TEĞMEN KALMAZ CAD. POSTA SARAYI A BLOK No:2/311</LineData>
+                            <LineData name="LINE 5">06101 ALTıNDAĞ/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Taşkin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06850</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ELMADAĞ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">İSTASYON MAH.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">SOK.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SAĞLIK</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan Taşkin</LineData>
+                            <LineData name="LINE 2">İSTASYON MAH.</LineData>
+                            <LineData name="LINE 3">SAĞLIK SOK. No:5</LineData>
+                            <LineData name="LINE 4">06850 ELMADAĞ/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nihal</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">AGUN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06580</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Çankaya</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Mebusevleri Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Önder</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Ankara AP.</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nihal AGUN</LineData>
+                            <LineData name="LINE 2">Mebusevleri Mah.</LineData>
+                            <LineData name="LINE 3">Önder Cad. Ankara AP. 11/8</LineData>
+                            <LineData name="LINE 4">06580 Çankaya/ANKARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sedat</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Karakurt</U10.08.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">BEYLİKDÜZÜ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Barýþ mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Fidangör</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Yeni Çaðatay ap.</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sedat Karakurt</LineData>
+                            <LineData name="LINE 2">Barýþ mah.</LineData>
+                            <LineData name="LINE 3">Fidangör cad. Yeni Çaðatay ap. 27/14</LineData>
+                            <LineData name="LINE 4">BEYLİKDÜZÜ/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Taşkin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ALTINDAĞ</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">ULUS</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Doğanbey Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Şehitteğmenkalmaz</U40.21.11.41>
+                        <U40.32.00.00 uniq="U40Door">28/A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan Taşkin</LineData>
+                            <LineData name="LINE 2">Doğanbey Mah.</LineData>
+                            <LineData name="LINE 3">Şehitteğmenkalmaz Cad. 28/A</LineData>
+                            <LineData name="LINE 4">06101 ULUS ALTINDAĞ/ANKARA</LineData>
+                            <LineData name="LINE 5">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Taşkin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06850</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ELMADAĞ</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">HASANOĞLAN</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">İstasyon Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sağlik</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan Taşkin</LineData>
+                            <LineData name="LINE 2">İstasyon Mah.</LineData>
+                            <LineData name="LINE 3">Sağlik Sok. No:5</LineData>
+                            <LineData name="LINE 4">06850 HASANOĞLAN ELMADAĞ/ANKARA</LineData>
+                            <LineData name="LINE 5">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Taşkin</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">General Directorate of Turkish Post</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Post and Telegraph Department</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ALTINDAĞ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Doğanbey Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Şehitteğmenkalmaz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:2</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Posta Sarayi</U40.26.11.00>
+                        <U40.29.11.11 uniq="U40WingType">Blok</U40.29.11.11>
+                        <U40.29.11.21 uniq="U40WingInd">A</U40.29.11.21>
+                        <U40.32.00.00 uniq="U40Door">311</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan Taşkin</LineData>
+                            <LineData name="LINE 2">General Directorate of Turkish Post</LineData>
+                            <LineData name="LINE 3">Post and Telegraph Department</LineData>
+                            <LineData name="LINE 4">Doğanbey Mah.</LineData>
+                            <LineData name="LINE 5">Şehitteğmenkalmaz Cad. Posta Sarayi A Blok No:2/311</LineData>
+                            <LineData name="LINE 6">06101 ALTINDAĞ/ANKARA</LineData>
+                            <LineData name="LINE 7">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Karatepe</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">İş Bankasi Anafartalar Şubesi</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ALTINDAĞ</U40.15.21.00>
+                        <U40.17.00.00 uniq="U40District">Doğanbey Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Posta</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M. Ali Karatepe</LineData>
+                            <LineData name="LINE 2">İş Bankasi Anafartalar Şubesi</LineData>
+                            <LineData name="LINE 3">Doğanbey Mah.</LineData>
+                            <LineData name="LINE 4">Posta Cad. 18</LineData>
+                            <LineData name="LINE 5">06050 ALTINDAĞ/ANKARA</LineData>
+                            <LineData name="LINE 6">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TAŞKIN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06040</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">ANKARA</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">ULUS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PK</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">543</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Ulus Ptt Merkezi</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasan TAŞKIN</LineData>
+                            <LineData name="LINE 2">Ulus Ptt Merkezi PK 543</LineData>
+                            <LineData name="LINE 3">06040 ULUS/ANKARA</LineData>
+                            <LineData name="LINE 4">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ibrahim</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Uzumcu</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Alici</U10.10.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">KARTAL</U40.15.21.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postrestant</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">KURFALL1</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alici Ibrahim Uzumcu</LineData>
+                            <LineData name="LINE 2">Postrestant</LineData>
+                            <LineData name="LINE 3">KURFALL1/KARTAL/İSTANBUL</LineData>
+                            <LineData name="LINE 4">TURKEY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mehmet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Savaş</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Uluslarasi Yayinevi</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">A. Ş.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Tophane</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Cad.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kemeralti</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:57</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Saroğlu Apt.</U40.26.11.00>
+                        <U40.31.00.00 uniq="U40Floor">K:2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">D:3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">NO SLASH</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Mehmet Savaş</LineData>
+                            <LineData name="LINE 2">Uluslarasi Yayinevi A. Ş.</LineData>
+                            <LineData name="LINE 3">Kemeralti Cad. Saroğlu Apt. No:57 K:2 D:3</LineData>
+                            <LineData name="LINE 4">80020 Tophane/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Leyla</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Demir</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Uluslarasi Yayinevi</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">LTD.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34330</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İstanbul</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Beşiktaş</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Levent</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Yeşilce Mah.</U40.17.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Sok.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dostluk</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:57</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Leyla Demir</LineData>
+                            <LineData name="LINE 2">Uluslarasi Yayinevi LTD.</LineData>
+                            <LineData name="LINE 3">Yeşilce Mah.</LineData>
+                            <LineData name="LINE 4">Dostluk Sok. No:57</LineData>
+                            <LineData name="LINE 5">34330 Levent Beşiktaş/İstanbul</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">IVAR</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BLANKEN</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34450</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">YELBAYIRI MEVKII YESILOBA</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">IVAR BLANKEN</LineData>
+                            <LineData name="LINE 2">YELBAYIRI MEVKII YESILOBA 2/3</LineData>
+                            <LineData name="LINE 3">34450 İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">HELENY</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">COOK</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34664</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Baglarbasi</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">SOKAK</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">VAKIF</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HELENY COOK</LineData>
+                            <LineData name="LINE 2">VAKIF SOKAK No:1</LineData>
+                            <LineData name="LINE 3">34664 Baglarbasi/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BEKEN</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SAATCIOGLU</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">BESIKTAS</U40.15.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">YILDIZ</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">No:21</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">KONAK APT</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BEKEN SAATCIOGLU</LineData>
+                            <LineData name="LINE 2">YILDIZ CAD KONAK APT No:21/12</LineData>
+                            <LineData name="LINE 3">BESIKTAS/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">BURUMCEKI</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">TURKEY</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">İSTANBUL</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">FENERYOLU</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">SOK</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">YAZICIBASI</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">PAMIR APT</U40.26.11.00>
+                        <U40.32.00.00 uniq="U40Door">4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">tr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">TR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">TR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BURUMCEKI</LineData>
+                            <LineData name="LINE 2">YAZICIBASI SOK PAMIR APT 18/4</LineData>
+                            <LineData name="LINE 3">FENERYOLU/İSTANBUL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

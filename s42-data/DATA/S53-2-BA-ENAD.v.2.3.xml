@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BA</GroupDescription>
+            <GroupItemCount>58</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Fadila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jusić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">74253</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kosova</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Smajići</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fadila Jusić</LineData>
+                            <LineData name="LINE 2">Smajići</LineData>
+                            <LineData name="LINE 3">74253 Kosova</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Eldijana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Krivić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71215</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Blažuj</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Grabovine</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">128</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Eldijana Krivić</LineData>
+                            <LineData name="LINE 2">Grabovine 128</LineData>
+                            <LineData name="LINE 3">71215 Blažuj</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nikolija</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Grbić</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Advokat</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Džamijska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">br. 15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Advokat Nikolija Grbić</LineData>
+                            <LineData name="LINE 2">Džamijska br. 15</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alijagić</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dajana</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72270</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Travnik</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ul. Kralja Tvrtka</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alijagić Dajana</LineData>
+                            <LineData name="LINE 2">Ul. Kralja Tvrtka 7</LineData>
+                            <LineData name="LINE 3">72270 Travnik</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Edin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Murić</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lukavac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mustafe Pintola</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Edin Murić</LineData>
+                            <LineData name="LINE 2">Mustafe Pintola 7</LineData>
+                            <LineData name="LINE 3">75300 Lukavac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Fatimir</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hujević</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77250</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bosanski Petrovac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Skendera Kulenovića</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">26</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fatimir Hujević</LineData>
+                            <LineData name="LINE 2">Skendera Kulenovića 26</LineData>
+                            <LineData name="LINE 3">77250 Bosanski Petrovac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Demira</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Isaković</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Semira Frašte</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">6</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Demira Isaković</LineData>
+                            <LineData name="LINE 2">Semira Frašte 6/6</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kaljević</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75290</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Banovići</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Alije Izetbegovića</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">C3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mina Kaljević</LineData>
+                            <LineData name="LINE 2">Alije Izetbegovića C3/17</LineData>
+                            <LineData name="LINE 3">75290 Banovići</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Elida</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kišić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Novi Grad</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nerkeza Smajlagića</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Elida Kišić</LineData>
+                            <LineData name="LINE 2">Nerkeza Smajlagića 2/8</LineData>
+                            <LineData name="LINE 3">Novi Grad</LineData>
+                            <LineData name="LINE 4">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gordana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Čorović</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Novi Grad</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Amira Krupalije</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gordana Čorović</LineData>
+                            <LineData name="LINE 2">Amira Krupalije 2A</LineData>
+                            <LineData name="LINE 3">Novi Grad</LineData>
+                            <LineData name="LINE 4">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Predrag</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hergić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tuzla</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ul. Harmanski sokak</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">28</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Predrag Hergić</LineData>
+                            <LineData name="LINE 2">Ul. Harmanski sokak 28/3</LineData>
+                            <LineData name="LINE 3">75000 Tuzla</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SOS - Dječija sela BiH</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Bosna i Hercegovina</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Semira Frašte</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bb</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SOS - Dječija sela BiH</LineData>
+                            <LineData name="LINE 2">Semira Frašte bb</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                            <LineData name="LINE 4">Bosna i Hercegovina</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Slavojka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ranković</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70230</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bugojno</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rostovska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">BB</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Slavojka Ranković</LineData>
+                            <LineData name="LINE 2">Rostovska BB</LineData>
+                            <LineData name="LINE 3">70230 Bugojno</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sanela</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Biljić</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">kod</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Haruna</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Jakupovića</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lukavac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Lukavičke brigade</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sanela Biljić</LineData>
+                            <LineData name="LINE 2">kod Haruna Jakupovića</LineData>
+                            <LineData name="LINE 3">Lukavičke brigade 1/3</LineData>
+                            <LineData name="LINE 4">75300 Lukavac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Senad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Palikuća</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77240</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bosanska Krupa</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">101. Muslimanske brigade</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">30</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Senad Palikuća</LineData>
+                            <LineData name="LINE 2">101. Muslimanske brigade 30</LineData>
+                            <LineData name="LINE 3">77240 Bosanska Krupa</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Melida</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Avdukić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71210</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ilidža</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">6. April</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Melida Avdukić</LineData>
+                            <LineData name="LINE 2">6. April 9</LineData>
+                            <LineData name="LINE 3">71210 Ilidža</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Merdžan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ćesirić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71167</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Humska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Merdžan Ćesirić</LineData>
+                            <LineData name="LINE 2">Humska 9</LineData>
+                            <LineData name="LINE 3">71167 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Osman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Šahman</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71210</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ilidža</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Trg Oteškog bataljona</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">32</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">6</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Osman Šahman</LineData>
+                            <LineData name="LINE 2">Trg Oteškog bataljona 32/6</LineData>
+                            <LineData name="LINE 3">71210 Ilidža</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Matea</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Marić</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">kuća</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Dalibor</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Buhac</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mostar</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Bijeli Brijeg</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kneza Milisava</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Matea Marić</LineData>
+                            <LineData name="LINE 2">kuća Dalibor Buhac</LineData>
+                            <LineData name="LINE 3">Kneza Milisava 15A</LineData>
+                            <LineData name="LINE 4">Bijeli Brijeg</LineData>
+                            <LineData name="LINE 5">88000 Mostar</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Krištof</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bjeloperac</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">stan</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Aneta</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Gaće</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mostar</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kralja Zvonimira</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Krištof Bjeloperac</LineData>
+                            <LineData name="LINE 2">stan Aneta Gaće</LineData>
+                            <LineData name="LINE 3">Kralja Zvonimira 22/5</LineData>
+                            <LineData name="LINE 4">88000 Mostar</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ćamila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hafizović</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75323</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Donja Orahovica</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Gazibegovići</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">BB</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ćamila Hafizović</LineData>
+                            <LineData name="LINE 2">Gazibegovići BB</LineData>
+                            <LineData name="LINE 3">75323 Donja Orahovica</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jasmina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Salčin</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zenica</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Vojvodića put</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">BB</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jasmina Salčin</LineData>
+                            <LineData name="LINE 2">Vojvodića put BB</LineData>
+                            <LineData name="LINE 3">72000 Zenica</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Namir</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hadžihodžić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71320</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vogošća</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Barica</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">75</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Namir Hadžihodžić</LineData>
+                            <LineData name="LINE 2">Barica 75</LineData>
+                            <LineData name="LINE 3">71320 Vogošća</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jasminko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Akrapović</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71380</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ilijaš</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bosanski put</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jasminko Akrapović</LineData>
+                            <LineData name="LINE 2">Bosanski put 7</LineData>
+                            <LineData name="LINE 3">71380 Ilijaš</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aldin</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dubravković</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Novo Sarajevo</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Azize Šaćirbegović</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">124/14</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Aldin Dubravković</LineData>
+                            <LineData name="LINE 2">Azize Šaćirbegović 124/14/86</LineData>
+                            <LineData name="LINE 3">Novo Sarajevo</LineData>
+                            <LineData name="LINE 4">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Apoteka Zlata</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77250</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bosanski Petrovac</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bosanska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">89</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Apoteka Zlata</LineData>
+                            <LineData name="LINE 2">Bosanska 89</LineData>
+                            <LineData name="LINE 3">77250 Bosanski Petrovac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Interšped Tuzla d.d.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tuzla</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bosne Srebrene</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">br. 56</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Interšped Tuzla d.d.</LineData>
+                            <LineData name="LINE 2">Bosne Srebrene br. 56</LineData>
+                            <LineData name="LINE 3">75000 Tuzla</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">HUD PROMET d.o.o.</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Poslovna jedinica br.2 Sapna</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75411</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sapna</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sapna</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">BB</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HUD PROMET d.o.o.</LineData>
+                            <LineData name="LINE 2">Poslovna jedinica br.2 Sapna</LineData>
+                            <LineData name="LINE 3">Sapna BB</LineData>
+                            <LineData name="LINE 4">75411 Sapna</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Transport a.d.</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Direkcija za logistiku</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zenica</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sarajevska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">63</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Transport a.d.</LineData>
+                            <LineData name="LINE 2">Direkcija za logistiku</LineData>
+                            <LineData name="LINE 3">Sarajevska 63</LineData>
+                            <LineData name="LINE 4">72000 Zenica</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kokolo d.o.o.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77240</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bosanska Krupa</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">511. slavne</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bb</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kokolo d.o.o.</LineData>
+                            <LineData name="LINE 2">511. slavne bb</LineData>
+                            <LineData name="LINE 3">77240 Bosanska Krupa</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Mikulin d.o.o. Sarajevo</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Zmaja od Bosne</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">III</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mikulin d.o.o. Sarajevo</LineData>
+                            <LineData name="LINE 2">Zmaja od Bosne 7/III</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kozmetički salon Ljepota</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Trg Solidarnosti</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">21</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kozmetički salon Ljepota</LineData>
+                            <LineData name="LINE 2">Trg Solidarnosti 21</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">G.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Milorad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Žarki</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Lukavac</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Lukavac grad</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Jaske Dragana</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">G. Milorad Žarki</LineData>
+                            <LineData name="LINE 2">Jaske Dragana 6</LineData>
+                            <LineData name="LINE 3">Lukavac grad</LineData>
+                            <LineData name="LINE 4">75300 Lukavac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Almir</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bajramović</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Advokat</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77106</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bihać</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ul. Bosanska</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">I</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Advokat Almir Bajramović</LineData>
+                            <LineData name="LINE 2">Ul. Bosanska 11/I</LineData>
+                            <LineData name="LINE 3">77106 Bihać</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mirsad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mirić</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Pimplaš d.o.o.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75276</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gračanica selo</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Tupkovići gornji</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mirsad Mirić</LineData>
+                            <LineData name="LINE 2">Pimplaš d.o.o.</LineData>
+                            <LineData name="LINE 3">Tupkovići gornji</LineData>
+                            <LineData name="LINE 4">75276 Gračanica selo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Unigradnja d.d.</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Mujo</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Draković</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71167</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">M.M.Bašeskije</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">16</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Unigradnja d.d.</LineData>
+                            <LineData name="LINE 2">Mujo Draković</LineData>
+                            <LineData name="LINE 3">M.M.Bašeskije 16</LineData>
+                            <LineData name="LINE 4">71167 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Dizdarević- Merc d.o.o.</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Mumin</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Dizdarević</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77244</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bosanska Otoka</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ivanjski put</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">bb</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dizdarević- Merc d.o.o.</LineData>
+                            <LineData name="LINE 2">Mumin Dizdarević</LineData>
+                            <LineData name="LINE 3">Ivanjski put bb</LineData>
+                            <LineData name="LINE 4">77244 Bosanska Otoka</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Admir</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hot</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PP 327</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Admir Hot</LineData>
+                            <LineData name="LINE 2">PP 327</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Tik tak d.o.o.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88104</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mostar</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PP 18</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tik tak d.o.o.</LineData>
+                            <LineData name="LINE 2">PP 18</LineData>
+                            <LineData name="LINE 3">88104 Mostar</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Miki</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Berčić</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88404</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Čelebići</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">POSTE RESTANTE</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miki Berčić</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">88404 Čelebići</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Gradimo d.o.o.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75101</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tuzla</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">POSTE RESTANTE</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gradimo d.o.o.</LineData>
+                            <LineData name="LINE 2">POSTE RESTANTE</LineData>
+                            <LineData name="LINE 3">75101 Tuzla</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nedžad</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kapisoda</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Notar</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Musala</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">II</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Notar Nedžad Kapisoda</LineData>
+                            <LineData name="LINE 2">Musala 1/II</LineData>
+                            <LineData name="LINE 3">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Poljoprivredni fakultet Sarajevo</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Muhamed</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Baković</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sarajevo</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Zmaja od Bosne</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Poljoprivredni fakultet Sarajevo</LineData>
+                            <LineData name="LINE 2">Muhamed Baković</LineData>
+                            <LineData name="LINE 3">Zmaja od Bosne 8</LineData>
+                            <LineData name="LINE 4">71000 Sarajevo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Mješ.Srednja Š. M.Mak Dizdar</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Saudina</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Ćoralić</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71370</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Breza</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mješ.Srednja Š. M.Mak Dizdar</LineData>
+                            <LineData name="LINE 2">Saudina Ćoralić</LineData>
+                            <LineData name="LINE 3">71370 Breza</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Privatna stomatološka ordinacija &quot;Dr. Imširpašić&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72240</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kakanj</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Branilaca Grada</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">72</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Privatna stomatološka ordinacija &quot;Dr. Imširpašić&quot;</LineData>
+                            <LineData name="LINE 2">Branilaca Grada 72</LineData>
+                            <LineData name="LINE 3">72240 Kakanj</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Фадила</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Јусић</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">74253</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Косова</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Смајићи</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Фадила Јусић</LineData>
+                            <LineData name="LINE 2">Смајићи</LineData>
+                            <LineData name="LINE 3">74253 Косова</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Елдијана</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Кривић</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71215</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Блажуј</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Грабовине</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">128</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Елдијана Кривић</LineData>
+                            <LineData name="LINE 2">Грабовине 128</LineData>
+                            <LineData name="LINE 3">71215 Блажуј</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Един</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Мурић</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Др.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Лукавац</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Мустафе Пинтола</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Др. Един Мурић</LineData>
+                            <LineData name="LINE 2">Мустафе Пинтола 7</LineData>
+                            <LineData name="LINE 3">75300 Лукавац</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Фатмир</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Хујевић</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77250</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Босански Петровац</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Скендера Куленовића</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">26</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Фатмир Хујевић</LineData>
+                            <LineData name="LINE 2">Скендера Куленовића 26</LineData>
+                            <LineData name="LINE 3">77250 Босански Петровац</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Санела</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Билјић</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">код</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Харуна</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Јакуповића</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Лукавац</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Лукавичке бригаде</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Санела Билјић</LineData>
+                            <LineData name="LINE 2">код Харуна Јакуповића</LineData>
+                            <LineData name="LINE 3">Лукавичке бригаде 1/3</LineData>
+                            <LineData name="LINE 4">75300 Лукавац</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Матеа</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Марић</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">кућа</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Далибор</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Бухац</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Мостар</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Бијели Бријег</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Кнеза Милисава</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15A</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Матеа Марић</LineData>
+                            <LineData name="LINE 2">кућа Далибор Бухац</LineData>
+                            <LineData name="LINE 3">Кнеза Милисава 15A</LineData>
+                            <LineData name="LINE 4">Бијели Бријег</LineData>
+                            <LineData name="LINE 5">88000 Мостар</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Криштоф</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Бјелоперац</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">стан</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Анета</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Гаће</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Мостар</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Кралја Звонимира</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Криштоф Бјелоперац</LineData>
+                            <LineData name="LINE 2">стан Анета Гаће</LineData>
+                            <LineData name="LINE 3">Кралја Звонимира 22/5</LineData>
+                            <LineData name="LINE 4">88000 Мостар</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Алдин</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Дубравковић</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Сарајево</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Ново Сарајево</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Азизе Шаћирбеговић</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">124/14</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">86</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Алдин Дубравковић</LineData>
+                            <LineData name="LINE 2">Азизе Шаћирбеговић 124/14/86</LineData>
+                            <LineData name="LINE 3">Ново Сарајево</LineData>
+                            <LineData name="LINE 4">71000 Сарајево</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Интершпед Тузла д.д.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Тузла</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Босне Сребрене</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">бр. 56</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Интершпед Тузла д.д.</LineData>
+                            <LineData name="LINE 2">Босне Сребрене бр. 56</LineData>
+                            <LineData name="LINE 3">75000 Тузла</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ХУД ПРОМЕТ д.о.о.</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Пословна јединица бр. 2 Сапна</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75411</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Сапна</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Сапна</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">ББ</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ХУД ПРОМЕТ д.о.о.</LineData>
+                            <LineData name="LINE 2">Пословна јединица бр. 2 Сапна</LineData>
+                            <LineData name="LINE 3">Сапна ББ</LineData>
+                            <LineData name="LINE 4">75411 Сапна</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Транспорт а.д</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Дирекција за логистику</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Зеница</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Сарајевска</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">63</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Транспорт а.д</LineData>
+                            <LineData name="LINE 2">Дирекција за логистику</LineData>
+                            <LineData name="LINE 3">Сарајевска 63</LineData>
+                            <LineData name="LINE 4">72000 Зеница</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Г.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Милорад</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Жарки</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">75300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Лукавац</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Лукавац град</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Јаске Драгана</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Г. Милорад Жарки</LineData>
+                            <LineData name="LINE 2">Јаске Драгана 6</LineData>
+                            <LineData name="LINE 3">Лукавац град</LineData>
+                            <LineData name="LINE 4">75300 Лукавац</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Алмир</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Бајрамовић</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Адвокат</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">77106</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Бихаћ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ул. Босанска</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">I</U40.32.00.00>
+                        <U50.51.00.00 uniq="U50Language">bs</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Адвокат Алмир Бајрамовић</LineData>
+                            <LineData name="LINE 2">Ул. Босанска 11/I</LineData>
+                            <LineData name="LINE 3">77106 Бихаћ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

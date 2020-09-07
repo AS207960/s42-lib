@@ -1,0 +1,841 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This is a PATDL representation of the rules for GB addresses,  It has been validated against the Postal Address Template Description Language (PATDL) v. 2.7.3 W3C schema. 
+	Four named procedures have been used in accordance with the rules in the documentation.  These are the Format1Test for Building Name and Sub Building Name, ReformatBldgName, and SubBldgConcat.  When these procedures are invoked by a PATDL processor as part of a conforming implementation, they can be referenced either locally or externally.
+	There is a difference, however, between the two Format1Test procedures, which act on data to determine which branch to take within a template, and the other two procedures, which reformat data prior to any action having been taken.  Therefore they are invoked at different stages within the processing of the trigger conditions.  . 
+	The file name is S42-8-GB-PATDL.v.2.7.3.xml.
+-->
+<patdl.2.7.3.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PATDL.v.2.7.3.xsd">
+	<identifier>
+		<referenceKey/>
+		<elementIdentifier>
+			<type>code</type>
+			<prefix>U</prefix>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</elementIdentifier>
+		<elementDefiner>
+			<type>descriptive</type>
+			<language>EN</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU </source>
+		</elementDefiner>
+		<elementDescriptor>
+			<type>descriptive</type>
+			<language>EN</language>
+			<source>Royal Mail</source>
+		</elementDescriptor>
+		<renditionInstruction>
+			<type>mnemonic</type>
+			<language>English</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</renditionInstruction>
+		<templateSelectionData>
+			<unconditionalTemplateIdentifier>
+				<templateType>ADR</templateType>
+				<countryCode>GB</countryCode>
+				<userId>UPU</userId>
+				<templateSeqNum>001</templateSeqNum>
+				<templateVersion>0001</templateVersion>
+			</unconditionalTemplateIdentifier>
+		</templateSelectionData>
+	</identifier>
+	<contentDefinition>
+		<templateName/>
+		<templateIdentifier>
+			<templateType>ADR</templateType>
+			<countryCode>GB</countryCode>
+			<userId>UPU</userId>
+			<templateSeqNum>001</templateSeqNum>
+			<templateVersion>0001</templateVersion>
+		</templateIdentifier>
+		<defaultDelimiter>' '</defaultDelimiter>
+		<defaultSeparator>';'</defaultSeparator>
+		<defaultSequencer>','</defaultSequencer>
+		<defaultCollector>'-'</defaultCollector>
+		<externalEntityData>
+			<entityId>UK-BldgNameFormat1Test</entityId>
+			<entityType>procedure</entityType>
+			<entityReference>Royal Mail</entityReference>
+			<entitySystem>UPU</entitySystem>
+			<entityVersion>S42-8</entityVersion>
+			<entityDataStructure/>
+			<entityArguments>
+				<parameterName>U40.26.00.00</parameterName>
+				<dataMode>IN</dataMode>
+				<parameterName>Result</parameterName>
+				<dataMode>OUT</dataMode>
+			</entityArguments>
+		</externalEntityData>
+		<externalEntityData>
+			<entityId>UK-SubBldgNameFormat1Test</entityId>
+			<entityType>procedure</entityType>
+			<entityReference>Royal Mail</entityReference>
+			<entitySystem>UPU</entitySystem>
+			<entityVersion>S42-8</entityVersion>
+			<entityDataStructure/>
+			<entityArguments>
+				<parameterName>U40.28.00.00</parameterName>
+				<dataMode>IN</dataMode>
+				<parameterName>Result</parameterName>
+				<dataMode>OUT</dataMode>
+			</entityArguments>
+		</externalEntityData>
+		<externalEntityData>
+			<entityId>UK-SubBldgConcat</entityId>
+			<entityType>procedure</entityType>
+			<entityReference>Royal Mail</entityReference>
+			<entitySystem>UPU</entitySystem>
+			<entityVersion>S42-8</entityVersion>
+			<entityDataStructure/>
+			<entityArguments>
+				<parameterName>U40.24.00.00</parameterName>
+				<dataMode>IN</dataMode>
+				<parameterName>U40.24.00.00</parameterName>
+				<dataMode>OUT</dataMode>
+				<parameterName>U40.28.00.00</parameterName>
+				<dataMode>IN</dataMode>
+				<parameterName>U40.28.00.00</parameterName>
+				<dataMode>OUT</dataMode>
+				<parameterName>Result</parameterName>
+				<dataMode>OUT</dataMode>
+			</entityArguments>
+		</externalEntityData>
+		<externalEntityData>
+			<entityId>UK-ReformatBldgName</entityId>
+			<entityType>procedure</entityType>
+			<entityReference>Royal Mail</entityReference>
+			<entitySystem>UPU</entitySystem>
+			<entityVersion>S42-8</entityVersion>
+			<entityDataStructure/>
+			<entityArguments>
+				<parameterName>U40.26.00.00</parameterName>
+				<dataMode>IN</dataMode>
+				<parameterName>U40.26.00.00</parameterName>
+				<dataMode>OUT</dataMode>
+				<parameterName>Result</parameterName>
+				<dataMode>OUT</dataMode>
+			</entityArguments>
+		</externalEntityData>
+		<userPreferences>
+			<characterSet>UNICODE</characterSet>
+			<qualityThreshold/>
+		</userPreferences>
+		<addressMetadata>
+			<addressLanguage>en</addressLanguage>
+			<addressScript>Latn</addressScript>
+			<addressFormat>
+				<addressFormatTypeNumber>1</addressFormatTypeNumber>
+				<addressFormatTypeDescription>S42 Testing</addressFormatTypeDescription>
+			</addressFormat>
+			<despatchingCountry></despatchingCountry>
+			<deliveringCountry></deliveringCountry>
+		</addressMetadata>
+		<triggerConditions>
+			<!-- 
+			The following two procedures are placed at the top of the list of trigger conditions because they do not determine the choice of which lines to bring forward but rather alter the arrangement of the data.  As they are invoked for each address, if the conditions are met and the appropriate fields are populated, the data is reformatted.  An indicator is set to show that the test has been done, rather than showing whether any reformatting has actually taken place or not.  
+			-->
+			<preCondition>UK-ReformatBldgName; Done</preCondition>
+			<preCondition>UK-SubBldgConcat; Done</preCondition>
+			<lineSelect>
+				<!--
+				 The following line is always selected.  Though there may be no data in the elements making up this line, that will be resolved later on.  The point here is that this line will be brought forward into the initial rendition.  
+			-->
+				<lineName lineNumber="001">NAME-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				 The organisation name line has two versions, one with the line required, the other with the line as optional. The five conditions tested here are the same as in premise case 1, which allows no premise elements.  In this situation, the organisation name must be present, whereas in all other situations, it may be present, but need not be present.  The default case uses the version of the organisation name line which specifies it as optional.
+				When a line or line construct is required, then if it is selected, any required elements must be populated, and in any event, at least one element must be populated, or a warning should be issued by an implementation.  When an element is required on a line or line construct that is optional, then if the line or line construct containing the element is selected, and is not later eliminated during rendition, then the element must be populated, or a warning should be issued by an implementation. 
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<hasValue>U40.26.00.00; ""</hasValue>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<lineName lineNumber="002">REQ-ORG-NAME-LINE</lineName>
+				<lineName lineNumber="003">DPT-NAME-LINE</lineName>
+				<defaultCase/>
+				<lineName lineNumber="002">ORG-NAME-LINE</lineName>
+				<lineName lineNumber="003">DPT-NAME-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+			This stipulates that if the delivery service identifier is populated, then the lines following after may be brought forward.  As a result, if there are both thoroughfare and post office box elements present, the thoroughfare address data will be ignored.
+			-->
+				<isPopulated>U40.19.00.00</isPopulated>
+				<!-- delivery service identifier -->
+				<lineName lineNumber="004">PO-BOX-LINE</lineName>
+				<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+				<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+			 	Premise case 1: no premise elements
+			-->
+				<!--
+			The question was raised in developing the template whether a single PATDL template can handle the presence or absence of the box number as a pivot point on which to base the selection of box number logic versus premise element logic.  The method chosen for this template is to test the box number using the hasValue trigger condition to make sure it is not present when a thoroughfare address type is brought forward, and to proceed only if the value found is null or an empty string.  Though this test is repeated a number of times, it uses normal PATDL syntax, does not resort to an external function, and in reading the template, the test is near, rather than far away from, the line selections which follow from it.
+			-->
+				<!--  The number of separate sub-cases in this single integrated template amounts to twelve.  The use of migrating elements in PATDL 2.2 allows the reduction from forty sub-cases in an earlier version of the template.  The 12 cases include one from the post office box section, one each from premise case 1, 2, 4 and 5, two from premise cases 3 and 7, and three from premise case 6.
+			-->
+				<!--  In this template, element 40.24, street number or plot, always functions as a migrating element, and element 40.26, building/construction, usually functions as a migrating element.  If multiple lines are brought forward, the migrating element content should be assigned to the lowest numbered migration precedence for which there are other populated elements on that line for the address instance.
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<hasValue>U40.26.00.00; ""</hasValue>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<lineName lineNumber="008">DEP-THORO-LINE</lineName>
+				<lineName lineNumber="011">THORO-LINE</lineName>
+				<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+				<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+			 	Premise case 2: building number only
+			-->
+				<!--
+			The first three tests are repeated since we do not want to select any lines if all three tests are not passed.  We do not use a defaultCase condition for the same reason.  Once any set of lines are selected, the lineSelect block is considered completed and no more tests are made.  This is important to note, as otherwise we could bring forward too many lines.
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<hasValue>U40.26.00.00; ""</hasValue>
+				<!-- building/construction -->
+				<isPopulated>U40.24.00.00</isPopulated>
+				<!-- street no or plot -->
+				<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+				<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+					 Premise case 3: building name only
+				-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<hasResult>UK-BldgNameFormat1Test; Y</hasResult>
+<!--				<matchesRegex>U40.26.00.00;"^[0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?$"</matchesRegex>-->
+				<lineName lineNumber="009">BLDG-NAME-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="012">BLDG-NAME-THORO-LINE</lineName>
+				<lineName lineNumber="015">BLDG-NAME-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="018">BLDG-NAME-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="021">BLDG-NAME-POST-TOWN-LINE</lineName>
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<hasResult>UK-BldgNameFormat1Test; N</hasResult>
+<!--				<matchesRegex>U40.26.00.00;"^(?![0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?).*$"</matchesRegex>-->
+				<lineName lineNumber="006">BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="008">DEP-THORO-LINE</lineName>
+				<lineName lineNumber="011">THORO-LINE</lineName>
+				<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+				<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				 Premise case 4: building name and building number
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<hasValue>U40.28.00.00; ""</hasValue>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<isPopulated>U40.24.00.00</isPopulated>
+				<!-- street no or plot -->
+				<lineName lineNumber="006">BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+				<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				 Premise case 5: sub-building name and building number
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<hasValue>U40.26.00.00; ""</hasValue>
+				<!-- building/construction -->
+				<isPopulated>U40.24.00.00</isPopulated>
+				<!-- street no or plot -->
+				<lineName lineNumber="005">SUB-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+				<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				 Premise case 6: sub-building name and building name
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<hasResult>UK-SubBldgNameFormat1Test; Y</hasResult>
+<!--				<matchesRegex>U40.28.00.00;"^[0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?$"</matchesRegex>-->
+				<lineName lineNumber="007">SUB-BLDG-NAME-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="008">DEP-THORO-LINE</lineName>
+				<lineName lineNumber="011">THORO-LINE</lineName>
+				<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+				<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<hasResult>UK-SubBldgNameFormat1Test; N</hasResult>
+<!--				<matchesRegex>U40.28.00.00;"^(?![0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?).*$"</matchesRegex>-->
+				<hasResult>UK-BldgNameFormat1Test; Y</hasResult>
+<!--				<matchesRegex>U40.26.00.00;"^[0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?$"</matchesRegex>-->
+				<lineName lineNumber="005">SUB-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="009">BLDG-NAME-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="012">BLDG-NAME-THORO-LINE</lineName>
+				<lineName lineNumber="015">BLDG-NAME-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="018">BLDG-NAME-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="021">BLDG-NAME-POST-TOWN-LINE</lineName>
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<hasValue>U40.24.00.00; ""</hasValue>
+				<!-- street no or plot -->
+				<hasResult>UK-SubBldgNameFormat1Test; N</hasResult>
+<!--				<matchesRegex>U40.28.00.00;"^(?![0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?).*$"</matchesRegex>-->
+				<hasResult>UK-BldgNameFormat1Test; N</hasResult>
+<!--				<matchesRegex>U40.26.00.00;"^(?![0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?).*$"</matchesRegex>-->
+				<lineName lineNumber="005">SUB-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="006">BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="008">DEP-THORO-LINE</lineName>
+				<lineName lineNumber="011">THORO-LINE</lineName>
+				<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+				<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				 Premise case 7: sub-building name, building name and building number
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<isPopulated>U40.24.00.00</isPopulated>
+				<!-- street no or plot -->
+				<hasResult>UK-SubBldgNameFormat1Test; Y</hasResult>
+<!--				<matchesRegex>U40.28.00.00;"^[0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?$"</matchesRegex>-->
+				<lineName lineNumber="007">SUB-BLDG-NAME-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+				<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<isPopulated>U40.28.00.00</isPopulated>
+				<!-- extension designation -->
+				<isPopulated>U40.26.00.00</isPopulated>
+				<!-- building/construction -->
+				<isPopulated>U40.24.00.00</isPopulated>
+				<!-- street no or plot -->
+				<hasResult>UK-SubBldgNameFormat1Test; N</hasResult>
+<!--				<matchesRegex>U40.28.00.00;"^(?![0-9]{1,4}[A-z]{0,2}([-/][0-9]{1,4}[A-z]{0,2})?).*$"</matchesRegex>-->
+				<lineName lineNumber="005">SUB-BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="006">BLDG-NAME-LINE</lineName>
+				<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+				<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+				<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+				<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				The following line is optional for all cases except post office box addresses.  County data is not carried on the PAF file but is sometimes used by mailers.
+			-->
+				<hasValue>U40.19.00.00; ""</hasValue>
+				<!-- delivery service identifier -->
+				<lineName lineNumber="023">COUNTY-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<!--
+				The following line occurs unconditionally.
+			-->
+				<lineName lineNumber="024">POSTCODE-LINE</lineName>
+			</lineSelect>
+			<!--
+			This stipulates that if the country is populated, then there will be a country line generated.  Actually the country line is needed for mail originating outside the country, and otherwise not wanted.  Since country is not populated on PAF, it will be necessary to populate it prior to invoking the PATDL template for external mailings or portions of mailings.
+			-->
+			<lineSelect>
+				<isNotPopulated>U50.53.00.00</isNotPopulated>
+				<lineName lineNumber="025">COUNTRY-LINE</lineName>
+			</lineSelect>
+		</triggerConditions>
+		<!--
+		-->
+		<lineData>
+			<lineName lineNumber="001">NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>NL</componentId>
+				<priority>001</priority>
+				<elementData>
+					<elementId>U10.05.00.00</elementId>
+					<elementDef>form of address</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.06.00.00</elementId>
+					<elementDef>given name</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.08.00.00</elementId>
+					<elementDef>surname</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.10.13.00</elementId>
+					<elementDef>succ qualification</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="002">ORG-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>ONL</componentId>
+				<priority>023</priority>
+				<elementData>
+					<elementId>U20.00.00.00</elementId>
+					<elementDef>org name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="002">REQ-ORG-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>REQONL</componentId>
+				<priority>023</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U20.00.00.00</elementId>
+					<elementDef>org name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="003">DPT-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>DNL</componentId>
+				<priority>024</priority>
+				<elementData>
+					<elementId>U20.02.00.00</elementId>
+					<elementDef>org unit</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="004">PO-BOX-LINE</lineName>
+			<lineComponent>
+				<componentId>PBL</componentId>
+				<priority>003</priority>
+				<elementData>
+					<elementId>U40.19.00.00</elementId>
+					<elementDef>del serv id</elementDef>
+					<elementDesc>post office box</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="005">SUB-BLDG-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>SBNL</componentId>
+				<priority>009</priority>
+				<elementData>
+					<elementId>U40.28.00.00</elementId>
+					<elementDef>extension designation</elementDef>
+					<elementDesc>sub building name</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="006">BLDG-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>BNL</componentId>
+				<priority>008</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="007">SUB-BLDG-NAME-BLDG-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>SBNBNL</componentId>
+				<priority>007</priority>
+				<elementData>
+					<elementId>U40.28.00.00</elementId>
+					<elementDef>extension designation</elementDef>
+					<elementDesc>sub building name</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="008">DEP-THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>DTL</componentId>
+				<priority>011</priority>
+				<elementData>
+					<elementId>U40.21.21.41</elementId>
+					<elementDef>sec thoro name</elementDef>
+					<elementDesc>dependant thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.22</elementId>
+					<elementDef>succ sec thoro type</elementDef>
+					<elementDesc>dependant thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="009">BLDG-NAME-DEP-THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDTL1</componentId>
+				<priority>015</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+					<migrationPrecedence>01</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.41</elementId>
+					<elementDef>sec thoro name</elementDef>
+					<elementDesc>dependant thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.22</elementId>
+					<elementDef>succ sec thoro type</elementDef>
+					<elementDesc>dependant thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="010">BLDG-NO-DEP-THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDTL2</componentId>
+				<priority>019</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>prem id</elementDef>
+					<elementDesc>building number</elementDesc>
+					<migrationPrecedence>01</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.41</elementId>
+					<elementDef>sec thoro name</elementDef>
+					<elementDesc>dependant thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.22</elementId>
+					<elementDef>succ sec thoro type</elementDef>
+					<elementDesc>dependant thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="011">THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>TL</componentId>
+				<priority>012</priority>
+				<elementData>
+					<elementId>U40.21.11.41</elementId>
+					<elementDef>prim thoro name</elementDef>
+					<elementDesc>thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.22</elementId>
+					<elementDef>succ prim thoro type</elementDef>
+					<elementDesc>thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="012">BLDG-NAME-THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>BNTL1</componentId>
+				<priority>016</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+					<migrationPrecedence>02</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.41</elementId>
+					<elementDef>prim thoro name</elementDef>
+					<elementDesc>thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.22</elementId>
+					<elementDef>succ prim thoro type</elementDef>
+					<elementDesc>thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="013">BLDG-NO-THORO-LINE</lineName>
+			<lineComponent>
+				<componentId>BNTL2</componentId>
+				<priority>020</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>prem id</elementDef>
+					<elementDesc>building number</elementDesc>
+					<migrationPrecedence>02</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.41</elementId>
+					<elementDef>prim thoro name</elementDef>
+					<elementDesc>thoroughfare</elementDesc>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.22</elementId>
+					<elementDef>succ prim thoro type</elementDef>
+					<elementDesc>thoroughfare descriptor</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="014">DBL-DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>DDLL</componentId>
+				<priority>013</priority>
+				<elementData>
+					<elementId>U40.17.21.00</elementId>
+					<elementDef>district lev 2 pos 1</elementDef>
+					<elementDesc>double dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="015">BLDG-NAME-DBL-DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDDLL1</componentId>
+				<priority>017</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+					<migrationPrecedence>03</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.21.00</elementId>
+					<elementDef>district lev 2 pos 1</elementDef>
+					<elementDesc>double dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="016">BLDG-NO-DBL-DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDDLL2</componentId>
+				<priority>021</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>prem id</elementDef>
+					<elementDesc>building number</elementDesc>
+					<migrationPrecedence>03</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.21.00</elementId>
+					<elementDef>district lev 2 pos 1</elementDef>
+					<elementDesc>double dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="017">DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>DLL</componentId>
+				<priority>014</priority>
+				<elementData>
+					<elementId>U40.17.11.00</elementId>
+					<elementDef>district lev 1 pos 1</elementDef>
+					<elementDesc>dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="018">BLDG-NAME-DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDLL1</componentId>
+				<priority>018</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+					<migrationPrecedence>04</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.11.00</elementId>
+					<elementDef>district lev 1 pos 1</elementDef>
+					<elementDesc>dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="019">BLDG-NO-DEP-LOC-LINE</lineName>
+			<lineComponent>
+				<componentId>BNDLL2</componentId>
+				<priority>022</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>prem id</elementDef>
+					<elementDesc>building number</elementDesc>
+					<migrationPrecedence>04</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.11.00</elementId>
+					<elementDef>district lev 1 pos 1</elementDef>
+					<elementDesc>dependant locality</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="020">POST-TOWN-LINE</lineName>
+			<lineComponent>
+				<componentId>PTL</componentId>
+				<priority>006</priority>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<elementDesc>post town</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="021">BLDG-NAME-POST-TOWN-LINE</lineName>
+			<lineComponent>
+				<componentId>PTL</componentId>
+				<priority>005</priority>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<elementDesc>building name</elementDesc>
+					<migrationPrecedence>05</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<elementDesc>post town</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="022">BLDG-NO-POST-TOWN-LINE</lineName>
+			<lineComponent>
+				<componentId>PTL</componentId>
+				<priority>004</priority>
+				<elementData>
+					<elementId>U40.24.00.00</elementId>
+					<elementDef>prem id</elementDef>
+					<elementDesc>building number</elementDesc>
+					<migrationPrecedence>05</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<elementDesc>post town</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="023">COUNTY-LINE</lineName>
+			<lineComponent>
+				<componentId>PL</componentId>
+				<priority>025</priority>
+				<elementData>
+					<elementId>U40.15.00.00</elementId>
+					<elementDef>region</elementDef>
+					<elementDesc>county</elementDesc>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="024">POSTCODE-LINE</lineName>
+			<lineComponent>
+				<componentId>PL</componentId>
+				<priority>002</priority>
+				<elementData>
+					<!--
+				It is assumed that the spacing within the postcode is included in the PAF file.  Otherwise sub-types should be defined for the parts of the UK postcode and the proper spacing may require use of rendition operators.
+				-->
+					<elementId>U40.13.00.00</elementId>
+					<elementDef>postcode</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="025">COUNTRY-LINE</lineName>
+			<lineComponent>
+				<componentId>CL</componentId>
+				<priority>005</priority>
+				<elementData>
+					<elementId>U40.14.00.00</elementId>
+					<elementDef>country name</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+	</contentDefinition>
+</patdl.2.7.3.xml>

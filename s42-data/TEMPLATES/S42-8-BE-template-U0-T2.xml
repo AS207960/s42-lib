@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This is the PATDL version of the template representing the address format for
+Belgium with UPU element codes and rendition instructions. It has been validated
+using the Postal Address Template Description Language (PATDL) v. 2.7.3 W3C schema.
+-->
+<patdl.2.7.3.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PATDL.v.2.7.3.xsd">
+	<!-- -->
+  <identifier>
+    <referenceKey>UPU-BE</referenceKey>
+    <elementIdentifier>
+      <type>code</type>
+      <prefix>U</prefix>
+      <system>UPU</system>
+      <version>S42-8</version>
+      <source>UPU</source>
+    </elementIdentifier>
+    <elementDefiner>
+      <type>descriptive</type>
+      <language>EN</language>
+      <system>UPU</system>
+      <version>S42-8</version>
+      <source>UPU</source>
+    </elementDefiner>
+    <elementDescriptor>
+      <type>descriptive</type>
+      <language>EN</language>
+      <system/>
+      <version/>
+      <source>bpost</source>
+    </elementDescriptor>
+    <renditionInstruction>
+      <type>mnemonic</type>
+      <language>EN</language>
+      <system>UPU</system>
+      <version>S42-8</version>
+      <source>UPU</source>
+    </renditionInstruction>
+    <templateSelectionData>
+      <unconditionalTemplateIdentifier>
+        <templateType>ADR</templateType>
+        <countryCode>BE</countryCode>
+        <userId>UPU</userId>
+        <templateSeqNum>001</templateSeqNum>
+        <templateVersion>0002</templateVersion>
+      </unconditionalTemplateIdentifier>
+    </templateSelectionData>
+  </identifier>
+  <contentDefinition>
+    <templateName/>
+    <templateIdentifier>
+      <templateType>ADR</templateType>
+      <countryCode>BE</countryCode>
+      <userId>UPU</userId>
+      <templateSeqNum>001</templateSeqNum>
+      <templateVersion>0002</templateVersion>
+    </templateIdentifier>
+    <defaultDelimiter>' '</defaultDelimiter>
+    <defaultSeparator>';'</defaultSeparator>
+    <defaultSequencer>','</defaultSequencer>
+    <defaultCollector>'-'</defaultCollector>
+    <userPreferences>
+      <characterSet>UNICODE</characterSet>
+      <qualityThreshold/>
+      <!-- The following parameter applies to domestic mailings. For cross
+border mailings a country name line is needed and the maximum number of lines set by
+bpost is 7 -->
+      <maxLines>6</maxLines>
+    </userPreferences>
+    <addressMetadata>
+      <addressLanguage>fr</addressLanguage>
+      <addressLanguage>nl</addressLanguage>
+      <addressLanguage>de</addressLanguage>
+      <addressScript>Latn</addressScript>
+      <despatchingCountry/>
+      <deliveringCountry>BE</deliveringCountry>
+    </addressMetadata>
+    <triggerConditions>
+      <lineSelect>
+        <isPopulated>U10.06.00.00, U10.08.00.00</isPopulated>
+        <lineName lineNumber="001">addressee</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U20.04.00.00, U20.05.00.00, U20.06.00.00, U20.08.00.00</isPopulated>
+        <lineName lineNumber="002">mailee name</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U20.03.00.00, U20.02.00.00</isPopulated>
+        <lineName lineNumber="003">mailee function-dpt</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U20.00.00.00, U20.01.00.00</isPopulated>
+        <lineName lineNumber="004">mailee organisation</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U30.29.11.21, U30.30.11.21, U30.31.11.21, U30.32.11.21</isPopulated>
+        <lineName lineNumber="005">recipient dispatch info</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U30.26.11.00</isPopulated>
+        <lineName lineNumber="006">complex of buildings</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U40.19.11.21</isPopulated>
+        <lineName lineNumber="007">post office box</lineName>
+      </lineSelect>
+      <lineSelect>
+        <hasValue>U50.51.00.00;"fr"</hasValue>
+        <lineName lineNumber="008">french thoroughfare address</lineName>
+        <hasValue>U50.51.00.00;"nl"</hasValue>
+        <lineName lineNumber="008">flemish thoroughfare address</lineName>
+        <hasNotValue>U50.51.00.00;"fr","nl"</hasNotValue>
+        <lineName lineNumber="008">other language thoroughfare address</lineName>
+      </lineSelect>
+      <lineSelect>
+        <lineName lineNumber="009">postcode and town</lineName>
+      </lineSelect>
+      <lineSelect>
+        <isPopulated>U50.53.00.00</isPopulated>
+        <hasNotValue>U50.53.00.00;BE</hasNotValue>
+        <isPopulated>U40.14.00.00</isPopulated>
+        <lineName lineNumber="010">external country field</lineName>
+        <isPopulated>U50.53.00.00</isPopulated>
+        <hasNotValue>U50.53.00.00;BE</hasNotValue>
+        <isNotPopulated>U40.14.00.00</isNotPopulated>
+        <lineName lineNumber="010">external country default</lineName>
+      </lineSelect>
+    </triggerConditions>
+    <lineData>
+      <lineName lineNumber="001">addressee</lineName>
+      <lineComponent>
+        <componentId>ADDRESSEE</componentId>
+        <priority>007</priority>
+        <elementData>
+          <elementId>U10.05.00.00</elementId>
+          <elementDef>form of address</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U10.06.00.00</elementId>
+          <elementDef>given name</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U10.08.00.00</elementId>
+          <elementDef>surname</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U30.33.00.00</elementId>
+          <elementDef>supp despatch info</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="002">mailee name</lineName>
+      <lineComponent>
+        <componentId>MAILEE-NAME</componentId>
+        <priority>009</priority>
+        <elementData>
+          <elementId>U20.04.00.00</elementId>
+          <elementDef>role descriptor</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U20.05.00.00</elementId>
+          <elementDef>form of address</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U20.06.00.00</elementId>
+          <elementDef>given name</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U20.08.00.00</elementId>
+          <elementDef>surname</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="003">mailee function-dpt</lineName>
+      <lineComponent>
+        <componentId>MAILEE-FUNCTION-DPT</componentId>
+        <priority>010</priority>
+        <elementData>
+          <elementId>U20.03.00.00</elementId>
+          <elementDef>function</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U20.02.00.00</elementId>
+          <elementDef>org unit</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="004">mailee organisation</lineName>
+      <lineComponent>
+        <componentId>MAILEE-ORG</componentId>
+        <priority>005</priority>
+        <elementData>
+          <elementId>U20.00.00.00</elementId>
+          <elementDef>org name</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U20.01.00.00</elementId>
+          <elementDef>legal status</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="005">recipient dispatch info</lineName>
+      <lineComponent>
+        <componentId>RECIPIENT-DISPATCH</componentId>
+        <priority>006</priority>
+        <elementData>
+          <elementId>U30.29.11.11</elementId>
+          <elementDef>wing type</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U30.29.11.21</elementId>
+          <elementDef>wing ind</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCAT</operatorId>
+          <fldText>' - '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U30.30.11.11</elementId>
+          <elementDef>stairwell type</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U30.30.11.21</elementId>
+          <elementDef>stairwell ind</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCATWL</operatorId>
+          <fldText>' - '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U30.31.11.11</elementId>
+          <elementDef>floor type</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U30.31.11.21</elementId>
+          <elementDef>floor ind</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCATWL</operatorId>
+          <fldText>' - '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U30.32.11.11</elementId>
+          <elementDef>door type</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U30.32.11.21</elementId>
+          <elementDef>door ind</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="006">complex of buildings</lineName>
+      <lineComponent>
+        <componentId>BLDG-LVL1</componentId>
+        <priority>008</priority>
+        <elementData>
+          <elementId>U30.26.11.00</elementId>
+          <elementDef>building lev 1</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="007">post office box</lineName>
+      <lineComponent>
+        <componentId>PO-BOX</componentId>
+        <priority>003</priority>
+        <elementData>
+          <elementId>U40.19.11.11</elementId>
+          <elementDef>prim del serv type</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U40.19.11.21</elementId>
+          <elementDef>prim del serv ind</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="008">french thoroughfare address</lineName>
+      <lineComponent>
+        <componentId>THORO</componentId>
+        <priority>004</priority>
+        <elementData>
+          <elementId>U40.21.00.00</elementId>
+          <elementDef>thoro</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U40.24.00.00</elementId>
+          <elementDef>prem id</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCAT</operatorId>
+          <fldText>' bte '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U40.28.00.00</elementId>
+          <elementDef>extension designation</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="008">flemish thoroughfare address</lineName>
+      <lineComponent>
+        <componentId>THORO</componentId>
+        <priority>004</priority>
+        <elementData>
+          <elementId>U40.21.00.00</elementId>
+          <elementDef>thoro</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U40.24.00.00</elementId>
+          <elementDef>prem id</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCAT</operatorId>
+          <fldText>' bus '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U40.28.00.00</elementId>
+          <elementDef>extension designation</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="008">other language thoroughfare address</lineName>
+      <lineComponent>
+        <componentId>THORO</componentId>
+        <priority>004</priority>
+        <elementData>
+          <elementId>U40.21.00.00</elementId>
+          <elementDef>thoro</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U40.24.00.00</elementId>
+          <elementDef>prem id</elementDef>
+        </elementData>
+        <renditionOperator>
+          <operatorId>CONCAT</operatorId>
+          <fldText>' box '</fldText>
+        </renditionOperator>
+        <elementData>
+          <elementId>U40.28.00.00</elementId>
+          <elementDef>extension designation</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="009">postcode and town</lineName>
+      <lineComponent>
+        <componentId>POSTCODE-TOWN</componentId>
+        <priority>002</priority>
+        <elementData>
+          <elementId>U40.13.00.00</elementId>
+          <elementDef>postcode</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+        <elementData>
+          <elementId>U40.16.00.00</elementId>
+          <elementDef>town</elementDef>
+        </elementData>
+        <elementData>
+          <elementId>U40.35.00.00</elementId>
+          <elementDef>del serv qualifier</elementDef>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="010">external country field</lineName>
+      <lineComponent>
+        <componentId>EXTERNAL-COUNTRY</componentId>
+        <priority>001</priority>
+        <elementData>
+          <elementId>U40.14.00.00</elementId>
+          <elementDef>country name</elementDef>
+          <posStart>001</posStart>
+        </elementData>
+      </lineComponent>
+    </lineData>
+    <lineData>
+      <lineName lineNumber="010">external country default</lineName>
+      <lineComponent>
+        <componentId>EXTERNAL-COUNTRY</componentId>
+        <priority>001</priority>
+        <renditionOperator>
+          <operatorId>LITERAL</operatorId>          
+          <posStart>001</posStart>
+          <fldText>'BELGIUM '</fldText>
+        </renditionOperator>
+      </lineComponent>
+    </lineData>
+  </contentDefinition>
+</patdl.2.7.3.xml>
+
+
+
+
+

@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>KZ</GroupDescription>
+            <GroupItemCount>68</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010009</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Рыскулбекова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">дом 16</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 224</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">ул. Рыскулбекова, дом 16, кв. 224</LineData>
+                            <LineData name="LINE 3">010009, Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010009</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Ryskulbekov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom16</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv 224</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">ul. Ryskulbekov, dom16, kv 224 </LineData>
+                            <LineData name="LINE 3">010009, g. Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010009</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ryskulbekov street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">House16</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">flat 224</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Ryskulbekov street, House16, flat 224 </LineData>
+                            <LineData name="LINE 3">010009, Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010009</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ryskulbekov koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">16 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">224 pater</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Ryskulbekov koshesi, 16 uy, 224 pater </LineData>
+                            <LineData name="LINE 3">010009, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010017</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Орынбор</U40.21.00.00>
+                        <U40.29.00.00 uniq="U40Wing">14 подъезд</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">ул. Орынбор, 14 подъезд </LineData>
+                            <LineData name="LINE 3">010017, Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010017</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Orynbor</U40.21.00.00>
+                        <U40.29.00.00 uniq="U40Wing">14 pod&apos;ezd</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">ul. Orynbor, 14 pod&apos;ezd</LineData>
+                            <LineData name="LINE 3">010017, g. Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010017</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Orynbor street</U40.21.00.00>
+                        <U40.29.00.00 uniq="U40Wing">Entrance14</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Orynbor street, Entrance14</LineData>
+                            <LineData name="LINE 3">010017, Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010017</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Orynbor koshesi</U40.21.00.00>
+                        <U40.29.00.00 uniq="U40Wing">14 kireberis</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Orynbor koshesi, 14 kireberis</LineData>
+                            <LineData name="LINE 3">010017, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">пр-т Богенбай батыра</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.32</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">пр-т Богенбай батыра, д.32, 14</LineData>
+                            <LineData name="LINE 3">010000, Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010001</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">pr-t Bogenbai Batyr</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 32</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv 14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">pr-t Bogenbai Batyr, dom 32, kv 14</LineData>
+                            <LineData name="LINE 3">010001, g. Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010001</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bogenbai Batyr avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 32</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">flat 14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Bogenbai Batyr avenue, house 32, flat 14</LineData>
+                            <LineData name="LINE 3">010001, Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bogenbai Batyr dangyly</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">32 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">pater14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Bogenbai Batyr dangyly, 32 uy, pater14 </LineData>
+                            <LineData name="LINE 3">010000, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010018</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">проезд 23</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">здание 3/1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Жилой Массив Заречное</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">Жилой Массив Заречное, проезд 23, здание 3/1</LineData>
+                            <LineData name="LINE 3">010018, г. Астана</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100018</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astanа</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">proеzd 23</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">zdanie 3/1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Zhiloy massiv Zarechnoe</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Zhiloy massiv Zarechnoe, proеzd 23, zdanie 3/1</LineData>
+                            <LineData name="LINE 3">100018, g. Astanа</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100018</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astanа</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">proеzd 23</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">building 3/1</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Housing estate Zarechnoe</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Housing estate Zarechnoe, proеzd 23, building 3/1</LineData>
+                            <LineData name="LINE 3">100018, Astanа</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010018</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">23 proezd</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">3/1 gimarat</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Zarechnoe turgyn alaby</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Zarechnoe turgyn alaby, 23 proezd, 3/1 gimarat</LineData>
+                            <LineData name="LINE 3">010018, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Тупик Толстого</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">Тупик Толстого, д.3, кв. 1 </LineData>
+                            <LineData name="LINE 3">010011, г. Астана</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">tupik Tolstoy</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">tupik Tolstoy, dom 3, kv. 1</LineData>
+                            <LineData name="LINE 3">010011, g. Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">tupik Tolstoy</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 3</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">flat 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">tupik Tolstoy, house 3, flat 1</LineData>
+                            <LineData name="LINE 3">010011, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010011</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Tolstoy tyuik koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">3 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">1 pater</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Tolstoy tyuik koshesi, 3 uy, 1 pater </LineData>
+                            <LineData name="LINE 3">010011, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010006</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">переулок Коктобе</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">дом 4</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">жилой массив Коктал</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">жилой массив Коктал, переулок Коктобе, дом 4</LineData>
+                            <LineData name="LINE 3">010006, г. Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010006</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g.Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Pereylok Koktobe</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 4</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Zhiloy massiv Koktal</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Zhiloy massiv Koktal, Pereylok Koktobe, dom 4 </LineData>
+                            <LineData name="LINE 3">010006, g.Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010006</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">pereulok Koktobe</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 4</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Housing Estate Koktal</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Housing Estate Koktal, pereulok Koktobe, house 4 </LineData>
+                            <LineData name="LINE 3">010006, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010006</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Koktobe tar koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">4 uy</U40.24.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Koktal turgyn alaby</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Koktal turgyn alaby, Koktobe tar koshesi, 4 uy </LineData>
+                            <LineData name="LINE 3">010006, Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Кабанбай батыра</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">дом 51</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">3 корпус</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 22</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">ул. Кабанбай батыра, дом 51, 3 корпус, кв. 22</LineData>
+                            <LineData name="LINE 3">010000, Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Kabanbai batyr</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 51</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">3 korpus</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">kv 22</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">ul. Kabanbai batyr, dom 51, 3 korpus, kv 22</LineData>
+                            <LineData name="LINE 3">010000, g. Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kabanbai batyr street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 51</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">3 korpus</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">flat 22</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Kabanbai batyr street, house 51, 3 korpus, flat 22</LineData>
+                            <LineData name="LINE 3">010000, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kabanbai batyr koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">51 uy</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">3 korpus</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">22 pater</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Kabanbai batyr koshesi, 51 uy, 3 korpus, 22 pater </LineData>
+                            <LineData name="LINE 3">010000, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010024</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Молдагулова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">дом 21</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">ул. Молдагулова, дом 21, кв. 3 </LineData>
+                            <LineData name="LINE 3">010024, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010024</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Moldagulova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 21</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">ul. Moldagulova, dom 21, kv. 3</LineData>
+                            <LineData name="LINE 3">010024, g. Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010024</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Moldagulova street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 21</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">flat 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Moldagulova street, house 21, flat 3 </LineData>
+                            <LineData name="LINE 3">010024, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010024</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Moldagulov koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">21 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">3 pater</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Moldagulov koshesi, 21 uy, 3 pater </LineData>
+                            <LineData name="LINE 3">010024, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Серик</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Батыров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ерланович</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">050000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Алматинская область</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Алматы</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Абая</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">дом 14/9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Батыров Серик Ерланович</LineData>
+                            <LineData name="LINE 2">ул. Абая, дом 14/9</LineData>
+                            <LineData name="LINE 3">050000, Алматы </LineData>
+                            <LineData name="LINE 4">Алматинская область</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">050000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almatinskaya oblast</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Almaty</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Abay</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 14/9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">ul. Abay, dom 14/9</LineData>
+                            <LineData name="LINE 3">050000, Almaty </LineData>
+                            <LineData name="LINE 4">Almatinskaya oblast</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanovich</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">050000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almaty region</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Almaty</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Abay street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 14/9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanovich</LineData>
+                            <LineData name="LINE 2">Abay street, house 14/9</LineData>
+                            <LineData name="LINE 3">050000, Almaty </LineData>
+                            <LineData name="LINE 4">Almaty region</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Serik</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batyrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Erlanuly</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">050000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almaty oblysy</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Almaty kalasy</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Abay koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">14-9 uy</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Batyrov Serik Erlanuly</LineData>
+                            <LineData name="LINE 2">Abay koshesi, 14-9 uy</LineData>
+                            <LineData name="LINE 3">050000, Almaty kalasy </LineData>
+                            <LineData name="LINE 4">Almaty oblysy</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">АО &quot;Сертификат&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">020032</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Акмолинская обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">пр-т Бейбитшилик</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д15 a</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">офис 56</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">АО &quot;Сертификат&quot;</LineData>
+                            <LineData name="LINE 2">пр-т Бейбитшилик, д15 a, офис 56</LineData>
+                            <LineData name="LINE 3">020032, г. Астана </LineData>
+                            <LineData name="LINE 4">Акмолинская обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AO &quot;Sertifikat&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">020032</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Akmolinsaya obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">pr-t Beibitshilik</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom15</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">ofis 56</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AO &quot;Sertifikat&quot;</LineData>
+                            <LineData name="LINE 2"> pr-t Beibitshilik, dom15, ofis 56</LineData>
+                            <LineData name="LINE 3">020032, Astana </LineData>
+                            <LineData name="LINE 4">Akmolinsaya obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">JSC &quot;Sertificat&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">020032</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Akmolinskaya region</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Beibitshilik avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 15</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">office 56</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JSC &quot;Sertificat&quot;</LineData>
+                            <LineData name="LINE 2">Beibitshilik avenue, house 15, office 56</LineData>
+                            <LineData name="LINE 3">020032, Astana </LineData>
+                            <LineData name="LINE 4">Akmolinskaya region</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">&quot;Sertifikat&quot; AK</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">020032</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Akmola oblysy</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Beybitshilik dangyly</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">25 ofis</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">&quot;Sertifikat&quot; AK</LineData>
+                            <LineData name="LINE 2">Beybitshilik dangyly, 15 uy, 25 ofis </LineData>
+                            <LineData name="LINE 3">020032, Astana </LineData>
+                            <LineData name="LINE 4">Akmola oblysy</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Евразийский университет имени Л.Н. Гумилева</U10.00.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Гумилева</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">010008</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Янушкевича</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">учебный корпус №4</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Евразийский университет имени Л.Н. Гумилева</LineData>
+                            <LineData name="LINE 2">ул. Янушкевича, 6, учебный корпус №4</LineData>
+                            <LineData name="LINE 3">010008, г. Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Evraziyskiy Universitet imeni L.N.Gumileva</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010008</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g.Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Yanushkevich</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">uchebnyi korpus #4</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Evraziyskiy Universitet imeni L.N.Gumileva</LineData>
+                            <LineData name="LINE 2">ul. Yanushkevich, 6, uchebnyi korpus #4</LineData>
+                            <LineData name="LINE 3">010008, g.Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">L.N.Gumilyov Eurasian National University</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010008</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Yanushkevich street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">educational-administrative campus #4</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">L.N.Gumilyov Eurasian National University</LineData>
+                            <LineData name="LINE 2">Yanushkevich street, 6, educational-administrative campus #4</LineData>
+                            <LineData name="LINE 3">010008, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Gumilev atyndagy Eurazia Universitety</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010008</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Yanushkevich koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">#4 oku korpusy</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gumilev atyndagy Eurazia Universitety</LineData>
+                            <LineData name="LINE 2">Yanushkevich koshesi, 6, #4 oku korpusy </LineData>
+                            <LineData name="LINE 3">010008, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Директору</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Политехнический колледж</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">060000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Атырау</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Кусаинова</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.10</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Главный корпус</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Директору</LineData>
+                            <LineData name="LINE 2">Политехнический колледж</LineData>
+                            <LineData name="LINE 3">ул. Кусаинова, д.10, Главный корпус</LineData>
+                            <LineData name="LINE 4">060000, Атырау</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Direktoru</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Politechnicheskiy Kolledzh</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">060000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Atyrau</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Kusainova</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 10</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Glavnyi korpus</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Direktoru</LineData>
+                            <LineData name="LINE 2">Politechnicheskiy Kolledzh</LineData>
+                            <LineData name="LINE 3">ul. Kusainova, dom 10, Glavnyi korpus </LineData>
+                            <LineData name="LINE 4">060000, Atyrau </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Politechnical Kollege</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">060000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Atyrau</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kusainov street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 10</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Main kampus</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Director</LineData>
+                            <LineData name="LINE 2">Politechnical Kollege</LineData>
+                            <LineData name="LINE 3">Kusainov street, house 10, Main kampus </LineData>
+                            <LineData name="LINE 4">060000, Atyrau </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Direktorga</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Politechnikalyk kolledzh</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">060000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Atyrau</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kusainov koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10 uy</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bas korpus</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Direktorga</LineData>
+                            <LineData name="LINE 2">Politechnikalyk kolledzh</LineData>
+                            <LineData name="LINE 3">Kusainov koshesi, 10 uy, bas korpus </LineData>
+                            <LineData name="LINE 4">060000, Atyrau </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Айман</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сыдыковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Абишевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Южно-казахстанской область</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Енбекшинского р-на</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">р/ц. Енбекшинский</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. Т. Хусейна</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сыдыковой Айман Абишевне</LineData>
+                            <LineData name="LINE 2">ул. Т. Хусейна, д.9, кв.8</LineData>
+                            <LineData name="LINE 3">160000, р/ц. Енбекшинский </LineData>
+                            <LineData name="LINE 4">Енбекшинского р-на</LineData>
+                            <LineData name="LINE 5">Южно-казахстанской область</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Yuzhno-Kazakhstansoi oblasti</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Enbekshinskogo r-na</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">r/c Enbekshinskiy</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. T. Husein</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv. 8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">ul. T. Husein, dom 9, kv. 8 </LineData>
+                            <LineData name="LINE 3">160000, r/c Enbekshinskiy </LineData>
+                            <LineData name="LINE 4">Enbekshinskogo r-na</LineData>
+                            <LineData name="LINE 5">Yuzhno-Kazakhstansoi oblasti</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">South-Kazakhstan region</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Enbekshinskiy district</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Enbekshinskiy region</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">T. Hussein street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 9</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">flat 8</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">T. Hussein street, house 9, flat 8 </LineData>
+                            <LineData name="LINE 3">160000, Enbekshinskiy region </LineData>
+                            <LineData name="LINE 4">Enbekshinskiy district</LineData>
+                            <LineData name="LINE 5">South-Kazakhstan region</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishkyzy</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ontustik Kazakhstan Oblysy</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Enbekshi audany</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Enbekshi audan ortalygy</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">T. Husein koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">9 uy</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">8 pater</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishkyzy</LineData>
+                            <LineData name="LINE 2">T. Husein koshesi, 9 uy, 8 pater </LineData>
+                            <LineData name="LINE 3">160000, Enbekshi audan ortalygy </LineData>
+                            <LineData name="LINE 4">Enbekshi audany</LineData>
+                            <LineData name="LINE 5">Ontustik Kazakhstan Oblysy</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Айман</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сыдыковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Абишевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">040000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Алматинская область</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Карасайский район</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">село Абай</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул.Шиели</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сыдыковой Айман Абишевне</LineData>
+                            <LineData name="LINE 2">ул.Шиели, д.15</LineData>
+                            <LineData name="LINE 3">040000, село Абай</LineData>
+                            <LineData name="LINE 4">Карасайский район</LineData>
+                            <LineData name="LINE 5">Алматинская область</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">040000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almatinskiy oblast</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Karasayskiy raion</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">selo Abay</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Shieli</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">ul. Shieli, dom 15 </LineData>
+                            <LineData name="LINE 3">040000, selo Abay </LineData>
+                            <LineData name="LINE 4">Karasayskiy raion</LineData>
+                            <LineData name="LINE 5">Almatinskiy oblast</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">040000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almatinskiy region</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Karasay district</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">village Abai</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Shieli street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">house 15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">Shieli street, house 15 </LineData>
+                            <LineData name="LINE 3">040000, village Abai </LineData>
+                            <LineData name="LINE 4">Karasay district</LineData>
+                            <LineData name="LINE 5">Almatinskiy region</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishkyzy</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">040000</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Almaty oblysy</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Karasai audany</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Abai auyly</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Shieli koshesi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15 uy</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishkyzy</LineData>
+                            <LineData name="LINE 2">Shieli koshesi, 15 uy </LineData>
+                            <LineData name="LINE 3">040000, Abai auyly </LineData>
+                            <LineData name="LINE 4">Karasai audany</LineData>
+                            <LineData name="LINE 5">Almaty oblysy</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Айман</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сыдыковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Абишевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">120715</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Кзылординская обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Шиелийский район</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">село Солотюбе</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сыдыковой Айман Абишевне</LineData>
+                            <LineData name="LINE 2">д.19</LineData>
+                            <LineData name="LINE 3">120715, село Солотюбе</LineData>
+                            <LineData name="LINE 4">Шиелийский район</LineData>
+                            <LineData name="LINE 5">Кзылординская обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">120715</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Kzylordinskaya oblast</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Shielinskiy raion</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">selo Sulytobe</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">dom 19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">dom 19</LineData>
+                            <LineData name="LINE 3">120715, selo Sulytobe</LineData>
+                            <LineData name="LINE 4">Shielinskiy raion</LineData>
+                            <LineData name="LINE 5">Kzylordinskaya oblast</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">120715</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Kzylorda region</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Shieli district</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Sulutobe village</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">19</LineData>
+                            <LineData name="LINE 3">120715, Sulutobe village</LineData>
+                            <LineData name="LINE 4">Shieli district</LineData>
+                            <LineData name="LINE 5">Kzylorda region</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishkyzy</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">120715</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Kyzylorda oblysy</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Shieli audany</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Sututobe auyly</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">19 uy</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishkyzy</LineData>
+                            <LineData name="LINE 2">19 uy</LineData>
+                            <LineData name="LINE 3">120715, Sututobe auyly</LineData>
+                            <LineData name="LINE 4">Shieli audany</LineData>
+                            <LineData name="LINE 5">Kyzylorda oblysy</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Айман</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сыдыковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Абишевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">До востребования</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сыдыковой Айман Абишевне</LineData>
+                            <LineData name="LINE 2">До востребования</LineData>
+                            <LineData name="LINE 3">010000, г. Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Astana</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Do vostrеbovaniya</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">Do vostrеbovaniya</LineData>
+                            <LineData name="LINE 3">010000, g. Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">Poste restante</LineData>
+                            <LineData name="LINE 3">010000, Astana </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishkyzy</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana kalasy</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Talap etilgenge deyin</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishkyzy</LineData>
+                            <LineData name="LINE 2">Talap etilgenge deyin</LineData>
+                            <LineData name="LINE 3">010000, Astana kalasy </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Айман</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Сыдыковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Абишевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Астана</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">а/я 102</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Сыдыковой Айман Абишевне</LineData>
+                            <LineData name="LINE 2">а/я 102</LineData>
+                            <LineData name="LINE 3">010000, г. Астана </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g.Astana</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">a/ya 102</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">a/ya 102</LineData>
+                            <LineData name="LINE 3">010000, g.Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishevna</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Post Box 102</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishevna</LineData>
+                            <LineData name="LINE 2">Post Box 102</LineData>
+                            <LineData name="LINE 3">010000, Astana</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aiman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sydykova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abishkyzy</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">010000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Astana kalasy</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">abonenttik zhashik 102</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">kk</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sydykova Aiman Abishkyzy</LineData>
+                            <LineData name="LINE 2">abonenttik zhashik 102</LineData>
+                            <LineData name="LINE 3">010000, Astana kalasy </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

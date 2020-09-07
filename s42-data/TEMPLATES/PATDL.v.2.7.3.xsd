@@ -1,0 +1,701 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <!--
+This W3C XML schema defines version 2.7.3 of the Postal Address Template Description Language (PATDL).
+
+A PATDL template is an ordered list of address data elements, which might be populated in any given instance,
+arranged in groups corresponding to lines of output information in such a way that the data populating the elements
+will produce a mailing address, order form address, display screen address, or other desired outcome.  There can be
+one or more address templates for a particular job, and the templates are invoked from an application under control of the user.
+
+Each template typically includes rendition instructions, which define various functions and operations that can be
+performed upon the address data elements.  This helps ensure that the output from processing the template preserves the
+information necessary to achieve postal delivery, maintain quality control in production, and communicate with the
+addressee, even when production constraints dictate that some of the available information will not fit on the mail piece.
+
+A PATDL template is identified by five components, though not all are needed in all circumstances.  The first is a
+template type code.  The second is the country code, in the two character alphabetic ISO 3166 standard code.  The third
+is a four-position user code that identifies the owner or designer of the template.  The fourth is a three-digit
+template number, which should be sufficient to support a library of template variations.  The fifth is a four-position
+version number to allow for testing and documentation.
+
+PATDL supports implicit conditional logic, enabling branching within the template based on based on field values,
+business rules, decision tables, or other defined procedures.  Templates refer to elements by their names or by using
+codes assigned by the UPU, and can also utilize externally defined elements or code sets.  Templates for some countries,
+such as the United Kingdom, can be substantially more complex than for others, such as the United States.
+
+As further work is done on templates, including defining standard templates as part of the UPU S42 project, the user
+will increasingly benefit from the opportunity to incorporate standard templates into an application, customizing them
+as necessary to add proprietary features.  PATDL supports customization through an extensive selection of parameters
+that allow expression of user preferences during final presentation.
+
+PATDL was developed in February 2002, as the first XML description language for postal address templates.  Successive
+versions have been included in UPU S42 as a way to define templates in XML corresponding to natural language template
+(NLT) descriptions while supplying additional information useful to an application.  A PATDL template includes
+identifying information and has content pertaining to defining address structures and formats, including user
+preferences, trigger conditions, line candidates, line components, address elements, and rendition instructions,
+along with optional combining of components.  A template header lets the user select one of a number of alternate
+subtemplates.
+
+User preferences are needed to resolve issues of selection of line candidates, line components, lines, and address
+elements, constraints upon rendition, options requiring a choice, and rendition instructions that vary depending on the
+job to be performed.  Additionally, user preferences determine quality thresholds and govern the type and amount of
+output information generated from an implementation relating to the achievement of these thresholds.
+
+Trigger conditions determine the inclusion or exclusion of line candidates and components from the initial rendition,
+which is a starting point from which rendition instructions are followed to create the final presentation.  Before this
+is done there is an opportunity to perform operations that serve as preconditions, either to help determine the paths
+taken through template logic or in some cases to allow for data manipulations needed prior to executing that logic.
+
+Line candidates and components are collections of elements that can become multiple physical lines, single physical
+lines, or parts of physical lines during the rendition process.
+
+Address elements are parts of addresses as defined in a standardization process such as that begun at the CEN and
+continued at the UPU.  In PATDL, both elements and element sub-types can be used in populating the templates, and it is
+also possible to use external elements from other sources even when they are only identified with tags or names and not
+with a code structure.
+
+Rendition instructions accomplish the final presentation of the address or intermediate steps toward that end.  They
+include rendition operators that utilize constants and rendition commands that manipulate elements, lines, and line
+components.  There are also rendition parameters that govern the conditions under which the rendition is carried out.
+Rendition instructions are an integral part of the UPU S42 approach to governing address presentation.  There are
+upstream rendition instructions that perform branching among different parts of the template and downstream rendition
+instructions which accomplish the final presentation of address elements and components.
+
+As part of the identifying information in the template, a reference key can be used to uniquely identify the data set.
+A means is provided to define general information about systems of element identifiers, element definers, and element
+descriptors, including type, prefix, language, system, version, and source.  Later on, individual instances of these
+entities are used to populate logical lines and components.  An element identifier uniquely specifies an element even
+when multiple sources of elements are being used.  If there are multiple sources, a prefix is used with the identifier
+to guarantee uniqueness.  An element definer documents what an element represents and is not used to access the element.
+An element descriptor provides a semantic clue or an alternate description of the meaning of an element and can also
+serve as an alternate identifier.
+
+A default delimiter will be used to separate elements and constants in output generated using the template, unless it is
+overridden by using a rendition instruction that has a specific behavior that results in suppression of the default delimiter.
+
+Within the template, a default separator is used to separate arguments.  A default sequencer is used to separate
+elements within a single argument. A default collector indicates a series of elements within a single argument.
+
+An external entity can be a data table used in the rendition process, called procedures invoked during the rendition
+process, or other data relevant to the process.  External entities are documented to indicate where they can be found
+and also to describe key aspects of their structure that need to be known in order for a PATDL interpreter to work
+properly.  Such an interpreter may have such external entities available locally or it may have to access them remotely.
+Among the features of external entities that are documented are unique names, input parameters, elements used,
+data modes of IN for input and OUT for output, table data structures including starting positions and field lengths,
+result codes, and reporting requirements.
+
+A PATDL document may include one or more templates, referenced by a template identifier.  There may be multiple branches
+within a template for the same country representing different address types with distinct orderings of elements.
+There can be multiple subtemplates for the same country within a PATDL document.  Alternatively, each subtemplate can be
+presented as a different PATDL document by adding a template header to each subtemplate.
+
+The template header allows for selection of one template among a group of subtemnplates based on unconditional
+selection, criteria to be matched, or address by address with the data on which template to use listed in the Excel or S53 input.
+
+The user preferences include several constructs designed to indicate which of a set of line candidates or components
+is preferred when more than one is populated for a given address instance, and also to permit the elimination of
+particular line candidates or components from consideration in the current rendition process.
+
+Another user preference allows arbitration within an application between the relative priorities of rendition
+instructions operating in the horizontal vs. the vertical dimension.  There is also a capability to specify other
+application parameters as a user preference.
+
+A character set is a preferred or allowable set of characters that are eligible to be used in the output of a particular rendition process.
+
+A quality threshold is crossed when, in the process of rendition, essential data has been eliminated, or required data
+is determined not to be present, that can compromise deliverability of the address as determined by the user or a postal service.
+
+Quality control thresholds can provide error reports.  Reports can be generated if a rendition instruction with a
+priority over a given threshold is invoked, if default truncation of any element is performed, or if an element
+with required content is either null or an empty string.  Output should include diagnostic and identifying information.
+
+User preferences also permit the specification of a maximum number of lines and characters per line for the rendition,
+which often determines the constraints that govern almost all the other rendition procedures.  Another preference
+prevents the elimination of blank lines through compression, which is the default behavior.  This can also be specified
+on a line by line basis.
+
+Trigger conditions show whether an element or set of elements is populated, or whether an element, an external called
+procedure, or a user preference, has a certain value.  There is also a block construct, lineSelect, to denote the scope
+of a set of trigger conditions, and a defaultCase trigger condition to guarantee that one of a set of conditions within
+a block will be satisfied. Within a trigger condition, a default separator indicates a boundary between two arguments,
+and a default sequencer and default collector can indicate a series or sequence of elements within a single argument.
+Values are enclosed within either single or double quotes.
+
+Trigger conditions are followed by one or more line candidates, and if the conditions are satisfied, the immediately
+following line candidates, which may explicitly include or implicitly exclude line components, will be selected into
+the initial rendition.  Each line candidate and line component with all of its elements and operators are defined in a
+lineData section.  Whenever one set of trigger conditions within a lineSelect block has been satisfied, none of the
+others are evaluated.  If a line candidate is selected but user preferences indicate that it is to be suppressed,
+it is not brought forward.
+
+The isPopulated trigger condition can have multiple arguments and is satisfied only if all arguments, including at
+least one of a set of elements within an argument, meet the condition of being populated.  The isNotPopulated
+trigger condition has the same options and is satisfied only if all arguments, including at least one of a set of
+elements within an argument, are not populated, that is, null or an empty string.  The hasValue trigger condition
+can test whether an element has a particular value, or a value within a range of values, or whether an element has the
+same value as another element.  The hasNotValue trigger condition can test whether an element does not have a
+particular value, or does not have a value within a range of values, or whether an element does not have the same
+value as another element.  The containsValue trigger condition iterates through the data in an element, considered
+as a string, to determine whether an element contains a value, or a value within a range of values. The hasPreference
+trigger condition tests whether a user preference has been indicated matching a value or one of a series of values.
+The hasResult trigger condition and the preCondition trigger condition compare the result of an external called
+function to a specified value.  These are the only trigger conditions that can accept elements as input parameters.
+If present, the parameters are enclosed in parentheses after the function name and delimited by the default sequencer.
+The matchesRegex trigger condition matches an element to an XML regular expression.
+The defaultCase trigger condition can be used after one or more other conditions are tested to ensure that one of a set
+of trigger conditions is satisfied.  It has no arguments and cannot be combined with any other trigger conditions,
+but it is followed by one or more line candidates and line components.
+
+Whether or not a defaultCase condition is present, a lineSelectReport condition may be defined with parameters to define
+when the particular lineSelect block should report events that it generates.  Output should include the elements tested
+and the specific values found that led to the events or the lack of any events.
+
+Implicitly, an or-function can be represented by repeating trigger conditions, each with its own line construct result,
+and an and-function can be represented by consecutive trigger conditions prior to a line construct result. A test for
+equality can be accomplished by the hasValue trigger condition with two elements, and a test for inequality can be done
+by the hasNotValue trigger condition with two elements.  All of these tests can also be done by using hasResult with an
+appropriate called procedure.
+
+Trigger conditions are defined in PATDL at the line level, not at the element level.  This simplifies the template logic
+at the expense of verbosity.  For example, given a choice between a formal first name or a nickname, with a middle name
+also possible, the middle name might not be wanted with the nickname.  To get this result, it is necessary to set up two
+alternate name lines, and populate one or the other based on whether the formal first name is available or not.
+
+Line data includes line names, line numbers, line components, line component identifiers, and line priorities.
+There are parameters for directionality and alignment, left or right, and indicators for whether a component can be
+moved or compressed, whether content is required if the component is selected, or alternatively whether the component
+is part of a group one or more of which is required if the component is selected.  There are sets of rendition commands,
+elements, and rendition operators applying to the elements. The line names and line numbers are mandatory.
+Line names and numbers are both needed since the same line construct may appear in different places, and several
+components could be candidates for the same line number. The line numbers are subject to change during the rendition
+process. Line components with line priorities are needed in order to establish a decision procedure for keeping or
+dropping lines.  Certain lines, such as country name lines, can be excluded when lines are counted and compared against
+a maximum number of lines.  A component that can be moved can have its own position changed by the expansion,
+contraction or elimination of other components.  A component that can be compressed is one whose position can itself be
+eliminated if it is not populated.  If  content is not present when a required component has been selected, a quality
+control error message will be generated, if the appropriate parameter has been specified.  Combining lines is part of
+the rendition process, and multiple components are used when lines might be divided by moving a component either up or
+down.  Rendition commands for combining lines include specifying groups of components to be combined, priorities,
+limits, and implicit order of the components, as well as any needed delimiters, and the location of the combined components.
+
+Element data includes one or more sets of an element identifier, definer, and descriptor, and an indicator for whether
+content is required if the component is selected, or alternatively whether the element is part of a group one or more
+of which is required if the component is selected.  There is a migration precedence function, parameters for field
+starting position and length, and one or more rendition commands applying to the element.  Element substitution is
+accomplished by indicating multiple elements. If the first is not populated, the next will be tried, and so on,
+though once one has been included, the remainder of the set is not checked.  If required content is not present, and
+the component is required, or if the component is not required and is not eliminated during the rendition process,
+a quality control error message will be generated, if the appropriate parameter has been specified.
+The migration precedence function allows an element to be selected in more than one position within the same or
+different components and provides a priority setting method for locating the element data properly based on the
+presence or absence of other elements within the component.  For example, a mailee role descriptor with a value of
+"c/o" could apply to a named individual, or an organizational function, or an organizational unit, or the organization
+name, depending on which of these elements or sets of elements were populated.
+
+Rendition instructions, including commands and operators, and elements are defined in the appropriate source documents.
+The sources include the Universal Postal Union (UPU) S42 standard "International Postal Address Components and
+Templates", the UPU S53 standard "Exchange of Name and Address Data", the IDEAlliance Address Data Interchange
+Specification (ADIS), code lists from the Electronic Commerce Code Management Association (ECCMA), or others.
+Multiple sources of elements and rendition instructions can be used together as long as they are uniquely
+differentiated.  This can be accomplished by designating a different prefix for each source.
+
+Changes in version 2.7.3 from version 2.6 (used in S42-6) include adding the directionality and alignment parameters in
+place of element level field justification, reorganizing the parameters for combining components into a separate
+structure, defining a set of address metadata that can be defaulted at the template or subtemplate level or instantiated
+at the name and address level, and enabling the selection of one template from a set of subtemplates unconditionally,
+by specified criteria, and address by address.  The control of punctuation through CONCAT and its variants CONCATWP,
+ CONCATWS, and CONCATWPS has been improved by an option of canPunctuateAfter applying to each element.
+-->
+    <xsd:element name="patdl.2.7.3.xml">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="identifier" type="identifierType"/>
+                <xsd:element name="contentDefinition" type="contentDefinitionType" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <!--  -->
+    <xsd:complexType name="identifierType">
+        <xsd:sequence>
+            <xsd:element ref="referenceKey"/>
+            <xsd:element name="elementIdentifier" type="elementIdentifierType" maxOccurs="unbounded"/>
+            <xsd:element name="elementDefiner" type="elementDefinerType" maxOccurs="unbounded"/>
+            <xsd:element name="elementDescriptor" type="elementDescriptorType" maxOccurs="unbounded"/>
+            <xsd:element name="renditionInstruction" type="renditionInstructionType" minOccurs="0"
+                         maxOccurs="unbounded"/>
+            <xsd:element name="templateSelectionData" type="templateSelectionDataType"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="elementIdentifierType">
+        <xsd:sequence>
+            <xsd:element ref="type"/>
+            <xsd:element ref="prefix" minOccurs="0"/>
+            <xsd:element ref="language" minOccurs="0"/>
+            <xsd:element ref="system"/>
+            <xsd:element ref="version"/>
+            <xsd:element ref="source"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="elementDefinerType">
+        <xsd:sequence>
+            <xsd:element ref="type"/>
+            <xsd:element ref="prefix" minOccurs="0"/>
+            <xsd:element ref="language"/>
+            <xsd:element ref="system" minOccurs="0"/>
+            <xsd:element ref="version" minOccurs="0"/>
+            <xsd:element ref="source"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="elementDescriptorType">
+        <xsd:sequence>
+            <xsd:element ref="type"/>
+            <xsd:element ref="prefix" minOccurs="0"/>
+            <xsd:element ref="language"/>
+            <xsd:element ref="system" minOccurs="0"/>
+            <xsd:element ref="version" minOccurs="0"/>
+            <xsd:element ref="source"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="renditionInstructionType">
+        <xsd:sequence>
+            <xsd:element ref="type"/>
+            <xsd:element ref="prefix" minOccurs="0"/>
+            <xsd:element ref="language"/>
+            <xsd:element ref="system"/>
+            <xsd:element ref="version"/>
+            <xsd:element ref="source"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="templateSelectionDataType">
+        <xsd:choice>
+            <xsd:element name="unconditionalTemplateIdentifier" type="templateIdentifierType"/>
+            <xsd:element name="conditionalTemplateData" type="conditionalTemplateDataType" maxOccurs="unbounded"/>
+            <xsd:element ref="inputTemplateIdentifier"/>
+        </xsd:choice>
+    </xsd:complexType>
+    <xsd:complexType name="conditionalTemplateDataType">
+        <xsd:sequence>
+            <xsd:element name="useTemplateIdentifier" type="templateIdentifierType"/>
+            <xsd:sequence maxOccurs="unbounded">
+                <xsd:element ref="category"/>
+                <xsd:element ref="value" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="templateIdentifierType">
+        <xsd:sequence>
+            <xsd:element ref="templateType"/>
+            <xsd:element ref="countryCode"/>
+            <xsd:element ref="userId"/>
+            <xsd:element ref="templateSeqNum"/>
+            <xsd:element ref="templateVersion"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="contentDefinitionType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="templateName"/>
+            <xsd:element name="templateIdentifier" type="templateIdentifierType"/>
+            <xsd:element ref="defaultDelimiter"/>
+            <xsd:element ref="defaultSeparator"/>
+            <xsd:element ref="defaultSequencer"/>
+            <xsd:element ref="defaultCollector"/>
+            <xsd:element name="externalEntityData" type="externalEntityDataType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="userPreferences" type="userPreferencesType"/>
+            <xsd:element name="addressMetadata" type="addressMetadataType"/>
+            <xsd:element name="triggerConditions" type="triggerConditionsType"/>
+            <xsd:element name="lineData" type="lineDataType" maxOccurs="unbounded"/>
+            <xsd:element name="combineData" type="combineDataType" minOccurs="0" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="externalEntityDataType">
+        <xsd:sequence>
+            <xsd:element name="templateIdentifier" type="templateIdentifierType" minOccurs="0"/>
+            <xsd:element ref="entityId"/>
+            <xsd:element ref="entityType"/>
+            <xsd:element ref="entityReference"/>
+            <xsd:element ref="entitySystem"/>
+            <xsd:element ref="entityVersion"/>
+            <xsd:element name="entityDataStructure" type="entityDataStructureType"/>
+            <xsd:element name="entityArguments" type="entityArgumentsType"/>
+            <xsd:element ref="entityPriority" minOccurs="0"/>
+            <xsd:element ref="entityLocation" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="entityDataStructureType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="elementId"/>
+            <xsd:element ref="posStart" minOccurs="0"/>
+            <xsd:element ref="posLength" minOccurs="0"/>
+            <xsd:element ref="dataMode"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="entityArgumentsType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="parameterName"/>
+            <xsd:element ref="parameterValue" minOccurs="0"/>
+            <xsd:element ref="dataMode"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!-- -->
+    <xsd:complexType name="userPreferencesType">
+        <xsd:sequence>
+            <xsd:element name="linePreference" type="linePreferenceType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="componentPreference" type="componentPreferenceType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="suppressLine" type="suppressLineType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="suppressComponent" type="suppressComponentType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element ref="applicationParameter" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element ref="characterSet" minOccurs="0"/>
+            <xsd:element name="verticalVsHorizontal" type="verticalVsHorizontalType" minOccurs="0"/>
+            <xsd:element name="qualityThreshold" type="qualityThresholdType" minOccurs="0"/>
+            <xsd:element ref="maxLines" minOccurs="0"/>
+            <xsd:element ref="maxCharacters" minOccurs="0"/>
+            <xsd:element ref="preserveBlankLines" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="linePreferenceType">
+        <xsd:sequence>
+            <xsd:element name="lineName" type="lineNameType"/>
+            <xsd:element ref="typeOfPreference"/>
+            <xsd:element name="lineName" type="lineNameType"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="lineNameType">
+        <xsd:simpleContent>
+            <xsd:extension base="xs:string">
+                <xsd:attribute name="lineNumber" type="xs:integer" use="required"/>
+                <xsd:attribute name="excludeFromMaxLines">
+                    <xsd:simpleType>
+                        <xsd:restriction base="xs:string">
+                            <xsd:enumeration value="Y"/>
+                            <xsd:enumeration value="N"/>
+                        </xsd:restriction>
+                    </xsd:simpleType>
+                </xsd:attribute>
+                <xsd:attribute name="directionality">
+                    <xsd:simpleType>
+                        <xsd:restriction base="xs:string">
+                            <xsd:enumeration value="LTR"/>
+                            <xsd:enumeration value="RTL"/>
+                        </xsd:restriction>
+                    </xsd:simpleType>
+                </xsd:attribute>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="componentPreferenceType">
+        <xsd:sequence>
+            <xsd:element ref="componentId"/>
+            <xsd:element ref="typeOfPreference"/>
+            <xsd:element ref="componentId"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="suppressLineType">
+        <xsd:sequence>
+            <xsd:element name="lineName" type="lineNameType"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="suppressComponentType">
+        <xsd:sequence>
+            <xsd:element ref="componentId"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="verticalVsHorizontalType">
+        <xsd:sequence>
+            <xsd:element ref="typeOfPreference"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="qualityThresholdType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="parameterName"/>
+            <xsd:element ref="parameterValue"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="addressMetadataType">
+        <xsd:sequence>
+            <xsd:element ref="addressLanguage" maxOccurs="unbounded"/>
+            <xsd:element ref="addressScript" maxOccurs="unbounded"/>
+            <xsd:element name="addressFormat" type="addressFormatType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element ref="despatchingCountry" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element ref="deliveringCountry" minOccurs="0" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="addressFormatType">
+        <xsd:sequence>
+            <xsd:element ref="addressFormatTypeNumber"/>
+            <xsd:element ref="addressFormatTypeDescription"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="triggerConditionsType">
+        <xsd:sequence>
+            <xsd:element ref="preCondition" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="lineSelect" type="lineSelectType" minOccurs="0" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="lineSelectType">
+        <xsd:sequence>
+            <xsd:sequence maxOccurs="unbounded">
+                <xsd:choice minOccurs="0" maxOccurs="unbounded">
+                    <xsd:element ref="isPopulated"/>
+                    <xsd:element ref="isNotPopulated"/>
+                    <xsd:element ref="hasValue"/>
+                    <xsd:element ref="hasNotValue"/>
+                    <xsd:element ref="containsValue"/>
+                    <xsd:element ref="hasPreference"/>
+                    <xsd:element ref="hasResult"/>
+                    <xsd:element ref="matchesRegex"/>
+                </xsd:choice>
+                <xsd:sequence maxOccurs="unbounded">
+                    <xsd:element name="lineName" type="lineNameType"/>
+                    <xsd:element ref="componentId" minOccurs="0" maxOccurs="unbounded"/>
+                </xsd:sequence>
+            </xsd:sequence>
+            <xsd:sequence minOccurs="0">
+                <xsd:element ref="defaultCase"/>
+                <xsd:sequence maxOccurs="unbounded">
+                    <xsd:element name="lineName" type="lineNameType"/>
+                    <xsd:element ref="componentId" minOccurs="0" maxOccurs="unbounded"/>
+                </xsd:sequence>
+            </xsd:sequence>
+            <xsd:element name="lineSelectReport" type="lineSelectReportType" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="lineSelectReportType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="parameterName"/>
+            <xsd:element ref="parameterValue"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="lineDataType">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="lineName" type="lineNameType"/>
+            <xsd:element name="lineComponent" type="lineComponentType" minOccurs="0" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="lineComponentType">
+        <xsd:sequence>
+            <xsd:element ref="componentId"/>
+            <xsd:element ref="priority"/>
+            <xsd:element ref="alignment" minOccurs="0"/>
+            <xsd:element ref="immovable" minOccurs="0"/>
+            <xsd:element ref="notCompressible" minOccurs="0"/>
+            <xsd:choice minOccurs="0">
+                <xsd:element ref="requiredIfSelected"/>
+                <xsd:element ref="groupRequiredIfSelected"/>
+            </xsd:choice>
+            <xsd:element name="renditionCommand" type="renditionCommandType" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:choice minOccurs="0" maxOccurs="unbounded">
+                <xsd:element name="renditionOperator" type="renditionOperatorType"/>
+                <xsd:element name="elementData" type="elementDataType"/>
+            </xsd:choice>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="renditionCommandType">
+        <xsd:sequence>
+            <xsd:element ref="cmdId"/>
+            <xsd:element ref="cmdPriority"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="renditionOperatorType">
+        <xsd:sequence>
+            <xsd:element ref="operatorId"/>
+            <xsd:element ref="posStart" minOccurs="0"/>
+            <xsd:element ref="posLength" minOccurs="0"/>
+            <xsd:element ref="fldText" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="elementDataType">
+        <xsd:sequence>
+            <xsd:sequence maxOccurs="unbounded">
+                <xsd:element ref="elementId"/>
+                <xsd:element ref="elementDef" minOccurs="0"/>
+                <xsd:element ref="elementDesc" minOccurs="0"/>
+            </xsd:sequence>
+            <xsd:choice minOccurs="0">
+                <xsd:element ref="requiredIfSelected"/>
+                <xsd:element ref="groupRequiredIfSelected"/>
+            </xsd:choice>
+            <xsd:element ref="migrationPrecedence" minOccurs="0"/>
+            <xsd:element ref="posStart" minOccurs="0"/>
+            <xsd:element ref="posLength" minOccurs="0"/>
+            <xsd:element ref="canPunctuateAfter" minOccurs="0"/>
+            <xsd:element name="renditionCommand" type="renditionCommandType" minOccurs="0" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="combineDataType">
+        <xsd:sequence>
+            <xsd:element name="combineGroupData" type="combineGroupDataType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="combineGroupDataType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="combineGroup"/>
+            <xsd:element ref="combineLocationId"/>
+            <xsd:element ref="combineLimit" minOccurs="0"/>
+            <xsd:element name="combinePriorityData" type="combinePriorityDataType" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:complexType name="combinePriorityDataType">
+        <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+            <xsd:element ref="combinePriority"/>
+            <xsd:sequence maxOccurs="unbounded">
+                <xsd:element ref="combineComponentId" minOccurs="0"/>
+                <xsd:element ref="combineOperatorId" minOccurs="0"/>
+                <xsd:element ref="combineFldText" minOccurs="0"/>
+            </xsd:sequence>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!--  -->
+    <xsd:element name="alignment">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="L"/>
+                <xsd:pattern value="C"/>
+                <xsd:pattern value="R"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="addressFormatTypeNumber" type="xs:integer"/>
+    <xsd:element name="addressFormatTypeDescription" type="xs:string"/>
+    <xsd:element name="addressLanguage" type="xs:string"/>
+    <xsd:element name="addressScript" type="xs:string"/>
+    <xsd:element name="applicationParameter" type="xs:string"/>
+    <xsd:element name="canPunctuateAfter">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="Y"/>
+                <xsd:pattern value="N"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="category" type="xs:string"/>
+    <xsd:element name="characterSet" type="xs:string"/>
+    <xsd:element name="cmdId" type="xs:string"/>
+    <xsd:element name="cmdPriority" type="xs:string"/>
+    <xsd:element name="combineComponentId" type="xs:string"/>
+    <xsd:element name="combineFldText" type="xs:string"/>
+    <xsd:element name="combineGroup" type="xs:integer"/>
+    <xsd:element name="combineLimit" type="xs:integer"/>
+    <xsd:element name="combineLocationId" type="xs:string"/>
+    <xsd:element name="combineOperatorId" type="xs:string"/>
+    <xsd:element name="combinePriority" type="xs:integer"/>
+    <xsd:element name="componentId" type="xs:string"/>
+    <xsd:element name="containsValue" type="xs:string"/>
+    <xsd:element name="countryCode" type="xs:string"/>
+    <xsd:element name="dataMode" type="xs:string"/>
+    <xsd:element name="defaultCase">
+        <xsd:complexType/>
+    </xsd:element>
+    <xsd:element name="defaultCollector" type="xs:string"/>
+    <xsd:element name="defaultDelimiter" type="xs:string"/>
+    <xsd:element name="defaultSeparator" type="xs:string"/>
+    <xsd:element name="defaultSequencer" type="xs:string"/>
+    <xsd:element name="deliveringCountry" type="xs:string"/>
+    <xsd:element name="despatchingCountry" type="xs:string"/>
+    <xsd:element name="elementDef" type="xs:string"/>
+    <xsd:element name="elementDesc" type="xs:string"/>
+    <xsd:element name="elementId" type="xs:string"/>
+    <xsd:element name="entityId" type="xs:string"/>
+    <xsd:element name="entityLocation" type="xs:string"/>
+    <xsd:element name="entityPriority" type="xs:integer"/>
+    <xsd:element name="entityReference" type="xs:string"/>
+    <xsd:element name="entitySystem" type="xs:string"/>
+    <xsd:element name="entityType" type="xs:string"/>
+    <xsd:element name="entityVersion" type="xs:string"/>
+    <xsd:element name="fldText" type="xs:string"/>
+    <xsd:element name="groupRequiredIfSelected" type="xs:integer"/>
+    <xsd:element name="hasPreference" type="xs:string"/>
+    <xsd:element name="hasResult" type="xs:string"/>
+    <xsd:element name="hasNotValue" type="xs:string"/>
+    <xsd:element name="hasValue" type="xs:string"/>
+    <xsd:element name="immovable">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="Y"/>
+                <xsd:pattern value="N"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="inputTemplateIdentifier" type="xs:string"/>
+    <xsd:element name="isNotPopulated" type="xs:string"/>
+    <xsd:element name="isPopulated" type="xs:string"/>
+    <xsd:element name="language" type="xs:string"/>
+    <xsd:element name="matchesRegex" type="xs:string"/>
+    <xsd:element name="maxCharacters" type="xs:integer"/>
+    <xsd:element name="maxLines" type="xs:integer"/>
+    <xsd:element name="migrationPrecedence" type="xs:integer"/>
+    <xsd:element name="notCompressible">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="Y"/>
+                <xsd:pattern value="N"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="notPopulated" type="xs:string"/>
+    <xsd:element name="operatorId" type="xs:string"/>
+    <xsd:element name="parameterName" type="xs:string"/>
+    <xsd:element name="parameterValue" type="xs:string"/>
+    <xsd:element name="posLength" type="xs:string"/>
+    <xsd:element name="posStart" type="xs:string"/>
+    <xsd:element name="preCondition" type="xs:string"/>
+    <xsd:element name="prefix" type="xs:string"/>
+    <xsd:element name="preserveBlankLines">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="Y"/>
+                <xsd:pattern value="N"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="priority" type="xs:integer"/>
+    <xsd:element name="referenceKey" type="xs:string"/>
+    <xsd:element name="requiredIfSelected">
+        <xsd:simpleType>
+            <xsd:restriction base="xs:string">
+                <xsd:pattern value="Y"/>
+                <xsd:pattern value="N"/>
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="source" type="xs:string"/>
+    <xsd:element name="system" type="xs:string"/>
+    <xsd:element name="templateName" type="xs:string"/>
+    <xsd:element name="templateSeqNum" type="xs:string"/>
+    <xsd:element name="templateType" type="xs:string"/>
+    <xsd:element name="templateVersion" type="xs:string"/>
+    <xsd:element name="type" type="xs:string"/>
+    <xsd:element name="typeOfPreference" type="xs:string"/>
+    <xsd:element name="userId" type="xs:string"/>
+    <xsd:element name="value" type="xs:string"/>
+    <xsd:element name="version" type="xs:string"/>
+</xsd:schema>

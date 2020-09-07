@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>PT</GroupDescription>
+            <GroupItemCount>40</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">NUNO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FIGUEIREDO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2775-152</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PAREDE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ANTERO DE QUENTAL</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">34</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">RC</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NUNO FIGUEIREDO</LineData>
+                            <LineData name="LINE 2">RUA ANTERO DE QUENTAL 34 RC</LineData>
+                            <LineData name="LINE 3">2775-152 PAREDE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JOSÉ MARIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SILVA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2725-079</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MEM MARTINS</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ALGUEIRÃO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LEAL DA CÂMARA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">1</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOSÉ MARIA SILVA</LineData>
+                            <LineData name="LINE 2">RUA LEAL DA CÂMARA 3 1 A</LineData>
+                            <LineData name="LINE 3">ALGUEIRÃO</LineData>
+                            <LineData name="LINE 4">2725-079 MEM MARTINS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SILVA ANDRADE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2580-347</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALENQUER</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CASAIS NOVOS</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">QUINTA DA PROVENÇA</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PRINCIPAL</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">VV</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">ANDRADE</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIA SILVA ANDRADE</LineData>
+                            <LineData name="LINE 2">R PRINCIPAL VV ANDRADE</LineData>
+                            <LineData name="LINE 3">QUINTA DA PROVENÇA</LineData>
+                            <LineData name="LINE 4">CASAIS NOVOS</LineData>
+                            <LineData name="LINE 5">2580-347 ALENQUER</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JOÃO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ANTUNES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2845-392</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">AMORA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PAIVAS</U40.17.11.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">CCI</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">3814</U40.19.12.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">TRAVESSA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">31 DE JANEIRO</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">21</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">1</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ESQ</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOÃO ANTUNES</LineData>
+                            <LineData name="LINE 2">TRAVESSA 31 DE JANEIRO LT 21 1 ESQ</LineData>
+                            <LineData name="LINE 3">CCI 3814</LineData>
+                            <LineData name="LINE 4">PAIVAS</LineData>
+                            <LineData name="LINE 5">2845-392 AMORA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PATRICIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MARTINS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1601-801</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">42024</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">EC TELHEIRAS</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PATRICIA MARTINS</LineData>
+                            <LineData name="LINE 2">APARTADO 42024</LineData>
+                            <LineData name="LINE 3">EC TELHEIRAS</LineData>
+                            <LineData name="LINE 4">1601-801 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ANTÓNIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SALVADOR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4300-285</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORTO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DO LAGARTEIRO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">13</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">CV</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ESQ</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ANTÓNIO SALVADOR</LineData>
+                            <LineData name="LINE 2">RUA DO LAGARTEIRO 13 CV ESQ</LineData>
+                            <LineData name="LINE 3">4300-285 PORTO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MANUEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GASPAR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1250-096</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">LG</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DR ANTONIO VIANA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">DTO</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MANUEL GASPAR</LineData>
+                            <LineData name="LINE 2">LG DR ANTONIO VIANA 1 2 DTO</LineData>
+                            <LineData name="LINE 3">1250-096 LISBOA</LineData>
+                            <LineData name="LINE 4">PORTUGAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MANUEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SOUSA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">ENG</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2860-571</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOITA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PENTEADO</U40.17.11.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">CCI</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">8318</U40.19.12.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DAS DESCOBERTAS</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ENG MANUEL SOUSA</LineData>
+                            <LineData name="LINE 2">RUA DAS DESCOBERTAS</LineData>
+                            <LineData name="LINE 3">CCI 8318</LineData>
+                            <LineData name="LINE 4">PENTEADO</LineData>
+                            <LineData name="LINE 5">2860-571 MOITA</LineData>
+                            <LineData name="LINE 6">PORTUGAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMO SENHOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">LUIS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MARTINS RODRIGUES</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">INTERNACIONAL EDIÇÃO</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">SA</U20.01.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1114-345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DE S BENTO</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">39</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4°</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMO SENHOR</LineData>
+                            <LineData name="LINE 2">LUIS MARTINS RODRIGUES</LineData>
+                            <LineData name="LINE 3">INTERNACIONAL EDIÇÃO SA</LineData>
+                            <LineData name="LINE 4">RUA DE S BENTO 39 4° B</LineData>
+                            <LineData name="LINE 5">1114-345 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMO SENHOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">LUIS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MARTINS RODRIGUES</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">INTERNACIONAL EDIÇÃO</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">SA</U20.01.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1114-456</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2574</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMO SENHOR</LineData>
+                            <LineData name="LINE 2">LUIS MARTINS RODRIGUES</LineData>
+                            <LineData name="LINE 3">INTERNACIONAL EDIÇÃO SA</LineData>
+                            <LineData name="LINE 4">APARTADO 2574</LineData>
+                            <LineData name="LINE 5">1114-456 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CAIXA GERAL DE DEPÓSITOS</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000-300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AV</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JOÃO XXI</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">N°</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">63</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CAIXA GERAL DE DEPÓSITOS</LineData>
+                            <LineData name="LINE 2">AV JOÃO XXI N° 63</LineData>
+                            <LineData name="LINE 3">1000-300 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">COMPANHIA PORTUGUESA RÁDIO MARCONI</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1900-083</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AV</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">D JOÃO II</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1.16</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">3°</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COMPANHIA PORTUGUESA RÁDIO MARCONI</LineData>
+                            <LineData name="LINE 2">AV D JOÃO II LT 1.16 3°</LineData>
+                            <LineData name="LINE 3">1900-083 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">EL CORTE INGLES</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1061-001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12026</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EL CORTE INGLES</LineData>
+                            <LineData name="LINE 2">APARTADO 12026</LineData>
+                            <LineData name="LINE 3">1061-001 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LA REDOUTE PORTUGAL</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">SA</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2404-001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LEIRIA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ALTO DO VIEIRO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ESTRADA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NACIONAL 1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LA REDOUTE PORTUGAL SA</LineData>
+                            <LineData name="LINE 2">ESTRADA NACIONAL 1</LineData>
+                            <LineData name="LINE 3">ALTO DO VIEIRO</LineData>
+                            <LineData name="LINE 4">2404-001 LEIRIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MODELO CONTINENTE HIPERMERCADOS</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">SA</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2724-510</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">AMADORA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">VENTEIRA</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MARCONI</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MODELO CONTINENTE HIPERMERCADOS SA</LineData>
+                            <LineData name="LINE 2">AVENIDA MARCONI</LineData>
+                            <LineData name="LINE 3">VENTEIRA</LineData>
+                            <LineData name="LINE 4">2724-510 AMADORA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMO SR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ANTÓNIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FONSECA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DR</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1250-147</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LIBERDADE</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">200</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ESQ</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMO SR DR</LineData>
+                            <LineData name="LINE 2">ANTÓNIO FONSECA</LineData>
+                            <LineData name="LINE 3">AVENIDA LIBERDADE 200 3 ESQ</LineData>
+                            <LineData name="LINE 4">1250-147 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA JOSÉ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALMEIDA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2766-601</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ESTORIL</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">65</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">EC S JOÃO DO ESTORIL</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIA JOSÉ ALMEIDA</LineData>
+                            <LineData name="LINE 2">APARTADO 65</LineData>
+                            <LineData name="LINE 3">EC S JOÃO DO ESTORIL</LineData>
+                            <LineData name="LINE 4">2766-601 ESTORIL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CREDICASA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2534-851</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LOURINHÃ</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">21</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">EC LOURINHÃ</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CREDICASA</LineData>
+                            <LineData name="LINE 2">APARTADO 21</LineData>
+                            <LineData name="LINE 3">EC LOURINHÃ</LineData>
+                            <LineData name="LINE 4">2534-851 LOURINHÃ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">TINTAS HEMPEL</U10.00.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">A/C</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SRA</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">MADALENA</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">SILVA</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">ENG</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2951-501</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PALMELA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">VALE DE CANTADORES</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TINTAS HEMPEL</LineData>
+                            <LineData name="LINE 2">A/C SRA ENG MADALENA SILVA</LineData>
+                            <LineData name="LINE 3">VALE DE CANTADORES</LineData>
+                            <LineData name="LINE 4">2951-501 PALMELA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALEXANDRE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MATEUS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2965-291</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">POCEIRÃO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PASSARINHAS</U40.17.11.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">CCI</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">23319</U40.19.12.21>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ACEIRO</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PETROLINO II</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ALEXANDRE MATEUS</LineData>
+                            <LineData name="LINE 2">ACEIRO PETROLINO II</LineData>
+                            <LineData name="LINE 3">CCI 23319</LineData>
+                            <LineData name="LINE 4">PASSARINHAS</LineData>
+                            <LineData name="LINE 5">2965-291 POCEIRÃO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIANA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALCOFORADO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8125-134</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">QUARTEIRA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AV</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DR FRANCISCO SÁ CARNEIRO</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIF</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">COSTA MAR</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">BL C6</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">RC</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">DTO</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIANA ALCOFORADO</LineData>
+                            <LineData name="LINE 2">AV DR FRANCISCO SÁ CARNEIRO EDIF COSTA MAR BL C6 RC DTO</LineData>
+                            <LineData name="LINE 3">8125-134 QUARTEIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BANCO MAIS</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">DIRECÇÃO DE PLANEAMENTO</U10.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">A/C</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">SR</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">FRAGOSO</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">DR</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3004-970</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">COIMBRA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">LG</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PORTAGEM</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">39</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4°</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">SALA 202</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BANCO MAIS</LineData>
+                            <LineData name="LINE 2">DIRECÇÃO DE PLANEAMENTO</LineData>
+                            <LineData name="LINE 3">A/C SR DR FRAGOSO</LineData>
+                            <LineData name="LINE 4">LG PORTAGEM 39 4° SALA 202</LineData>
+                            <LineData name="LINE 5">3004-970 COIMBRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MARCO POSTAL</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2726-970</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MEM MARTINS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">358</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">EC MEM MARTINS</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARCO POSTAL</LineData>
+                            <LineData name="LINE 2">APARTADO 358</LineData>
+                            <LineData name="LINE 3">EC MEM MARTINS</LineData>
+                            <LineData name="LINE 4">2726-970 MEM MARTINS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MÉDIA CAPITAL</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2731-960</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARCARENA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">REMESSA LIVRE</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1058</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">EC BARCARENA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MÉDIA CAPITAL</LineData>
+                            <LineData name="LINE 2">REMESSA LIVRE 1058</LineData>
+                            <LineData name="LINE 3">EC BARCARENA</LineData>
+                            <LineData name="LINE 4">2731-960 BARCARENA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ARGEMIRO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ANTONINO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9230-234</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ILHA STN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GRANEL</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ARGEMIRO ANTONINO</LineData>
+                            <LineData name="LINE 2">GRANEL</LineData>
+                            <LineData name="LINE 3">9230-234 ILHA STN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">RENOVA</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">DEPART FINANCEIRO</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2354-001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TORRES NOVAS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">280</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">LOJA TORRES NOVAS</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RENOVA</LineData>
+                            <LineData name="LINE 2">DEPART FINANCEIRO</LineData>
+                            <LineData name="LINE 3">APARTADO 280</LineData>
+                            <LineData name="LINE 4">LOJA TORRES NOVAS</LineData>
+                            <LineData name="LINE 5">2354-001 TORRES NOVAS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMA SRA D</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MANUELINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CARVALHIDO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4580-371</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">DUAS IGREJAS PRD</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SARILHO</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMA SRA D</LineData>
+                            <LineData name="LINE 2">MANUELINA CARVALHIDO</LineData>
+                            <LineData name="LINE 3">SARILHO LT 5</LineData>
+                            <LineData name="LINE 4">4580-371 DUAS IGREJAS PRD</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.00.00 uniq="U10OrgUnit">CONSELHO DIRECTIVO</U10.02.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">AO</U10.04.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">ESCOLA PRIMÁRIA 193</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1950-234</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PEDRO DE AZEVEDO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AO CONSELHO DIRECTIVO</LineData>
+                            <LineData name="LINE 2">ESCOLA PRIMÁRIA 193</LineData>
+                            <LineData name="LINE 3">RUA PEDRO DE AZEVEDO</LineData>
+                            <LineData name="LINE 4">1950-234 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PAULINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">JACINTO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4150-749</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORTO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BAIRRO SOCIAL DA ARRÁBIDA</U40.17.11.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">COLÓNIA VITERBO DE CAMPOS</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">35</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PAULINA JACINTO</LineData>
+                            <LineData name="LINE 2">COLÓNIA VITERBO DE CAMPOS 35</LineData>
+                            <LineData name="LINE 3">BAIRRO SOCIAL DA ARRÁBIDA</LineData>
+                            <LineData name="LINE 4">4150-749 PORTO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">PRESIDENTE DO TIC</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMO SR</U10.05.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">JUÍZ</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4249-002</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORTO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CONSTITUIÇÃO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMO SR JUÍZ</LineData>
+                            <LineData name="LINE 2">PRESIDENTE DO TIC</LineData>
+                            <LineData name="LINE 3">R CONSTITUIÇÃO</LineData>
+                            <LineData name="LINE 4">4249-002 PORTO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARTA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PINHÃO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2745-030</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">QUELUZ</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PENDÃO</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JOÃO CRISÓSTOMO DE SÁ</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">11</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARTA PINHÃO</LineData>
+                            <LineData name="LINE 2">R JOÃO CRISÓSTOMO DE SÁ LT 11</LineData>
+                            <LineData name="LINE 3">PENDÃO</LineData>
+                            <LineData name="LINE 4">2745-030 QUELUZ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">À</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MENINA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">CRISTINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALBUQUERQUE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4500-188</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ESPINHO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SILVALDE</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AV</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">32</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">524</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">À MENINA</LineData>
+                            <LineData name="LINE 2">CRISTINA ALBUQUERQUE</LineData>
+                            <LineData name="LINE 3">AV 32 524</LineData>
+                            <LineData name="LINE 4">SILVALDE</LineData>
+                            <LineData name="LINE 5">4500-188 ESPINHO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ACADEMIA DAS CIÊNCIAS DE LISBOA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1249-122</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ACADEMIA DAS CIÊNCIAS</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">19</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">1°</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ACADEMIA DAS CIÊNCIAS DE LISBOA</LineData>
+                            <LineData name="LINE 2">R ACADEMIA DAS CIÊNCIAS 19 1°</LineData>
+                            <LineData name="LINE 3">1249-122 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">INSTITUTO GEOLÓGICO</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1249-280</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ACADEMIA DAS CIÊNCIAS</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">19</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">2°</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INSTITUTO GEOLÓGICO</LineData>
+                            <LineData name="LINE 2">R ACADEMIA DAS CIÊNCIAS 19 2°</LineData>
+                            <LineData name="LINE 3">1249-280 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMO SR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MANUEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VACAS</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DR</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1200-003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ACADEMIA DAS CIÊNCIAS</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">19</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">RC</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMO SR DR</LineData>
+                            <LineData name="LINE 2">MANUEL VACAS</LineData>
+                            <LineData name="LINE 3">R ACADEMIA DAS CIÊNCIAS 19 RC</LineData>
+                            <LineData name="LINE 4">1200-003 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">EXMA SRA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">AMÉLIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">JOAQUINA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">ARQ</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1990-185</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">R</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NAU CATRINETA</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3.07.04C</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EXMA SRA ARQ</LineData>
+                            <LineData name="LINE 2">AMÉLIA JOAQUINA</LineData>
+                            <LineData name="LINE 3">R NAU CATRINETA LT 3.07.04C</LineData>
+                            <LineData name="LINE 4">1990-185 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ANTÓNIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PROENÇA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1990-522</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SACAVÉM</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PARQUE DAS NAÇÕES</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PASSEIO</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DO LEVANTE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4.23.02.B</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ANTÓNIO PROENÇA</LineData>
+                            <LineData name="LINE 2">PASSEIO DO LEVANTE LT 4.23.02.B</LineData>
+                            <LineData name="LINE 3">PARQUE DAS NAÇÕES</LineData>
+                            <LineData name="LINE 4">1990-522 SACAVÉM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">HEALTH CLUB SUPER FIT</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1990-382</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOSCAVIDE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PEREGRINAÇÃO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HEALTH CLUB SUPER FIT</LineData>
+                            <LineData name="LINE 2">AVENIDA PEREGRINAÇÃO</LineData>
+                            <LineData name="LINE 3">1990-382 MOSCAVIDE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JOSEFINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MENDES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1750-419</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LISBOA</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">ALTA DO LUMIAR</U40.17.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">LT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2E</U40.24.11.21>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">MALHA 25.3</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOSEFINA MENDES</LineData>
+                            <LineData name="LINE 2">MALHA 25.3 LT 2E</LineData>
+                            <LineData name="LINE 3">ALTA DO LUMIAR</LineData>
+                            <LineData name="LINE 4">1750-419 LISBOA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">FILIPE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DE SOUSA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7080-065</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">PORTUGAL</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VENDAS NOVAS</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AV</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">GENEROSA DE ALMEIDA</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">256</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">5°</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ESQ</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">pt</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">PT</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">PT</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FILIPE DE SOUSA</LineData>
+                            <LineData name="LINE 2">AV GENEROSA DE ALMEIDA 256 5° ESQ</LineData>
+                            <LineData name="LINE 3">7080-065 VENDAS NOVAS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

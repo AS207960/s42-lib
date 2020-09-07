@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>UG</GroupDescription>
+            <GroupItemCount>68</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lawrence</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muwanga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Siad Barre Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lawrence Muwanga</LineData>
+                            <LineData name="LINE 2">22 Siad Barre Avenue</LineData>
+                            <LineData name="LINE 3">10000 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Batte</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12005</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Wandegeya</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kampala Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">30</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Batte</LineData>
+                            <LineData name="LINE 2">30 Kampala Road</LineData>
+                            <LineData name="LINE 3">12005 Wandegeya</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nannyanzi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12311</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Entebbe Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">25</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mary Nannyanzi</LineData>
+                            <LineData name="LINE 2">25 Entebbe Road</LineData>
+                            <LineData name="LINE 3">12311 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gabriel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Otto</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12215</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Workers’ House Close</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">23</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gabriel Otto</LineData>
+                            <LineData name="LINE 2">23 Workers’ House Close</LineData>
+                            <LineData name="LINE 3">12215 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gaspari</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Oda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60471</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Arua</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Amin Lane Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">33</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gaspari Oda</LineData>
+                            <LineData name="LINE 2">33 Amin Lane Avenue</LineData>
+                            <LineData name="LINE 3">60471 Arua</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Magaga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">27010</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Jinja</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Lubasi Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">33</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Manza Plaza</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Magaga</LineData>
+                            <LineData name="LINE 2">Manza Plaza</LineData>
+                            <LineData name="LINE 3">33 Lubasi Street</LineData>
+                            <LineData name="LINE 4">27010 Jinja</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bakaye</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12211</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Nakivubo</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">William Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Pioneer Mall</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Bakaye</LineData>
+                            <LineData name="LINE 2">Pioneer Mall</LineData>
+                            <LineData name="LINE 3">13 William Street</LineData>
+                            <LineData name="LINE 4">12211 Nakivubo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kobusheshe</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">86242</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mbarara</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mbarara High Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">39</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Rwenzori Building </U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Kobusheshe</LineData>
+                            <LineData name="LINE 2">Rwenzori Building </LineData>
+                            <LineData name="LINE 3">39 Mbarara High Street</LineData>
+                            <LineData name="LINE 4">86242 Mbarara</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Theresa</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nannyonjo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12353</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Najjanankumbi Lane</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Bukirwa House</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Theresa Nannyonjo</LineData>
+                            <LineData name="LINE 2">Bukirwa House</LineData>
+                            <LineData name="LINE 3">19 Najjanankumbi Lane</LineData>
+                            <LineData name="LINE 4">12353 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Moses</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kony</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12283</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kololo Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Amadinda Plaza</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Moses Kony</LineData>
+                            <LineData name="LINE 2">Amadinda Plaza</LineData>
+                            <LineData name="LINE 3">2 Kololo Street</LineData>
+                            <LineData name="LINE 4">12283 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwanje</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11156</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ghana Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">14</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Posta House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ali Mwanje</LineData>
+                            <LineData name="LINE 2">Flat 12 Posta House</LineData>
+                            <LineData name="LINE 3">14 Ghana Avenue</LineData>
+                            <LineData name="LINE 4">11156 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Olive</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nakyanzi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14311</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mukono</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Moi Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Byansi Plaza</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 19</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Olive Nakyanzi</LineData>
+                            <LineData name="LINE 2">Flat 19 Byansi Plaza</LineData>
+                            <LineData name="LINE 3">19 Moi Avenue</LineData>
+                            <LineData name="LINE 4">14311 Mukono</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hope</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tusiime </U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15817</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Nakaseke</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nasser Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">40</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Kalungi House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Apartment 9</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hope Tusiime </LineData>
+                            <LineData name="LINE 2">Apartment 9 Kalungi House</LineData>
+                            <LineData name="LINE 3">40 Nasser Street</LineData>
+                            <LineData name="LINE 4">15817 Nakaseke</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Godfrey</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kasirye</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12271</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Lumumba Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Kati House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 9</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Godfrey Kasirye</LineData>
+                            <LineData name="LINE 2">Room 9 Kati House</LineData>
+                            <LineData name="LINE 3">13 Lumumba Avenue</LineData>
+                            <LineData name="LINE 4">12271 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Khamis</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14712</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Luwero</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bamako Lane</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">Victoria Hall</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 61</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ali Khamis</LineData>
+                            <LineData name="LINE 2">Room 61 Victoria Hall</LineData>
+                            <LineData name="LINE 3">Bamako Lane</LineData>
+                            <LineData name="LINE 4">14712 Luwero</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lawrence</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muwanga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Speke Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Protea Apt.</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 12</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lawrence Muwanga</LineData>
+                            <LineData name="LINE 2">Flat 12 Protea Apt.</LineData>
+                            <LineData name="LINE 3">22 Speke Road</LineData>
+                            <LineData name="LINE 4">10000 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Julius</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mugume</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">73461</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kabarole</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Fort Portal High Way</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Rika Flats</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Number 27</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Julius Mugume</LineData>
+                            <LineData name="LINE 2">Number 27 Rika Flats</LineData>
+                            <LineData name="LINE 3">11 Fort Portal High Way</LineData>
+                            <LineData name="LINE 4">73461 Kabarole</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Manzi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">86214</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mbarara</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kaijuka Street</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">Riheka Flats</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">31</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Manzi</LineData>
+                            <LineData name="LINE 2">31 Riheka Flats</LineData>
+                            <LineData name="LINE 3">Kaijuka Street</LineData>
+                            <LineData name="LINE 4">86214 Mbarara</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Silas</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Oluka</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">38477</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Soroti</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Morimor Road</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">Soroti Apartments</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Silas Oluka</LineData>
+                            <LineData name="LINE 2">17 Soroti Apartments</LineData>
+                            <LineData name="LINE 3">Morimor Road</LineData>
+                            <LineData name="LINE 4">38477 Soroti</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nakato</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">83050</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kisoro</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kisoro Road</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">Bukirwa</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 28</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mary Nakato</LineData>
+                            <LineData name="LINE 2">Flat 28 Bukirwa</LineData>
+                            <LineData name="LINE 3">Kisoro Road</LineData>
+                            <LineData name="LINE 4">83050 Kisoro</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">New Vision Publishers</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11132</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Johnson Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">25</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">New Vision Publishers</LineData>
+                            <LineData name="LINE 2">25 Johnson Street</LineData>
+                            <LineData name="LINE 3">11132 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Posta Uganda</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11001</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kampala Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">35</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Posta Uganda</LineData>
+                            <LineData name="LINE 2">35 Kampala Road</LineData>
+                            <LineData name="LINE 3">11001 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Makayi Printers</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">85012</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Masaka</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Elgin Road</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Makayi Printers</LineData>
+                            <LineData name="LINE 2">Elgin Road</LineData>
+                            <LineData name="LINE 3">85012 Masaka</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Mbogo Butchers</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">85510</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Rakai</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Katwe Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">36</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mbogo Butchers</LineData>
+                            <LineData name="LINE 2">36 Katwe Street</LineData>
+                            <LineData name="LINE 3">85510 Rakai</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Soroti Meat Packers</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">38510</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Soroti</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Soroti Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Soroti Meat Packers</LineData>
+                            <LineData name="LINE 2">1 Soroti Street</LineData>
+                            <LineData name="LINE 3">38510 Soroti</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ngogoro</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sapoba Bookshop Ltd </U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Public relations Department</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12331</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Katwe Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">53</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Ngogoro</LineData>
+                            <LineData name="LINE 2">Public relations Department</LineData>
+                            <LineData name="LINE 3">Sapoba Bookshop Ltd </LineData>
+                            <LineData name="LINE 4">53 Katwe Road</LineData>
+                            <LineData name="LINE 5">12331 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nelson</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Onyait</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Posta Uganda</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Stores Section</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12289</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Yusuf Lule Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">43</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nelson Onyait</LineData>
+                            <LineData name="LINE 2">Stores Section</LineData>
+                            <LineData name="LINE 3">Posta Uganda</LineData>
+                            <LineData name="LINE 4">43 Yusuf Lule Road</LineData>
+                            <LineData name="LINE 5">12289 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Okello</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Uganda Revenue Authority</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Supply Department</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12359</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala </U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nakawa Street</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Okello</LineData>
+                            <LineData name="LINE 2">Supply Department</LineData>
+                            <LineData name="LINE 3">Uganda Revenue Authority</LineData>
+                            <LineData name="LINE 4">Nakawa Street</LineData>
+                            <LineData name="LINE 5">12359 Kampala </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jjemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Gustro Bookshop Ltd</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Sales</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">27111</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Jinja</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Jinja Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">28</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joseph Jjemba</LineData>
+                            <LineData name="LINE 2">Sales</LineData>
+                            <LineData name="LINE 3">Gustro Bookshop Ltd</LineData>
+                            <LineData name="LINE 4">28 Jinja Road</LineData>
+                            <LineData name="LINE 5">27111 Jinja</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">David</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Oto</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Budaka Bus Company</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Revenue Dept.</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30063</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Budaka</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Budaka Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">32</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">David Oto</LineData>
+                            <LineData name="LINE 2">Revenue Dept.</LineData>
+                            <LineData name="LINE 3">Budaka Bus Company</LineData>
+                            <LineData name="LINE 4">32 Budaka Road</LineData>
+                            <LineData name="LINE 5">30063 Budaka</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kyobe</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">22321</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Nabbingo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nabbingo Village</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Kiyanja Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Kyobe</LineData>
+                            <LineData name="LINE 2">15 Kiyanja Zone</LineData>
+                            <LineData name="LINE 3">Nabbingo Village</LineData>
+                            <LineData name="LINE 4">22321 Nabbingo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Zelida</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nnakamanya</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12311</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Temangalo</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Temangalo Village</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Tega Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">21</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Zelida Nnakamanya</LineData>
+                            <LineData name="LINE 2">21 Tega Zone</LineData>
+                            <LineData name="LINE 3">Temangalo Village</LineData>
+                            <LineData name="LINE 4">12311 Temangalo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Isaac</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lule</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12687</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Malwa</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Malwa Village</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Malwa Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">32</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Isaac Lule</LineData>
+                            <LineData name="LINE 2">32 Malwa Zone</LineData>
+                            <LineData name="LINE 3">Malwa Village</LineData>
+                            <LineData name="LINE 4">12687 Malwa</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kimbowa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14233</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Mukono</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kigwanya Village</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Bataka Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Kimbowa</LineData>
+                            <LineData name="LINE 2">11 Bataka Zone</LineData>
+                            <LineData name="LINE 3">Kigwanya Village</LineData>
+                            <LineData name="LINE 4">14233 Mukono</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kamya</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11145</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Bwayise Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">50</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Kamya</LineData>
+                            <LineData name="LINE 2">50 Bwayise Zone</LineData>
+                            <LineData name="LINE 3">11145 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sserugooti</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12349</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Katanga Ward</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Sserugooti</LineData>
+                            <LineData name="LINE 2">24 Katanga Ward</LineData>
+                            <LineData name="LINE 3">12349 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ignatius</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Owana</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12004</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Kisenyi Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ignatius Owana</LineData>
+                            <LineData name="LINE 2">11 Kisenyi Zone</LineData>
+                            <LineData name="LINE 3">12004 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Okiror</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16295</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Pallisa</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Pallisa Zone</U40.17.00.00>
+                        <U40.24.00.00 uniq="U40PremId">34</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Okiror</LineData>
+                            <LineData name="LINE 2">34 Pallisa Zone</LineData>
+                            <LineData name="LINE 3">16295 Pallisa</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jimmy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Obunga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">84271</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kiruhura</U40.15.00.00>
+                        <U40.17.00.00 uniq="U40District">Kivvulu Area</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jimmy Obunga</LineData>
+                            <LineData name="LINE 2">Kivvulu Area</LineData>
+                            <LineData name="LINE 3">84271 Kiruhura</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ali</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ocho</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Capt.</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Training Department</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">KJ Makindye</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">101</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">25512</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Lukuli</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Makindye Close</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Capt. Ali Ocho</LineData>
+                            <LineData name="LINE 2">101 KJ Makindye</LineData>
+                            <LineData name="LINE 3">Training Department</LineData>
+                            <LineData name="LINE 4">12 Makindye Close</LineData>
+                            <LineData name="LINE 5">25512 Lukuli</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Ocho </U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Brigadier</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Air flight Dept.</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Masaka</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">678</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14711</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Wobulenzi</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bombo Lane</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">54</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brigadier Ocho </LineData>
+                            <LineData name="LINE 2">678 Masaka</LineData>
+                            <LineData name="LINE 3">Air flight Dept.</LineData>
+                            <LineData name="LINE 4">54 Bombo Lane</LineData>
+                            <LineData name="LINE 5">14711 Wobulenzi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">J</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kato</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Sgt</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Military Police</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Lira</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">189</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57431</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Lira </U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Obote Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">33</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sgt J Kato</LineData>
+                            <LineData name="LINE 2">189 Lira</LineData>
+                            <LineData name="LINE 3">Military Police</LineData>
+                            <LineData name="LINE 4">33 Obote Avenue</LineData>
+                            <LineData name="LINE 5">57431 Lira </LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Kagogwe</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Brigadier</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">2nd Battalion</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Kaabong</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">123</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54230</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kaabong</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Omonyi Lane</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brigadier Kagogwe</LineData>
+                            <LineData name="LINE 2">123 Kaabong</LineData>
+                            <LineData name="LINE 3">2nd Battalion</LineData>
+                            <LineData name="LINE 4">27 Omonyi Lane</LineData>
+                            <LineData name="LINE 5">54230 Kaabong</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mbaziira</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Makerere University</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Hall 3</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">Room 12</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12020</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Lumumba Street</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Mbaziira</LineData>
+                            <LineData name="LINE 2">Room 12 Hall 3</LineData>
+                            <LineData name="LINE 3">Makerere University</LineData>
+                            <LineData name="LINE 4">Lumumba Street</LineData>
+                            <LineData name="LINE 5">12020 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Male</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Bugema University</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Mebo Hostel</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">Room 1</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10059</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Gadafi lane</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joseph Male</LineData>
+                            <LineData name="LINE 2">Room 1 Mebo Hostel</LineData>
+                            <LineData name="LINE 3">Bugema University</LineData>
+                            <LineData name="LINE 4">Gadafi lane</LineData>
+                            <LineData name="LINE 5">10059 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nakintu </U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Makerere University</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Mary Stuart Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">Room 4</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12271</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nsibirwa Avenue</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mary Nakintu </LineData>
+                            <LineData name="LINE 2">Room 4 Mary Stuart Hall</LineData>
+                            <LineData name="LINE 3">Makerere University</LineData>
+                            <LineData name="LINE 4">Nsibirwa Avenue</LineData>
+                            <LineData name="LINE 5">12271 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Josephine</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nakidde</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Makerere University</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Africa Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">Room 13</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12370</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Livingstone Lane</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Josephine Nakidde</LineData>
+                            <LineData name="LINE 2">Room 13 Africa Hall</LineData>
+                            <LineData name="LINE 3">Makerere University</LineData>
+                            <LineData name="LINE 4">Livingstone Lane</LineData>
+                            <LineData name="LINE 5">12370 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Registrar</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Uganda Management Institute</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Gulu Centre</U30.26.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12370</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Jinja Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">Plot 44-52</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Registrar</LineData>
+                            <LineData name="LINE 2">Gulu Centre</LineData>
+                            <LineData name="LINE 3">Uganda Management Institute</LineData>
+                            <LineData name="LINE 4">Plot 44-52 Jinja Road</LineData>
+                            <LineData name="LINE 5">12370 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ruitashika</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Taibah Secondary School</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Musa Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">5</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51678</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kajjansi</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nsibirwa Street</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Ruitashika</LineData>
+                            <LineData name="LINE 2">5 Musa Hall</LineData>
+                            <LineData name="LINE 3">Taibah Secondary School</LineData>
+                            <LineData name="LINE 4">Nsibirwa Street</LineData>
+                            <LineData name="LINE 5">51678 Kajjansi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nakitto</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Buddo Junior School</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Nkrumah Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">28</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12253</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Nsangi</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bukenya Lane</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mary Nakitto</LineData>
+                            <LineData name="LINE 2">28 Nkrumah Hall</LineData>
+                            <LineData name="LINE 3">Buddo Junior School</LineData>
+                            <LineData name="LINE 4">Bukenya Lane</LineData>
+                            <LineData name="LINE 5">12253 Nsangi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Juma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sendi</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Nabbingo Trinity College</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Nsibirwa Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">82</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12145</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mbabazi Close</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Juma Sendi</LineData>
+                            <LineData name="LINE 2">82 Nsibirwa Hall</LineData>
+                            <LineData name="LINE 3">Nabbingo Trinity College</LineData>
+                            <LineData name="LINE 4">Mbabazi Close</LineData>
+                            <LineData name="LINE 5">12145 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sekitto</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">St Noah School</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Mukiibi Hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">15</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">81471</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kabaale</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nsibambi Lane</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Sekitto</LineData>
+                            <LineData name="LINE 2">15 Mukiibi Hall</LineData>
+                            <LineData name="LINE 3">St Noah School</LineData>
+                            <LineData name="LINE 4">Nsibambi Lane</LineData>
+                            <LineData name="LINE 5">81471 Kabaale</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kayembe</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sseeta High School</U20.00.00.00>
+                        <U30.26.00.00 uniq="U30Building">Muteesa hall</U30.26.00.00>
+                        <U30.32.00.00 uniq="U30Door">8</U30.32.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">35672</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Sseeta</U40.15.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kizza Close</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Kayembe</LineData>
+                            <LineData name="LINE 2">8 Muteesa hall</LineData>
+                            <LineData name="LINE 3">Sseeta High School</LineData>
+                            <LineData name="LINE 4">Kizza Close</LineData>
+                            <LineData name="LINE 5">35672 Sseeta</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muliira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">84301</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">UGANDA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Masaka</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 16</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Muliira</LineData>
+                            <LineData name="LINE 2">P.O. Box 16</LineData>
+                            <LineData name="LINE 3">84301 Masaka</LineData>
+                            <LineData name="LINE 4">UGANDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nelson</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Okiror</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">32224</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kumi</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O.Box 327</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nelson Okiror</LineData>
+                            <LineData name="LINE 2">P.O.Box 327</LineData>
+                            <LineData name="LINE 3">32224 Kumi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Michael</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Odua</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">42431</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Apac</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 73</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Michael Odua</LineData>
+                            <LineData name="LINE 2">P.O. Box 73</LineData>
+                            <LineData name="LINE 3">42431 Apac</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Odai</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80251</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Isingiro</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O.Box 10</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Odai</LineData>
+                            <LineData name="LINE 2">P.O.Box 10</LineData>
+                            <LineData name="LINE 3">80251 Isingiro</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mawejje</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">26745</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Masindi</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O.Box 3</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Mawejje</LineData>
+                            <LineData name="LINE 2">P.O.Box 3</LineData>
+                            <LineData name="LINE 3">26745 Masindi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Moto</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">85401</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Masaka</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private Bag 7</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Moto</LineData>
+                            <LineData name="LINE 2">Private Bag 7</LineData>
+                            <LineData name="LINE 3">85401 Masaka</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Julius</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jjemba</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">69411</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kibaale</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private Bag 31</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Julius Jjemba</LineData>
+                            <LineData name="LINE 2">Private Bag 31</LineData>
+                            <LineData name="LINE 3">69411 Kibaale</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gemma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bbede</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70411</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Bundibugyo</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private Bag 11</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gemma Bbede</LineData>
+                            <LineData name="LINE 2">Private Bag 11</LineData>
+                            <LineData name="LINE 3">70411 Bundibugyo</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Francis</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Otti</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51411</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Adjumani</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private bag 28</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Francis Otti</LineData>
+                            <LineData name="LINE 2">Private bag 28</LineData>
+                            <LineData name="LINE 3">51411 Adjumani</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ssonko</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">29764</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kiboga</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private bag 4</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Ssonko</LineData>
+                            <LineData name="LINE 2">Private bag 4</LineData>
+                            <LineData name="LINE 3">29764 Kiboga</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ssali</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kampala</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste Restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">John Ssali</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">10000 Kampala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Moses</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Magumba</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70400</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Yumbe</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste Restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Moses Magumba</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">70400 Yumbe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jimmy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jjuuko</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">68411</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Buliisa</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste Restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jimmy Jjuuko</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">68411 Buliisa</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Moses</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mirembe</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56511</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Kotido</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste Restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Moses Mirembe</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">56511 Kotido</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mayanja</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">28003</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">Lira</U40.15.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Poste Restante</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">UG</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UG</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Mayanja</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">28003 Lira</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

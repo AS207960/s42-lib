@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This is the PATDL Zambia template representing the street address, postal box, rural, and academic institutional formats using UPU codes and rendition instructions.
+	The template has been validated using the Postal Address Template Description Language (PATDL) v. 2.7.3 W3C schema. 
+	The file name is S42-8-ZM-PATDL.v.2.7.3.xml.
+-->
+<patdl.2.7.3.xml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PATDL.v.2.7.3.xsd">
+	<!--  -->
+	<identifier>
+		<referenceKey>UPU-ZM</referenceKey>
+		<elementIdentifier>
+			<type>code</type>
+			<prefix>U</prefix>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</elementIdentifier>
+		<elementDefiner>
+			<type>descriptive</type>
+			<language>English</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</elementDefiner>
+		<elementDescriptor>
+			<type>descriptive</type>
+			<language>English</language>
+			<system>USPS</system>
+			<version/>
+			<source/>
+		</elementDescriptor>
+		<renditionInstruction>
+			<type>mnemonic</type>
+			<language>English</language>
+			<system>UPU</system>
+			<version>S42-8</version>
+			<source>UPU</source>
+		</renditionInstruction>
+		<templateSelectionData>
+			<unconditionalTemplateIdentifier>
+				<templateType>ADR</templateType>
+				<countryCode>ZM</countryCode>
+				<userId>UPU</userId>
+				<templateSeqNum>001</templateSeqNum>
+				<templateVersion>0001</templateVersion>
+			</unconditionalTemplateIdentifier>
+		</templateSelectionData>
+	</identifier>
+	<contentDefinition>
+		<templateName/>
+		<templateIdentifier>
+			<templateType>ADR</templateType>
+			<countryCode>ZM</countryCode>
+			<userId>UPU</userId>
+			<templateSeqNum>001</templateSeqNum>
+			<templateVersion>0001</templateVersion>
+		</templateIdentifier>
+		<defaultDelimiter>' '</defaultDelimiter>
+		<defaultSeparator>';'</defaultSeparator>
+		<defaultSequencer>','</defaultSequencer>
+		<defaultCollector>'-'</defaultCollector>
+		<userPreferences>
+			<characterSet>UNICODE</characterSet>
+			<qualityThreshold/>
+		</userPreferences>
+		<addressMetadata>
+			<addressLanguage>en</addressLanguage>
+			<addressScript>Latn</addressScript>
+			<despatchingCountry></despatchingCountry>
+			<deliveringCountry></deliveringCountry>
+		</addressMetadata>
+		<triggerConditions>
+			<lineSelect>
+				<isPopulated>U10.08.00.00, U10.03.00.00</isPopulated>
+				<lineName lineNumber="002">NAME-LINE</lineName>
+				<lineName lineNumber="003">FUNCTION-LINE</lineName>
+				<isPopulated>U10.00.00.00, U10.02.00.00</isPopulated>
+				<isNotPopulated>U10.08.00.00; U10.03.00.00</isNotPopulated>
+				<lineName lineNumber="002">ORG-LINE</lineName>
+				<lineName lineNumber="003">ORG-UNIT-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<lineName lineNumber="004">MAILEE-NAME-LINE</lineName>
+				<lineName lineNumber="005">MAILEE-FUNCTION-LINE</lineName>
+				<lineName lineNumber="006">MAILEE-ORG-UNIT-LINE</lineName>
+				<lineName lineNumber="007">MAILEE-ORG-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<isPopulated>U40.19.11.11</isPopulated>
+				<lineName lineNumber="008">PO-BOX-LINE</lineName>
+				<isPopulated>U40.19.12.11</isPopulated>
+				<lineName lineNumber="009">POSTAL-AGENCY-LINE</lineName>
+				<isPopulated>U40.21.11.41</isPopulated>
+				<lineName lineNumber="010">DOOR-BUILDING-LINE</lineName>
+				<lineName lineNumber="011">STREET-ADDRESS-LINE</lineName>
+				<lineName lineNumber="013">DISTRICT-1-LINE</lineName>
+				<defaultCase/>
+				<lineName lineNumber="012">NON-STREET-ADDRESS-LINE</lineName>
+				<lineName lineNumber="013">DISTRICT-1-4-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+				<lineName lineNumber="015">POSTCODE-TOWN-LINE</lineName>
+			</lineSelect>
+			<lineSelect>
+			    <isNotPopulated>U50.53.00.00</isNotPopulated>
+				<lineName lineNumber="016">COUNTRY-LINE</lineName>
+			</lineSelect>
+		</triggerConditions>
+		<lineData>
+			<lineName lineNumber="002">NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>NM</componentId>
+				<priority>002</priority>
+				<elementData>
+					<elementId>U10.05.00.00</elementId>
+					<elementDef>form of address</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.10.00.00</elementId>
+					<elementDef>qualification</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.06.00.00</elementId>
+					<elementDef>given name</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U10.08.00.00</elementId>
+					<elementDef>surname</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="002">ORG-LINE</lineName>
+			<lineComponent>
+				<componentId>ORG</componentId>
+				<priority>002</priority>
+				<elementData>
+					<elementId>U10.00.00.00</elementId>
+					<elementDef>org name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U10.01.00.00</elementId>
+					<elementDef>legal status</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="003">FUNCTION-LINE</lineName>
+			<lineComponent>
+				<componentId>FUNCT</componentId>
+				<priority>003</priority>
+				<elementData>
+					<elementId>U10.03.00.00</elementId>
+					<elementDef>function</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="003">ORG-UNIT-LINE</lineName>
+			<lineComponent>
+				<componentId>ORG-U</componentId>
+				<priority>003</priority>
+				<elementData>
+					<elementId>U10.02.00.00</elementId>
+					<elementDef>org unit</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="004">MAILEE-NAME-LINE</lineName>
+			<lineComponent>
+				<componentId>MN</componentId>
+				<priority>004</priority>
+				<elementData>
+					<elementId>U20.04.00.00</elementId>
+					<elementDef>role descriptor</elementDef>
+					<migrationPrecedence>01</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U20.05.00.00</elementId>
+					<elementDef>form of address</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U20.10.00.00</elementId>
+					<elementDef>qualification</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U20.06.00.00</elementId>
+					<elementDef>given name</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U20.08.00.00</elementId>
+					<elementDef>surname</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="005">MAILEE-FUNCTION-LINE</lineName>
+			<lineComponent>
+				<componentId>MFUNCT</componentId>
+				<priority>005</priority>
+				<elementData>
+					<elementId>U20.04.00.00</elementId>
+					<elementDef>role descriptor</elementDef>
+					<migrationPrecedence>02</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U20.03.00.00</elementId>
+					<elementDef>function</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="006">MAILEE-ORG-UNIT-LINE</lineName>
+			<lineComponent>
+				<componentId>M-ORGU</componentId>
+				<priority>006</priority>
+				<elementData>
+					<elementId>U20.04.00.00</elementId>
+					<elementDef>role descriptor</elementDef>
+					<migrationPrecedence>03</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U20.02.00.00</elementId>
+					<elementDef>org unit</elementDef>
+				<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="007">MAILEE-ORG-LINE</lineName>
+			<lineComponent>
+				<componentId>M-ORG</componentId>
+				<priority>007</priority>
+				<elementData>
+					<elementId>U20.04.00.00</elementId>
+					<elementDef>role descriptor</elementDef>
+					<migrationPrecedence>04</migrationPrecedence>
+				</elementData>
+				<elementData>
+					<elementId>U20.00.00.00</elementId>
+					<elementDef>org name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U20.01.00.00</elementId>
+					<elementDef>legal status</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="008">PO-BOX-LINE</lineName>
+			<lineComponent>
+				<componentId>PB</componentId>
+				<priority>008</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U40.19.11.11</elementId>
+					<elementDef>prim del serv type</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.19.11.21</elementId>
+					<elementDef>prim del serv ind</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.35.00.00</elementId>
+					<elementDef>del serv qualifier</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="009">POSTAL-AGENCY-LINE</lineName>
+			<lineComponent>
+				<componentId>PA</componentId>
+				<priority>009</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U40.19.12.11</elementId>
+					<elementDef>alt del serv type</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.19.12.21</elementId>
+					<elementDef>alt del serv ind</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="010">DOOR-BUILDING-LINE</lineName>
+			<lineComponent>
+				<componentId>DOOR-BLDG</componentId>
+				<priority>010</priority>
+				<elementData>
+					<elementId>U40.32.00.00</elementId>
+					<elementDef>door</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.26.00.00</elementId>
+					<elementDef>building</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="011">STREET-ADDRESS-LINE</lineName>
+			<lineComponent>
+				<componentId>ST</componentId>
+				<priority>011</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U40.24.11.00</elementId>
+					<elementDef>prem id pos 1</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.11</elementId>
+					<elementDef>prec prim thoro qualifier</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.41</elementId>
+					<elementDef>prim thoro name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.11.22</elementId>
+					<elementDef>succ prim thoro type</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.11</elementId>
+					<elementDef>prec sec thoro qualifier</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.41</elementId>
+					<elementDef>sec thoro name</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.21.21.22</elementId>
+					<elementDef>succ sec thoro type</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="012">NON-STREET-ADDRESS-LINE</lineName>
+			<lineComponent>
+				<componentId>NON-ST</componentId>
+				<priority>013</priority>
+				<elementData>
+					<elementId>U40.24.11.00</elementId>
+					<elementDef>prem id pos 1</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.28.00.00</elementId>
+					<elementDef>extension designation</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.24.12.00</elementId>
+					<elementDef>prem id pos 2</elementDef>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.21.00</elementId>
+					<elementDef>district lev 2 pos 1</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="013">DISTRICT-1-LINE</lineName>
+			<lineComponent>
+				<componentId>DIST-1-4</componentId>
+				<priority>014</priority>
+				<elementData>
+					<elementId>U40.17.11.00</elementId>
+					<elementDef>district lev 1 pos 1</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="013">DISTRICT-1-4-LINE</lineName>
+			<lineComponent>
+				<componentId>DIST-1-4</componentId>
+				<priority>014</priority>
+				<elementData>
+					<elementId>U40.17.11.00</elementId>
+					<elementDef>district lev 1 pos 1</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.17.31.00</elementId>
+					<elementDef>district lev 3 pos 1</elementDef>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="015">POSTCODE-TOWN-LINE</lineName>
+			<lineComponent>
+				<componentId>PR</componentId>
+				<priority>015</priority>
+				<requiredIfSelected>Y</requiredIfSelected>
+				<elementData>
+					<elementId>U40.13.00.00</elementId>
+					<elementDef>postcode</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+				<elementData>
+					<elementId>U40.16.00.00</elementId>
+					<elementDef>town</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+		<lineData>
+			<lineName lineNumber="016">COUNTRY-LINE</lineName>
+			<lineComponent>
+				<componentId>CO</componentId>
+				<priority>016</priority>
+				<elementData>
+					<elementId>U40.14.00.00</elementId>
+					<elementDef>country name</elementDef>
+					<requiredIfSelected>Y</requiredIfSelected>
+				</elementData>
+			</lineComponent>
+		</lineData>
+	</contentDefinition>
+</patdl.2.7.3.xml>

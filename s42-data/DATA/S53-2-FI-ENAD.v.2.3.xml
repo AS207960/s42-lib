@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>FI</GroupDescription>
+            <GroupItemCount>55</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Herkkupannu Ky</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Tennis Cafe</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">95450</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TORNIO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Metsävainiontie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">A 4</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Herkkupannu Ky
+</LineData>
+                            <LineData name="LINE 2">Tennis Cafe
+</LineData>
+                            <LineData name="LINE 3">Metsävainiontie 10 A 4
+</LineData>
+                            <LineData name="LINE 4">95450 TORNIO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Reijo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saastamoinen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Kansliapäällikkö</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Oikeusministeriö</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Mikkelin käräjäoikeus</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">50100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MIKKELI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Karumaankatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oikeusministeriö
+</LineData>
+                            <LineData name="LINE 2">Mikkelin käräjäoikeus</LineData>
+                            <LineData name="LINE 3">Kansliapäällikkö Reijo Saastamoinen</LineData>
+                            <LineData name="LINE 4">Karumaankatu 4</LineData>
+                            <LineData name="LINE 5">50100 MIKKELI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Imatran Kaupunki</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Aholan ala-aste</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">55100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">IMATRA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kauppakatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">10-12</U40.24.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">(Pihan perällä)</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Imatran Kaupunki
+</LineData>
+                            <LineData name="LINE 2">Aholan ala-aste</LineData>
+                            <LineData name="LINE 3">Kauppakatu 10-12 (Pihan perällä)</LineData>
+                            <LineData name="LINE 4">55100 IMATRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jyväskylän Kaupunki</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Säynätsalon aluetoimisto</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SÄYNÄTSALO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Niskantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">17</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jyväskylän Kaupunki
+</LineData>
+                            <LineData name="LINE 2">Säynätsalon aluetoimisto</LineData>
+                            <LineData name="LINE 3">Niskantie 17</LineData>
+                            <LineData name="LINE 4">40900 SÄYNÄTSALO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">PPG-Tampere Oy</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Ykkösväri</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">02200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ESPOO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Syyskuja</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">A 2</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PPG-Tampere Oy
+</LineData>
+                            <LineData name="LINE 2">Ykkösväri</LineData>
+                            <LineData name="LINE 3">Syyskuja 2 A 2</LineData>
+                            <LineData name="LINE 4">02200 ESPOO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Keijo Kalevi</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Keskinen</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Lapinjärven Kunta</U20.00.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">Porlammin Uimahalli</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">01611</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORLAMMI</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PL</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">67</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Keijo Kalevi Keskinen</LineData>
+                            <LineData name="LINE 2">Porlammin Uimahalli</LineData>
+                            <LineData name="LINE 3">Lapinjärven Kunta</LineData>
+                            <LineData name="LINE 4">PL 67</LineData>
+                            <LineData name="LINE 5">01611 PORLAMMI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Samira-Trading Oy</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">71960</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUKKARILA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lukkarilantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">123</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Samira-Trading Oy</LineData>
+                            <LineData name="LINE 2">Lukkarilantie 123</LineData>
+                            <LineData name="LINE 3">71960 LUKKARILA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">tekniikan tohtori</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mika-Antero</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Löyttyjärvi</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Oy International Business Machines Ab</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">IBM Oulu</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">90100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULU</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tauluntie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">124</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy International Business Machines Ab</LineData>
+                            <LineData name="LINE 2">IBM Oulu</LineData>
+                            <LineData name="LINE 3">tekniikan tohtori Mika-Antero Löyttyjärvi</LineData>
+                            <LineData name="LINE 4">Tauluntie 124</LineData>
+                            <LineData name="LINE 5">90100 OULU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Talouspäällikkö</U10.03.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Aitavaara Oy Ab</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">02920</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ESPOO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Pieni Teollisuuskatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Aitavaara Oy Ab
+</LineData>
+                            <LineData name="LINE 2">Talouspäällikkö</LineData>
+                            <LineData name="LINE 3">Pieni Teollisuuskatu 1</LineData>
+                            <LineData name="LINE 4">02920 ESPOO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sari</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Siikanen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toiminnanjohtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Oy Wald Tefke Ab</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">54100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">JOUTSENO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Saimaantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">2. kerros</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy Wald Tefke Ab</LineData>
+                            <LineData name="LINE 2">toiminnanjohtaja Sari Siikanen</LineData>
+                            <LineData name="LINE 3">Saimaantie 3, 2. kerros</LineData>
+                            <LineData name="LINE 4">54100 JOUTSENO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Agronomi</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Pekka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pylkkänen</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">SF-Caravan Kuopion Seutu Ry</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">71800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SIILINJÄRVI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kasurilantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1-7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Agronomi Pekka Pylkkänen
+</LineData>
+                            <LineData name="LINE 2">SF-Caravan Kuopion Seutu Ry</LineData>
+                            <LineData name="LINE 3">Kasurilantie 1-7</LineData>
+                            <LineData name="LINE 4">71800 SIILINJÄRVI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Alko Oy</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Alko Kannelmäki</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00380</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELSINKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hiomotie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">10a</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alko Oy
+</LineData>
+                            <LineData name="LINE 2">Alko Kannelmäki</LineData>
+                            <LineData name="LINE 3">Hiomotie 10a</LineData>
+                            <LineData name="LINE 4">00380 HELSINKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Helsingin yhdistetty sairas- ja vanhainkotisäätiö</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Mariankoti</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MIKKELI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Raatihuoneenkatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Helsingin yhdistetty sairas- ja vanhainkotisäätiö</LineData>
+                            <LineData name="LINE 2">Mariankoti</LineData>
+                            <LineData name="LINE 3">Raatihuoneenkatu 5</LineData>
+                            <LineData name="LINE 4">50100 MIKKELI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Oy Suomen Tietotoimisto - Finska Notisbyrån Ab</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Oulun Aluetoimitus</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90211</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULU</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PL</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy Suomen Tietotoimisto - Finska Notisbyrån Ab
+</LineData>
+                            <LineData name="LINE 2">Oulun Aluetoimitus</LineData>
+                            <LineData name="LINE 3">PL 1</LineData>
+                            <LineData name="LINE 4">90211 OULU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Oy Matkahuolto Ab</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">36200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KANGASALA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ellintie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">6-8</U40.24.00.00>
+                        <U40.31.00.00 uniq="U40Floor">4. krs</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy Matkahuolto Ab
+</LineData>
+                            <LineData name="LINE 2">Ellintie 6-8, 4. krs</LineData>
+                            <LineData name="LINE 3">36200 KANGASALA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Veijo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Värtinen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">myyntipäällikkö</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Vekito Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Import Department</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">65170</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VAASA</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Öljysatama</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vekito Oy
+</LineData>
+                            <LineData name="LINE 2">Import Department</LineData>
+                            <LineData name="LINE 3">myyntipäällikkö Veijo Värtinen</LineData>
+                            <LineData name="LINE 4">Öljysatama</LineData>
+                            <LineData name="LINE 5">65170 VAASA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Lahti-Present Oy</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">19950</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUHANKA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mämminiementie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lahti-Present Oy
+</LineData>
+                            <LineData name="LINE 2">Mämminiementie 3</LineData>
+                            <LineData name="LINE 3">19950 LUHANKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kaarle Mauno</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kaskilahti</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toiminnanjohtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Kuntoseteli Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Squash Club</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">55100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">IMATRA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Aholantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">661</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kuntoseteli Oy
+</LineData>
+                            <LineData name="LINE 2">Squash Club</LineData>
+                            <LineData name="LINE 3">toiminnanjohtaja Kaarle Mauno Kaskilahti</LineData>
+                            <LineData name="LINE 4">Aholantie 661</LineData>
+                            <LineData name="LINE 5">55100 IMATRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Hankintapäällikkö</U10.03.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">ET-Eurotoimi Oy</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">00170</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELSINKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Meritullinkatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">21</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ET-Eurotoimi Oy
+</LineData>
+                            <LineData name="LINE 2">Hankintapäällikkö</LineData>
+                            <LineData name="LINE 3">Meritullinkatu 21</LineData>
+                            <LineData name="LINE 4">00170 HELSINKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Fröken</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Gunhild</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Johansson</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">kassaförvaltaren</U10.10.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Jep-Consulting AB</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">00781</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELSINGFORS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">97</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">kassaförvaltaren Fröken Gunhild Johansson
+</LineData>
+                            <LineData name="LINE 2">Jep-Consulting AB</LineData>
+                            <LineData name="LINE 3">PB 97</LineData>
+                            <LineData name="LINE 4">00781 HELSINGFORS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kirsi</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Koskinen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Farmaseutti</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Porvoon Vanha Apteekki</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">06100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORVOO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Rauhankatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27a</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Porvoon Vanha Apteekki
+</LineData>
+                            <LineData name="LINE 2">Farmaseutti Kirsi Koskinen</LineData>
+                            <LineData name="LINE 3">Rauhankatu 27a</LineData>
+                            <LineData name="LINE 4">06100 PORVOO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Fida International Ry</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Lähetyskoti</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">15550</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">NASTOLA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Opintie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">37</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fida International Ry
+</LineData>
+                            <LineData name="LINE 2">Lähetyskoti</LineData>
+                            <LineData name="LINE 3">Opintie 37</LineData>
+                            <LineData name="LINE 4">15550 NASTOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Reijo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rekonen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Myymäläpäällikkö</U10.10.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Oy Finland Camex Ltd</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">00101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELSINKI</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PL</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">900</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Myymäläpäällikkö Reijo Rekonen
+</LineData>
+                            <LineData name="LINE 2">Oy Finland Camex Ltd</LineData>
+                            <LineData name="LINE 3">PL 900</LineData>
+                            <LineData name="LINE 4">00101 HELSINKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Fil. tri.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">William</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">de Castellaz</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toimitusjohtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Oy Propulsor Ab</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">90570</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULU</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tutkijantie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">E</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy Propulsor Ab
+</LineData>
+                            <LineData name="LINE 2">toimitusjohtaja Fil. tri. William de Castellaz</LineData>
+                            <LineData name="LINE 3">Tutkijantie 2 E</LineData>
+                            <LineData name="LINE 4">90570 OULU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Harry</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Frejborg</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">johtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">HF-Urakointi Harry Frejborg</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">42101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">JÄMSÄ</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PB</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">35</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HF-Urakointi Harry Frejborg
+</LineData>
+                            <LineData name="LINE 2">johtaja Harry Frejborg</LineData>
+                            <LineData name="LINE 3">PB 35</LineData>
+                            <LineData name="LINE 4">42101 JÄMSÄ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mervi</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mikkolainen</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Kouvolan seudun ammatillinen oppimiskeskus</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Koti- ja laitostalousosasto</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">86300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULAINEN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hitsaajankatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">17</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kouvolan seudun ammatillinen oppimiskeskus</LineData>
+                            <LineData name="LINE 2">Koti- ja laitostalousosasto</LineData>
+                            <LineData name="LINE 3">Mervi Mikkolainen</LineData>
+                            <LineData name="LINE 4">Hitsaajankatu 17</LineData>
+                            <LineData name="LINE 5">86300 OULAINEN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sara</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kilpeläinen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Rehtori</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Puolangan Kunta</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Auhon Koulu</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">86300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULAINEN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Metsätie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">188/3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Puolangan Kunta</LineData>
+                            <LineData name="LINE 2">Auhon Koulu</LineData>
+                            <LineData name="LINE 3">Rehtori Sara Kilpeläinen</LineData>
+                            <LineData name="LINE 4">Metsätie 188/3</LineData>
+                            <LineData name="LINE 5">86300 OULAINEN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Felipé</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ruiz Hernandes</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">keittiömestari</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Marianos Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Ravintola Pikku-Saukko</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">16300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ORIMATTILA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Orionaukio</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">E</U40.28.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Kellarikerros</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Marianos Oy
+</LineData>
+                            <LineData name="LINE 2">Ravintola Pikku-Saukko</LineData>
+                            <LineData name="LINE 3">keittiömestari Felipé Ruiz Hernandes</LineData>
+                            <LineData name="LINE 4">Orionaukio 2 E Kellarikerros</LineData>
+                            <LineData name="LINE 5">16300 ORIMATTILA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Stina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kaukinen-Honkanen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">lehtori</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Uudenkaupungin Kaupunki</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Kalannin Yläaste</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">23100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">UUSIKAUPUNKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Postitie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3b</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Uudenkaupungin Kaupunki
+</LineData>
+                            <LineData name="LINE 2">Kalannin Yläaste</LineData>
+                            <LineData name="LINE 3">lehtori Stina Kaukinen-Honkanen</LineData>
+                            <LineData name="LINE 4">Postitie 3b</LineData>
+                            <LineData name="LINE 5">23100 UUSIKAUPUNKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Günther</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Wolf</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">optikko</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Kaukomarkkinat Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Tähtioptikko</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">15870</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HOLLOLA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Virastotie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">C</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kaukomarkkinat Oy
+</LineData>
+                            <LineData name="LINE 2">Tähtioptikko</LineData>
+                            <LineData name="LINE 3">optikko Günther Wolf</LineData>
+                            <LineData name="LINE 4">Virastotie 3 C</LineData>
+                            <LineData name="LINE 5">15870 HOLLOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Arja</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kallio</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">röntgenhoitaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Lohtajan Kunta</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Lohtajan Keskussairaala Röntgenosasto</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">68230</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LOHTAJA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ohtakarintie</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lohtajan Kunta
+</LineData>
+                            <LineData name="LINE 2">Lohtajan Keskussairaala Röntgenosasto</LineData>
+                            <LineData name="LINE 3">röntgenhoitaja Arja Kallio</LineData>
+                            <LineData name="LINE 4">Ohtakarintie</LineData>
+                            <LineData name="LINE 5">68230 LOHTAJA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">keittiöpäällikkö</U10.03.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Oy Russian Room Ltd</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Ravintola Saslik</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">32200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LOIMAA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Myllykyläntie</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Oy Russian Room Ltd
+</LineData>
+                            <LineData name="LINE 2">Ravintola Saslik</LineData>
+                            <LineData name="LINE 3">keittiöpäällikkö</LineData>
+                            <LineData name="LINE 4">Myllykyläntie</LineData>
+                            <LineData name="LINE 5">32200 LOIMAA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Müftesim</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Güleryüz</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Concept Manager</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Ananya Oy</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">15860</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HOLLOLA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Keinukartanontie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">as 2</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ananya Oy
+</LineData>
+                            <LineData name="LINE 2">Concept Manager Müftesim Güleryüz</LineData>
+                            <LineData name="LINE 3">Keinukartanontie 12 as 2</LineData>
+                            <LineData name="LINE 4">15860 HOLLOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paavo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pulli</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">leipurimestari</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Leipomo Konditoria Herkkupala</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">34800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VIRRAT</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Koppelokuja</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Pihan perällä</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Leipomo Konditoria Herkkupala
+</LineData>
+                            <LineData name="LINE 2">leipurimestari Paavo Pulli</LineData>
+                            <LineData name="LINE 3">Koppelokuja 3 Pihan perällä</LineData>
+                            <LineData name="LINE 4">34800 VIRRAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Keijo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kulonen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">ravintolapäällikkö</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Pub Sir Winston</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">96100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROVANIEMI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hallituskatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1-3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pub Sir Winston
+</LineData>
+                            <LineData name="LINE 2">ravintolapäällikkö Keijo Kulonen</LineData>
+                            <LineData name="LINE 3">Hallituskatu 1-3</LineData>
+                            <LineData name="LINE 4">96100 ROVANIEMI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kaisa-Anniina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hellström</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toimitusjohtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Finnair Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Catering</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">01530</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">FINNAIR</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Finnair Oy
+</LineData>
+                            <LineData name="LINE 2">Catering
+</LineData>
+                            <LineData name="LINE 3">toimitusjohtaja Kaisa-Anniina Hellström</LineData>
+                            <LineData name="LINE 4">01530 FINNAIR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Johanna</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ruusunen</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Armi Ky Tilintarkastustoimisto</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">20540</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TURKU</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Paavinkatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Armi Ky Tilintarkastustoimisto
+</LineData>
+                            <LineData name="LINE 2">Johanna Ruusunen</LineData>
+                            <LineData name="LINE 3">Paavinkatu 15</LineData>
+                            <LineData name="LINE 4">20540 TURKU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tuula</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Strömberg</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toimistosihteeri</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Kirkkonummen Nimismiespiiri</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">02400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KIRKKONUMMI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tallinmäki</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4-8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kirkkonummen Nimismiespiiri
+</LineData>
+                            <LineData name="LINE 2">toimistosihteeri Tuula Strömberg</LineData>
+                            <LineData name="LINE 3">Tallinmäki 4-8</LineData>
+                            <LineData name="LINE 4">02400 KIRKKONUMMI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kyösti Matti</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saranpää</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">kamreeri</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Länsi-Suomen Verovirasto</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Tarkastusosasto</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">28101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORI</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PL</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1967</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Länsi-Suomen Verovirasto
+</LineData>
+                            <LineData name="LINE 2">Tarkastusosasto</LineData>
+                            <LineData name="LINE 3">kamreeri Kyösti Matti Saranpää</LineData>
+                            <LineData name="LINE 4">PL 1967</LineData>
+                            <LineData name="LINE 5">28101 PORI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Raili-Kaarina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Vilkki</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toimistonhoitaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Suomen Posti Oyj</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Postikonttori Lukkarila</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">40900</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SÄYNÄTSALO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Parviaisentie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Suomen Posti Oyj
+</LineData>
+                            <LineData name="LINE 2">Postikonttori Lukkarila</LineData>
+                            <LineData name="LINE 3">toimistonhoitaja Raili-Kaarina Vilkki</LineData>
+                            <LineData name="LINE 4">Parviaisentie 9</LineData>
+                            <LineData name="LINE 5">40900 SÄYNÄTSALO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kullervo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saastamoinen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">toimitusjohtaja</U10.10.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Etelä-Suomen Huoltamot Oy</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Neste Padasjoki</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">17500</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PADASJOKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tulliportinkatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">54</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Etelä-Suomen Huoltamot Oy
+</LineData>
+                            <LineData name="LINE 2">Neste Padasjoki</LineData>
+                            <LineData name="LINE 3">toimitusjohtaja Kullervo Saastamoinen</LineData>
+                            <LineData name="LINE 4">Tulliportinkatu 54</LineData>
+                            <LineData name="LINE 5">17500 PADASJOKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Arja</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Visakko</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VANTAA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Arja Visakko
+</LineData>
+                            <LineData name="LINE 2">Poste restante</LineData>
+                            <LineData name="LINE 3">01600 VANTAA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kalle</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Välskäri</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88830</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OTSOLAHTI</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Metsälä</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kalle Välskäri
+</LineData>
+                            <LineData name="LINE 2">Metsälä</LineData>
+                            <LineData name="LINE 3">88830 OTSOLAHTI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Perhe</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pikkarainen</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Virtanen</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OULU</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Asemakatu</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">12a-14c</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">as 1a</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Perhe Pikkarainen
+</LineData>
+                            <LineData name="LINE 2">c/o Virtanen</LineData>
+                            <LineData name="LINE 3">Asemakatu 12a-14c as 1a</LineData>
+                            <LineData name="LINE 4">90100 OULU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Fru</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Erja Liisa</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jokinen-Waltzer</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VASA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kyrkogatan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">bst 67</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fru Erja Liisa Jokinen-Waltzer
+</LineData>
+                            <LineData name="LINE 2">Kyrkogatan 1 bst 67</LineData>
+                            <LineData name="LINE 3">65100 VASA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Matti Ensio</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Miikkulainen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Pastori</U10.10.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Kirkkoherranvirasto</U20.00.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">89100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">NÄLJÄNKÄ</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pastori Matti Ensio Miikkulainen</LineData>
+                            <LineData name="LINE 2">c/o Kirkkoherranvirasto</LineData>
+                            <LineData name="LINE 3">89100 NÄLJÄNKÄ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Taidemaalari</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Helena-Maaria</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lindberg-Sundström</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">33100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TAMPERE</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Vanhankylänniemen Puistoraitti</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">34</U40.24.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Piharakennus</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Taidemaalari Helena-Maaria Lindberg-Sundström
+</LineData>
+                            <LineData name="LINE 2">Vanhankylänniemen Puistoraitti 34 Piharakennus</LineData>
+                            <LineData name="LINE 3">33100 TAMPERE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Vuorineuvos</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Juhani</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lampinen</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Perhe</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Öhman</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01620</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VANTAA</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Vuollemutka</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">A 16</U40.28.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Ullakkohuoneisto</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vuorineuvos Juhani Lampinen
+</LineData>
+                            <LineData name="LINE 2">c/o Perhe Öhman</LineData>
+                            <LineData name="LINE 3">Vuollemutka 4 A 16 Ullakkohuoneisto</LineData>
+                            <LineData name="LINE 4">01620 VANTAA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Herra</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Keijo Kalevi Armas</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Paakkunainen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Kauppaneuvos</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">99300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KEMIJÄRVI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Itäinen Valtatie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1567/4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kauppaneuvos Herra Keijo Kalevi Armas Paakkunainen</LineData>
+                            <LineData name="LINE 2">Itäinen Valtatie 1567/4</LineData>
+                            <LineData name="LINE 3">99300 KEMIJÄRVI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Rouva</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Pirkko Kristiina</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Vähä-Pietilä</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Kauppaneuvoksetar</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">00830</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HELSINKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">II. Linja</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">A 1b</U40.28.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">kellarikerros</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kauppaneuvoksetar Rouva Pirkko Kristiina Vähä-Pietilä</LineData>
+                            <LineData name="LINE 2">II. Linja 12 A 1b kellarikerros</LineData>
+                            <LineData name="LINE 3">00830 HELSINKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Robert Michel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">van der Steen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Keittiömestari</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01601</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">VANTAA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PL</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">112</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Keittiömestari Robert Michel van der Steen
+</LineData>
+                            <LineData name="LINE 2">PL 112</LineData>
+                            <LineData name="LINE 3">01601 VANTAA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jukka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Julkunen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">89200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PUOLANKA</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jukka Julkunen
+</LineData>
+                            <LineData name="LINE 2">89200 PUOLANKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tuukka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kimpulainen</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">talonmies</U10.10.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Oy Rantalomat Ab</U20.00.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MYYRMÄKI</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Valjakkotie</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">talonmies Tuukka Kimpulainen
+</LineData>
+                            <LineData name="LINE 2">c/o Oy Rantalomat Ab</LineData>
+                            <LineData name="LINE 3">Valjakkotie 2</LineData>
+                            <LineData name="LINE 4">01600 MYYRMÄKI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Rouva</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Riikka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saarelainen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">93600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">POHJOISMAA</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Peltola</U40.17.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">A</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">351</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rouva Riikka Saarelainen
+</LineData>
+                            <LineData name="LINE 2">A 351 Peltola</LineData>
+                            <LineData name="LINE 3">93600 POHJOISMAA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Neiti</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Leena</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lindqvist</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Reino</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Repola</U20.08.00.00>
+                        <U20.10.00.00 uniq="U20Qualification">Tohtori</U20.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">SOUMI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TURKULA</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">FI</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">FI</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Neiti Leena Lindqvist
+</LineData>
+                            <LineData name="LINE 2">c/o Tohtori Reino Repola</LineData>
+                            <LineData name="LINE 3">30100 TURKULA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

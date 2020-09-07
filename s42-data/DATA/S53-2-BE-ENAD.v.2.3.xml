@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BE</GroupDescription>
+            <GroupItemCount>10</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Monsieur</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bruxelles</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue du Vivier</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monsieur Alain Dupont</LineData>
+                            <LineData name="LINE 2">Rue du Vivier 7</LineData>
+                            <LineData name="LINE 3">1000 Bruxelles</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Monsieur</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Chez</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Madame</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Charlotte</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Durant</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bruxelles</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue du Vivier</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monsieur Alain Dupont</LineData>
+                            <LineData name="LINE 2">Chez Madame Charlotte Durant</LineData>
+                            <LineData name="LINE 3">Rue du Vivier 7</LineData>
+                            <LineData name="LINE 4">1000 Bruxelles</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dhr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Janssens</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9800</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Deinze</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kortrijkstraat</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">37</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">1</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dhr Paul Janssens</LineData>
+                            <LineData name="LINE 2">Kortrijkstraat 37 bus 1</LineData>
+                            <LineData name="LINE 3">9800 Deinze</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dhr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Janssens</U10.08.00.00>
+                        <U30.29.11.11 uniq="U30WingType">Gebouw</U30.29.11.11>
+                        <U30.29.11.21 uniq="U30WingInd">A</U30.29.11.21>
+                        <U30.31.11.11 uniq="U30FloorType">Verdieping</U30.31.11.11>
+                        <U30.31.11.21 uniq="U30FloorInd">3</U30.31.11.21>
+                        <U30.32.11.11 uniq="U30DoorType">Kamer</U30.32.11.11>
+                        <U30.32.11.21 uniq="U30DoorInd">8</U30.32.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">2610</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wilrijk</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Volklorenlaan</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">81-83</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">15</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dhr Paul Janssens</LineData>
+                            <LineData name="LINE 2">Gebouw A - Verdieping 3 - Kamer 8</LineData>
+                            <LineData name="LINE 3">Volklorenlaan 81-83 bus 15</LineData>
+                            <LineData name="LINE 4">2610 Wilrijk</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Monsieur</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Durand</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">SA</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bruxelles</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue du Vivier</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7C</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">5</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monsieur Alain Dupont</LineData>
+                            <LineData name="LINE 2">Durand SA</LineData>
+                            <LineData name="LINE 3">Rue du Vivier 7C bte 5</LineData>
+                            <LineData name="LINE 4">1000 Bruxelles</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Monsieur</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Durand</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">S.A.</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Service Achats</U20.02.00.00>
+                        <U20.03.00.00 uniq="U20Function">Manager</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bruxelles</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Rue du Vivier</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">7C</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">5</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monsieur Alain Dupont</LineData>
+                            <LineData name="LINE 2">Manager Service Achats</LineData>
+                            <LineData name="LINE 3">Durand S.A.</LineData>
+                            <LineData name="LINE 4">Rue du Vivier 7C bte 5</LineData>
+                            <LineData name="LINE 5">1000 Bruxelles</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dhr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Janssens</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Acme</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">NV</U20.01.00.00>
+                        <U30.26.11.00 uniq="U30BuildingLev1">Industrieel Park B</U30.26.11.00>
+                        <U30.29.11.11 uniq="U30WingType">Building</U30.29.11.11>
+                        <U30.29.11.21 uniq="U30WingInd">West</U30.29.11.21>
+                        <U30.31.11.11 uniq="U30FloorType">Verdieping</U30.31.11.11>
+                        <U30.31.11.21 uniq="U30FloorInd">4</U30.31.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">9990</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maldegem</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Bloemendalelaan</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">62/3</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">47</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dhr Paul Janssens</LineData>
+                            <LineData name="LINE 2">Acme NV</LineData>
+                            <LineData name="LINE 3">Building West - Verdieping 4</LineData>
+                            <LineData name="LINE 4">Industrieel Park B</LineData>
+                            <LineData name="LINE 5">Bloemendalelaan 62/3 bus 47</LineData>
+                            <LineData name="LINE 6">9990 Maldegem</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Dhr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Janssens</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postbus</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">24</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Gent Centrum</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dhr Paul Janssens</LineData>
+                            <LineData name="LINE 2">Postbus 24</LineData>
+                            <LineData name="LINE 3">9000 Gent Centrum</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Monsieur</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Duchemin</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">SA</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1070</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Boite Postale</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Anderlecht Westland</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monsieur Alain Dupont</LineData>
+                            <LineData name="LINE 2">Duchemin SA</LineData>
+                            <LineData name="LINE 3">Boite Postale 12</LineData>
+                            <LineData name="LINE 4">1070 Anderlecht Westland</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alain</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dupont RC 123456789</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BELGIUM</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bruxelles</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">bpack</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">De Brouckère</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Alain Dupont RC 123456789</LineData>
+                            <LineData name="LINE 2">bpack De Brouckère</LineData>
+                            <LineData name="LINE 3">1000 Bruxelles</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

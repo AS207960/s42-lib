@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BW</GroupDescription>
+            <GroupItemCount>57</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">TSHWANELO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MATLHABAPHIRI</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">52</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TSHWANELO MATLHABAPHIRI</LineData>
+                            <LineData name="LINE 2">P O BOX 52</LineData>
+                            <LineData name="LINE 3">MOLEPOLOLE</LineData>
+                            <LineData name="LINE 4">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GAONE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOTSEMME</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">503333</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GAONE MOTSEMME</LineData>
+                            <LineData name="LINE 2">P O BOX 503333</LineData>
+                            <LineData name="LINE 3">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">WAME</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BAITSE</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TLOKWENG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">T01</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">WAME BAITSE</LineData>
+                            <LineData name="LINE 2">P BAG T01</LineData>
+                            <LineData name="LINE 3">TLOKWENG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">KGOSI INVESTMENTS</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P BAG</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">56</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KGOSI INVESTMENTS</LineData>
+                            <LineData name="LINE 2">P BAG 56</LineData>
+                            <LineData name="LINE 3">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BOTSWANA POST</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE VILLAGE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">26691</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BOTSWANA POST</LineData>
+                            <LineData name="LINE 2">P O BOX 26691</LineData>
+                            <LineData name="LINE 3">GABORONE VILLAGE</LineData>
+                            <LineData name="LINE 4">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PHENYO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOOKETSI</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">AIR BOTSWANA</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">123ABC</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PHENYO MOOKETSI</LineData>
+                            <LineData name="LINE 2">AIR BOTSWANA</LineData>
+                            <LineData name="LINE 3">PO BOX 123ABC</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">PR GREEN PARADISE (PTY) LTD</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SEBELE</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">209 ABG</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PR GREEN PARADISE (PTY) LTD</LineData>
+                            <LineData name="LINE 2">P O BOX 209 ABG</LineData>
+                            <LineData name="LINE 3">SEBELE</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BUSINESS INVESTMENTS</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TLOKWENG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">301150</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BUSINESS INVESTMENTS</LineData>
+                            <LineData name="LINE 2">PO BOX 301150</LineData>
+                            <LineData name="LINE 3">TLOKWENG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">PHILIP &amp; CO</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MATHUBANTWA</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1882</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PHILIP &amp; CO</LineData>
+                            <LineData name="LINE 2">P O BOX 1882</LineData>
+                            <LineData name="LINE 3">MATHUBANTWA</LineData>
+                            <LineData name="LINE 4">MOLEPOLOLE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">TULI CONSTRUCTION (PTY) LTD</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHERWOOD RANCH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">72</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TULI CONSTRUCTION (PTY) LTD</LineData>
+                            <LineData name="LINE 2">P O BOX 72</LineData>
+                            <LineData name="LINE 3">SHERWOOD RANCH</LineData>
+                            <LineData name="LINE 4">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ACCENTURE BOTSWANA</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KGALE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">AD875ADD</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">POSTNET</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ACCENTURE BOTSWANA</LineData>
+                            <LineData name="LINE 2">PO BOX AD875ADD</LineData>
+                            <LineData name="LINE 3">POSTNET</LineData>
+                            <LineData name="LINE 4">KGALE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">HAWKERS CASH AND CARRY</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">AE 386 AEH</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">HAWKERS CASH AND CARRY</LineData>
+                            <LineData name="LINE 2">P O BOX AE 386 AEH</LineData>
+                            <LineData name="LINE 3">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">A D ENTERPRISES</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KGALE VIEW</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">149 SUITE 53</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">POSTNET</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">A D ENTERPRISES</LineData>
+                            <LineData name="LINE 2">P O BOX 149 SUITE 53</LineData>
+                            <LineData name="LINE 3">POSTNET</LineData>
+                            <LineData name="LINE 4">KGALE VIEW</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LOAGO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOTLOSENG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUMAKWANE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P O BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">674</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LOAGO BOTLOSENG</LineData>
+                            <LineData name="LINE 2">P O BOX 674</LineData>
+                            <LineData name="LINE 3">KUMAKWANE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LORATO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KGOTLA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOGODITSHANE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SIR SERETSE KHAMA BARACKS</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">522 BCR</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LORATO KGOTLA</LineData>
+                            <LineData name="LINE 2">PO BOX 522 BCR</LineData>
+                            <LineData name="LINE 3">SIR SERETSE KHAMA BARACKS</LineData>
+                            <LineData name="LINE 4">MOGODITSHANE</LineData>
+                            <LineData name="LINE 5">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">EDWIN</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MAKUPE</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BLOCK 9</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ZANZIBAR</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">7</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EDWIN MAKUPE</LineData>
+                            <LineData name="LINE 2">7 ZANZIBAR STREET</LineData>
+                            <LineData name="LINE 3">BLOCK 9</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">THATO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KOWANE</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">EXTENSION 9</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CRESCENT</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TSHEKEDI</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">2</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THATO KOWANE</LineData>
+                            <LineData name="LINE 2">2 TSHEKEDI CRESCENT</LineData>
+                            <LineData name="LINE 3">EXTENSION 9</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">SELE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TUKA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FRANCISTOWN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">AREA A</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOIPELEGO</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">25</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SELE TUKA</LineData>
+                            <LineData name="LINE 2">25 BOIPELEGO STREET</LineData>
+                            <LineData name="LINE 3">AREA A</LineData>
+                            <LineData name="LINE 4">FRANCISTOWN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LEBANG</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KGAWA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FRANCISTOWN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CENTRAL</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOFFAT</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">9</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LEBANG KGAWA</LineData>
+                            <LineData name="LINE 2">9 MOFFAT STREET</LineData>
+                            <LineData name="LINE 3">CENTRAL</LineData>
+                            <LineData name="LINE 4">FRANCISTOWN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LONA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RORANG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PHAKALANE</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">CLOSE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TSOGANG</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">10</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LONA RORANG</LineData>
+                            <LineData name="LINE 2">10 TSOGANG CLOSE</LineData>
+                            <LineData name="LINE 3">PHAKALANE</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                            <LineData name="LINE 5">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">EDWIN</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MAKUPE</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MARAPO-A-THUTLWA</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ZANZIBAR</U40.21.11.41>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">7</U40.24.12.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">LAPCAS HEIGHTS</U40.26.11.00>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">123A</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EDWIN MAKUPE</LineData>
+                            <LineData name="LINE 2">Unit 123A LAPCAS HEIGHTS</LineData>
+                            <LineData name="LINE 3">7 ZANZIBAR STREET</LineData>
+                            <LineData name="LINE 4">MARAPO-A-THUTLWA</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">EDWARDS AND ASSOCIATES</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">WESTERN COMMERCIAL</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">74770</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">MOROJWA MEWS</U40.26.11.00>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">7</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">EDWARDS AND ASSOCIATES</LineData>
+                            <LineData name="LINE 2">PLOT 74770</LineData>
+                            <LineData name="LINE 3">UNIT 7 MOROJWA MEWS</LineData>
+                            <LineData name="LINE 4">WESTERN COMMERCIAL ROAD</LineData>
+                            <LineData name="LINE 5">CBD</LineData>
+                            <LineData name="LINE 6">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">KINGDOM BANK AFRICA</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">KGALE MEWS</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">115</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">23</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KINGDOM BANK AFRICA</LineData>
+                            <LineData name="LINE 2">PLOT 115</LineData>
+                            <LineData name="LINE 3">UNIT 23</LineData>
+                            <LineData name="LINE 4">KGALE MEWS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LAMWORLD TECHNOLOGIES</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">OLD INDUSTRIAL SITE</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HAILE SELASSIE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1225</U40.24.11.21>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">12 &amp; 7</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LAMWORLD TECHNOLOGIES</LineData>
+                            <LineData name="LINE 2">PLOT 1225</LineData>
+                            <LineData name="LINE 3">UNIT 12 &amp; 7</LineData>
+                            <LineData name="LINE 4">HAILE SELASSIE ROAD</LineData>
+                            <LineData name="LINE 5">OLD INDUSTRIAL SITE</LineData>
+                            <LineData name="LINE 6">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BA ISAGO UNIVERSITY COLLEGE</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FRANCISTOWN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">LIGHT INDUSTRIAL SITE</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1602/3</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">HASKINS BUILDING</U40.26.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">OFF SAM NUJOMA ROAD</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BA ISAGO UNIVERSITY COLLEGE</LineData>
+                            <LineData name="LINE 2">PLOT 1602/3</LineData>
+                            <LineData name="LINE 3">HASKINS BUILDING</LineData>
+                            <LineData name="LINE 4">OFF SAM NUJOMA ROAD</LineData>
+                            <LineData name="LINE 5">LIGHT INDUSTRIAL SITE</LineData>
+                            <LineData name="LINE 6">FRANCISTOWN</LineData>
+                            <LineData name="LINE 7">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">SETSHEDI</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOTLHOLE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">BOTSWANA POST</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">IMEC</U20.02.00.00>
+                        <U20.03.00.00 uniq="U20Function">HEAD: MAIL BUSINESS</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BLOCK 3 INDUSTRIAL</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23870</U40.24.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">OFF NELSON MANDELA DRIVE</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SETSHEDI BOTLHOLE</LineData>
+                            <LineData name="LINE 2">HEAD: MAIL BUSINESS</LineData>
+                            <LineData name="LINE 3">BOTSWANA POST</LineData>
+                            <LineData name="LINE 4">IMEC</LineData>
+                            <LineData name="LINE 5">PLOT 23870</LineData>
+                            <LineData name="LINE 6">OFF NELSON MANDELA DRIVE</LineData>
+                            <LineData name="LINE 7">BLOCK 3 INDUSTRIAL</LineData>
+                            <LineData name="LINE 8">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">THAPELO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SONE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">LIPTEC INVESTMENTS</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">GENERAL MANAGER</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FRANCISTOWN</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">GABORONE WEST INDUSTRIAL</U40.17.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">THOBEGA</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">778</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THAPELO SONE</LineData>
+                            <LineData name="LINE 2">GENERAL MANAGER</LineData>
+                            <LineData name="LINE 3">LIPTEC INVESTMENTS</LineData>
+                            <LineData name="LINE 4">PLOT 778</LineData>
+                            <LineData name="LINE 5">GABORONE WEST INDUSTRIAL</LineData>
+                            <LineData name="LINE 6">THOBEGA STREET</LineData>
+                            <LineData name="LINE 7">FRANCISTOWN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">THABO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TIBE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">AIR BOTSWANA</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">HR DIRECTOR</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">BADIRI EXTENSION 5</U40.17.21.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MATSTITAM</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">789</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THABO TIBE</LineData>
+                            <LineData name="LINE 2">HR DIRECTOR</LineData>
+                            <LineData name="LINE 3">AIR BOTSWANA</LineData>
+                            <LineData name="LINE 4">PLOT 789</LineData>
+                            <LineData name="LINE 5">BADIRI EXTENSION 5</LineData>
+                            <LineData name="LINE 6">MATSTITAM STREET</LineData>
+                            <LineData name="LINE 7">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LOANGO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LONE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">PULA HOLDINGS</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">FINANCE MANAGER</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">KGALE MEWS</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">112</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">PULA HOLDINGS BUILDING</U40.26.11.00>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">2</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LOANGO LONE</LineData>
+                            <LineData name="LINE 2">FINANCE MANAGER</LineData>
+                            <LineData name="LINE 3">PULA HOLDINGS</LineData>
+                            <LineData name="LINE 4">PLOT 112</LineData>
+                            <LineData name="LINE 5">UNIT 2 PULA HOLDINGS BUILDING</LineData>
+                            <LineData name="LINE 6">KGALE MEWS</LineData>
+                            <LineData name="LINE 7">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LORATO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">THUPE</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">FIRST NATIONAL BANK</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">RELATIONSHIP MANAGER</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">PLACE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">FIRST</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">54362</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LORATO THUPE</LineData>
+                            <LineData name="LINE 2">RELATIONSHIP MANAGER</LineData>
+                            <LineData name="LINE 3">FIRST NATIONAL BANK</LineData>
+                            <LineData name="LINE 4">PLOT 54362</LineData>
+                            <LineData name="LINE 5">FIRST PLACE</LineData>
+                            <LineData name="LINE 6">CBD</LineData>
+                            <LineData name="LINE 7">GABORONE</LineData>
+                            <LineData name="LINE 8">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LESUPO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NAGA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LOBATSE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">THEMA 2</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOTLHALE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT NO.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6025</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LESUPO NAGA</LineData>
+                            <LineData name="LINE 2">PLOT NO. 6025</LineData>
+                            <LineData name="LINE 3">BOTLHALE STREET</LineData>
+                            <LineData name="LINE 4">THEMA 2</LineData>
+                            <LineData name="LINE 5">LOBATSE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">TOPO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOSUNG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BOSWELAKOKO WARD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">STREET</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">FRED RABOROKGWE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT NO.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">50875</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TOPO MOSUNG</LineData>
+                            <LineData name="LINE 2">PLOT NO. 50875</LineData>
+                            <LineData name="LINE 3">FRED RABOROKGWE STREET</LineData>
+                            <LineData name="LINE 4">BOSWELAKOKO WARD</LineData>
+                            <LineData name="LINE 5">MOLEPOLOLE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CHURCH OF GOD OF PROPHESY</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BLOCK 8</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MMALOSO</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">36156</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CHURCH OF GOD OF PROPHESY</LineData>
+                            <LineData name="LINE 2">PLOT 36156</LineData>
+                            <LineData name="LINE 3">MMALOSO ROAD</LineData>
+                            <LineData name="LINE 4">BLOCK 8</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">SEROWE CO-OP</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SEROWE</U40.16.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">7062</U40.24.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">ALONG SEROWE/PALAPYE MAIN RD</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEROWE CO-OP</LineData>
+                            <LineData name="LINE 2">PLOT 7062</LineData>
+                            <LineData name="LINE 3">ALONG SEROWE/PALAPYE MAIN RD</LineData>
+                            <LineData name="LINE 4">SEROWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ROHBOT SHIPPING</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GABORONE WEST INDUSTRIAL</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">22049</U40.24.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">CNR KGOMOKASITWA / GADIKAO RD</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ROHBOT SHIPPING</LineData>
+                            <LineData name="LINE 2">PLOT 22049</LineData>
+                            <LineData name="LINE 3">CNR KGOMOKASITWA / GADIKAO RD</LineData>
+                            <LineData name="LINE 4">GABORONE WEST INDUSTRIAL</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                            <LineData name="LINE 6">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">THE KEY ACCOUNTS MANAGER</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">DE BEERS DIAMOND MINING COMPANY</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHOBE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DRIVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOSI WA THUNYA</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">12</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THE KEY ACCOUNTS MANAGER</LineData>
+                            <LineData name="LINE 2">DE BEERS DIAMOND MINING COMPANY</LineData>
+                            <LineData name="LINE 3">PLOT 12</LineData>
+                            <LineData name="LINE 4">MOSI WA THUNYA DRIVE</LineData>
+                            <LineData name="LINE 5">CHOBE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">COMMERCIAL AUTO GLASS</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GABORONE WEST INDUSTRIAL</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">DRIVE</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KUDUMATSE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1444</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">COMMERCIAL AUTO GLASS</LineData>
+                            <LineData name="LINE 2">PLOT 1444</LineData>
+                            <LineData name="LINE 3">KUDUMATSE DRIVE</LineData>
+                            <LineData name="LINE 4">GABORONE WEST INDUSTRIAL</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MOTORGLOW</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BROADHURST</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NOKO</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6412</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MOTORGLOW</LineData>
+                            <LineData name="LINE 2">PLOT 6412</LineData>
+                            <LineData name="LINE 3">NOKO ROAD</LineData>
+                            <LineData name="LINE 4">BROADHURST</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">STANDARD CHARTERED BANK</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOCHUDI</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">ROAD</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MAIN</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">180</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">MOCHUDI MALL</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">STANDARD CHARTERED BANK</LineData>
+                            <LineData name="LINE 2">PLOT 180</LineData>
+                            <LineData name="LINE 3">MOCHUDI MALL</LineData>
+                            <LineData name="LINE 4">MAIN ROAD</LineData>
+                            <LineData name="LINE 5">MOCHUDI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LETSHEGO FINANCIAL SERVICES</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">39</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">MAFENYATLALA MALL</U40.26.11.00>
+                        <U40.32.11.11 uniq="U40DoorType">UNIT</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">25A</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LETSHEGO FINANCIAL SERVICES</LineData>
+                            <LineData name="LINE 2">PLOT 39</LineData>
+                            <LineData name="LINE 3">UNIT 25A MAFENYATLALA MALL</LineData>
+                            <LineData name="LINE 4">MOLEPOLOLE</LineData>
+                            <LineData name="LINE 5">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">THATA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOTSHOGE</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TSHANE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GATHAGA WARD</U40.17.11.00>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">178</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THATA MOTSHOGE</LineData>
+                            <LineData name="LINE 2">178 GATHAGA WARD</LineData>
+                            <LineData name="LINE 3">TSHANE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MOITSE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">THUPA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TSHANE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GAMORITI WARD</U40.17.11.00>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">24</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MOITSE THUPA</LineData>
+                            <LineData name="LINE 2">24 GAMORITI WARD</LineData>
+                            <LineData name="LINE 3">TSHANE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LOETO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BONANG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BOSWELAKOKO WARD</U40.17.11.00>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">57</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LOETO BONANG</LineData>
+                            <LineData name="LINE 2">57 BOSWELAKOKO WARD</LineData>
+                            <LineData name="LINE 3">MOLEPOLOLE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BAME</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">THEKO</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SEROWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BASIMANE WARD</U40.17.11.00>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">100</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BAME THEKO</LineData>
+                            <LineData name="LINE 2">100 BASIMANE WARD</LineData>
+                            <LineData name="LINE 3">SEROWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BAAITSE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KENANAO</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MAUN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BOSEJA WARD</U40.17.11.00>
+                        <U40.24.12.21 uniq="U40PremIdPos2Ind">50</U40.24.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BAAITSE KENANAO</LineData>
+                            <LineData name="LINE 2">50 BOSEJA WARD</LineData>
+                            <LineData name="LINE 3">MAUN</LineData>
+                            <LineData name="LINE 4">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">TSHWANELO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MATLHABAPHIRI</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOGODITSHANE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NKOYAPHIRI WARD</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT NO.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">50</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TSHWANELO MATLHABAPHIRI</LineData>
+                            <LineData name="LINE 2">PLOT NO. 50</LineData>
+                            <LineData name="LINE 3">NKOYAPHIRI WARD</LineData>
+                            <LineData name="LINE 4">MOGODITSHANE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">THABO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TSHEPANG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BORIBAMO</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">GA RANTA WARD</U40.17.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT NO.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">987</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">THABO TSHEPANG</LineData>
+                            <LineData name="LINE 2">PLOT NO. 987</LineData>
+                            <LineData name="LINE 3">GA RANTA WARD</LineData>
+                            <LineData name="LINE 4">BORIBAMO</LineData>
+                            <LineData name="LINE 5">MOLEPOLOLE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PEARL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NTLOTLANG</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MAUN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BOSEJA WARD</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT NO.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">73</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PEARL NTLOTLANG</LineData>
+                            <LineData name="LINE 2">PLOT NO. 73</LineData>
+                            <LineData name="LINE 3">BOSEJA WARD</LineData>
+                            <LineData name="LINE 4">MAUN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LEO SCHACHTER BOTSWANA</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MOLEPOLOLE</U40.16.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">655</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">IND ESTATES</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LEO SCHACHTER BOTSWANA</LineData>
+                            <LineData name="LINE 2">PLOT 655</LineData>
+                            <LineData name="LINE 3">IND ESTATES</LineData>
+                            <LineData name="LINE 4">MOLEPOLOLE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BG FINANCE</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KANG</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">GAMOROTSI WARD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">HIGHWAY</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TRANS KALAHARI</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PLOT</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">107</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BG FINANCE</LineData>
+                            <LineData name="LINE 2">PLOT 107</LineData>
+                            <LineData name="LINE 3">TRANS KALAHARI HIGHWAY</LineData>
+                            <LineData name="LINE 4">GAMOROTSI WARD</LineData>
+                            <LineData name="LINE 5">KANG</LineData>
+                            <LineData name="LINE 6">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PELE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOLETA</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TULI BLOCK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">16MK</U40.17.11.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">SHERWOOD RANCH</U40.26.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PELE MOLETA</LineData>
+                            <LineData name="LINE 2">SHERWOOD RANCH</LineData>
+                            <LineData name="LINE 3">16MK</LineData>
+                            <LineData name="LINE 4">TULI BLOCK</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">NEO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RAKODU</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GHANZI BLOCK</U40.16.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">DELTA RANCH</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">LAPCAS LODGE</U40.26.21.00>
+                        <U40.32.11.21 uniq="U40DoorInd">1634</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NEO RAKODU</LineData>
+                            <LineData name="LINE 2">LAPCAS LODGE</LineData>
+                            <LineData name="LINE 3">1634 DELTA RANCH</LineData>
+                            <LineData name="LINE 4">GHANZI BLOCK</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GAONE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MOTSEMME</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">LOBATSE FARMS</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">33 - KO</U40.17.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PORTION</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23 OF HILDA VALE</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GAONE MOTSEMME</LineData>
+                            <LineData name="LINE 2">PORTION 23 OF HILDA VALE</LineData>
+                            <LineData name="LINE 3">33 - KO</LineData>
+                            <LineData name="LINE 4">LOBATSE FARMS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LEO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">THOBANG</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">REM OF PARKFIELD</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BAROLONG FARMS</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">25 - JO</U40.17.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LEO THOBANG</LineData>
+                            <LineData name="LINE 2">REM OF PARKFIELD</LineData>
+                            <LineData name="LINE 3">25 - JO</LineData>
+                            <LineData name="LINE 4">BAROLONG FARMS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">SHIRLEY</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">HANSEN</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">LOBATSE FARMS</U40.17.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">PORTION</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.26.21.00 uniq="U40BuildingLev2">MAIDENS HOME</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SHIRLEY HANSEN</LineData>
+                            <LineData name="LINE 2">PORTION 1</LineData>
+                            <LineData name="LINE 3">MAIDENS HOME</LineData>
+                            <LineData name="LINE 4">LOBATSE FARMS</LineData>
+                            <LineData name="LINE 5">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Noble</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Katsel</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Botswana Telecommunications Corp.</U20.00.00.00>
+                        <U20.03.00.00 uniq="U20Function">International Business Manager</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">700</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Noble Katsel</LineData>
+                            <LineData name="LINE 2">International Business Manager</LineData>
+                            <LineData name="LINE 3">Botswana Telecommunications Corp.</LineData>
+                            <LineData name="LINE 4">P.O. Box 700</LineData>
+                            <LineData name="LINE 5">GABORONE</LineData>
+                            <LineData name="LINE 6">BOTSWANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Poso</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mogae</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Edwin</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Makupe</U20.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BOTSWANA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">GABORONE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BW</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Poso Mogae</LineData>
+                            <LineData name="LINE 2">c/o Edwin Makupe</LineData>
+                            <LineData name="LINE 3">PO BOX 12</LineData>
+                            <LineData name="LINE 4">GABORONE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

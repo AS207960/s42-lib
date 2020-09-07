@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>NL</GroupDescription>
+            <GroupItemCount>36</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mevrouw</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Anna</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Groot</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">drs.</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">6832 AM</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ARNHEM</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Drieslag</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5-1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mevrouw drs. Anna de Groot</LineData>
+                            <LineData name="LINE 2">Drieslag 5-1</LineData>
+                            <LineData name="LINE 3">6832 AM ARNHEM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Datatrans</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">B.V.</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Afdeling Logistiek</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2596 EC</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Den Haag</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Wassenaarseweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">222</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Datatrans B.V.</LineData>
+                            <LineData name="LINE 2">Afdeling Logistiek</LineData>
+                            <LineData name="LINE 3">Wassenaarseweg 222</LineData>
+                            <LineData name="LINE 4">2596 EC Den Haag</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">T.a.v.</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">de heer</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">J.K.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mingelen</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">jr.</U10.09.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Roodenburg</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">VOF</U20.01.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">3001 GC</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROTTERDAM</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Weena</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">721</U40.24.00.00>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Handelsgebouw</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">West</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">3e verdieping</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Roodenburg VOF</LineData>
+                            <LineData name="LINE 2">T.a.v. de heer J.K. Mingelen jr.</LineData>
+                            <LineData name="LINE 3">Handelsgebouw West 3e verdieping</LineData>
+                            <LineData name="LINE 4">Weena 721</LineData>
+                            <LineData name="LINE 5">3001 GC ROTTERDAM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jansen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6880 AC</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">(Gld.)</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">OOSTERBEEK</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postbus</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">278</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jan Jansen</LineData>
+                            <LineData name="LINE 2">Postbus 278</LineData>
+                            <LineData name="LINE 3">6880 AC OOSTERBEEK (Gld.)</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Harry</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ven</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">van der</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dr.</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">7609 LD</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALMELO</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">De Watersnip</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Woonboot</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Marianne</U40.26.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">t.o. nummer 2</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Harry van der Ven</LineData>
+                            <LineData name="LINE 2">Woonboot Marianne t.o. nummer 2</LineData>
+                            <LineData name="LINE 3">De Watersnip 1</LineData>
+                            <LineData name="LINE 4">7609 LD ALMELO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Marketing Manager</U10.03.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">T.a.v.</U10.04.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Megasoft</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">BV</U20.01.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">7622 CZ</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">(Ov.)</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Borne</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Oude Almeloseweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">157</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">hs.</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Megasoft BV</LineData>
+                            <LineData name="LINE 2">T.a.v. Marketing Manager</LineData>
+                            <LineData name="LINE 3">Oude Almeloseweg 157 hs.</LineData>
+                            <LineData name="LINE 4">7622 CZ Borne (Ov.)</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Medewerker Account</U10.03.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Attentie</U10.04.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Megasoft</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">BV</U20.01.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Afd. Marketing &amp; Sales</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">5175 BA</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Loon op Zand</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kerkstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Megasoft BV</LineData>
+                            <LineData name="LINE 2">Afd. Marketing &amp; Sales</LineData>
+                            <LineData name="LINE 3">Attentie Medewerker Account</LineData>
+                            <LineData name="LINE 4">Kerkstr. 1</LineData>
+                            <LineData name="LINE 5">5175 BA Loon op Zand</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Familie</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bruin</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">De</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">1000 EA</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Amsterdam</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Centrum</U40.17.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postbus</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">111</U40.19.11.21>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Huize Avondrood</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Kamer 58</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Familie De Bruin</LineData>
+                            <LineData name="LINE 2">Huize Avondrood Kamer 58</LineData>
+                            <LineData name="LINE 3">Postbus 111</LineData>
+                            <LineData name="LINE 4">1000 EA Amsterdam Centrum</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kapsalon Trenza</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6606 KG</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Niftrik</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Loonse Waard</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">H</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kapsalon Trenza</LineData>
+                            <LineData name="LINE 2">Loonse Waard 13 H</LineData>
+                            <LineData name="LINE 3">6606 KG Niftrik</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mevr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jong</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">p/a</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">de heer</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">J.P.</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Baron</U20.08.00.00>
+                        <U20.10.11.00 uniq="U20PrecQualification">dr.</U20.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">6814 BH</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ARNHEM</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Velperweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mevr. B. de Jong</LineData>
+                            <LineData name="LINE 2">p/a de heer dr. J.P. Baron</LineData>
+                            <LineData name="LINE 3">Velperweg 8</LineData>
+                            <LineData name="LINE 4">6814 BH ARNHEM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mevr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jong-Bosch</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Humanoid Enterprises</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">b.v.</U20.01.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">Afdeling 4B</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">1052 MA</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Amsterdam</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Jordaan</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">2e Hugo de Grootstraat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">81-83</U40.24.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Gebouw</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Westpoint</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Kamer 8 II</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mevr. B. de Jong-Bosch</LineData>
+                            <LineData name="LINE 2">Humanoid Enterprises b.v.</LineData>
+                            <LineData name="LINE 3">Afdeling 4B</LineData>
+                            <LineData name="LINE 4">Gebouw Westpoint Kamer 8 II</LineData>
+                            <LineData name="LINE 5">2e Hugo de Grootstraat 81-83</LineData>
+                            <LineData name="LINE 6">1052 MA Amsterdam Jordaan</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">T.a.v.</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">de heer</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">H.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hoger</U10.08.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">Secretaris</U10.10.13.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Gem. Federatie van Zorgverenigingen</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Unit 24</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">3990 GB</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Provincie Utrecht</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Houten</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postbus</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">269</U40.19.11.21>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Groothandelsgebouw</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">A-V-234</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gem. Federatie van Zorgverenigingen</LineData>
+                            <LineData name="LINE 2">Unit 24</LineData>
+                            <LineData name="LINE 3">T.a.v. de heer H. Hoger Secretaris</LineData>
+                            <LineData name="LINE 4">Groothandelsgebouw A-V-234</LineData>
+                            <LineData name="LINE 5">Postbus 269</LineData>
+                            <LineData name="LINE 6">3990 GB Houten Provincie Utrecht</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hans</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jansen van Galen</U10.08.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">MSc</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">1183 AT</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Amstelveen</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Prof. J.H. Bavincklaan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">bis</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hans Jansen van Galen MSc</LineData>
+                            <LineData name="LINE 2">Prof. J.H. Bavincklaan 2 bis</LineData>
+                            <LineData name="LINE 3">1183 AT Amstelveen</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Th.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Boonstra</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1991 JC</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Velserbroek</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Zeilmakerstraat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">44</U40.24.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Woonwagen</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">De Grote Beer</U40.26.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">bij de Watertoren</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Th. Boonstra</LineData>
+                            <LineData name="LINE 2">Woonwagen De Grote Beer bij de Watertoren</LineData>
+                            <LineData name="LINE 3">Zeilmakerstraat 44</LineData>
+                            <LineData name="LINE 4">1991 JC Velserbroek</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Nederlandse Ver. van Zangkoren</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">de directie</U10.02.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Ter attentie van</U10.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7311 CH</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">APELDOORN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Handelstraat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nederlandse Ver. van Zangkoren</LineData>
+                            <LineData name="LINE 2">Ter attentie van de directie</LineData>
+                            <LineData name="LINE 3">Handelstraat 2</LineData>
+                            <LineData name="LINE 4">7311 CH APELDOORN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">De heer</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">M.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hondt</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">prof. dr. ir.</U10.10.11.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">UvA</U20.00.11.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">Faculteit der Rechtsgeleerdheid</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">1094 PN</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">A&apos;dam</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Insulindeweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">66c</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">UvA</LineData>
+                            <LineData name="LINE 2">Faculteit der Rechtsgeleerdheid</LineData>
+                            <LineData name="LINE 3">De heer prof. dr. ir. M. de Hondt</LineData>
+                            <LineData name="LINE 4">Insulindeweg 66c</LineData>
+                            <LineData name="LINE 5">1094 PN A&apos;dam</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Familie</U10.05.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hoogstra-Bennebroek</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6814 JT</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ARNHEM</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Hoogkamp</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Johannes Vermeerstraat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Familie Hoogstra-Bennebroek</LineData>
+                            <LineData name="LINE 2">Johannes Vermeerstraat 4</LineData>
+                            <LineData name="LINE 3">6814 JT ARNHEM Hoogkamp</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Arie en Jolanda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kruizenga</U10.08.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">Fysiotherapeuten</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">6673 DP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Andelst</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Buskesdries</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Arie en Jolanda Kruizenga Fysiotherapeuten</LineData>
+                            <LineData name="LINE 2">Buskesdries 13</LineData>
+                            <LineData name="LINE 3">6673 DP Andelst</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Fysiotherapeutisch Centrum Arie en Jolanda Kruizenga</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Intake Unit 1</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6673 DP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Andelst</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Buskesdries</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">13</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fysiotherapeutisch Centrum Arie en Jolanda Kruizenga</LineData>
+                            <LineData name="LINE 2">Intake Unit 1</LineData>
+                            <LineData name="LINE 3">Buskesdries 13</LineData>
+                            <LineData name="LINE 4">6673 DP Andelst</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">De heer en mevr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">P.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">van Willigen-Dost</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1042 AV</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">AMSTERDAM</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Marifoonweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Bejaardenhuis</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">De Schutse</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Kamer 4-112</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">De heer en mevr. P. van Willigen-Dost</LineData>
+                            <LineData name="LINE 2">Bejaardenhuis De Schutse Kamer 4-112</LineData>
+                            <LineData name="LINE 3">Marifoonweg 12</LineData>
+                            <LineData name="LINE 4">1042 AV AMSTERDAM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Simon</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">van Nispen tot Pannerden</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">baron</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">2289 CA</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">(ZH)</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Rijswijk</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Madame Curielaan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Simon baron van Nispen tot Pannerden</LineData>
+                            <LineData name="LINE 2">Madame Curielaan 6</LineData>
+                            <LineData name="LINE 3">2289 CA Rijswijk (ZH)</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Arnold</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jong</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U10.10.13.00 uniq="U10SuccQualification">Directeur</U10.10.13.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Administratiekantoor De Jong &amp; Partners</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">3503 RP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Utrecht</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postbus</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8613</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Administratiekantoor De Jong &amp; Partners</LineData>
+                            <LineData name="LINE 2">Arnold de Jong Directeur</LineData>
+                            <LineData name="LINE 3">Postbus 8613</LineData>
+                            <LineData name="LINE 4">3503 RP Utrecht</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Edwin en Adèle</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kuipers</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Café Touché</U20.00.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">6811 LP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ARNHEM</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Korenmarkt</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Café Touché</LineData>
+                            <LineData name="LINE 2">Edwin en Adèle Kuipers</LineData>
+                            <LineData name="LINE 3">Korenmarkt 7</LineData>
+                            <LineData name="LINE 4">6811 LP ARNHEM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">De weledelgeboren heer</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Boudewijn</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sloet tot Oldenhave</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Jonkheer</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">3991 LH</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HOUTEN</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ambachtsweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18</U40.24.00.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Slot</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Loevenstein</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">De weledelgeboren heer Jonkheer Boudewijn Sloet tot Oldenhave</LineData>
+                            <LineData name="LINE 2">Slot Loevenstein</LineData>
+                            <LineData name="LINE 3">Ambachtsweg 18</LineData>
+                            <LineData name="LINE 4">3991 LH HOUTEN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">GAKO</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">N.V.</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Customer Services</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3990 GE</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Houten</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Achterom</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1 t/m 5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GAKO N.V.</LineData>
+                            <LineData name="LINE 2">Customer Services</LineData>
+                            <LineData name="LINE 3">Achterom 1 t/m 5</LineData>
+                            <LineData name="LINE 4">3990 GE Houten</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Tav</U10.04.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Harold</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Reus</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">de</U10.08.11.31>
+                        <U10.10.13.00 uniq="U10SuccQualification">Chefkok</U10.10.13.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Restaurant De Olde Smidse</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">BV</U20.01.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">6813 DE</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Arnhem</U40.16.00.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Noordelijke</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Parallelweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">76</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Restaurant De Olde Smidse BV</LineData>
+                            <LineData name="LINE 2">Tav Harold de Reus Chefkok</LineData>
+                            <LineData name="LINE 3">Noordelijke Parallelweg 76</LineData>
+                            <LineData name="LINE 4">6813 DE Arnhem</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Henk-Jan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Löwensteyn</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4153 BL</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BEESD</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Prins Willem-Alexandersingel</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">102</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Henk-Jan Löwensteyn</LineData>
+                            <LineData name="LINE 2">Prins Willem-Alexandersingel 102</LineData>
+                            <LineData name="LINE 3">4153 BL BEESD</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">L.G.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Aartse</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dr.</U10.10.11.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">FB r.i.</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">7109 CD</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Winterswijk</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Miste</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Blekkinkhofweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. L.G. Aartse FB r.i.</LineData>
+                            <LineData name="LINE 2">Blekkinkhofweg 2</LineData>
+                            <LineData name="LINE 3">7109 CD Winterswijk Miste</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mevrouw</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">W.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Baalen</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">van</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">drs.</U10.10.11.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">p/a</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Mevr.</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Belinda</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Gruijter</U20.08.00.00>
+                        <U20.08.11.31 uniq="U20SurnamePrefix">de</U20.08.11.31>
+                        <U20.10.13.00 uniq="U20SuccQualification">MBA</U20.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">1861 XS</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">NH</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bergen</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Boterbloemweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mevrouw drs. W. van Baalen</LineData>
+                            <LineData name="LINE 2">p/a Mevr. Belinda de Gruijter MBA</LineData>
+                            <LineData name="LINE 3">Boterbloemweg 27</LineData>
+                            <LineData name="LINE 4">1861 XS Bergen NH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">KAB Theater</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9828 PE</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">gem. Leek</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Oostwold</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hoofdstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">274</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">KAB Theater</LineData>
+                            <LineData name="LINE 2">Hoofdstr. 274</LineData>
+                            <LineData name="LINE 3">9828 PE Oostwold gem. Leek</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">De heer</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ferdinand</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bols</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Hzn.</U10.09.00.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">MA</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">1191 BX</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ouderkerk aan de Amstel</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Prinses Margrietlaan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">26</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">De heer Ferdinand Bols Hzn. MA</LineData>
+                            <LineData name="LINE 2">Prinses Margrietlaan 26</LineData>
+                            <LineData name="LINE 3">1191 BX Ouderkerk aan de Amstel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alex</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nispen</U10.08.00.00>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">van</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Prof.</U10.10.11.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">graaf</U10.10.12.00>
+                        <U10.10.13.00 uniq="U10SuccQualification">BA MKM</U10.10.13.00>
+                        <U40.13.00.00 uniq="U40PostCode">2935 XN</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ouderkerk aan de IJssel</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Margrietstraat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof. Alex graaf van Nispen BA MKM</LineData>
+                            <LineData name="LINE 2">Margrietstraat 11</LineData>
+                            <LineData name="LINE 3">2935 XN Ouderkerk aan de IJssel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Evert</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tjon A Tjoen</U10.08.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Palemco</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">BV</U20.01.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">2071 AP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Santpoort</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Noord</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Middenduinerweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Evert Tjon A Tjoen</LineData>
+                            <LineData name="LINE 2">Palemco BV</LineData>
+                            <LineData name="LINE 3">Middenduinerweg 27</LineData>
+                            <LineData name="LINE 4">2071 AP Santpoort Noord</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Evert</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tjon A Tjoen</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Palemco</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">BV</U20.01.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">2071 AP</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Santpoort</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Noord</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Middenduinerweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">27</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Palemco BV</LineData>
+                            <LineData name="LINE 2">Evert Tjon A Tjoen</LineData>
+                            <LineData name="LINE 3">Middenduinerweg 27</LineData>
+                            <LineData name="LINE 4">2071 AP Santpoort Noord</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Tav</U10.04.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Theo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yantze</U10.08.00.00>
+                        <U20.00.11.00 uniq="U20OrgNamePos1">Gebr. Yantze Steenhandel</U20.00.11.00>
+                        <U20.01.11.00 uniq="U20PrecLegalStatusPos1">VOF</U20.01.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">4617 HD</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bergen op Zoom</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">De Boulevard Noord</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gebr. Yantze Steenhandel VOF</LineData>
+                            <LineData name="LINE 2">Tav Theo Yantze</LineData>
+                            <LineData name="LINE 3">De Boulevard Noord 65</LineData>
+                            <LineData name="LINE 4">4617 HD Bergen op Zoom</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mevrouw</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">A.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Groot</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2517 AL</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Nederland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Den Haag</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Laan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">van Meerdervoort</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">30</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">nl</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">NL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mevrouw A. Groot</LineData>
+                            <LineData name="LINE 2">Laan van Meerdervoort 30</LineData>
+                            <LineData name="LINE 3">2517 AL Den Haag</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

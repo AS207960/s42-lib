@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>ES</GroupDescription>
+            <GroupItemCount>23</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ferretería Hermanos Plaza</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">28003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MADRID</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Santa Engracia</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">48</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ferretería Hermanos Plaza</LineData>
+                            <LineData name="LINE 2">Calle Santa Engracia 48</LineData>
+                            <LineData name="LINE 3">28003 MADRID</LineData>
+                            <LineData name="LINE 4">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr. D.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Gabriel</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">González</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">López</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">08023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BARCELONA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARCELONA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Diagonal</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">48</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">Apto. 402</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. D. Gabriel González López</LineData>
+                            <LineData name="LINE 2">Avenida Diagonal 48, Apto. 402</LineData>
+                            <LineData name="LINE 3">08023 BARCELONA</LineData>
+                            <LineData name="LINE 4">BARCELONA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Representaciones La Isla</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">38200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SANTA CRUZ DE TENERIFE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TACO</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">El Tablero</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Carretera</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">del Sur</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">224</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Representaciones La Isla</LineData>
+                            <LineData name="LINE 2">El Tablero</LineData>
+                            <LineData name="LINE 3">Carretera del Sur 224</LineData>
+                            <LineData name="LINE 4">38200 TACO</LineData>
+                            <LineData name="LINE 5">SANTA CRUZ DE TENERIFE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr. D.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">José</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ayuso</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Cortés</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">09692</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BURGOS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CANICOSA DE LA SIERRA</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Barrio de San Roque</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. D. José Ayuso Cortés</LineData>
+                            <LineData name="LINE 2">Barrio de San Roque</LineData>
+                            <LineData name="LINE 3">09692 CANICOSA DE LA SIERRA</LineData>
+                            <LineData name="LINE 4">BURGOS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Naviera Casarejos</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">33400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ASTURIAS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">AVILÉS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Apartado</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">324</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Naviera Casarejos</LineData>
+                            <LineData name="LINE 2">Apartado 324</LineData>
+                            <LineData name="LINE 3">33400 AVILÉS</LineData>
+                            <LineData name="LINE 4">ASTURIAS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sra. Dª.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Donata</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ramos</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Quiroga</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">15080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">LA CORUÑA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">LA CORUÑA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Lista de Correos</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sra. Dª. Donata Ramos Quiroga</LineData>
+                            <LineData name="LINE 2">Lista de Correos</LineData>
+                            <LineData name="LINE 3">15080 LA CORUÑA</LineData>
+                            <LineData name="LINE 4">LA CORUÑA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Libro Digital</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.A.</U10.01.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">At/</U20.04.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Jaime</U20.06.11.11>
+                        <U20.08.11.11 uniq="U20SurnamePart1">González</U20.08.11.11>
+                        <U20.08.11.21 uniq="U20SurnamePart2">Suárez</U20.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">28035</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MADRID</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Juan de Austria</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">48</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">C</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Libro Digital, S.A.</LineData>
+                            <LineData name="LINE 2">At/ Jaime González Suárez</LineData>
+                            <LineData name="LINE 3">Calle Juan de Austria 48, 4º C</LineData>
+                            <LineData name="LINE 4">28035 MADRID</LineData>
+                            <LineData name="LINE 5">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">At/</U10.04.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jaime</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">González</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Suárez</U10.08.11.21>
+                        <U20.00.00.00 uniq="U20OrgName">Libro Digital</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">S.A.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">28035</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MADRID</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Juan de Austria</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">48</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">C</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">At/ Jaime González Suárez</LineData>
+                            <LineData name="LINE 2">Libro Digital, S.A.</LineData>
+                            <LineData name="LINE 3">Calle Juan de Austria 48, 4º C</LineData>
+                            <LineData name="LINE 4">28035 MADRID</LineData>
+                            <LineData name="LINE 5">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Luis</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Mucientes</U10.08.11.11>
+                        <U10.10.00.00 uniq="U10Qualification">Doctor</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">48015</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">VIZCAYA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BILBAO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Salud</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">16</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doctor Luis Mucientes</LineData>
+                            <LineData name="LINE 2">Calle Salud 16</LineData>
+                            <LineData name="LINE 3">48015 BILBAO</LineData>
+                            <LineData name="LINE 4">VIZCAYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MINISTERIO DEL INTERIOR</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Jefatura Provincial de Tráfico</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">42071</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SORIA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SORIA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Pintor Sánchez Pedrero</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">17</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MINISTERIO DEL INTERIOR</LineData>
+                            <LineData name="LINE 2">Jefatura Provincial de Tráfico</LineData>
+                            <LineData name="LINE 3">Calle Pintor Sánchez Pedrero 17</LineData>
+                            <LineData name="LINE 4">42071 SORIA</LineData>
+                            <LineData name="LINE 5">SORIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Subdirector de Marketing</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr. D.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Juan</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Carlos</U10.06.11.21>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Sanz</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Atienza</U10.08.11.21>
+                        <U20.00.00.00 uniq="U20OrgName">Azucarera del Sur</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">28080</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MADRID</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Apartado</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">230</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. D. Juan Carlos Sanz Atienza</LineData>
+                            <LineData name="LINE 2">Subdirector de Marketing</LineData>
+                            <LineData name="LINE 3">Azucarera del Sur</LineData>
+                            <LineData name="LINE 4">Apartado 230</LineData>
+                            <LineData name="LINE 5">28080 MADRID</LineData>
+                            <LineData name="LINE 6">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Srta.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Carmen</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Garcés</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Casero</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">29400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MÁLAGA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARBELLA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Huertas</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.26.00.00 uniq="U40Building">Edificio Lepanto</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">4º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">C</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Srta. Carmen Garcés Casero</LineData>
+                            <LineData name="LINE 2">Edificio Lepanto</LineData>
+                            <LineData name="LINE 3">Calle Huertas 18, 4º C</LineData>
+                            <LineData name="LINE 4">29400 MARBELLA</LineData>
+                            <LineData name="LINE 5">MÁLAGA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr. D.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Jaime</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Lozano</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Seguí</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">45012</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">TOLEDO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TOLEDO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Plaza</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">de las Descalzas</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">27</U40.24.11.21>
+                        <U40.30.00.00 uniq="U40Stairwell">Esc 2</U40.30.00.00>
+                        <U40.31.00.00 uniq="U40Floor">3º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">C</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. D. Jaime Lozano Seguí</LineData>
+                            <LineData name="LINE 2">Plaza de las Descalzas 27, Esc 2, 3º C</LineData>
+                            <LineData name="LINE 3">45012 TOLEDO</LineData>
+                            <LineData name="LINE 4">TOLEDO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Maria</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Luisa</U10.06.11.21>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Luna</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Garcia</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">28806</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALCALÁ DE HENARES</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Albéniz</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Maria Luisa Luna Garcia</LineData>
+                            <LineData name="LINE 2">Calle Albéniz 1, 4º A</LineData>
+                            <LineData name="LINE 3">28806 ALCALÁ DE HENARES</LineData>
+                            <LineData name="LINE 4">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Luis</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Perez</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Gomez</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">28020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MADRID</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Orense</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">4º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">D</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luis Perez Gomez</LineData>
+                            <LineData name="LINE 2">Calle Orense 6, 4º D</LineData>
+                            <LineData name="LINE 3">28020 MADRID</LineData>
+                            <LineData name="LINE 4">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Luis</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Perez</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Gomez</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">08221</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BARCELONA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASTELLAR DE VALLÉS</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Airesol</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">5ª</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">izda</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luis Perez Gomez</LineData>
+                            <LineData name="LINE 2">Avenida Airesol 15, 5ª izda</LineData>
+                            <LineData name="LINE 3">08221 CASTELLAR DE VALLÉS</LineData>
+                            <LineData name="LINE 4">BARCELONA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Luis</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Perez</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Gomez</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">28110</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALGETE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Acacia</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">25</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luis Perez Gomez</LineData>
+                            <LineData name="LINE 2">Calle Acacia 25</LineData>
+                            <LineData name="LINE 3">28110 ALGETE</LineData>
+                            <LineData name="LINE 4">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Luis</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Perez</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Gomez</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">29760</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">MADRID</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TRES CANTOS</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Calle</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Júpiter</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">29</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">3º</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">H</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Luis Perez Gomez</LineData>
+                            <LineData name="LINE 2">Calle Júpiter 29, 3º H</LineData>
+                            <LineData name="LINE 3">29760 TRES CANTOS</LineData>
+                            <LineData name="LINE 4">MADRID</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Instituto de Medicina</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">51001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CEUTA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Plaza</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Rafael Gibert</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">S/N</U40.24.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Instituto de Medicina</LineData>
+                            <LineData name="LINE 2">Plaza Rafael Gibert S/N</LineData>
+                            <LineData name="LINE 3">51001 CEUTA</LineData>
+                            <LineData name="LINE 4">ESPAÑA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Sr. Dª.</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Pilar</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Mercedes</U10.06.11.21>
+                        <U10.08.11.11 uniq="U10SurnamePart1">González</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">González</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">06010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">BAJADOZ</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BAJADOZ</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Av.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Cristóbal Colón</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">50</U40.24.11.21>
+                        <U40.31.00.00 uniq="U40Floor">entlo.</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sr. Dª. Pilar Mercedes González González</LineData>
+                            <LineData name="LINE 2">Av. Cristóbal Colón 50, entlo. A</LineData>
+                            <LineData name="LINE 3">06010 BAJADOZ</LineData>
+                            <LineData name="LINE 4">BAJADOZ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Panaderia Bravo</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">03830</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ALICANTE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MURO DE ALCOY</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Cjón.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">San Roque</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Panaderia Bravo</LineData>
+                            <LineData name="LINE 2">Cjón. San Roque 2</LineData>
+                            <LineData name="LINE 3">03830 MURO DE ALCOY</LineData>
+                            <LineData name="LINE 4">ALICANTE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hotel Villa Granada</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">18220</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">GRANADA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATARFE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Ctra.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">de Córdoba</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">km.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">284,5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hotel Villa Granada</LineData>
+                            <LineData name="LINE 2">Ctra. de Córdoba km. 284,5</LineData>
+                            <LineData name="LINE 3">18220 ATARFE</LineData>
+                            <LineData name="LINE 4">GRANADA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Andrés</U10.06.11.11>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Muñoz</U10.08.11.11>
+                        <U10.08.11.21 uniq="U10SurnamePart2">Martínez</U10.08.11.21>
+                        <U40.13.00.00 uniq="U40PostCode">50461</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ESPAÑA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ZARAGOZA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALFAMÉN</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Ctra.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">de Calatorao</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">S/N</U40.24.11.11>
+                        <U40.26.00.00 uniq="U40Building">Finca San Miguel</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ES</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ES</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Andrés Muñoz Martínez</LineData>
+                            <LineData name="LINE 2">Finca San Miguel</LineData>
+                            <LineData name="LINE 3">Ctra. de Calatorao S/N</LineData>
+                            <LineData name="LINE 4">50461 ALFAMÉN</LineData>
+                            <LineData name="LINE 5">ZARAGOZA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

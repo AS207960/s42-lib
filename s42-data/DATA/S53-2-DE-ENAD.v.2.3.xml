@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>DE</GroupDescription>
+            <GroupItemCount>75</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Citibank Privatkunden AG Risikomanagement</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">68151</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mannheim</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Citibank Privatkunden AG Risikomanagement</LineData>
+                            <LineData name="LINE 2">68151 Mannheim</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Frau</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Violetta</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hagen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">02826</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Görlitz</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dr.-Friedrichs-Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Frau</LineData>
+                            <LineData name="LINE 2">Violetta Hagen</LineData>
+                            <LineData name="LINE 3">Dr.-Friedrichs-Str. 5</LineData>
+                            <LineData name="LINE 4">02826 Görlitz</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Herrn</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Frank</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zander</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Dr.</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">60486</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Frankfurt a. M</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post-Nr.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">123456</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Packstation 105</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Herrn</LineData>
+                            <LineData name="LINE 2">Dr. Frank Zander</LineData>
+                            <LineData name="LINE 3">Post-Nr. 123456</LineData>
+                            <LineData name="LINE 4">Packstation 105</LineData>
+                            <LineData name="LINE 5">60486 Frankfurt a. M</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Harry</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hase</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53131</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bonn</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">postlagernd</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Harry Hase</LineData>
+                            <LineData name="LINE 2">postlagernd</LineData>
+                            <LineData name="LINE 3">53131 Bonn</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Liselotte</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sommer</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50939</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Köln</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Rhondorfer Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">666</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">Appartment 47</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Liselotte Sommer</LineData>
+                            <LineData name="LINE 2">Rhondorfer Str. 666 // Appartment 47</LineData>
+                            <LineData name="LINE 3">50939 Köln</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">TDK</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Abt. Vertrieb</U10.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">z. Hdn.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Frau</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Niedermeyer</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67677</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Enkenbach-Alsenborn</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kindergartenstrasse</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">TDK</LineData>
+                            <LineData name="LINE 2">Abt. Vertrieb</LineData>
+                            <LineData name="LINE 3">z. Hdn. Frau Niedermeyer</LineData>
+                            <LineData name="LINE 4">Kindergartenstrasse 3</LineData>
+                            <LineData name="LINE 5">67677 Enkenbach-Alsenborn</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Henning</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Harke</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Prof. Dr.</U10.10.12.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Institut für Anaesthesie Klinikum Krefeld</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">47805</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Krefeld</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lutherplatz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">40</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof. Dr. Henning Harke</LineData>
+                            <LineData name="LINE 2">Institut für Anaesthesie Klinikum Krefeld</LineData>
+                            <LineData name="LINE 3">Lutherplatz 40</LineData>
+                            <LineData name="LINE 4">47805 Krefeld</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Volkswagen</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">AG</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">B2B Lieferantenplattform</U10.02.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">VW Group Supply.com</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">38436</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wolfsburg</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">16 29</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Volkswagen AG</LineData>
+                            <LineData name="LINE 2">B2B Lieferantenplattform</LineData>
+                            <LineData name="LINE 3">VW Group Supply.com</LineData>
+                            <LineData name="LINE 4">Postfach 16 29</LineData>
+                            <LineData name="LINE 5">38436 Wolfsburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Cinnemaxx Mannheim</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">68161</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mannheim</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">N7,</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">17</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Cinnemaxx Mannheim</LineData>
+                            <LineData name="LINE 2">N7, 17</LineData>
+                            <LineData name="LINE 3">68161 Mannheim</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Postfiliale</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">49479</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ibbenbüren</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Ortsteil Püsselbüren</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Roßlauer Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4-6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Postfiliale</LineData>
+                            <LineData name="LINE 2">Ortsteil Püsselbüren</LineData>
+                            <LineData name="LINE 3">Roßlauer Str. 4-6</LineData>
+                            <LineData name="LINE 4">49479 Ibbenbüren</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bundesministerium des Inneren</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10559</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Alt-Moabit</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">101 D</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bundesministerium des Inneren</LineData>
+                            <LineData name="LINE 2">Alt-Moabit 101 D</LineData>
+                            <LineData name="LINE 3">10559 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kompass Deutschland</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Verlags- und Vertriebsgesellschaft mbH</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">79009</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Freiburg i. Br.</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">9 64</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kompass Deutschland</LineData>
+                            <LineData name="LINE 2">Verlags- und Vertriebsgesellschaft mbH</LineData>
+                            <LineData name="LINE 3">Postfach 9 64</LineData>
+                            <LineData name="LINE 4">79009 Freiburg i. Br.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Schloß Britz</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12359</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Ortsteil Neukoelln</U40.17.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Alt-Britz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">73</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Schloß Britz</LineData>
+                            <LineData name="LINE 2">Ortsteil Neukoelln</LineData>
+                            <LineData name="LINE 3">Alt-Britz 73</LineData>
+                            <LineData name="LINE 4">12359 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Quelle Bausparkasse</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90439</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nürnberg</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kunigundenstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">71</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Quelle Bausparkasse</LineData>
+                            <LineData name="LINE 2">Kunigundenstr. 71</LineData>
+                            <LineData name="LINE 3">90439 Nürnberg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Technische Universität Berlin</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Zentraleinrichtung Rechenzentrum</U10.02.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">Sekretariat E-N 50</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10587</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Einsteinufer</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">17</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Technische Universität Berlin</LineData>
+                            <LineData name="LINE 2">Zentraleinrichtung Rechenzentrum</LineData>
+                            <LineData name="LINE 3">Sekretariat E-N 50</LineData>
+                            <LineData name="LINE 4">Einsteinufer 17</LineData>
+                            <LineData name="LINE 5">10587 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.00.00 uniq="U10OrgUnit">Datenschutzbeauftrage der Deutschen Post AG</U10.02.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Deutsche Post</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">AG</U20.01.12.00>
+                        <U20.06.00.00 uniq="U20GivenName">Gabriela</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Krader</U20.08.00.00>
+                        <U20.10.13.00 uniq="U20SuccQualification">LL.M</U20.10.13.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">Corporate Center- SP 516</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53250</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bonn</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Datenschutzbeauftrage der Deutschen Post AG</LineData>
+                            <LineData name="LINE 2">Gabriela Krader, LL.M</LineData>
+                            <LineData name="LINE 3">Deutsche Post AG</LineData>
+                            <LineData name="LINE 4">Corporate Center- SP 516</LineData>
+                            <LineData name="LINE 5">53250 Bonn</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Herrn</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">W.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Funke</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Amtsdirektor</U10.10.11.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Amt Steinhöfel/Heinersdorf</U20.00.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">15518</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Steinhöfel</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Demnutzer Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Herrn Amtsdirektor</LineData>
+                            <LineData name="LINE 2">W. Funke</LineData>
+                            <LineData name="LINE 3">Amt Steinhöfel/Heinersdorf</LineData>
+                            <LineData name="LINE 4">Demnutzer Straße 7</LineData>
+                            <LineData name="LINE 5">15518 Steinhöfel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Stadt Haltern am See</U10.00.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Schmergel</U20.08.00.00>
+                        <U20.10.11.00 uniq="U20PrecQualification">Bürgermeister</U20.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">45712</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Haltern</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10 01 62</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Stadt Haltern am See</LineData>
+                            <LineData name="LINE 2">Bürgermeister Schmergel</LineData>
+                            <LineData name="LINE 3">Postfach 10 01 62</LineData>
+                            <LineData name="LINE 4">45712 Haltern</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Coupling Media</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">GmbH</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">32120</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Germany</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hiddenhausen</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Südfeldenstraße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Coupling Media GmbH</LineData>
+                            <LineData name="LINE 2">Südfeldenstraße 10</LineData>
+                            <LineData name="LINE 3">32120 Hiddenhausen</LineData>
+                            <LineData name="LINE 4">Germany</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ulmer Akademie</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">für Datenschutz und IT-Sicherheit (udis) e. V.</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">89231</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Neu-Ulm</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Marlene-Dietrich-Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ulmer Akademie</LineData>
+                            <LineData name="LINE 2">für Datenschutz und IT-Sicherheit (udis) e. V.</LineData>
+                            <LineData name="LINE 3">Marlene-Dietrich-Straße 5</LineData>
+                            <LineData name="LINE 4">89231 Neu-Ulm</LineData>
+                            <LineData name="LINE 5">Deutschland</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Landesärztekammer</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64216</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Darmstadt</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">11 01 61</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Landesärztekammer</LineData>
+                            <LineData name="LINE 2">Postfach 11 01 61</LineData>
+                            <LineData name="LINE 3">64216 Darmstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bundeswehr Gerätedepot</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64297</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Darmstadt</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">An der neuen Bergstraße</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bundeswehr Gerätedepot</LineData>
+                            <LineData name="LINE 2">An der neuen Bergstraße</LineData>
+                            <LineData name="LINE 3">64297 Darmstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kinderbüro der Stadt Oberursel</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61440</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Oberursel (Taunus)</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Eppsteiner Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">16 - 18</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kinderbüro der Stadt Oberursel</LineData>
+                            <LineData name="LINE 2">Eppsteiner Straße 16 - 18</LineData>
+                            <LineData name="LINE 3">61440 Oberursel (Taunus)</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bank für Sozialwirtschaft</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Geschäftsstelle Essen</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">45127</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Essen</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kennedyplatz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bank für Sozialwirtschaft</LineData>
+                            <LineData name="LINE 2">Geschäftsstelle Essen</LineData>
+                            <LineData name="LINE 3">Kennedyplatz 6</LineData>
+                            <LineData name="LINE 4">45127 Essen</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ärztliches Zentrum für Qualität in der Medizin</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50931</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Köln</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Aachener Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">233-237</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ärztliches Zentrum für Qualität in der Medizin</LineData>
+                            <LineData name="LINE 2">Aachener Straße 233-237</LineData>
+                            <LineData name="LINE 3">50931 Köln</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">RTL 2 Television</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50858</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Köln</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Aachener Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1036</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RTL 2 Television</LineData>
+                            <LineData name="LINE 2">Aachener Straße 1036</LineData>
+                            <LineData name="LINE 3">50858 Köln</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ZDF</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">55100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mainz</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">40 40</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ZDF</LineData>
+                            <LineData name="LINE 2">Postfach 40 40</LineData>
+                            <LineData name="LINE 3">55100 Mainz</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Frauenklinik Heiligenstadt</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">37308</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Heilbad Heiligenstadt</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Windische Gasse</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">112</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Frauenklinik Heiligenstadt</LineData>
+                            <LineData name="LINE 2">Windische Gasse 112</LineData>
+                            <LineData name="LINE 3">37308 Heilbad Heiligenstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Statistisches Bundesamt</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Statistischer Informationsservice</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65189</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wiesbaden</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Gustav-Stresemann-Ring</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Statistisches Bundesamt</LineData>
+                            <LineData name="LINE 2">Statistischer Informationsservice</LineData>
+                            <LineData name="LINE 3">Gustav-Stresemann-Ring 11</LineData>
+                            <LineData name="LINE 4">65189 Wiesbaden</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ford Werke</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">AG</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50725</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Köln</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ford Werke AG</LineData>
+                            <LineData name="LINE 2">50725 Köln</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Doris</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lemmes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64532</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mörfelden-Walldorf</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">21 01</U40.19.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hauptstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doris Lemmes</LineData>
+                            <LineData name="LINE 2">Hauptstr. 10</LineData>
+                            <LineData name="LINE 3">Postfach 21 01</LineData>
+                            <LineData name="LINE 4">64532 Mörfelden-Walldorf</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Stiftung Warentest</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10724</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">30 41 41</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Stiftung Warentest</LineData>
+                            <LineData name="LINE 2">Postfach 30 41 41</LineData>
+                            <LineData name="LINE 3">10724 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Landratsamt Kamenz</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01917</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kamenz</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">09 11</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Landratsamt Kamenz</LineData>
+                            <LineData name="LINE 2">Postfach 09 11</LineData>
+                            <LineData name="LINE 3">01917 Kamenz</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Technologiezentrum Dresden</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">01217</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Dresden</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Gostritzer Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">61</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Technologiezentrum Dresden</LineData>
+                            <LineData name="LINE 2">Gostritzer Straße 61</LineData>
+                            <LineData name="LINE 3">01217 Dresden</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Verein der Ingeneure</U10.00.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Herrn</U20.05.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Peter</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Lämmler</U20.08.00.00>
+                        <U20.10.11.00 uniq="U20PrecQualification">Dipl.-Ing.</U20.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">09112</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chemnitz</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Reichsstr</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">57</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Verein der Ingeneure</LineData>
+                            <LineData name="LINE 2">Herrn Dipl.-Ing. Peter Lämmler</LineData>
+                            <LineData name="LINE 3">Reichsstr 57</LineData>
+                            <LineData name="LINE 4">09112 Chemnitz</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Claudia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Auguste</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Dr. med.</U10.10.12.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Universität Augsburg</U20.00.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">Bewegungs und Trainigswissenschaften</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">86135</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Augsburg</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. med. Claudia Auguste</LineData>
+                            <LineData name="LINE 2">Bewegungs und Trainigswissenschaften</LineData>
+                            <LineData name="LINE 3">Universität Augsburg</LineData>
+                            <LineData name="LINE 4">86135 Augsburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bodenseewerk Perkin-Elmer</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">GmbH</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Umwelt und Prozeßanalytik</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Meersburg</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dr. Zimmermann-Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bodenseewerk Perkin-Elmer GmbH</LineData>
+                            <LineData name="LINE 2">Umwelt und Prozeßanalytik</LineData>
+                            <LineData name="LINE 3">Dr. Zimmermann-Straße 18</LineData>
+                            <LineData name="LINE 4">88709 Meersburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Dr. Lang &amp; Partner</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">GmbH</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">72813</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">St. Johann</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Buchstr</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">14</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Lang &amp; Partner GmbH</LineData>
+                            <LineData name="LINE 2">Buchstr 14</LineData>
+                            <LineData name="LINE 3">72813 St. Johann</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Rheinbraun</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">AG</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Hauptverwaltung</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50935</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Köln</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Stüttgenweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rheinbraun AG</LineData>
+                            <LineData name="LINE 2">Hauptverwaltung</LineData>
+                            <LineData name="LINE 3">Stüttgenweg 2</LineData>
+                            <LineData name="LINE 4">50935 Köln</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Deutsche Post</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">AG</U10.01.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Kundenservice Brief</U10.02.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Herrn</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Binder</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">53113</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bonn</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Charles-de Gaulle-Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">20</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Deutsche Post AG</LineData>
+                            <LineData name="LINE 2">Kundenservice Brief</LineData>
+                            <LineData name="LINE 3">Herrn Binder</LineData>
+                            <LineData name="LINE 4">Charles-de Gaulle-Str. 20</LineData>
+                            <LineData name="LINE 5">53113 Bonn</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Europawahl</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76241</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Karlsruhe</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Europawahl</LineData>
+                            <LineData name="LINE 2">76241 Karlsruhe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Müller</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06667</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Weißenfels</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Brahmsweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Müller</LineData>
+                            <LineData name="LINE 2">Brahmsweg 19</LineData>
+                            <LineData name="LINE 3">06667 Weißenfels</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Technische Universität Karlsruhe</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Zentraleinrichtung Hochbau</U10.02.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">Sekretariat 10</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76113</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Karlsruhe</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Durlacher Allee</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Technische Universität Karlsruhe</LineData>
+                            <LineData name="LINE 2">Zentraleinrichtung Hochbau</LineData>
+                            <LineData name="LINE 3">Sekretariat 10</LineData>
+                            <LineData name="LINE 4">Durlacher Allee</LineData>
+                            <LineData name="LINE 5">76113 Karlsruhe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Avena</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">GmbH</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">55543</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bad Kreuznach</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Rheingrafenstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Avena GmbH</LineData>
+                            <LineData name="LINE 2">Rheingrafenstr. 3</LineData>
+                            <LineData name="LINE 3">55543 Bad Kreuznach</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Talkline</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">25337</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Elmshorn</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kurt-Wagner-Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Talkline</LineData>
+                            <LineData name="LINE 2">Kurt-Wagner-Str. 9</LineData>
+                            <LineData name="LINE 3">25337 Elmshorn</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Frau</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Elke</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bommer</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Dr.</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">22041</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Hamburg</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post-Nr.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">123456</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Packstation 44</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Frau</LineData>
+                            <LineData name="LINE 2">Dr. Elke Bommer</LineData>
+                            <LineData name="LINE 3">Post-Nr. 123456</LineData>
+                            <LineData name="LINE 4">Packstation 44</LineData>
+                            <LineData name="LINE 5">22041 Hamburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bank für Berufsgenossenschaft</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Geschäftsstelle Berlin</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10963</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Bruchsaler Str</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bank für Berufsgenossenschaft</LineData>
+                            <LineData name="LINE 2">Geschäftsstelle Berlin</LineData>
+                            <LineData name="LINE 3">Bruchsaler Str 2</LineData>
+                            <LineData name="LINE 4">10963 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jürgen</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Peters</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">21614</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Buxtehude</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Holunderweg</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jürgen Peters</LineData>
+                            <LineData name="LINE 2">Holunderweg 9</LineData>
+                            <LineData name="LINE 3">21614 Buxtehude</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bayer. Hypo- und Vereinsbank</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">83278</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Traunstein</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">11 80</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bayer. Hypo- und Vereinsbank</LineData>
+                            <LineData name="LINE 2">Postfach 11 80</LineData>
+                            <LineData name="LINE 3">83278 Traunstein</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Citibank Privatkunden</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">68151</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mannheim</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Citibank Privatkunden</LineData>
+                            <LineData name="LINE 2">68151 Mannheim</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Herrn</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Stefan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Weber</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76689</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Karlsdorf-Neuthard</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dr.-Friedrichs-Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Herrn</LineData>
+                            <LineData name="LINE 2">Stefan Weber</LineData>
+                            <LineData name="LINE 3">Dr.-Friedrichs-Str. 5</LineData>
+                            <LineData name="LINE 4">76689 Karlsdorf-Neuthard</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Schlosshotel</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60322</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Frankfurt am Main</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Leerbachstraße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Schlosshotel</LineData>
+                            <LineData name="LINE 2">Leerbachstraße 9</LineData>
+                            <LineData name="LINE 3">60322 Frankfurt am Main</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Herrn</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Hans</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hase</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">21635</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Jork</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Groß Hove</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">24</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Herrn</LineData>
+                            <LineData name="LINE 2">Hans Hase</LineData>
+                            <LineData name="LINE 3">Groß Hove 24</LineData>
+                            <LineData name="LINE 4">21635 Jork</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Allgemeine Deutsche Bank</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Diba</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60329</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Frankfurt</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Theodor-Heuss-Allee</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">106</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Allgemeine Deutsche Bank</LineData>
+                            <LineData name="LINE 2">Diba</LineData>
+                            <LineData name="LINE 3">Theodor-Heuss-Allee 106</LineData>
+                            <LineData name="LINE 4">60329 Frankfurt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ADAC</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Abt. Vertrieb</U10.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">z. Hdn.</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Herrn</U20.05.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Heller</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">80263</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">München</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Haydnstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">9</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ADAC</LineData>
+                            <LineData name="LINE 2">Abt. Vertrieb</LineData>
+                            <LineData name="LINE 3">z. Hdn. Herrn Heller</LineData>
+                            <LineData name="LINE 4">Haydnstr. 9</LineData>
+                            <LineData name="LINE 5">80263 München</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Postbank</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67057</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ludwigshafen</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NL Ludwigshafen</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Postbank</LineData>
+                            <LineData name="LINE 2">NL Ludwigshafen</LineData>
+                            <LineData name="LINE 3">67057 Ludwigshafen</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Beleglesezentrum</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90349</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nürnberg</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Beleglesezentrum</LineData>
+                            <LineData name="LINE 2">90349 Nürnberg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Regierungspräsidium Kassel</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Zentrale Bußgeldstelle</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34198</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kassel</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Regierungspräsidium Kassel</LineData>
+                            <LineData name="LINE 2">Zentrale Bußgeldstelle</LineData>
+                            <LineData name="LINE 3">34198 Kassel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gerhard</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Leicht</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12249</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Eiswaldstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">23b</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gerhard Leicht</LineData>
+                            <LineData name="LINE 2">Eiswaldstr. 23b</LineData>
+                            <LineData name="LINE 3">12249 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Siemens</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">C2 Lieferantenplattform</U10.02.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">Si. Group Supply.com</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">94032</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Passau</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">16 29 00</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Siemens</LineData>
+                            <LineData name="LINE 2">C2 Lieferantenplattform</LineData>
+                            <LineData name="LINE 3">Si. Group Supply.com</LineData>
+                            <LineData name="LINE 4">Postfach 16 29 00</LineData>
+                            <LineData name="LINE 5">94032 Passau</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Kompass Deutschland</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Verlags- und Vertriebsgesellschaft mbH</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">79009</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Freiburg i. Br.</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Schwarzwaldstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kompass Deutschland</LineData>
+                            <LineData name="LINE 2">Verlags- und Vertriebsgesellschaft mbH</LineData>
+                            <LineData name="LINE 3">Schwarzwaldstr. 5</LineData>
+                            <LineData name="LINE 4">79009 Freiburg i. Br.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Edgar</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Huber</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">06679</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Zorbau</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Autobahnsiedlung</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Edgar Huber</LineData>
+                            <LineData name="LINE 2">Autobahnsiedlung 5</LineData>
+                            <LineData name="LINE 3">06679 Zorbau</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hypo-Vereinsbank</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Filiale Passau</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">94032</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Passau</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ludwigsplatz</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hypo-Vereinsbank</LineData>
+                            <LineData name="LINE 2">Filiale Passau</LineData>
+                            <LineData name="LINE 3">Ludwigsplatz 2</LineData>
+                            <LineData name="LINE 4">94032 Passau</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Frau</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">W.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Funke</U10.08.00.00>
+                        <U10.10.11.00 uniq="U10PrecQualification">Amtsrätin</U10.10.11.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">Amt Steinhöfel/Heinersdorf</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">15518</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Steinhöfel</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Demnutzer Straße</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Frau Amtsrätin</LineData>
+                            <LineData name="LINE 2">W. Funke</LineData>
+                            <LineData name="LINE 3">Amt Steinhöfel/Heinersdorf</LineData>
+                            <LineData name="LINE 4">Demnutzer Straße 7</LineData>
+                            <LineData name="LINE 5">15518 Steinhöfel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Stadt Bretten</U10.00.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Metzger</U20.08.00.00>
+                        <U20.10.11.00 uniq="U20PrecQualification">Bürgermeister</U20.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">75015</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bretten</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10 01 62</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Stadt Bretten</LineData>
+                            <LineData name="LINE 2">Bürgermeister Metzger</LineData>
+                            <LineData name="LINE 3">Postfach 10 01 62</LineData>
+                            <LineData name="LINE 4">75015 Bretten</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ARGE Alt-Glienicken Berlin</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Dreßler Bau</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">GmbH</U20.01.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c.o.</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64204</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Darmstadt</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Postfach</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10 04 52</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ARGE Alt-Glienicken Berlin</LineData>
+                            <LineData name="LINE 2">c.o. Dreßler Bau GmbH</LineData>
+                            <LineData name="LINE 3">Postfach 10 04 52</LineData>
+                            <LineData name="LINE 4">64204 Darmstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ARGE Alt-Glienicken Berlin</U10.00.00.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Dreßler Bau</U20.00.12.00>
+                        <U20.01.12.00 uniq="U20SuccLegalStatusPos1">GmbH</U20.01.12.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c.o.</U20.04.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64283</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Darmstadt</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Adelungstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">30</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ARGE Alt-Glienicken Berlin</LineData>
+                            <LineData name="LINE 2">c.o. Dreßler Bau GmbH</LineData>
+                            <LineData name="LINE 3">Adelungstr. 30</LineData>
+                            <LineData name="LINE 4">64283 Darmstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ZSP mit Leitungsaufgaben 3</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">69168</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Wiesloch</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Schwetzinger Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">48</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ZSP mit Leitungsaufgaben 3</LineData>
+                            <LineData name="LINE 2">Schwetzinger Str. 48</LineData>
+                            <LineData name="LINE 3">69168 Wiesloch</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>69</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Vertriebsdirektionen Filialen Stgt</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Unternehmenseigene Basisfilialen DPAG VK</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76137</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Karlsruhe</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ettlinger Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">67</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vertriebsdirektionen Filialen Stgt</LineData>
+                            <LineData name="LINE 2">Unternehmenseigene Basisfilialen DPAG VK</LineData>
+                            <LineData name="LINE 3">Ettlinger Str. 67</LineData>
+                            <LineData name="LINE 4">76137 Karlsruhe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>70</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Quelle/ Bausparkasse</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">90439</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Nürnberg</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Fürther Str.</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Quelle/ Bausparkasse</LineData>
+                            <LineData name="LINE 2">Fürther Str.</LineData>
+                            <LineData name="LINE 3">90439 Nürnberg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>71</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Claudia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Auguste</U10.08.00.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Dr. med.</U10.10.12.00>
+                        <U20.00.12.00 uniq="U20OrgNamePos2">Universität Augsburg</U20.00.12.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">Bewegungs und Trainigswissenschaften</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">86135</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Augsburg</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. med. Claudia Auguste</LineData>
+                            <LineData name="LINE 2">Bewegungs und Trainigswissenschaften</LineData>
+                            <LineData name="LINE 3">Universität Augsburg</LineData>
+                            <LineData name="LINE 4">86135 Augsburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>72</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bodenseewerk</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Umwelt und Prozeßanalytik</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Meersburg</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Konstanzer Str.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bodenseewerk</LineData>
+                            <LineData name="LINE 2">Umwelt und Prozeßanalytik</LineData>
+                            <LineData name="LINE 3">Konstanzer Str. 5</LineData>
+                            <LineData name="LINE 4">88709 Meersburg</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>73</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Technologiezentrum Kiel</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24159</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kiel</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ostseestr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Technologiezentrum Kiel</LineData>
+                            <LineData name="LINE 2">Ostseestr. 3</LineData>
+                            <LineData name="LINE 3">24159 Kiel</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>74</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">T-Online International AG</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Kundenservice</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64293</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Darmstadt</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mornewegstr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">26-32</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">T-Online International AG</LineData>
+                            <LineData name="LINE 2">Kundenservice</LineData>
+                            <LineData name="LINE 3">Mornewegstr. 26-32</LineData>
+                            <LineData name="LINE 4">64293 Darmstadt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>75</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Johann</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Meier</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Deutschland</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Berlin</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Goethestr.</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">Stiege 15</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">de</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">DE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">DE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Johann Meier</LineData>
+                            <LineData name="LINE 2">Goethestr. 1 // Stiege 15</LineData>
+                            <LineData name="LINE 3">12345 Berlin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

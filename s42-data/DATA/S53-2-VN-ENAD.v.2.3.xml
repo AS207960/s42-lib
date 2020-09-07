@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>VN</GroupDescription>
+            <GroupItemCount>32</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Anh</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Quynh</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Chu</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Dong Da Dist</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Nga Tu So Ward</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Thai Thinh Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">54</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Chu Quynh Anh</LineData>
+                            <LineData name="LINE 2">No 54, Thai Thinh Street</LineData>
+                            <LineData name="LINE 3">Nga Tu So Ward, Dong Da Dist</LineData>
+                            <LineData name="LINE 4">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Risupia Panasonic Center</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Cau Giay Dist</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Dich Vong Ward</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Nguyen Phong Sac Str</U40.21.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Sunrise Building</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">2nd Flr</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Risupia Panasonic Center</LineData>
+                            <LineData name="LINE 2">2nd Flr, Sunrise Building</LineData>
+                            <LineData name="LINE 3">Nguyen Phong Sac Str</LineData>
+                            <LineData name="LINE 4">Dich Vong Ward, Cau Giay Dist</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vung</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Duong</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Quang Binh Province</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Le Thuy Dist</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xuan Thuy Ward</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Mai Ha Village</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Duong Vung</LineData>
+                            <LineData name="LINE 2">Mai Ha Village</LineData>
+                            <LineData name="LINE 3">Xuan Thuy Ward, Le Thuy Dist</LineData>
+                            <LineData name="LINE 4">Quang Binh Province</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Binh</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thi</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Le</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Nam Dinh Province</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Hai Hau Dist</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Hai Trung Ward</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Hai Thinh Village</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Group 14</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Le Thi Binh</LineData>
+                            <LineData name="LINE 2">Group 14, Hai Thinh Village</LineData>
+                            <LineData name="LINE 3">Hai Trung Ward, Hai Hau Dist</LineData>
+                            <LineData name="LINE 4">Nam Dinh Province</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CARE</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tu Liem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">My Dinh</U40.15.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">20</U40.19.11.21>
+                        <U40.21.11.00 uniq="U40PrimThoro">Pham Hung Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Thang Long Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CARE</LineData>
+                            <LineData name="LINE 2">PO Box 20</LineData>
+                            <LineData name="LINE 3">Thang Long Post Office</LineData>
+                            <LineData name="LINE 4">No 5, Pham Hung Street</LineData>
+                            <LineData name="LINE 5">My Dinh, Tu Liem</LineData>
+                            <LineData name="LINE 6">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Lan Huong</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thi</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Le</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.19.12.00 uniq="U40AltDelServId">Poste restante</U40.19.12.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Dinh Le Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">GPO 115</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Poste restante</LineData>
+                            <LineData name="LINE 2">Ms Le Thi Lan Huong</LineData>
+                            <LineData name="LINE 3">GPO 115</LineData>
+                            <LineData name="LINE 4">No 6, Dinh Le Street</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Thuy</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thi</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Nguyen</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Vietnam Post Corp.</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Postal Service Division</U20.02.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tu Liem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">My Dinh</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Pham Hung Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Nguyen Thi Thuy</LineData>
+                            <LineData name="LINE 2">Postal Service Division</LineData>
+                            <LineData name="LINE 3">Vietnam Post Corp.</LineData>
+                            <LineData name="LINE 4">No 5, Pham Hung Street</LineData>
+                            <LineData name="LINE 5">My Dinh, Tu Liem</LineData>
+                            <LineData name="LINE 6">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Vietnam Post Corp.</U10.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Postal Service Division</U20.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Attention:</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Ms</U20.05.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Thuy Mai</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">Luu</U20.06.11.21>
+                        <U20.08.00.00 uniq="U20Surname">Bui</U20.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tu Liem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">My Dinh</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Pham Hung Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vietnam Post Corp.</LineData>
+                            <LineData name="LINE 2">Postal Service Division</LineData>
+                            <LineData name="LINE 3">Attention: Ms Bui Luu Thuy Mai</LineData>
+                            <LineData name="LINE 4">No 5, Pham Hung Street</LineData>
+                            <LineData name="LINE 5">My Dinh, Tu Liem</LineData>
+                            <LineData name="LINE 6">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Vietnam World Vision</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Hoan Kiem District</U40.15.21.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Ham Long Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">14-16</U40.24.11.21>
+                        <U40.26.21.00 uniq="U40BuildingLev2">HEAC Building</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">4th Floor</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vietnam World Vision</LineData>
+                            <LineData name="LINE 2">4th Floor, HEAC Building</LineData>
+                            <LineData name="LINE 3">No 14-16, Ham Long Street</LineData>
+                            <LineData name="LINE 4">Hoan Kiem District</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director of Postal Service Division</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Son</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Van</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Nguyen</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">VN Post Corp.</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Tu Liem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">My Dinh</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Pham Hung Street</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Nguyen Van Son</LineData>
+                            <LineData name="LINE 2">Director of Postal Service Division</LineData>
+                            <LineData name="LINE 3">VN Post Corp.</LineData>
+                            <LineData name="LINE 4">No 5, Pham Hung Street</LineData>
+                            <LineData name="LINE 5">My Dinh, Tu Liem</LineData>
+                            <LineData name="LINE 6">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Thuy Mai</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Luu</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Bui</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Cau Giay District</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Dich Vong Ward</U40.15.31.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Thang Long International Village</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">B2 Block</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">Room 403</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Bui Luu Thuy Mai</LineData>
+                            <LineData name="LINE 2">Room 403, B2 Block</LineData>
+                            <LineData name="LINE 3">Thang Long International Village</LineData>
+                            <LineData name="LINE 4">Dich Vong Ward, Cau Giay District</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hieu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ThaiAirways</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Noi Bai International  Airport</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">T1 Station</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">B Wing</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">3rd Floor</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Hardy Hieu</LineData>
+                            <LineData name="LINE 2">ThaiAirways</LineData>
+                            <LineData name="LINE 3">3rd Floor, B Wing, T1 Station</LineData>
+                            <LineData name="LINE 4">Noi Bai International  Airport</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Xuan</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Nguyen</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Hoan Kiem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Ly Thai To</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Nguyen Huu Huan Str.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Nguyen Huu Huan Lane</U40.21.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Nguyen Xuan</LineData>
+                            <LineData name="LINE 2">No 1, Nguyen Huu Huan Lane, Nguyen Huu Huan Str.</LineData>
+                            <LineData name="LINE 3">Ly Thai To, Hoan Kiem</LineData>
+                            <LineData name="LINE 4">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Anh</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Quynh</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Chu</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Hai Ba Trung</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Bach Mai</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Bach Mai Str.</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Lane No 333</U40.21.21.00>
+                        <U40.21.31.00 uniq="U40TertiThoro">Alley 15</U40.21.31.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Chu Quynh Anh</LineData>
+                            <LineData name="LINE 2">No 1, Alley 15, Lane No 333, Bach Mai Str.</LineData>
+                            <LineData name="LINE 3">Bach Mai, Hai Ba Trung</LineData>
+                            <LineData name="LINE 4">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Xuan</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Nguyen</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Soc Son</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Trung Gia</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Xuan Son</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Group 5</U40.17.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Đo Lane</U40.21.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Nguyen Xuan</LineData>
+                            <LineData name="LINE 2">Group 5, Đo Lane, Xuan Son</LineData>
+                            <LineData name="LINE 3">Trung Gia, Soc Son</LineData>
+                            <LineData name="LINE 4">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Anh</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Quynh</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Chu</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hanoi</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Hoan Kiem</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Chuong Duong Do</U40.15.31.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Dormitory of Ministry of Foreign Trade</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Block 19</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">2nd Floor</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms Chu Quynh Anh</LineData>
+                            <LineData name="LINE 2">Room 1, 2nd Floor, Block 19</LineData>
+                            <LineData name="LINE 3">Dormitory of Ministry of Foreign Trade</LineData>
+                            <LineData name="LINE 4">Chuong Duong Do, Hoan Kiem</LineData>
+                            <LineData name="LINE 5">Hanoi</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bà</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Anh</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Quỳnh</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Chu</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Đống Đa</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Ngã Tư Sở</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Phố Thái Thịnh</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">54</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bà Chu Quỳnh Anh</LineData>
+                            <LineData name="LINE 2">Số 54, Phố Thái Thịnh</LineData>
+                            <LineData name="LINE 3">Phường Ngã Tư Sở, Quận Đống Đa</LineData>
+                            <LineData name="LINE 4">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Trung tâm Risupia Panasonic</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Cầu Giấy</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Dịch Vọng</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Phố Nguyễn Phong Sắc</U40.21.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Toà nhà Sunrise</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">Tầng 2</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Trung tâm Risupia Panasonic</LineData>
+                            <LineData name="LINE 2">Tầng 2, Toà nhà Sunrise</LineData>
+                            <LineData name="LINE 3">Phố Nguyễn Phong Sắc</LineData>
+                            <LineData name="LINE 4">Phường Dịch Vọng, Quận Cầu Giấy</LineData>
+                            <LineData name="LINE 5">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Vùng</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Dương</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tỉnh Quảng Bình</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Lệ Thuỷ</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Xuân Thuỷ</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Làng Mai Hà</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Dương Vùng</LineData>
+                            <LineData name="LINE 2">Làng Mai Hà</LineData>
+                            <LineData name="LINE 3">Xã Xuân Thuỷ, Huyện Lệ Thuỷ</LineData>
+                            <LineData name="LINE 4">Tỉnh Quảng Bình</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bà</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Bình</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thị</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Lê</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Tỉnh Nam Định</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Hải Hậu</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Hải Trung</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Hai Thinh Ha</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Đội 14</U40.17.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bà Lê Thị Bình</LineData>
+                            <LineData name="LINE 2">Đội 14, Hai Thinh Ha</LineData>
+                            <LineData name="LINE 3">Xã Hải Trung, Huyện Hải Hậu</LineData>
+                            <LineData name="LINE 4">Tỉnh Nam Định</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Tổ chức CARE</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Từ Liêm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Mỹ Đình</U40.15.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Hộp thư số</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">20</U40.19.11.21>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Phạm Hùng</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Bưu cục Thăng Long</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tổ chức CARE</LineData>
+                            <LineData name="LINE 2">Hộp thư số 20</LineData>
+                            <LineData name="LINE 3">Bưu cục Thăng Long</LineData>
+                            <LineData name="LINE 4">Số 5, Đường Phạm Hùng</LineData>
+                            <LineData name="LINE 5">Xã Mỹ Đình, Huyện Từ Liêm</LineData>
+                            <LineData name="LINE 6">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bà</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Lan Hương</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thị</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Lê</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.19.12.00 uniq="U40AltDelServId">Hòm thư lưu ký</U40.19.12.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Phố Đinh Lễ</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">6</U40.24.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">GPO 115</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hòm thư lưu ký</LineData>
+                            <LineData name="LINE 2">Bà Lê Thị Lan Hương</LineData>
+                            <LineData name="LINE 3">GPO 115</LineData>
+                            <LineData name="LINE 4">Số 6, Phố Đinh Lễ</LineData>
+                            <LineData name="LINE 5">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bà</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Thuỷ</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Thị</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Nguyễn</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Tổng Công ty Bưu chính Việt Nam</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Ban Dịch vụ Bưu chính</U20.02.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Từ Liêm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Mỹ Đình</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Phạm Hùng</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bà Nguyễn Thị Thuỷ</LineData>
+                            <LineData name="LINE 2">Ban Dịch vụ Bưu chính</LineData>
+                            <LineData name="LINE 3">Tổng Công ty Bưu chính Việt Nam</LineData>
+                            <LineData name="LINE 4">Số 5, Đường Phạm Hùng</LineData>
+                            <LineData name="LINE 5">Xã Mỹ Đình, Huyện Từ Liêm</LineData>
+                            <LineData name="LINE 6">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Tổng Công ty Bưu chính Việt Nam</U10.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Ban Dịch vụ Bưu chính</U20.02.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Đích danh:</U20.04.00.00>
+                        <U20.05.00.00 uniq="U20FormOfAddress">Bà</U20.05.00.00>
+                        <U20.06.11.11 uniq="U20PrecGivenNamePart1">Thuý Mai</U20.06.11.11>
+                        <U20.06.11.21 uniq="U20PrecGivenNamePart2">Lưu</U20.06.11.21>
+                        <U20.08.00.00 uniq="U20Surname">Bùi</U20.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Từ Liêm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Mỹ Đình</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Phạm Hùng</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tổng Công ty Bưu chính Việt Nam</LineData>
+                            <LineData name="LINE 2">Ban Dịch vụ Bưu chính</LineData>
+                            <LineData name="LINE 3">Đích danh: Bà Bùi Lưu Thuý Mai</LineData>
+                            <LineData name="LINE 4">Số 5, Đường Phạm Hùng</LineData>
+                            <LineData name="LINE 5">Xã Mỹ Đình, Huyện Từ Liêm</LineData>
+                            <LineData name="LINE 6">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Tổ chức Vietnam World Vision</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Hoàn Kiếm</U40.15.21.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Phố Hàm Long</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">14-16</U40.24.11.21>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Toà nhà HEAC</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">Tầng 4</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tổ chức Vietnam World Vision</LineData>
+                            <LineData name="LINE 2">Tầng 4, Toà nhà HEAC</LineData>
+                            <LineData name="LINE 3">Số 14-16, Phố Hàm Long</LineData>
+                            <LineData name="LINE 4">Quận Hoàn Kiếm</LineData>
+                            <LineData name="LINE 5">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Trưởng ban Dịch vụ Bưu chính</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Sơn</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Văn</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Nguyễn</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Tổng Công ty Bưu chính Việt Nam</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Từ Liêm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Mỹ Đình</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Phạm Hùng</U40.21.11.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Nguyễn Văn Sơn</LineData>
+                            <LineData name="LINE 2">Trưởng ban Dịch vụ Bưu chính</LineData>
+                            <LineData name="LINE 3">Tổng Công ty Bưu chính Việt Nam</LineData>
+                            <LineData name="LINE 4">Số 5, Đường Phạm Hùng</LineData>
+                            <LineData name="LINE 5">Xã Mỹ Đình, Huyện Từ Liêm</LineData>
+                            <LineData name="LINE 6">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Bà</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Thuý Mai</U10.06.11.11>
+                        <U10.06.11.21 uniq="U10PrecGivenNamePart2">Lưu</U10.06.11.21>
+                        <U10.08.00.00 uniq="U10Surname">Bùi</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Cầu Giấy</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Dịch Vọng</U40.15.31.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Tổ hợp Làng Quốc tế Thăng Long</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Lô B2</U40.26.21.00>
+                        <U40.32.00.00 uniq="U40Door">Phòng 403</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bà Bùi Lưu Thuý Mai</LineData>
+                            <LineData name="LINE 2">Phòng 403, Lô B2</LineData>
+                            <LineData name="LINE 3">Tổ hợp Làng Quốc tế Thăng Long</LineData>
+                            <LineData name="LINE 4">Phường Dịch Vọng, Quận Cầu Giấy</LineData>
+                            <LineData name="LINE 5">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hiếu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Hãng hàng không ThaiAirways</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Thành phố Hà Nội</U40.15.11.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Sân bay Quốc tế Nội Bài</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Nhà ga T1</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">Cánh B</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Tầng 3</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Hardy Hiếu</LineData>
+                            <LineData name="LINE 2">Hãng hàng không ThaiAirways</LineData>
+                            <LineData name="LINE 3">Tầng 3, Cánh B, Nhà ga T1</LineData>
+                            <LineData name="LINE 4">Sân bay Quốc tế Nội Bài</LineData>
+                            <LineData name="LINE 5">Thành phố Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hiếu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Hoàn Kiếm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Lý Thái Tổ</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Nguyễn Hữu Huân</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Ngõ Nguyễn Hữu Huân</U40.21.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nhà số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Hardy Hiếu</LineData>
+                            <LineData name="LINE 2">Nhà số 1, Ngõ Nguyễn Hữu Huân, Đường Nguyễn Hữu Huân</LineData>
+                            <LineData name="LINE 3">Phường Lý Thái Tổ, Quận Hoàn Kiếm</LineData>
+                            <LineData name="LINE 4">Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hiếu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Hai Bà Trưng</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Bạch Mai</U40.15.31.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Đường Bạch Mai</U40.21.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Ngõ 333</U40.21.21.00>
+                        <U40.21.31.00 uniq="U40TertiThoro">Ngách 15</U40.21.31.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nhà số</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Hardy Hiếu</LineData>
+                            <LineData name="LINE 2">Nhà số 1, Ngách 15, Ngõ 333, Đường Bạch Mai</LineData>
+                            <LineData name="LINE 3">Phường Bạch Mai, Quận Hai Bà Trưng</LineData>
+                            <LineData name="LINE 4">Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hiếu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Huyện Sóc Sơn</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Xã Trung Giã</U40.15.31.00>
+                        <U40.16.00.00 uniq="U40Town">Xóm Xuân Sơn</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Đội 5</U40.17.11.00>
+                        <U40.21.21.00 uniq="U40SecThoro">Đường Đo</U40.21.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Hardy Hiếu</LineData>
+                            <LineData name="LINE 2">Đội 5, Đường Đo, Xóm Xuân Sơn</LineData>
+                            <LineData name="LINE 3">Xã Trung Giã, Huyện Sóc Sơn</LineData>
+                            <LineData name="LINE 4">Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ông</U10.05.00.00>
+                        <U10.06.11.11 uniq="U10PrecGivenNamePart1">Hiếu</U10.06.11.11>
+                        <U10.08.00.00 uniq="U10Surname">Hardy</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VIETNAM</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Hà Nội</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Quận Hoàn Kiếm</U40.15.21.00>
+                        <U40.15.31.00 uniq="U40RegionLev3Pos1">Phường Chương Dương Độ</U40.15.31.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Khu đô thị Bộ Ngoại giao</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Lô 19</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">Tầng 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">Phóng số 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">vi</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VN</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VN</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ông Hardy Hiếu</LineData>
+                            <LineData name="LINE 2">Phóng số 1, Tầng 2, Lô 19</LineData>
+                            <LineData name="LINE 3">Khu đô thị Bộ Ngoại giao</LineData>
+                            <LineData name="LINE 4">Phường Chương Dương Độ, Quận Hoàn Kiếm</LineData>
+                            <LineData name="LINE 5">Hà Nội</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BH</GroupDescription>
+            <GroupItemCount>18</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmed</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdullah</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abdullah</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">317</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">AL-MANAMAH</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sheikh Abdulla Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">House no. 888</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Ahmed Abdullah Abdullah</LineData>
+                            <LineData name="LINE 2">House no. 888</LineData>
+                            <LineData name="LINE 3">Sheikh Abdulla Road</LineData>
+                            <LineData name="LINE 4">AL-MANAMAH 317</LineData>
+                            <LineData name="LINE 5">BAHRAIN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmed</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdullah</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abdullah</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">926</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIFFA</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Road 2035</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">House 916</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Ahmed Abdullah Abdullah</LineData>
+                            <LineData name="LINE 2">House 916</LineData>
+                            <LineData name="LINE 3">Road 2035</LineData>
+                            <LineData name="LINE 4">RIFFA 926</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hala</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Al Zayani</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ballare School of Performing Arts</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">549</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Al Quraya</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Road 45</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">Building 137</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Palace Garden 1 Villa No 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hala Al Zayani</LineData>
+                            <LineData name="LINE 2">Ballare School of Performing Arts</LineData>
+                            <LineData name="LINE 3">Palace Garden 1 Villa No 1 Building 137</LineData>
+                            <LineData name="LINE 4">Road 45</LineData>
+                            <LineData name="LINE 5">Al Quraya 549</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">J D</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Holmes</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">410</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manama</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Road 1011</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">Building 613</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr J D Holmes</LineData>
+                            <LineData name="LINE 2">Flat 14 Building 613</LineData>
+                            <LineData name="LINE 3">Road 1011</LineData>
+                            <LineData name="LINE 4">Manama 410</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Pranesh</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Natraj</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Mudaliar</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">324</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manama</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Road 22</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">Building 111</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">Flat 71</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Pranesh Natraj Mudaliar</LineData>
+                            <LineData name="LINE 2">Flat 71 Building 111</LineData>
+                            <LineData name="LINE 3">Road 22</LineData>
+                            <LineData name="LINE 4">Manama 324</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">AMENA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALI</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">ABDULLA KALDARI</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">242</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">KINGDOM OF BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ARAD</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ROAD 4452</U40.21.00.00>
+                        <U40.32.00.00 uniq="U40Door">VILLA 2632</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AMENA ALI ABDULLA KALDARI</LineData>
+                            <LineData name="LINE 2">VILLA 2632</LineData>
+                            <LineData name="LINE 3">ROAD 4452</LineData>
+                            <LineData name="LINE 4">ARAD 242</LineData>
+                            <LineData name="LINE 5">KINGDOM OF BAHRAIN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MOHD</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALI</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">ALAWI AL ZAIN</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">205</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUHARRAQ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ROAD 535</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">BLDG 18181</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">FLAT 11</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MOHD ALI ALAWI AL ZAIN</LineData>
+                            <LineData name="LINE 2">FLAT 11 BLDG 18181</LineData>
+                            <LineData name="LINE 3">ROAD 535</LineData>
+                            <LineData name="LINE 4">MUHARRAQ 205</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmed</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Abdullah</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Abdullah</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">317</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">AL-MANAMAH</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O Box 1212</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Ahmed Abdullah Abdullah</LineData>
+                            <LineData name="LINE 2">P.O Box 1212</LineData>
+                            <LineData name="LINE 3">AL-MANAMAH 317</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BFG International</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">343</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">BAHRAIN</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Manama</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">PO Box 26197</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BFG International</LineData>
+                            <LineData name="LINE 2">PO Box 26197</LineData>
+                            <LineData name="LINE 3">Manama 343</LineData>
+                            <LineData name="LINE 4">BAHRAIN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">احمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدااله</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">عبدالله</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">317</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنامة</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع الشيخ عبدالله</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">منزل رقم 888</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد احمد عبدااله عبدالله</LineData>
+                            <LineData name="LINE 2">منزل رقم 888</LineData>
+                            <LineData name="LINE 3">شارع الشيخ عبدالله</LineData>
+                            <LineData name="LINE 4">المنامة 317</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">احمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدااله</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">عبدالله</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">926</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرفاع</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع 2035</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">منزل 916</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد احمد عبدااله عبدالله</LineData>
+                            <LineData name="LINE 2">منزل 916</LineData>
+                            <LineData name="LINE 3">شارع 2035</LineData>
+                            <LineData name="LINE 4">الرفاع 926</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">هلا ا</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">لزياني</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">مدرسة بالري من الفنون الأدائية</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">549</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">القريى</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع 45</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">مبنى 137</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">القصر حديقة 1 فيلا رقم 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">هلا ا لزياني</LineData>
+                            <LineData name="LINE 2">مدرسة بالري من الفنون الأدائية</LineData>
+                            <LineData name="LINE 3">القصر حديقة 1 فيلا رقم 1 مبنى 137</LineData>
+                            <LineData name="LINE 4">شارع 45</LineData>
+                            <LineData name="LINE 5">القريى 549</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ي د</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">هولمز</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">410</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">سنابس</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع 1011</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">مبنى 613</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">شقة 14</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد ي د هولمز</LineData>
+                            <LineData name="LINE 2">شقة 14 مبنى 613</LineData>
+                            <LineData name="LINE 3">شارع 1011</LineData>
+                            <LineData name="LINE 4">سنابس 410</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">السيد برانيش</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">نتراج</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">موداليار</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">324</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنامة</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">شارع 22</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">مبنى 111</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">شقة 71</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد برانيش نتراج موداليار</LineData>
+                            <LineData name="LINE 2">شقة 71 مبنى 111</LineData>
+                            <LineData name="LINE 3">شارع 22</LineData>
+                            <LineData name="LINE 4">المنامة 324</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">أمينة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">علي</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">عبد الله كلداري</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">242</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">مملكة البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">عراد</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">طريق 4452</U40.21.00.00>
+                        <U40.32.00.00 uniq="U40Door">فيلا 2632</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">أمينة علي عبد الله كلداري</LineData>
+                            <LineData name="LINE 2">فيلا 2632</LineData>
+                            <LineData name="LINE 3">طريق 4452</LineData>
+                            <LineData name="LINE 4">عراد 242</LineData>
+                            <LineData name="LINE 5">مملكة البحرين</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">علي</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">علوي زين</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">205</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المحرق</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">الطريق 535</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">بناية 18181</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">شقة 11</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">محمد علي علوي زين</LineData>
+                            <LineData name="LINE 2">شقة 11 بناية 18181</LineData>
+                            <LineData name="LINE 3">الطريق 535</LineData>
+                            <LineData name="LINE 4">المحرق 205</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">احمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">عبدااله</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">عبدالله</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">317</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنامة</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">صندوق بريد 1212</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">BH</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد احمد عبدااله عبدالله</LineData>
+                            <LineData name="LINE 2">صندوق بريد 1212</LineData>
+                            <LineData name="LINE 3">المنامة 317</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BFG الدولية</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">343</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">البحرين</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">المنامة</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">صندوق بريد 26197</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">BH</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BFG الدولية</LineData>
+                            <LineData name="LINE 2">صندوق بريد 26197</LineData>
+                            <LineData name="LINE 3">المنامة 343</LineData>
+                            <LineData name="LINE 4">البحرين</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

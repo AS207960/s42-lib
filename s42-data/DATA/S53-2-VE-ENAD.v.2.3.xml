@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>VE</GroupDescription>
+            <GroupItemCount>50</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORES</U10.05.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">FARMACIA LA COROMOTO</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2017-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO CARABOBO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARIARA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2145</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORES</LineData>
+                            <LineData name="LINE 2">FARMACIA LA COROMOTO</LineData>
+                            <LineData name="LINE 3">APARTADO POSTAL Nº 2145</LineData>
+                            <LineData name="LINE 4">MARIARA</LineData>
+                            <LineData name="LINE 5">MARIARA 2017-A ESTADO CARABOBO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">GERENTE DE PRESUPUESTO</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">JAVIER</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RAMIREZ</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">LICENCIADO</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MINISTERIO DE CIENCIA Y TECNOLOGIA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1070-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">LOS RUICES</U40.17.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2365</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LICENCIADO</LineData>
+                            <LineData name="LINE 2">JAVIER RAMIREZ</LineData>
+                            <LineData name="LINE 3">GERENTE DE PRESUPUESTO</LineData>
+                            <LineData name="LINE 4">MINISTERIO DE CIENCIA Y TECNOLOGIA</LineData>
+                            <LineData name="LINE 5">APARTADO POSTAL Nº 2365</LineData>
+                            <LineData name="LINE 6">LOS RUICES</LineData>
+                            <LineData name="LINE 7">CARACAS 1070-A DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">PRESIDENTE</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">INDUSTRIA VENEZOLANA DE ALIMENTOS</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1061-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">PLAZA LAS AMÉRICAS</U40.17.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1761</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PRESIDENTE</LineData>
+                            <LineData name="LINE 2">INDUSTRIA VENEZOLANA DE ALIMENTOS</LineData>
+                            <LineData name="LINE 3">APARTADO POSTAL Nº 1761</LineData>
+                            <LineData name="LINE 4">PLAZA LAS AMÉRICAS</LineData>
+                            <LineData name="LINE 5">CARACAS 1061-A DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">JOSE LUIS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MÉNDEZ</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">SEGUROS LA PREVISORA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2101-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ARAGUA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3487</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">JOSE LUIS MÉNDEZ</LineData>
+                            <LineData name="LINE 3">SEGUROS LA PREVISORA</LineData>
+                            <LineData name="LINE 4">APARTADO POSTAL Nº 3487</LineData>
+                            <LineData name="LINE 5">MARACAY</LineData>
+                            <LineData name="LINE 6">MARACAY 2101-A ESTADO ARAGUA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARÍA EUGENIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GONZÁLEZ</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOCTORA</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">HOSPITAL METROPOLITANO</U20.00.00.00>
+                        <U20.02.11.00 uniq="U20OrgUnitLev1Pos1">UNIDAD DE PEDIATRÍA</U20.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">2201-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO COJEDES</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN CARLOS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1265</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOCTORA</LineData>
+                            <LineData name="LINE 2">MARÍA EUGENIA GONZÁLEZ</LineData>
+                            <LineData name="LINE 3">UNIDAD DE PEDIATRÍA</LineData>
+                            <LineData name="LINE 4">HOSPITAL METROPOLITANO</LineData>
+                            <LineData name="LINE 5">APARTADO POSTAL Nº 1265</LineData>
+                            <LineData name="LINE 6">SAN CARLOS</LineData>
+                            <LineData name="LINE 7">SAN CARLOS 2201-A ESTADO COJEDES</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">INSTITUTO CARDIÓLOGICO DEL CENTRO</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2201-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO COJEDES</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARINAS</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">6547</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INSTITUTO CARDIÓLOGICO DEL CENTRO</LineData>
+                            <LineData name="LINE 2">APARTADO POSTAL Nº 6547</LineData>
+                            <LineData name="LINE 3">BARINAS</LineData>
+                            <LineData name="LINE 4">BARINAS 2201-A ESTADO COJEDES</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">LICEO JULIO MORALES LARA</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">DEPARTAMENTO DE ORIENTACIÓN</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2105-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ARAGUA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAY</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">EL LIMÓN</U40.17.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3214</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LICEO JULIO MORALES LARA</LineData>
+                            <LineData name="LINE 2">DEPARTAMENTO DE ORIENTACIÓN</LineData>
+                            <LineData name="LINE 3">APARTADO POSTAL Nº 3214</LineData>
+                            <LineData name="LINE 4">EL LIMÓN</LineData>
+                            <LineData name="LINE 5">MARACAY 2105-A ESTADO ARAGUA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">NOTARÍA PÚBLICA 3ERA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7101-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO AMAZONAS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PUERTO AYACUCHO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3000</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NOTARÍA PÚBLICA 3ERA</LineData>
+                            <LineData name="LINE 2">APARTADO POSTAL Nº 3000</LineData>
+                            <LineData name="LINE 3">PUERTO AYACUCHO</LineData>
+                            <LineData name="LINE 4">PUERTO AYACUCHO 7101-A ESTADO AMAZONAS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CARMEN ELENA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GUTIERREZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1015-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">PARQUE CENTRAL</U40.17.31.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">17525</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CARMEN ELENA GUTIERREZ</LineData>
+                            <LineData name="LINE 2">APARTADO POSTAL Nº 17525</LineData>
+                            <LineData name="LINE 3">PARQUE CENTRAL</LineData>
+                            <LineData name="LINE 4">CARACAS 1015-A DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CARLOS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BLANCO</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">INGENIERO</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3150-A</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO TRUJILLO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">TRUJILLO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">APARTADO POSTAL Nº</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">32546</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INGENIERO</LineData>
+                            <LineData name="LINE 2">CARLOS BLANCO</LineData>
+                            <LineData name="LINE 3">APARTADO POSTAL Nº 32546</LineData>
+                            <LineData name="LINE 4">TRUJILLO</LineData>
+                            <LineData name="LINE 5">TRUJILLO 3150-A ESTADO TRUJILLO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MANUEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RODRIGUEZ</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">INGENIERO</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">TRANSPORTE TM</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO CARABOBO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">VALENCIA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOLÍVAR</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">LOCAL Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">37</U40.26.11.21>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CRUCE CON CALLE LA ESTACIÓN</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INGENIERO</LineData>
+                            <LineData name="LINE 2">MANUEL RODRIGUEZ</LineData>
+                            <LineData name="LINE 3">TRANSPORTE TM</LineData>
+                            <LineData name="LINE 4">AVENIDA BOLÍVAR CRUCE CON CALLE LA ESTACIÓN</LineData>
+                            <LineData name="LINE 5">LOCAL Nº 37</LineData>
+                            <LineData name="LINE 6">VALENCIA 2001 ESTADO CARABOBO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CARMEN LUISA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">JIMÉNEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2017</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO CARABOBO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARIARA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BARRIO 19 DE ABRIL</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DIEGO DE TOVAR</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nº</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">67</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CARMEN LUISA JIMÉNEZ</LineData>
+                            <LineData name="LINE 2">BARRIO 19 DE ABRIL</LineData>
+                            <LineData name="LINE 3">CALLE DIEGO DE TOVAR, Nº 67</LineData>
+                            <LineData name="LINE 4">MARIARA 2017 ESTADO CARABOBO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AUTOREPUESTOS MIKEL</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8011</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO BOLIVAR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SANTA ELENA DE UAIRÉN</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">CENTRO COMERCIAL INDEPENDENCIA</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CARABOBO</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">LOCAL Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">31</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AUTOREPUESTOS MIKEL</LineData>
+                            <LineData name="LINE 2">AVENIDA CARABOBO</LineData>
+                            <LineData name="LINE 3">CENTRO COMERCIAL INDEPENDENCIA</LineData>
+                            <LineData name="LINE 4">LOCAL Nº 31</LineData>
+                            <LineData name="LINE 5">SANTA ELENA DE UAIRÉN 8011 ESTADO BOLIVAR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">GERARDO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOSQUE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">SAN BERNARDINO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">FRANCISCO JAVIER YÁNEZ</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">QUINTA</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">GEHÑA</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Nº 29</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GERARDO BOSQUE</LineData>
+                            <LineData name="LINE 2">AVENIDA FRANCISCO JAVIER YÁNEZ</LineData>
+                            <LineData name="LINE 3">QUINTA GEHÑA, Nº 29</LineData>
+                            <LineData name="LINE 4">SAN BERNARDINO</LineData>
+                            <LineData name="LINE 5">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CONSUELO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CABRERA MÉNDEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">PARROQUIA SAN JOSE</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SANTA MARTA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MARICRUZ</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 22</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CONSUELO CABRERA MÉNDEZ</LineData>
+                            <LineData name="LINE 2">CALLE SANTA MARTA</LineData>
+                            <LineData name="LINE 3">PARROQUIA SAN JOSE</LineData>
+                            <LineData name="LINE 4">EDIFICIO MARICRUZ</LineData>
+                            <LineData name="LINE 5">PISO Nº 2, APARTAMENTO Nº 22</LineData>
+                            <LineData name="LINE 6">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORITA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GABRIELA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">COLMENARES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3301</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO PORTUGUESA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ACARIGUA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN LOS CAOBOS</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BELLA VISTA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">RESIDENCIAS</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">EL PALMAR</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">TORRE &quot;A&quot;</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 7</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 75</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORITA</LineData>
+                            <LineData name="LINE 2">GABRIELA COLMENARES</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN LOS CAOBOS</LineData>
+                            <LineData name="LINE 4">CALLE BELLA VISTA</LineData>
+                            <LineData name="LINE 5">RESIDENCIAS EL PALMAR</LineData>
+                            <LineData name="LINE 6">TORRE &quot;A&quot;, PISO Nº 7, APARTAMENTO Nº 75</LineData>
+                            <LineData name="LINE 7">ACARIGUA 3301 ESTADO PORTUGUESA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ASTRID</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROJAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ANZOÁTEGUI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARCELONA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN LA ESMERALDA</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BUENOS AIRES</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MIRAMAR</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 15</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 155</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">ASTRID ROJAS</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN LA ESMERALDA</LineData>
+                            <LineData name="LINE 4">CALLE BUENOS AIRES</LineData>
+                            <LineData name="LINE 5">EDIFICIO MIRAMAR</LineData>
+                            <LineData name="LINE 6">PISO Nº 15, APARTAMENTO Nº 155</LineData>
+                            <LineData name="LINE 7">BARCELONA 6001 ESTADO ANZOÁTEGUI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GISELA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">HERNÁNDEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO LARA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARQUISIMETO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CARRERA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">20</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">CASA Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">35-A</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">GISELA HERNÁNDEZ</LineData>
+                            <LineData name="LINE 3">CARRERA 20</LineData>
+                            <LineData name="LINE 4">CASA Nº 35-A</LineData>
+                            <LineData name="LINE 5">BARQUISIMETO 3001 ESTADO LARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JUAN ERNESTO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MENDOZA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2015</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO CARABOBO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GUACARA</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">ZONA INDUSTRIAL CASTILLITO</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1ERO DE MAYO</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">CENTRO EMPRESARIAL</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">CASTILLITO</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">OFICINA Nº 42</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JUAN ERNESTO MENDOZA</LineData>
+                            <LineData name="LINE 2">AVENIDA 1ERO DE MAYO</LineData>
+                            <LineData name="LINE 3">ZONA INDUSTRIAL CASTILLITO</LineData>
+                            <LineData name="LINE 4">CENTRO EMPRESARIAL CASTILLITO</LineData>
+                            <LineData name="LINE 5">PISO Nº 4, OFICINA Nº 42</LineData>
+                            <LineData name="LINE 6">GUACARA 2015 ESTADO CARABOBO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">LIZ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MORALES</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">SECTOR MUCURITAS</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CARICUAO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">JOSÉ ANTONIO PÁEZ</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">BLOQUE Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">9</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 6</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 06-01</U40.32.00.00>
+                        <U40.34.12.00 uniq="U40SuppDelPointDataPos2">UD-4, TERRAZA &quot;G&quot;</U40.34.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">LIZ MORALES</LineData>
+                            <LineData name="LINE 2">AVENIDA JOSÉ ANTONIO PÁEZ</LineData>
+                            <LineData name="LINE 3">UD-4, TERRAZA &quot;G&quot;</LineData>
+                            <LineData name="LINE 4">SECTOR MUCURITAS</LineData>
+                            <LineData name="LINE 5">BLOQUE Nº 9</LineData>
+                            <LineData name="LINE 6">PISO Nº 6, APARTAMENTO Nº 06-01</LineData>
+                            <LineData name="LINE 7">CARICUAO</LineData>
+                            <LineData name="LINE 8">CARACAS 1000 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">BELLA COROMOTO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ACEVEDO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">SARRÍA</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">REAL DE SARRÍA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">CASA Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">50</U40.26.11.21>
+                        <U40.34.12.00 uniq="U40SuppDelPointDataPos2">ESQUINA SAN LUIS</U40.34.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BELLA COROMOTO ACEVEDO</LineData>
+                            <LineData name="LINE 2">CALLE REAL DE SARRÍA</LineData>
+                            <LineData name="LINE 3">ESQUINA SAN LUIS</LineData>
+                            <LineData name="LINE 4">CASA Nº 50</LineData>
+                            <LineData name="LINE 5">SARRÍA</LineData>
+                            <LineData name="LINE 6">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JOSELYNE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SÁNCHEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">SAN MARTÍN</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SANTANDER</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">SANTANDER</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 17</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 174-A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JOSELYNE SÁNCHEZ</LineData>
+                            <LineData name="LINE 2">AVENIDA SANTANDER</LineData>
+                            <LineData name="LINE 3">EDIFICIO SANTANDER</LineData>
+                            <LineData name="LINE 4">PISO Nº 17, APARTAMENTO Nº 174-A</LineData>
+                            <LineData name="LINE 5">SAN MARTÍN</LineData>
+                            <LineData name="LINE 6">CARACAS 1020 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">LUIS ENRIQUE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ZAMBRANO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1061</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CHUAO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PRINCIPAL DEL ROSAL</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">LA ROSALEDA</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PENTHOUSE</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">LUIS ENRIQUE ZAMBRANO</LineData>
+                            <LineData name="LINE 3">CALLE PRINCIPAL DEL ROSAL</LineData>
+                            <LineData name="LINE 4">EDIFICIO LA ROSALEDA</LineData>
+                            <LineData name="LINE 5">PENTHOUSE</LineData>
+                            <LineData name="LINE 6">CHUAO</LineData>
+                            <LineData name="LINE 7">CARACAS 1061 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ALEJANDRA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VARGAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">URBANIZACIÓN LA FLORIDA</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LA ESPERANZA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">QUINTA</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MI CORAZÓN</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Nº 7</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">ALEJANDRA VARGAS</LineData>
+                            <LineData name="LINE 3">CALLE LA ESPERANZA</LineData>
+                            <LineData name="LINE 4">QUINTA MI CORAZÓN, Nº 7</LineData>
+                            <LineData name="LINE 5">URBANIZACIÓN LA FLORIDA</LineData>
+                            <LineData name="LINE 6">CARACAS 1050 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">PEDRO MIGUEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ROMERO</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOCTOR</U10.10.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">FARMACIA LA ESTRELLA</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ZULIA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAIBO</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CABIMAS</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">INTERCOMUNAL</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">FRAN LUCEY</U40.26.11.21>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CRUCE CON CALLE ESTRELLA</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOCTOR</LineData>
+                            <LineData name="LINE 2">PEDRO MIGUEL ROMERO</LineData>
+                            <LineData name="LINE 3">AVENIDA INTERCOMUNAL CRUCE CON CALLE ESTRELLA</LineData>
+                            <LineData name="LINE 4">EDIFICIO FRAN LUCEY</LineData>
+                            <LineData name="LINE 5">FARMACIA LA ESTRELLA</LineData>
+                            <LineData name="LINE 6">CABIMAS</LineData>
+                            <LineData name="LINE 7">MARACAIBO 4013 ESTADO ZULIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">INSTITUTO AUTÓNOMO DE VIVIENDA</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">GERENCIA DE CONSTRUCCIÓN</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO SUCRE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARÚPANO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN COLINAS DEL MAR</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">TRANSVERSAL</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">2DA</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INSTITUTO AUTÓNOMO DE VIVIENDA</LineData>
+                            <LineData name="LINE 2">GERENCIA DE CONSTRUCCIÓN</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN COLINAS DEL MAR</LineData>
+                            <LineData name="LINE 4">2DA TRANSVERSAL</LineData>
+                            <LineData name="LINE 5">CARÚPANO 6150 ESTADO SUCRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">FÁBRICA DE TACONES EL FARO</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">S.R.L.</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2115</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ARAGUA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAY</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">SECTOR LA JULIA</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">TURMERO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1ERO DE JULIO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FÁBRICA DE TACONES EL FARO, S.R.L.</LineData>
+                            <LineData name="LINE 2">AVENIDA 1ERO DE JULIO</LineData>
+                            <LineData name="LINE 3">SECTOR LA JULIA</LineData>
+                            <LineData name="LINE 4">TURMERO</LineData>
+                            <LineData name="LINE 5">MARACAY 2115 ESTADO ARAGUA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">JUZGADO 2DO PENAL</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">SECCIÓN DE EXPEDIENTES</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3201</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO YARACUY</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN FELIPE</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">URBANIZACIÓN EL TRÉBOL</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LAS MARÍAS</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nº</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">25</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JUZGADO 2DO PENAL</LineData>
+                            <LineData name="LINE 2">SECCIÓN DE EXPEDIENTES</LineData>
+                            <LineData name="LINE 3">CALLE LAS MARÍAS, Nº 25</LineData>
+                            <LineData name="LINE 4">URBANIZACIÓN EL TRÉBOL</LineData>
+                            <LineData name="LINE 5">SAN FELIPE 3201 ESTADO YARACUY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">PRESIDENTE</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">EMPRESAS POLAR</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6201</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO MONÁGAS</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MATURIN</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN LAS CUMBRES</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NUEVA DELI</U40.21.11.41>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CRUCE CON LA 3ERA TRANSVERSAL</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PRESIDENTE</LineData>
+                            <LineData name="LINE 2">EMPRESAS POLAR</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN LAS CUMBRES</LineData>
+                            <LineData name="LINE 4">AVENIDA NUEVA DELI CRUCE CON LA 3ERA TRANSVERSAL</LineData>
+                            <LineData name="LINE 5">MATURIN 6201 ESTADO MONÁGAS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CARMEN ALICIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VILLANEUVA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">INGENIERO</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">INDUSTRIAS PLASTICAS DEL CENTRO</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">DIRECCIÓN DE PRODUCCIÓN</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">7001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO APURE</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN FERNANDO DEL APURE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZONA INDUSTRIAL SAN VICENTE</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">15</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INGENIERO</LineData>
+                            <LineData name="LINE 2">CARMEN ALICIA VILLANEUVA</LineData>
+                            <LineData name="LINE 3">INDUSTRIAS PLASTICAS DEL CENTRO</LineData>
+                            <LineData name="LINE 4">DIRECCIÓN DE PRODUCCIÓN</LineData>
+                            <LineData name="LINE 5">ZONA INDUSTRIAL SAN VICENTE</LineData>
+                            <LineData name="LINE 6">CALLE 15</LineData>
+                            <LineData name="LINE 7">SAN FERNANDO DEL APURE 7001 ESTADO APURE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ALBERTO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LARRAZÁBAL</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">COMPAÑÍA VENEZOLANA DE CERÁMICAS</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">GERENCIA GENERAL DE MERCADEO</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">4013</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ZULIA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAIBO</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CABIMAS</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CARRETERA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">H</U40.21.11.41>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CRUCE CON AVENIDA 34</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">ALBERTO LARRAZÁBAL</LineData>
+                            <LineData name="LINE 3">COMPAÑÍA VENEZOLANA DE CERÁMICAS</LineData>
+                            <LineData name="LINE 4">GERENCIA GENERAL DE MERCADEO</LineData>
+                            <LineData name="LINE 5">CARRETERA H CRUCE CON AVENIDA 34</LineData>
+                            <LineData name="LINE 6">CABIMAS</LineData>
+                            <LineData name="LINE 7">MARACAIBO 4013 ESTADO ZULIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARÍA JOSEFINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GRANADILLOS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">EL SILENCIO</U40.17.31.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">BLOQUE Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">7, LETRA &quot;F&quot;</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">MARÍA JOSEFINA GRANADILLOS</LineData>
+                            <LineData name="LINE 3">BLOQUE Nº 7, LETRA &quot;F&quot;</LineData>
+                            <LineData name="LINE 4">PISO Nº 3, APARTAMENTO Nº 5</LineData>
+                            <LineData name="LINE 5">EL SILENCIO</LineData>
+                            <LineData name="LINE 6">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">CARLOS EMILIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PINEDA</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZAPATERÍA BELLA PIEL</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6301</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO NUEVA ESPARTA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PORLAMAR</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CENTRO COMERCIAL BUENA VENTURA</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">4 DE MAYO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CARLOS EMILIO PINEDA</LineData>
+                            <LineData name="LINE 2">ZAPATERÍA BELLA PIEL</LineData>
+                            <LineData name="LINE 3">CENTRO COMERCIAL BUENA VENTURA</LineData>
+                            <LineData name="LINE 4">AVENIDA 4 DE MAYO</LineData>
+                            <LineData name="LINE 5">PORLAMAR 6301 ESTADO NUEVA ESPARTA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JAMES</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BARNARD</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1061</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">URBANIZACIÓN EL CAFETAL</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BOMPLAND</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">RESIDENCIAS</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">LOS ÁRBOLES</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">TORRE A</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">PISO 6</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTMENTO D-16</U40.32.00.00>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CON CALLE CHOPIN</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">JAMES BARNARD</LineData>
+                            <LineData name="LINE 2">CALLE BOMPLAND CON CALLE CHOPIN</LineData>
+                            <LineData name="LINE 3">RESIDENCIAS LOS ÁRBOLES</LineData>
+                            <LineData name="LINE 4">TORRE A, PISO 6, APARTMENTO D-16</LineData>
+                            <LineData name="LINE 5">URBANIZACIÓN EL CAFETAL</LineData>
+                            <LineData name="LINE 6">CARACAS 1061 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORES</U10.05.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">FARMACIA VIRGEN DEL ROSARIO</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">S.R.L.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ZULIA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAIBO</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">SECTOR VILLA DEL ROSARIO</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ORIENTE</U40.21.11.41>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CON CALLE MUNICIPAL</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORES</LineData>
+                            <LineData name="LINE 2">FARMACIA VIRGEN DEL ROSARIO, S.R.L.</LineData>
+                            <LineData name="LINE 3">CALLE ORIENTE CON CALLE MUNICIPAL</LineData>
+                            <LineData name="LINE 4">SECTOR VILLA DEL ROSARIO</LineData>
+                            <LineData name="LINE 5">MARACAIBO 4001 ESTADO ZULIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">JEFE DE SOPORTE TECNICO</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">IGNACIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LANDAETA</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">INGENIERO</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">SEGUROS MERCANTIL</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">C.A.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1060</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CHACAO</U40.17.31.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INGENIERO</LineData>
+                            <LineData name="LINE 2">IGNACIO LANDAETA</LineData>
+                            <LineData name="LINE 3">JEFE DE SOPORTE TECNICO</LineData>
+                            <LineData name="LINE 4">SEGUROS MERCANTIL, C.A.</LineData>
+                            <LineData name="LINE 5">CHACAO</LineData>
+                            <LineData name="LINE 6">CARACAS 1060 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALI</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALVARADO</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">DROGUERIA DEL OESTE</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1020</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">MONTALBAN</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">PAEZ</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">LOCAL Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">09</U40.26.11.21>
+                        <U40.34.11.00 uniq="U40SuppDelPointDataPos1">CRUCE CON CALLE 25</U40.34.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ALI ALVARADO</LineData>
+                            <LineData name="LINE 2">DROGUERIA DEL OESTE</LineData>
+                            <LineData name="LINE 3">AVENIDA PAEZ CRUCE CON CALLE 25</LineData>
+                            <LineData name="LINE 4">LOCAL Nº 09</LineData>
+                            <LineData name="LINE 5">MONTALBAN</LineData>
+                            <LineData name="LINE 6">CARACAS 1020 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">RUTH</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">AGUILERA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">SABANA GRANDE</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LOS JABILLOS</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">QUINTA</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MOREANI</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Nº 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RUTH AGUILERA</LineData>
+                            <LineData name="LINE 2">AVENIDA LOS JABILLOS</LineData>
+                            <LineData name="LINE 3">QUINTA MOREANI, Nº 15</LineData>
+                            <LineData name="LINE 4">SABANA GRANDE</LineData>
+                            <LineData name="LINE 5">CARACAS 1050 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">SCARLETT</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DEL CASTILLO</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">PARROQUIA LA PASTORA</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">VERACRUZ</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">VICTORIA</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 11</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 11-01</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SCARLETT DEL CASTILLO</LineData>
+                            <LineData name="LINE 2">CALLE VERACRUZ</LineData>
+                            <LineData name="LINE 3">PARROQUIA LA PASTORA</LineData>
+                            <LineData name="LINE 4">EDIFICIO VICTORIA</LineData>
+                            <LineData name="LINE 5">PISO Nº 11, APARTAMENTO Nº 11-01</LineData>
+                            <LineData name="LINE 6">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORITA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARIANA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PRINCIPE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1201</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO MIRANDA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">LOS TEQUES</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN LOS SAMANES</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LAS FLORES</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">RESIDENCIA</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">LAS PALMERAS</U40.26.11.21>
+                        <U40.29.00.00 uniq="U40Wing">TORRE &quot;B&quot;</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 15</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 15-A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORITA</LineData>
+                            <LineData name="LINE 2">MARIANA PRINCIPE</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN LOS SAMANES</LineData>
+                            <LineData name="LINE 4">CALLE LAS FLORES</LineData>
+                            <LineData name="LINE 5">RESIDENCIA LAS PALMERAS</LineData>
+                            <LineData name="LINE 6">TORRE &quot;B&quot;, PISO Nº 15, APARTAMENTO Nº 15-A</LineData>
+                            <LineData name="LINE 7">LOS TEQUES 1201 ESTADO MIRANDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.00.00 uniq="U10OrgUnit">CONTRALORÍA INTERNA</U10.02.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MINISTERIO DE SANIDAD</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BARALT</U40.21.11.41>
+                        <U40.34.12.00 uniq="U40SuppDelPointDataPos2">ENTRE ESQUINAS BALCONCITO Y TRUCO</U40.34.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">CONTRALORÍA INTERNA</LineData>
+                            <LineData name="LINE 2">MINISTERIO DE SANIDAD</LineData>
+                            <LineData name="LINE 3">AVENIDA BARALT</LineData>
+                            <LineData name="LINE 4">ENTRE ESQUINAS BALCONCITO Y TRUCO</LineData>
+                            <LineData name="LINE 5">CARACAS 1010 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">JESÚS RAFAEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">FUENTES</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">INGENIERO</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">EMPRESAS VENOCO</U20.00.00.00>
+                        <U20.02.12.00 uniq="U20OrgUnitLev1Pos2">GERENCIA DE CALIDAD</U20.02.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">2301</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO GUÁRICO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAN JUAN DE LOS MORROS</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZONA INDUSTRIAL LA VILLA</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">G</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">INGENIERO</LineData>
+                            <LineData name="LINE 2">JESÚS RAFAEL FUENTES</LineData>
+                            <LineData name="LINE 3">EMPRESAS VENOCO</LineData>
+                            <LineData name="LINE 4">GERENCIA DE CALIDAD</LineData>
+                            <LineData name="LINE 5">ZONA INDUSTRIAL LA VILLA</LineData>
+                            <LineData name="LINE 6">CALLE G</LineData>
+                            <LineData name="LINE 7">SAN JUAN DE LOS MORROS 2301 ESTADO GUÁRICO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ARGENIS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MARTINEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2017</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO CARABOBO</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARIARA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">BARRIO JOSÉ GREGORIO HERNÁNDEZ</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SAN LUIS</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nº</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">07-02</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ARGENIS MARTINEZ</LineData>
+                            <LineData name="LINE 2">BARRIO JOSÉ GREGORIO HERNÁNDEZ</LineData>
+                            <LineData name="LINE 3">CALLE SAN LUIS, Nº 07-02</LineData>
+                            <LineData name="LINE 4">MARIARA 2017 ESTADO CARABOBO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARGARITA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CEPEDA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO LARA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARQUISIMETO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ARAURA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">CASA Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">65</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">MARGARITA CEPEDA</LineData>
+                            <LineData name="LINE 3">CALLE ARAURA</LineData>
+                            <LineData name="LINE 4">CASA Nº 65</LineData>
+                            <LineData name="LINE 5">BARQUISIMETO 3001 ESTADO LARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA FERNANDA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LÓPEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1060</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CHACAO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">VENEZUELA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">QUINTA</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MARILUZ</U40.26.11.21>
+                        <U40.32.00.00 uniq="U40Door">Nº 47</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MARIA FERNANDA LÓPEZ</LineData>
+                            <LineData name="LINE 2">AVENIDA VENEZUELA</LineData>
+                            <LineData name="LINE 3">QUINTA MARILUZ, Nº 47</LineData>
+                            <LineData name="LINE 4">CHACAO</LineData>
+                            <LineData name="LINE 5">CARACAS 1060 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">FÁBRICA DE HORNOS TIMCA</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2105</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ARAGUA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARACAY</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">SECTOR LA ROMANA</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">EL LIMÓN</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NEGRO PRIMERO</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">FÁBRICA DE HORNOS TIMCA</LineData>
+                            <LineData name="LINE 2">CALLE NEGRO PRIMERO</LineData>
+                            <LineData name="LINE 3">SECTOR LA ROMANA</LineData>
+                            <LineData name="LINE 4">EL LIMÓN</LineData>
+                            <LineData name="LINE 5">MARACAY 2105 ESTADO ARAGUA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">HORACIO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GÓMEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3023</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO LARA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CABUDARE</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LIBERTAD</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">CASA Nº</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">36</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">HORACIO GÓMEZ</LineData>
+                            <LineData name="LINE 3">CALLE LIBERTAD</LineData>
+                            <LineData name="LINE 4">CASA Nº 36</LineData>
+                            <LineData name="LINE 5">CABUDARE 3023 ESTADO LARA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">REGISTRO PÚBLICO 3ERO</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">DEPARTMENTO DE CONTROL</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO MÉRIDA</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">MÉRIDA</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">URBANIZACIÓN LA SOLEDAD</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">VISTA ALEGRE</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Nº</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">13</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">REGISTRO PÚBLICO 3ERO</LineData>
+                            <LineData name="LINE 2">DEPARTMENTO DE CONTROL</LineData>
+                            <LineData name="LINE 3">CALLE VISTA ALEGRE, Nº 13</LineData>
+                            <LineData name="LINE 4">URBANIZACIÓN LA SOLEDAD</LineData>
+                            <LineData name="LINE 5">MÉRIDA 5101 ESTADO MÉRIDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">CAROLINA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SANCHEZ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">ESTADO ANZOÁTEGUI</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">BARCELONA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">URBANIZACIÓN LA PUNTA</U40.17.11.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">NICARAGUA</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">LOS ANGELES</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PISO Nº 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">APARTAMENTO Nº 87</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">CAROLINA SANCHEZ</LineData>
+                            <LineData name="LINE 3">URBANIZACIÓN LA PUNTA</LineData>
+                            <LineData name="LINE 4">CALLE NICARAGUA</LineData>
+                            <LineData name="LINE 5">EDIFICIO LOS ANGELES</LineData>
+                            <LineData name="LINE 6">PISO Nº 4, APARTAMENTO Nº 87</LineData>
+                            <LineData name="LINE 7">BARCELONA 6001 ESTADO ANZOÁTEGUI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ANGEL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOLÍVAR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1061</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">VENEZUELA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">DISTRITO CAPITAL</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">CARACAS</U40.16.00.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">CHUAO</U40.17.31.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">BLANDÍN</U40.21.11.41>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">EDIFICIO</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">MI AÑORANZA</U40.26.11.21>
+                        <U40.31.00.00 uniq="U40Floor">PENTHOUSE</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">VE</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">VE</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>8</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">ANGEL BOLÍVAR</LineData>
+                            <LineData name="LINE 3">CALLE BLANDÍN</LineData>
+                            <LineData name="LINE 4">EDIFICIO MI AÑORANZA</LineData>
+                            <LineData name="LINE 5">PENTHOUSE</LineData>
+                            <LineData name="LINE 6">CHUAO</LineData>
+                            <LineData name="LINE 7">CARACAS 1061 DISTRITO CAPITAL</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

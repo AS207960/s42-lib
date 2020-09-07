@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>MW</GroupDescription>
+            <GroupItemCount>37</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Madalo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Phiri</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAWI</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Blantyre</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 261</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Madalo Phiri</LineData>
+                            <LineData name="LINE 2">P.O. Box 261</LineData>
+                            <LineData name="LINE 3">Blantyre</LineData>
+                            <LineData name="LINE 4">MALAWI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director of Postal</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Liza</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Msusa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MACRA</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P/Bag 261</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Liza Msusa</LineData>
+                            <LineData name="LINE 2">Director of Postal</LineData>
+                            <LineData name="LINE 3">MACRA</LineData>
+                            <LineData name="LINE 4">P/Bag 261</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tiyamike</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Doctor</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Health</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Kamuzu Central Hospital</U20.02.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 3100</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doctor Tiyamike Sukali</LineData>
+                            <LineData name="LINE 2">Kamuzu Central Hospital</LineData>
+                            <LineData name="LINE 3">Ministry of Health</LineData>
+                            <LineData name="LINE 4">P.O. Box 3100</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tiyamike</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kamuzu Central Hospital</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Gynaecology Dept</U20.02.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 3100</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Tiyamike Sukali</LineData>
+                            <LineData name="LINE 2">Gynaecology Dept</LineData>
+                            <LineData name="LINE 3">Kamuzu Central Hospital</LineData>
+                            <LineData name="LINE 4">P.O. Box 3100</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Director General</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Godfrey</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Itaye</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MACRA</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P/Bag 261</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Godfrey Itaye</LineData>
+                            <LineData name="LINE 2">Director General</LineData>
+                            <LineData name="LINE 3">MACRA</LineData>
+                            <LineData name="LINE 4">P/Bag 261</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Diana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ziwoya</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MACRA</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private Bag 261</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss. Diana Ziwoya</LineData>
+                            <LineData name="LINE 2">MACRA</LineData>
+                            <LineData name="LINE 3">Private Bag 261</LineData>
+                            <LineData name="LINE 4">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Edward</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kauka</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Captain</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Malawian Airlines</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHITIPA</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O Box 61</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Captain Edward Kauka</LineData>
+                            <LineData name="LINE 2">Malawian Airlines</LineData>
+                            <LineData name="LINE 3">P.O Box 61</LineData>
+                            <LineData name="LINE 4">CHITIPA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Menyere</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Major</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kamuzu Barracks</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Private Bag 40</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Major Menyere</LineData>
+                            <LineData name="LINE 2">Kamuzu Barracks</LineData>
+                            <LineData name="LINE 3">Private Bag 40</LineData>
+                            <LineData name="LINE 4">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Timothy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">MACRA</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Postal Directorate</U20.02.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P/Bag 261</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Timothy Sukali</LineData>
+                            <LineData name="LINE 2">Postal Directorate</LineData>
+                            <LineData name="LINE 3">MACRA</LineData>
+                            <LineData name="LINE 4">P/Bag 261</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Burnet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Namacha</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">KASUNGU</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Dunduzu Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">21</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Burnet Namacha</LineData>
+                            <LineData name="LINE 2">21 Dunduzu Avenue</LineData>
+                            <LineData name="LINE 3">KASUNGU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Gwede</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kalulu</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BALAKA</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Williams Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Gwede Kalulu</LineData>
+                            <LineData name="LINE 2">10 Williams Road</LineData>
+                            <LineData name="LINE 3">BALAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bennie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saka</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ginnery Corner</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Salmin Amour Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">MACRA House</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Bennie Saka</LineData>
+                            <LineData name="LINE 2">MACRA House</LineData>
+                            <LineData name="LINE 3">10 Salmin Amour Road</LineData>
+                            <LineData name="LINE 4">Ginnery Corner</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Chief</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Albert</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ziwoya</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CITY CENTRE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">African Avenue</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Bisnowalty Arcade</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 222</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Chief Albert Ziwoya</LineData>
+                            <LineData name="LINE 2">Room 222 Bisnowalty Arcade</LineData>
+                            <LineData name="LINE 3">22 African Avenue</LineData>
+                            <LineData name="LINE 4">CITY CENTRE</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Liza</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Msusa</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NAMIWAWA</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Glyn Jones Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">16</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Cedars Place</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Liza Msusa</LineData>
+                            <LineData name="LINE 2">Cedars Place</LineData>
+                            <LineData name="LINE 3">16 Glyn Jones Road</LineData>
+                            <LineData name="LINE 4">NAMIWAWA</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bennie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saka</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Pastor</U10.10.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CHICHIRI</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kamuzu Highway</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Comesa House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pastor Bennie Saka</LineData>
+                            <LineData name="LINE 2">Unit A Comesa House</LineData>
+                            <LineData name="LINE 3">8 Kamuzu Highway</LineData>
+                            <LineData name="LINE 4">CHICHIRI</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Timothy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">AREA 43</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sevenso Street</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">ADL Estate</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Timothy Sukali</LineData>
+                            <LineData name="LINE 2">ADL Estate</LineData>
+                            <LineData name="LINE 3">12 Sevenso Street</LineData>
+                            <LineData name="LINE 4">AREA 43</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Burnet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Namacha</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MANDALA</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">Larji Kurji</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Suite A</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Corner of Haile Selassie &amp; Glyn Jones Road</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Burnet Namacha</LineData>
+                            <LineData name="LINE 2">Suite A Larji Kurji</LineData>
+                            <LineData name="LINE 3">Corner of Haile Selassie &amp; Glyn Jones Road</LineData>
+                            <LineData name="LINE 4">MANDALA</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Thom</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kachali</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Professor</U10.10.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CITY CENTRE</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">Tikwere House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">6B</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Corner of Presidential Way &amp; Chimutu Avenue</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Professor Thom Kachali</LineData>
+                            <LineData name="LINE 2">6B Tikwere House</LineData>
+                            <LineData name="LINE 3">Corner of Presidential Way &amp; Chimutu Avenue</LineData>
+                            <LineData name="LINE 4">CITY CENTRE</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chiusiwa</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MAONE PARK</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">WFP House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 14</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Tsiranana Street, off Zomba Road</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Joseph Chiusiwa</LineData>
+                            <LineData name="LINE 2">Room 14 WFP House</LineData>
+                            <LineData name="LINE 3">Tsiranana Street, off Zomba Road</LineData>
+                            <LineData name="LINE 4">MAONE PARK</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Edward</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kauka</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NAMIWAWA</U40.17.11.00>
+                        <U40.26.00.00 uniq="U40Building">Chilembwe Towers</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">45</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Corner 14th off Hannover Street</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Edward Kauka</LineData>
+                            <LineData name="LINE 2">45 Chilembwe Towers</LineData>
+                            <LineData name="LINE 3">Corner 14th off Hannover Street</LineData>
+                            <LineData name="LINE 4">NAMIWAWA</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chiusiwa</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">THYOLO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">TA BVUMBWE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mulanje Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Bvumbwe Market</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Shop No 10</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joseph Chiusiwa</LineData>
+                            <LineData name="LINE 2">Shop No 10 Bvumbwe Market</LineData>
+                            <LineData name="LINE 3">22 Mulanje Road</LineData>
+                            <LineData name="LINE 4">TA BVUMBWE</LineData>
+                            <LineData name="LINE 5">THYOLO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Miss.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Diana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ziwoya</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Finance</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CITY CENTRE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Presidential Way</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">14</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Europa House</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Miss. Diana Ziwoya</LineData>
+                            <LineData name="LINE 2">Ministry of Finance</LineData>
+                            <LineData name="LINE 3">Europa House</LineData>
+                            <LineData name="LINE 4">14 Presidential Way</LineData>
+                            <LineData name="LINE 5">CITY CENTRE</LineData>
+                            <LineData name="LINE 6">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Timothy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Mamed Pharmaceuticals</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CHICHIRI</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chitawira Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Poly Village</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit 40</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Timothy Sukali</LineData>
+                            <LineData name="LINE 2">Mamed Pharmaceuticals</LineData>
+                            <LineData name="LINE 3">Unit 40 Poly Village</LineData>
+                            <LineData name="LINE 4">5 Chitawira Road</LineData>
+                            <LineData name="LINE 5">CHICHIRI</LineData>
+                            <LineData name="LINE 6">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Liza</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Msusa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ufulu Gardens Hotels</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">AREA 43</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Ufulu Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">22</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Liza Msusa</LineData>
+                            <LineData name="LINE 2">Ufulu Gardens Hotels</LineData>
+                            <LineData name="LINE 3">22 Ufulu Road</LineData>
+                            <LineData name="LINE 4">AREA 43</LineData>
+                            <LineData name="LINE 5">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bennie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saka</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">TA LUNDU</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Somba Village</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section D</U40.17.31.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Bennie Saka</LineData>
+                            <LineData name="LINE 2">12 Section D</LineData>
+                            <LineData name="LINE 3">Somba Village</LineData>
+                            <LineData name="LINE 4">TA LUNDU</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bennie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saka</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NAMIWAWA</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mombo Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bennie Saka</LineData>
+                            <LineData name="LINE 2">12 Mombo Road</LineData>
+                            <LineData name="LINE 3">NAMIWAWA</LineData>
+                            <LineData name="LINE 4">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Timothy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sukali</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Mamed Pharmaceuticals</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P.O. Box 31300</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Timothy Sukali</LineData>
+                            <LineData name="LINE 2">Mamed Pharmaceuticals</LineData>
+                            <LineData name="LINE 3">P.O. Box 31300</LineData>
+                            <LineData name="LINE 4">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Henry</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Silika</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Engineer</U10.10.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">T/A KUNTHEMBWE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Shire Way</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">25</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Nkula Power Station</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Engineer Henry Silika</LineData>
+                            <LineData name="LINE 2">Nkula Power Station</LineData>
+                            <LineData name="LINE 3">25 Shire Way</LineData>
+                            <LineData name="LINE 4">T/A KUNTHEMBWE</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Sera</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mdala</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NYAMBADWE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Magalasi Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">24</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Chapima Heights</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Sera Mdala</LineData>
+                            <LineData name="LINE 2">Chapima Heights</LineData>
+                            <LineData name="LINE 3">24 Magalasi Road</LineData>
+                            <LineData name="LINE 4">NYAMBADWE</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bennie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Saka</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NDIRANDE</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section C</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Nkhwangwala Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">234</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Bennie Saka</LineData>
+                            <LineData name="LINE 2">234 Section C</LineData>
+                            <LineData name="LINE 3">Nkhwangwala Road</LineData>
+                            <LineData name="LINE 4">NDIRANDE</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Madalo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Phiri</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">MZUZU</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CHIBANJA</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">Sukali Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">124</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Madalo Phiri</LineData>
+                            <LineData name="LINE 2">124 Sukali Road</LineData>
+                            <LineData name="LINE 3">CHIBANJA</LineData>
+                            <LineData name="LINE 4">MZUZU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Godfrey</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Itaye</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">MZUZU</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">HILLTOP</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section B</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Mzokoto Drive</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">201</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Godfrey Itaye</LineData>
+                            <LineData name="LINE 2">201 Section B</LineData>
+                            <LineData name="LINE 3">Mzokoto Drive</LineData>
+                            <LineData name="LINE 4">HILLTOP</LineData>
+                            <LineData name="LINE 5">MZUZU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U20.00.00.00 uniq="U20OrgName">AGROWORLD</U20.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">LILONGWE</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kamuzu Procession Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Maula Mall</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit No 17</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AGROWORLD</LineData>
+                            <LineData name="LINE 2">Unit No 17 Maula Mall</LineData>
+                            <LineData name="LINE 3">10 Kamuzu Procession Road</LineData>
+                            <LineData name="LINE 4">LILONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Aggrey</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Soko</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">NDIRANDE</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Matope Ward</U40.17.21.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section A</U40.17.31.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kabwaza Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Aggrey Soko</LineData>
+                            <LineData name="LINE 2">2 Section A</LineData>
+                            <LineData name="LINE 3">Kabwaza Road</LineData>
+                            <LineData name="LINE 4">Matope Ward</LineData>
+                            <LineData name="LINE 5">NDIRANDE</LineData>
+                            <LineData name="LINE 6">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Carstens</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mangamba</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHITIPA</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">P. O. Box 10</U40.19.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Chitipa Post Office</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Carstens Mangamba</LineData>
+                            <LineData name="LINE 2">P. O. Box 10</LineData>
+                            <LineData name="LINE 3">Chitipa Post Office</LineData>
+                            <LineData name="LINE 4">CHITIPA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Njikho</U10.08.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">SUNNYSIDE</U40.17.11.00>
+                        <U40.21.00.00 uniq="U40Thoro">26 MHC Avenue</U40.21.00.00>
+                        <U40.26.00.00 uniq="U40Building">MHC Flats</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 1 Flat B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Peter Njikho</LineData>
+                            <LineData name="LINE 2">Room 1 Flat B MHC Flats</LineData>
+                            <LineData name="LINE 3">26 MHC Avenue</LineData>
+                            <LineData name="LINE 4">SUNNYSIDE</LineData>
+                            <LineData name="LINE 5">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Vertical Blind masters &amp; Interior Décor</U10.00.00.00>
+                        <U40.16.00.00 uniq="U40Town">BLANTYRE</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Haile Saile Road</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">12</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">Omega House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 12 First Floor</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Vertical Blind masters &amp; Interior Décor</LineData>
+                            <LineData name="LINE 2">Room 12 First Floor Omega House</LineData>
+                            <LineData name="LINE 3">12 Haile Saile Road</LineData>
+                            <LineData name="LINE 4">BLANTYRE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

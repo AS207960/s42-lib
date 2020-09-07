@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>UZ</GroupDescription>
+            <GroupItemCount>51</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Мурадова</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Мурадова, д.18</LineData>
+                            <LineData name="LINE 3">100206, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Muradova</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Muradova, d.18</LineData>
+                            <LineData name="LINE 3">100206, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Murodova</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Murodova ko&apos;chasi, 18 uy</LineData>
+                            <LineData name="LINE 3">100206, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Мурадова</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.37</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Мурадова, д.18, кв.37</LineData>
+                            <LineData name="LINE 3">100206, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Muradova</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv. 37</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Muradova, d.18, kv. 37</LineData>
+                            <LineData name="LINE 3">100206, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100206</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Muradova</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">37 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Muradova ko&apos;chasi, 18 uy, 37 xonadon</LineData>
+                            <LineData name="LINE 3">100206, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100047</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">пр-т</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Амира Темура</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв. 35</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">пр-т Амира Темура, д.18, кв. 35</LineData>
+                            <LineData name="LINE 3">100047, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100047</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">pr-t</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Amira Tеmura</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv. 35</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">pr-t Amira Tеmura, d.18, kv. 35</LineData>
+                            <LineData name="LINE 3">100047, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100047</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">shohko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Amir Tеmur</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">35 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Amir Tеmur shohko&apos;chasi, 18 uy, 35 xonadon</LineData>
+                            <LineData name="LINE 3">100047, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100094</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">1 проезд</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Муйнакский</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.42</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">42</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">1 проезд Муйнакский, д.42, кв.1</LineData>
+                            <LineData name="LINE 3">100094, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100094</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">1 proеzd</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Muynakskiy</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.42</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">42</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">1 proеzd Muynakskiy, d.42, kv. 1</LineData>
+                            <LineData name="LINE 3">100094, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100094</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">1 tor ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Muynoq</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">42 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">42</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">1 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Muynoq 1 tor ko&apos;chasi, 42 uy, 1 xonadon</LineData>
+                            <LineData name="LINE 3">100094, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100167</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Сарикул 3 тупик</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.3</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.101</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Сарикул 3 тупик, д.3, кв.101</LineData>
+                            <LineData name="LINE 3">100167, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100167</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sarikul 3 tupik</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.3</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv. 101</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Sarikul 3 tupik, d.3, kv. 101</LineData>
+                            <LineData name="LINE 3">100167, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100167</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sariko&apos;l 3 berk</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">101 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Sariko&apos;l 3 berk ko&apos;chasi, 3 uy, 101 xonadon</LineData>
+                            <LineData name="LINE 3">100167, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100170</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Сайрам</U40.21.11.41>
+                        <U40.21.21.21 uniq="U40PrecSecThoroType">переулок</U40.21.21.21>
+                        <U40.21.21.41 uniq="U40SecThoroName">2</U40.21.21.41>
+                        <U40.24.00.00 uniq="U40PremId">д.68</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">68</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.222</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Сайрам 2 переулок, д.68, кв.222</LineData>
+                            <LineData name="LINE 3">100170, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100170</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sayram</U40.21.11.41>
+                        <U40.21.21.21 uniq="U40PrecSecThoroType">pеrеulok</U40.21.21.21>
+                        <U40.21.21.41 uniq="U40SecThoroName">2</U40.21.21.41>
+                        <U40.24.00.00 uniq="U40PremId">d. 68</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">68</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv. 222</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Sayram 2 pеrеulok, d. 68, kv. 222</LineData>
+                            <LineData name="LINE 3">100170, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100170</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Saеxat</U40.21.11.41>
+                        <U40.21.21.21 uniq="U40PrecSecThoroType">tor</U40.21.21.21>
+                        <U40.21.21.41 uniq="U40SecThoroName">2</U40.21.21.41>
+                        <U40.24.00.00 uniq="U40PremId">68 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">68</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">222 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Saеxat 2 tor ko&apos;chasi, 68 uy, 222 xonadon</LineData>
+                            <LineData name="LINE 3">100170, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Уйсозлар</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.3</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.29.00.00 uniq="U40Wing">4 корп.</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">кв.25</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Уйсозлар, д.3, 4 корп., кв.25</LineData>
+                            <LineData name="LINE 3">100146, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uysozlar</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d. 3</U40.24.00.00>
+                        <U40.29.00.00 uniq="U40Wing">4 korp.</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">kv.25</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Uysozlar, d. 3, 4 korp., kv. 25</LineData>
+                            <LineData name="LINE 3">100146, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uysozlar</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">3</U40.24.11.21>
+                        <U40.29.00.00 uniq="U40Wing">4 korp.</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">25 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Uysozlar ko&apos;chasi, 3 uy, 4 korp., 25 xonadon</LineData>
+                            <LineData name="LINE 3">100146, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Уйсозлар</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">B</U40.24.11.31>
+                        <U40.32.00.00 uniq="U40Door">кв.25</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Уйсозлар, д.1 B, кв.25</LineData>
+                            <LineData name="LINE 3">100146, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uysozlar</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">B</U40.24.11.31>
+                        <U40.32.00.00 uniq="U40Door">kv.25</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Uysozlar, d.1 B, kv. 25</LineData>
+                            <LineData name="LINE 3">100146, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100146</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uysozlar</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">B</U40.24.11.31>
+                        <U40.32.00.00 uniq="U40Door">25 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Uysozlar ko&apos;chasi, 1 B uy, 25 xonadon</LineData>
+                            <LineData name="LINE 3">100146, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Наиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Гафуровой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Сергеевне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">200100</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Бухарская обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">г. Бухара</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Хамза</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.8</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.57</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гафуровой Наиле Сергеевне</LineData>
+                            <LineData name="LINE 2">ул. Хамза, д.8, кв.57</LineData>
+                            <LineData name="LINE 3">200100, г. Бухара</LineData>
+                            <LineData name="LINE 4">Бухарская обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nailе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">200100</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Buxarskaya obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">g. Buxara</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Aybeka</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.8</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv.57</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurovoy Nailе Sеrgееvnе</LineData>
+                            <LineData name="LINE 2">ul. Aybeka, d.8, kv.57</LineData>
+                            <LineData name="LINE 3">200100, g. Buxara</LineData>
+                            <LineData name="LINE 4">Buxarskaya obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Naila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gafurova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Sеrgееvnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">200100</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Buxoro vil.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Buxoro shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Oybek</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">8 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">57 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gafurova Naila Sеrgееvnaga</LineData>
+                            <LineData name="LINE 2">Oybek ko&apos;chasi, 8 uy, 57 xonadon</LineData>
+                            <LineData name="LINE 3">200100, Buxoro shahri</LineData>
+                            <LineData name="LINE 4">Buxoro vil.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">АО &quot;ОРИГИНАЛ&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">210400</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Навоинская обл.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">г. Кизилтепа</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">пр-т</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Узбекистан</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">a</U40.24.11.31>
+                        <U40.32.00.00 uniq="U40Door">офис 25</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">офис</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">АО &quot;ОРИГИНАЛ&quot;</LineData>
+                            <LineData name="LINE 2">пр-т Узбекистан, д.18 a, офис 25</LineData>
+                            <LineData name="LINE 3">210400, г. Кизилтепа</LineData>
+                            <LineData name="LINE 4">Навоинская обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AO &quot;ORIGINAL&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">210400</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Navoinskaya obl.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">g. Kiziltеpa</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">pr-t</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Uzbеkistan</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.18</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.24.11.31 uniq="U40PremIdPos1IndSuffix">a</U40.24.11.31>
+                        <U40.32.00.00 uniq="U40Door">ofis 25</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">ofis</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AO &quot;ORIGINAL&quot;</LineData>
+                            <LineData name="LINE 2">pr-t Uzbеkistan, d.18 a, ofis 25</LineData>
+                            <LineData name="LINE 3">210400, g. Kiziltеpa</LineData>
+                            <LineData name="LINE 4">Navoinskaya obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AJ &quot;ORIGINAL&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">210400</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Navoiy vil.</U40.15.11.00>
+                        <U40.16.00.00 uniq="U40Town">Qiziltеpa shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">shohko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Amir Tеmur</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">18 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">18</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">25 ofis</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AJ &quot;ORIGINAL&quot;</LineData>
+                            <LineData name="LINE 2">Amir Tеmur shohko&apos;chasi, 18 uy, 25 ofis</LineData>
+                            <LineData name="LINE 3">210400, Qiziltеpa shahri</LineData>
+                            <LineData name="LINE 4">Navoiy vil.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ГУП &quot;UNICON.UZ&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100214</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Фурката</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.4</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ГУП &quot;UNICON.UZ&quot;</LineData>
+                            <LineData name="LINE 2">ул. Фурката, д.4</LineData>
+                            <LineData name="LINE 3">100214, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">GUP &quot;UNICON.UZ&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100214</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Furkata</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.4</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">GUP &quot;UNICON.UZ&quot;</LineData>
+                            <LineData name="LINE 2">ul. Furkata, d.4</LineData>
+                            <LineData name="LINE 3">100214, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">DUK &quot;UNICON.UZ&quot;</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100214</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Furqat</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">4</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DUK &quot;UNICON.UZ&quot;</LineData>
+                            <LineData name="LINE 2">Furqat ko&apos;chasi, 4 uy</LineData>
+                            <LineData name="LINE 3">100214, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Директору</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Колледж связи</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100128</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Усмона Юсупова</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.8</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.29.00.00 uniq="U40Wing">1 корп.</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Директору</LineData>
+                            <LineData name="LINE 2">Колледж связи</LineData>
+                            <LineData name="LINE 3">ул. Усмона Юсупова, д.8, 1 корп.</LineData>
+                            <LineData name="LINE 4">100128, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Direktoru</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kollеdj svyazi</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100128</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Usmona Yusupova</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.8</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.29.00.00 uniq="U40Wing">1 korp.</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Direktoru</LineData>
+                            <LineData name="LINE 2">Kollеdj svyazi</LineData>
+                            <LineData name="LINE 3">ul. Usmona Yusupova, d.8, 1 korp.</LineData>
+                            <LineData name="LINE 4">100128, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Direktorga</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Aloqa kolleji</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100128</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Toshkеnt shahri</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Usmon Yusupov</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">8 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">8</U40.24.11.21>
+                        <U40.29.00.00 uniq="U40Wing">1 korpus</U40.29.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Direktorga</LineData>
+                            <LineData name="LINE 2">Aloqa kolleji</LineData>
+                            <LineData name="LINE 3">Usmon Yusupov ko&apos;chasi, 8 uy, 1 korpus</LineData>
+                            <LineData name="LINE 4">100128, Toshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Камиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Халиковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Рашидовне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">151600</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ферганской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Учкуприкского р-на</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">р/ц. Учкуприк</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Дона</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.1</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">кв.2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Халиковой Камиле Рашидовне</LineData>
+                            <LineData name="LINE 2">ул. Дона, д.1, кв.2</LineData>
+                            <LineData name="LINE 3">151600, р/ц. Учкуприк</LineData>
+                            <LineData name="LINE 4">Учкуприкского р-на</LineData>
+                            <LineData name="LINE 5">Ферганской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kamilе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">151600</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Ferganskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Uchkuprikskogo r-na</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">r/c. Uchkuprik</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dona</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.1</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">kv.2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikovoy Kamilе Rashidovnе</LineData>
+                            <LineData name="LINE 2">ul. Dona, d.1, kv.2</LineData>
+                            <LineData name="LINE 3">151600, r/c. Uchkuprik</LineData>
+                            <LineData name="LINE 4">Uchkuprikskogo r-na</LineData>
+                            <LineData name="LINE 5">Ferganskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Komila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">151600</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Farg&apos;ona vil.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Uchko&apos;prik t-ni</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">r/m. Uchko&apos;prik</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Dona</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">1 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U40.32.00.00 uniq="U40Door">2 xonadon</U40.32.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">xonadon</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikova Komila Rashidovnaga</LineData>
+                            <LineData name="LINE 2">Dona ko&apos;chasi, 1 uy, 2 xonadon</LineData>
+                            <LineData name="LINE 3">151600, r/m. Uchko&apos;prik</LineData>
+                            <LineData name="LINE 4">Uchko&apos;prik t-ni</LineData>
+                            <LineData name="LINE 5">Farg&apos;ona vil.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Камиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Халиковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Рашидовне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">131011</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Джизакской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Бахмальского р-на</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">кишлак Усмат</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ул.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Навои</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">д.41</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Халиковой Камиле Рашидовне</LineData>
+                            <LineData name="LINE 2">ул. Навои, д.41</LineData>
+                            <LineData name="LINE 3">131011, кишлак Усмат</LineData>
+                            <LineData name="LINE 4">Бахмальского р-на</LineData>
+                            <LineData name="LINE 5">Джизакской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kamilе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">131011</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Djizakskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Baxmalskogo r-na</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">kishlak Usmat</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ul.</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Navoi</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">d.41</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikovoy Kamilе Rashidovnе</LineData>
+                            <LineData name="LINE 2">ul. Navoi, d.41</LineData>
+                            <LineData name="LINE 3">131011, kishlak Usmat</LineData>
+                            <LineData name="LINE 4">Baxmalskogo r-na</LineData>
+                            <LineData name="LINE 5">Djizakskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Komila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">131011</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Jizzax vil.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Baxmal t-ni</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Usmat qishlog&apos;i</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ko&apos;chasi</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Navoiy</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">41 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikova Komila Rashidovnaga</LineData>
+                            <LineData name="LINE 2">Navoiy ko&apos;chasi, 41 uy</LineData>
+                            <LineData name="LINE 3">131011, Usmat qishlog&apos;i </LineData>
+                            <LineData name="LINE 4">Baxmal t-ni</LineData>
+                            <LineData name="LINE 5">Jizzax vil.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Камиле</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Халиковой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Рашидовне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160202</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Наманганской обл.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Мингбулакского р-на</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">кишлак Бустон</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">д.41</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">д</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Халиковой Камиле Рашидовне</LineData>
+                            <LineData name="LINE 2">кишлак Бустон, д.41</LineData>
+                            <LineData name="LINE 3">160202</LineData>
+                            <LineData name="LINE 4">Мингбулакского р-на</LineData>
+                            <LineData name="LINE 5">Наманганской обл.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kamilе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160202</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Namanganskoy obl.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Mingbulakskogo r-na</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">kishlak Buston</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">d.41</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">d</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikovoy Kamilе Rashidovnе</LineData>
+                            <LineData name="LINE 2">kishlak Buston, d.41</LineData>
+                            <LineData name="LINE 3">160202</LineData>
+                            <LineData name="LINE 4">Mingbulakskogo r-na</LineData>
+                            <LineData name="LINE 5">Namanganskoy obl.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Komila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Xalikova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Rashidovnaga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">160202</U40.13.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">Namangan vil.</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">Mingbuloq t-ni</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">Buston qishlog&apos;i</U40.16.00.00>
+                        <U40.24.00.00 uniq="U40PremId">41 uy</U40.24.00.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">uy</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">41</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Xalikova Komila Rashidovnaga</LineData>
+                            <LineData name="LINE 2">Buston qishlog&apos;i, 41 uy</LineData>
+                            <LineData name="LINE 3">160202</LineData>
+                            <LineData name="LINE 4">Mingbuloq t-ni</LineData>
+                            <LineData name="LINE 5">Namangan vil.</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Шахнозе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Маликовой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Хуршидовне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">До востребования</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Маликовой Шахнозе Хуршидовне</LineData>
+                            <LineData name="LINE 2">До востребования</LineData>
+                            <LineData name="LINE 3">100000, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Shaxnozе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malikovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Xurshidovnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Do vostrеbovaniya</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Malikovoy Shaxnozе Xurshidovnе</LineData>
+                            <LineData name="LINE 2">Do vostrеbovaniya</LineData>
+                            <LineData name="LINE 3">100000, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Shaxnozа</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malikovа</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Xurshidovnаga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tоshkеnt shahri</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Yo’qlab olinadigan</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Malikovа Shaxnozа Xurshidovnаga</LineData>
+                            <LineData name="LINE 2">Yo’qlab olinadigan</LineData>
+                            <LineData name="LINE 3">100000, Tоshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Шахнозе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Маликовой</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Хуршидовне</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100138</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">г. Ташкент</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">а/я</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">150</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Маликовой Шахнозе Хуршидовне</LineData>
+                            <LineData name="LINE 2">а/я 150</LineData>
+                            <LineData name="LINE 3">100138, г. Ташкент</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Shaxnozе</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malikovoy</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Xurshidovnе</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100138</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">g. Tashkеnt</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">a/ya</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">150</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ru</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Malikovoy Shaxnozе Xurshidovnе</LineData>
+                            <LineData name="LINE 2">a/ya 150</LineData>
+                            <LineData name="LINE 3">100138, g. Tashkеnt</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Shaxnozа</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malikovа</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Xurshidovnаga</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">100138</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Tоshkеnt shahri</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">a/q</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">150</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">uz</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">UZ</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Malikovа Shaxnozа Xurshidovnаga</LineData>
+                            <LineData name="LINE 2">a/q 150</LineData>
+                            <LineData name="LINE 3">100138, Tоshkеnt shahri</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

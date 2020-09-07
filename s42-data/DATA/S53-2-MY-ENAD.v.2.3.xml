@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>MY</GroupDescription>
+            <GroupItemCount>51</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Aziz</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ramlan</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">anak</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">55100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">WILAYAH PERSEKUTUAN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Sutra</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sutra 1</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Aziz anak Ramlan</LineData>
+                            <LineData name="LINE 2">1, Jalan Sutra 1</LineData>
+                            <LineData name="LINE 3">Taman Sutra</LineData>
+                            <LineData name="LINE 4">55100 KUALA LUMPUR</LineData>
+                            <LineData name="LINE 5">WILAYAH PERSEKUTUAN</LineData>
+                            <LineData name="LINE 6">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">En.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Hashim</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Abdul Hamid</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">40300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHAH ALAM</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Seksyen 20</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ikan</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">En. Hashim Abdul Hamid</LineData>
+                            <LineData name="LINE 2">1, Jalan Ikan</LineData>
+                            <LineData name="LINE 3">Seksyen 20</LineData>
+                            <LineData name="LINE 4">40300 SHAH ALAM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Encik</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mohamed</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Kalid</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Nor</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">40000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHAH ALAM</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Seksyen 14</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SS 14/2</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Encik Mohamed Nor Kalid</LineData>
+                            <LineData name="LINE 2">2, Jalan SS 14/2</LineData>
+                            <LineData name="LINE 3">Seksyen 14</LineData>
+                            <LineData name="LINE 4">40000 SHAH ALAM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Encik</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Abdul Haqq</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Osman</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">56000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tun Razak</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Encik Abdul Haqq bin Osman</LineData>
+                            <LineData name="LINE 2">399, Jalan Tun Razak</LineData>
+                            <LineData name="LINE 3">56000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nor Mawar</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Abdul Haqq</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">binti</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">56000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Midah</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Midah 17</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nor Mawar binti Abdul Haqq</LineData>
+                            <LineData name="LINE 2">399, Jalan Midah 17</LineData>
+                            <LineData name="LINE 3">Taman Midah</LineData>
+                            <LineData name="LINE 4">56000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Musa</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Osman</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Haji</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">60000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">AMPANG</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Bukit Indah</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Bukit Indah 2/1</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Haji Musa bin Osman</LineData>
+                            <LineData name="LINE 2">399, Jalan Bukit Indah 2/1</LineData>
+                            <LineData name="LINE 3">Taman Bukit Indah</LineData>
+                            <LineData name="LINE 4">60000 AMPANG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Puan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Aisyah</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Musa</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">binti</U10.08.11.31>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Haji</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">56000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Cheras</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Puan Aisyah binti Haji Musa</LineData>
+                            <LineData name="LINE 2">399, Jalan Cheras</LineData>
+                            <LineData name="LINE 3">56000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Perpustakaan Negara Malaysia</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50572</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tun Razak</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">232</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Perpustakaan Negara Malaysia</LineData>
+                            <LineData name="LINE 2">232, Jalan Tun Razak</LineData>
+                            <LineData name="LINE 3">50572 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hotel Malaysia</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">55100</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Bukit Bintang</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">67-71</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hotel Malaysia</LineData>
+                            <LineData name="LINE 2">67-71, Jalan Bukit Bintang</LineData>
+                            <LineData name="LINE 3">55100 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Anbuselvan</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ramanan</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">a/l</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">56000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Miharja</U40.17.21.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Anbuselvan a/l Ramanan</LineData>
+                            <LineData name="LINE 2">399, Taman Miharja</LineData>
+                            <LineData name="LINE 3">56000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohd Najib</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Abdul Razak</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dato&apos; Seri</U10.10.11.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Tun Haji</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">50670</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dato&apos; Seri Mohd Najib bin Tun Haji Abdul Razak</LineData>
+                            <LineData name="LINE 2">50670 KUALA LUMPUR</LineData>
+                            <LineData name="LINE 3">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Syarikat ABC</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Sdn Bhd</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57100</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sungai Besi</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kampung Pinang Sebatang</U40.17.21.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">399</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Syarikat ABC Sdn Bhd</LineData>
+                            <LineData name="LINE 2">399, Kampung Pinang Sebatang</LineData>
+                            <LineData name="LINE 3">Sungai Besi</LineData>
+                            <LineData name="LINE 4">57100 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Mampu</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Berhad</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sungai Besi</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">123</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mampu Berhad</LineData>
+                            <LineData name="LINE 2">P.O. Box 123</LineData>
+                            <LineData name="LINE 3">Sungai Besi</LineData>
+                            <LineData name="LINE 4">57000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Maimunah</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ahmad</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">57000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sungai Besi</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kampung Sri Malaysia</U40.17.21.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">20</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Maimunah Ahmad</LineData>
+                            <LineData name="LINE 2">20, Kampung Sri Malaysia</LineData>
+                            <LineData name="LINE 3">Sungai Besi</LineData>
+                            <LineData name="LINE 4">57000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kamarul</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Abu</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">56100</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Cheras</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Saga</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Anggerik 1/1</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kamarul bin Abu</LineData>
+                            <LineData name="LINE 2">1, Jalan Anggerik 1/1</LineData>
+                            <LineData name="LINE 3">Taman Saga</LineData>
+                            <LineData name="LINE 4">Cheras</LineData>
+                            <LineData name="LINE 5">56100 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Puan</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Aminah</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ali</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">34500</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">BATU KURAU</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kampung Masjid</U40.17.21.00>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">20</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Puan Aminah Ali</LineData>
+                            <LineData name="LINE 2">20, Kampung Masjid</LineData>
+                            <LineData name="LINE 3">34500 BATU KURAU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Encik</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmad</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Idris</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">50772</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">12994</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Encik Ahmad Idris</LineData>
+                            <LineData name="LINE 2">P.O. Box 12994</LineData>
+                            <LineData name="LINE 3">50772 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ABC</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Berhad</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">46770</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">PETALING JAYA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Petit Surat</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">626</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ABC Berhad</LineData>
+                            <LineData name="LINE 2">Petit Surat 626</LineData>
+                            <LineData name="LINE 3">46770 PETALING JAYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Syarikat XYZ</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Sdn Bhd</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">87897</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SARAWAK</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUCHING</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Lock Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">5676</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Syarikat XYZ Sdn Bhd</LineData>
+                            <LineData name="LINE 2">Lock Bag 5676</LineData>
+                            <LineData name="LINE 3">87897 KUCHING</LineData>
+                            <LineData name="LINE 4">SARAWAK</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Syarikat XYZ</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Sdn Bhd</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Raja</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">23</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Syarikat XYZ Sdn Bhd</LineData>
+                            <LineData name="LINE 2">23, Jalan Raja</LineData>
+                            <LineData name="LINE 3">50000 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mathuram</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Anbuselvan</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">a/p</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">56100</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Angsana</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Besar</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">5</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Mathuram a/p Anbuselvan</LineData>
+                            <LineData name="LINE 2">5, Jalan Besar</LineData>
+                            <LineData name="LINE 3">Taman Angsana</LineData>
+                            <LineData name="LINE 4">56100 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Li Leen</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Foo</U10.08.11.11>
+                        <U40.13.00.00 uniq="U40PostCode">51200</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ipoh Kecil</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">1</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Li Leen Foo</LineData>
+                            <LineData name="LINE 2">1, Jalan Ipoh Kecil</LineData>
+                            <LineData name="LINE 3">51200 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">XYZ</U10.00.00.00>
+                        <U10.01.00.00 uniq="U10LegalStatus">Berhad</U10.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50936</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10643</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">XYZ Berhad</LineData>
+                            <LineData name="LINE 2">PO Box 10643</LineData>
+                            <LineData name="LINE 3">50936 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Norani</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ali</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bt</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">50250</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ipoh</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">2</U40.24.11.21>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Batu 4 1/2</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Norani bt Ali</LineData>
+                            <LineData name="LINE 2">2, Batu 4 1/2, Jalan Ipoh</LineData>
+                            <LineData name="LINE 3">50250 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Abdul Rahman</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Yusof</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">93300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUCHING</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Batu Kitang</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Abdul Rahman Bin Yusof</LineData>
+                            <LineData name="LINE 2">15, Jalan Batu Kitang</LineData>
+                            <LineData name="LINE 3">93300 KUCHING</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ramasamy</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Muthusammy</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">a/l</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">43300</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SERI KEMBANGAN</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Seri Kembangan</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SK 14</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ramasamy a/l Muthusammy</LineData>
+                            <LineData name="LINE 2">Jalan SK 14</LineData>
+                            <LineData name="LINE 3">Seri Kembangan</LineData>
+                            <LineData name="LINE 4">43300 SERI KEMBANGAN</LineData>
+                            <LineData name="LINE 5">SELANGOR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Arefah</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ismail</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bt</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">16700</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">KELANTAN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">PASIR PUTEH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Peti Surat:</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">84</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Arefah Bt Ismail</LineData>
+                            <LineData name="LINE 2">Peti Surat: 84</LineData>
+                            <LineData name="LINE 3">16700 PASIR PUTEH</LineData>
+                            <LineData name="LINE 4">KELANTAN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Abdul Kadir</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Rahim</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">27200</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">PAHANG</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">JERANTUT</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kg Jeram Landak</U40.17.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Abdul Kadir Bin Rahim</LineData>
+                            <LineData name="LINE 2">Kg Jeram Landak</LineData>
+                            <LineData name="LINE 3">27200 JERANTUT</LineData>
+                            <LineData name="LINE 4">PAHANG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">AHMAD</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">GHAZALI</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">BIN</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">43000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAJANG</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">KG SG RAMAL LUAR</U40.17.21.00>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Lot</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">75</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AHMAD BIN GHAZALI</LineData>
+                            <LineData name="LINE 2">Lot 75, KG SG RAMAL LUAR</LineData>
+                            <LineData name="LINE 3">43000 KAJANG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.11.00 uniq="U10OrgUnitLev1">Federal Land Development Authority</U10.02.11.00>
+                        <U10.02.21.00 uniq="U10OrgUnitLev2">Felda Sungai Kelamah</U10.02.21.00>
+                        <U40.13.00.00 uniq="U40PostCode">73400</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">NEGERI SEMBILAN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">GEMAS</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Federal Land Development Authority</LineData>
+                            <LineData name="LINE 2">Felda Sungai Kelamah</LineData>
+                            <LineData name="LINE 3">73400 GEMAS</LineData>
+                            <LineData name="LINE 4">NEGERI SEMBILAN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Omar</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ali</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Haji</U10.10.11.00>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Haji</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">15740</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">KELANTAN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KOTA BHARU</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Peti Surat</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">658</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Haji Omar Bin Haji Ali</LineData>
+                            <LineData name="LINE 2">Peti Surat 658</LineData>
+                            <LineData name="LINE 3">15740 KOTA BHARU</LineData>
+                            <LineData name="LINE 4">KELANTAN</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">PENGURUS</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">SYARIKAT JAYA BAKTI</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50730</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PETI SURAT</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">10938</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">PENGURUS</LineData>
+                            <LineData name="LINE 2">SYARIKAT JAYA BAKTI</LineData>
+                            <LineData name="LINE 3">PETI SURAT 10938</LineData>
+                            <LineData name="LINE 4">50730 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohd.Aziz</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ramli</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U20.00.00.00 uniq="U20OrgName">Syarikat Jaya Trading</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88990</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KOTA KINABALU</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Beg Berkunci</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">No 22</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohd.Aziz Bin Ramli</LineData>
+                            <LineData name="LINE 2">Syarikat Jaya Trading</LineData>
+                            <LineData name="LINE 3">Beg Berkunci No 22</LineData>
+                            <LineData name="LINE 4">88990 KOTA KINABALU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Alias</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ahmad</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ahmad</U20.06.00.00>
+                        <U20.08.11.11 uniq="U20SurnamePart1">Isa</U20.08.11.11>
+                        <U20.08.11.31 uniq="U20SurnamePrefix">bin</U20.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">40150</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHAH ALAM</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kampung Melayu Subang</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Betik</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">13</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alias bin Ahmad</LineData>
+                            <LineData name="LINE 2">c/o Ahmad bin Isa</LineData>
+                            <LineData name="LINE 3">No. 13, Jalan Betik</LineData>
+                            <LineData name="LINE 4">Kampung Melayu Subang</LineData>
+                            <LineData name="LINE 5">40150 SHAH ALAM</LineData>
+                            <LineData name="LINE 6">SELANGOR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mohd.Adlan</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Che Rahim</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U20.00.00.00 uniq="U20OrgName">Pos Malaysia</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Berhad</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Pusat Mel dan Kurier KLIA</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">64000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KLIA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">KLIA S1</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mohd.Adlan Bin Che Rahim</LineData>
+                            <LineData name="LINE 2">Pusat Mel dan Kurier KLIA</LineData>
+                            <LineData name="LINE 3">Pos Malaysia Berhad</LineData>
+                            <LineData name="LINE 4">Jalan KLIA S1</LineData>
+                            <LineData name="LINE 5">64000 KLIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ahmad</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Latif</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U10.10.11.00 uniq="U10PrecQualification">Prof.Dr</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">Universiti Putra Malaysia</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Fakulti Sains Komputer</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">43000</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">UPM SERDANG</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Prof.Dr Ahmad Bin Latif</LineData>
+                            <LineData name="LINE 2">Fakulti Sains Komputer</LineData>
+                            <LineData name="LINE 3">Universiti Putra Malaysia</LineData>
+                            <LineData name="LINE 4">43000 UPM SERDANG</LineData>
+                            <LineData name="LINE 5">SELANGOR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Rashid</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Sidek</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">Bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">81100</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">JOHOR DARUL TAKZIM</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">JOHOR BAHRU</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Molek</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Molek 2/2</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">62</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Rashid Bin Sidek</LineData>
+                            <LineData name="LINE 2">62, Jalan Molek 2/2</LineData>
+                            <LineData name="LINE 3">Taman Molek</LineData>
+                            <LineData name="LINE 4">81100 JOHOR BAHRU</LineData>
+                            <LineData name="LINE 5">JOHOR DARUL TAKZIM</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jabatan Audit Negeri Kedah</U10.00.00.00>
+                        <U10.02.11.00 uniq="U10OrgUnitLev1">Unit Perakaunan dan Statistik</U10.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">05518</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">KEDAH</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALOR SETAR</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Unit Perakaunan dan Statistik</LineData>
+                            <LineData name="LINE 2">Jabatan Audit Negeri Kedah</LineData>
+                            <LineData name="LINE 3">05518 ALOR SETAR</LineData>
+                            <LineData name="LINE 4">KEDAH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hasanuddin</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ahmad</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U20.00.00.00 uniq="U20OrgName">Pos Malaysia</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Berhad</U20.01.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Unit Sokongan Operasi dan Teknikal</U20.02.00.00>
+                        <U20.03.00.00 uniq="U20Function">Penolong Pengurus</U20.03.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50670</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hasanuddin bin Ahmad</LineData>
+                            <LineData name="LINE 2">Penolong Pengurus</LineData>
+                            <LineData name="LINE 3">Unit Sokongan Operasi dan Teknikal</LineData>
+                            <LineData name="LINE 4">Pos Malaysia Berhad</LineData>
+                            <LineData name="LINE 5">50670 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nur Azian</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Said</U10.08.11.11>
+                        <U10.10.11.00 uniq="U10PrecQualification">Siti</U10.10.11.00>
+                        <U20.00.00.00 uniq="U20OrgName">International Publishing</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Sdn. Bhd.</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">43200</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAJANG</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Subang Jaya Industrial Estate Phase 2</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Lorong</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">SS 12/2C</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">Lot</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">15</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Siti Nur Azian Said</LineData>
+                            <LineData name="LINE 2">International Publishing Sdn. Bhd.</LineData>
+                            <LineData name="LINE 3">Lot 15, Lorong SS 12/2C</LineData>
+                            <LineData name="LINE 4">Subang Jaya Industrial Estate Phase 2</LineData>
+                            <LineData name="LINE 5">43200 KAJANG</LineData>
+                            <LineData name="LINE 6">SELANGOR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Anuar</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Samsudin</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">43000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAJANG</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Taman Kenari</U40.17.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kenari</U40.21.11.41>
+                        <U40.24.11.11 uniq="U40PremIdPos1Type">No.</U40.24.11.11>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">66</U40.24.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Anuar bin Samsudin</LineData>
+                            <LineData name="LINE 2">No. 66, Jalan Kenari</LineData>
+                            <LineData name="LINE 3">Taman Kenari</LineData>
+                            <LineData name="LINE 4">43000 KAJANG</LineData>
+                            <LineData name="LINE 5">SELANGOR</LineData>
+                            <LineData name="LINE 6">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Manager</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Citybank</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">Berhad</U20.01.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50754</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">11725</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Manager</LineData>
+                            <LineData name="LINE 2">Citybank Berhad</LineData>
+                            <LineData name="LINE 3">P.O. Box 11725</LineData>
+                            <LineData name="LINE 4">50754 KUALA LUMPUR</LineData>
+                            <LineData name="LINE 5">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Manager</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Syarikat Jaya Trading</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">88990</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SABAH</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">KOTA KINABALU</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Lock Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">No 22</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Manager</LineData>
+                            <LineData name="LINE 2">Syarikat Jaya Trading</LineData>
+                            <LineData name="LINE 3">Lock Bag No 22</LineData>
+                            <LineData name="LINE 4">88990 KOTA KINABALU</LineData>
+                            <LineData name="LINE 5">SABAH</LineData>
+                            <LineData name="LINE 6">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jabatan Muzium Dan Antikuiti</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50566</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Damansara</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jabatan Muzium Dan Antikuiti</LineData>
+                            <LineData name="LINE 2">Jalan Damansara</LineData>
+                            <LineData name="LINE 3">50566 KUALA LUMPUR</LineData>
+                            <LineData name="LINE 4">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Jabatan Kemajuan Islam Malaysia</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50480</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Perdana</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jabatan Kemajuan Islam Malaysia</LineData>
+                            <LineData name="LINE 2">Jalan Perdana</LineData>
+                            <LineData name="LINE 3">50480 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Parlimen Malaysia</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50680</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Parlimen Malaysia</LineData>
+                            <LineData name="LINE 2">50680 KUALA LUMPUR</LineData>
+                            <LineData name="LINE 3">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Dean</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Universiti Kebangsaan Malaysia</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Fakulti Sains Sosial dan Kemanusiaan</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">43600</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">SELANGOR DARUL EHSAN</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">UKM BANGI</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dean</LineData>
+                            <LineData name="LINE 2">Fakulti Sains Sosial dan Kemanusiaan</LineData>
+                            <LineData name="LINE 3">Universiti Kebangsaan Malaysia</LineData>
+                            <LineData name="LINE 4">43600 UKM BANGI</LineData>
+                            <LineData name="LINE 5">SELANGOR DARUL EHSAN</LineData>
+                            <LineData name="LINE 6">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Rashila</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Muzaffar</U10.08.11.11>
+                        <U10.10.11.00 uniq="U10PrecQualification">Dr.</U10.10.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">50250</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Sultan Ismail</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">379</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Menara Kelana</U40.26.11.00>
+                        <U40.31.00.00 uniq="U40Floor">2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. Rashila Muzaffar</LineData>
+                            <LineData name="LINE 2">2-3, Menara Kelana</LineData>
+                            <LineData name="LINE 3">379, Jalan Sultan Ismail</LineData>
+                            <LineData name="LINE 4">50250 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Yusof Omar</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Achmad</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U40.13.00.00 uniq="U40PostCode">47300</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">PETALING JAYA</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kelana Jaya</U40.17.21.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Pangsapuri Kelana</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">A1</U40.26.21.00>
+                        <U40.30.11.11 uniq="U40StairwellType">5</U40.30.11.11>
+                        <U40.31.00.00 uniq="U40Floor">7</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Yusof Omar bin Achmad</LineData>
+                            <LineData name="LINE 2">A1-7-5, Pangsapuri Kelana</LineData>
+                            <LineData name="LINE 3">Kelana Jaya</LineData>
+                            <LineData name="LINE 4">47300 PETALING JAYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Abdullah</U10.06.00.00>
+                        <U10.08.11.11 uniq="U10SurnamePart1">Ahmad Badawi</U10.08.11.11>
+                        <U10.08.11.31 uniq="U10SurnamePrefix">bin</U10.08.11.31>
+                        <U10.10.12.00 uniq="U10IntermediateQualification">Haji</U10.10.12.00>
+                        <U40.13.00.00 uniq="U40PostCode">47300</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MALAYSIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PETALING JAYA</U40.16.00.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kelana Jaya</U40.17.21.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Pangsapuri Impian</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Melor</U40.26.21.00>
+                        <U40.30.11.11 uniq="U40StairwellType">2</U40.30.11.11>
+                        <U40.31.00.00 uniq="U40Floor">6</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Abdullah bin Haji Ahmad Badawi</LineData>
+                            <LineData name="LINE 2">Melor-6-2, Pangsapuri Impian</LineData>
+                            <LineData name="LINE 3">Kelana Jaya</LineData>
+                            <LineData name="LINE 4">47300 PETALING JAYA</LineData>
+                            <LineData name="LINE 5">MALAYSIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.02.11.00 uniq="U10OrgUnitLev1">Jabatan Penerangan</U10.02.11.00>
+                        <U40.13.00.00 uniq="U40PostCode">50610</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KUALA LUMPUR</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Jalan</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1/65A</U40.21.11.41>
+                        <U40.24.11.21 uniq="U40PremIdPos1Ind">28</U40.24.11.21>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Wisma Bernama</U40.26.11.00>
+                        <U40.30.11.11 uniq="U40StairwellType">2</U40.30.11.11>
+                        <U40.31.00.00 uniq="U40Floor">7</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">2</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MY</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MY</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jabatan Penerangan</LineData>
+                            <LineData name="LINE 2">7-2, Wisma Bernama</LineData>
+                            <LineData name="LINE 3">28, Jalan 1/65A</LineData>
+                            <LineData name="LINE 4">50610 KUALA LUMPUR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

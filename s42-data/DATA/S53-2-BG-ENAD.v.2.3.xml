@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>BG</GroupDescription>
+            <GroupItemCount>42</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Петко</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Касабов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Христов</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Стефан Караджа&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 12A</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Петко Христов Касабов</LineData>
+                            <LineData name="LINE 2">ул. &quot;Стефан Караджа&quot;, № 12A, ап. 5</LineData>
+                            <LineData name="LINE 3">1000 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Иван</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Иванов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Пламенов</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ж.к. &quot;Белите брези&quot;</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 104</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Иван Пламенов Иванов</LineData>
+                            <LineData name="LINE 2">ж.к. &quot;Белите брези&quot;, бл. 104, вх. 1, ет. 2, ап. 4</LineData>
+                            <LineData name="LINE 3">1680 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Иван</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Иванов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Пламенов</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1202</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Бял камък&quot;</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. Б</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Иван Пламенов Иванов</LineData>
+                            <LineData name="LINE 2">ул. &quot;Бял камък&quot;, бл. 31, вх. Б, ет. 2, ап. 3</LineData>
+                            <LineData name="LINE 3">1202 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Николай</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Кератинов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Александров</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ж.к. &quot;Белите брези&quot;</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">бул.&quot;Проф. Димитър Атанасов&quot;</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 40</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Николай Александров Кератинов</LineData>
+                            <LineData name="LINE 2">ж.к. &quot;Белите брези&quot;</LineData>
+                            <LineData name="LINE 3">бул.&quot;Проф. Димитър Атанасов&quot;, бл. 40, вх. 1, ет. 4, ап. 3</LineData>
+                            <LineData name="LINE 4">1680 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Николай</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Кератинов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Александров</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ж.к. &quot;Белите брези&quot;</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул.&quot;Венера&quot;</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 40</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Николай Александров Кератинов</LineData>
+                            <LineData name="LINE 2">ж.к. &quot;Белите брези&quot;</LineData>
+                            <LineData name="LINE 3">ул.&quot;Венера&quot;, бл. 40, вх. 1, ет. 4, ап. 3</LineData>
+                            <LineData name="LINE 4">1680 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Пенка</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Смуглева</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Христова</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3264</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">обл. Враца</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">с.Мечка</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Кокиче&quot;</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Пенка Христова Смуглева</LineData>
+                            <LineData name="LINE 2">ул. &quot;Кокиче&quot;</LineData>
+                            <LineData name="LINE 3">обл. Враца</LineData>
+                            <LineData name="LINE 4">3264 с.Мечка</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Тошко</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Янков</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Владимиров</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9299</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">обл. Варна</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">с.Караманите</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">п.к. 2</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Тошко Владимиров Янков</LineData>
+                            <LineData name="LINE 2">п.к. 2</LineData>
+                            <LineData name="LINE 3">обл. Варна</LineData>
+                            <LineData name="LINE 4">9299 с.Караманите</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Тошко</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Янков</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Владимиров</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9299</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">обл. Варна</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">с.Караманите</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">махала Горна</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Тошко Владимиров Янков</LineData>
+                            <LineData name="LINE 2">махала Горна</LineData>
+                            <LineData name="LINE 3">обл. Варна</LineData>
+                            <LineData name="LINE 4">9299 с.Караманите</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Мария</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Стоянова</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Стоянова</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Пощенска кутия 11</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Мария Стоянова Стоянова</LineData>
+                            <LineData name="LINE 2">Пощенска кутия 11</LineData>
+                            <LineData name="LINE 3">1000 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Киро</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Желязков</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Петров</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1408</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">До поискване</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Киро Петров Желязков</LineData>
+                            <LineData name="LINE 2">До поискване</LineData>
+                            <LineData name="LINE 3">1408 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">НАП</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Отдел &quot;Човешки ресурси&quot;</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Пловдив</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">НАП</LineData>
+                            <LineData name="LINE 2">Отдел &quot;Човешки ресурси&quot;</LineData>
+                            <LineData name="LINE 3">4000 Пловдив</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">До</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Г-ца</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Антония</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Петкова</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Светланова</U10.09.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">За</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Василий</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Джамбазов</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1463</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул.&quot;Витоша&quot;</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 36</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. А</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">До Г-ца Антония Светланова Петкова</LineData>
+                            <LineData name="LINE 2">За Василий Джамбазов</LineData>
+                            <LineData name="LINE 3">ул.&quot;Витоша&quot;, бл. 36, вх. А, ет. 3, ап. 1</LineData>
+                            <LineData name="LINE 4">1463 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">До</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Г-н</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Димитър</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Димитров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Димитров</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Хотел Берлин Грийн Парк, к.к.Златни Пясъци</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9007</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Варна</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">До Г-н Димитър Димитров Димитров</LineData>
+                            <LineData name="LINE 2">Хотел Берлин Грийн Парк, к.к.Златни Пясъци</LineData>
+                            <LineData name="LINE 3">9007 Варна</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Евгени</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Тодоров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Валентинов</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Криптоар ООД</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">отдел Маркетинг</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3453</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Видин</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул.&quot;Шарл Шампо&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Евгени Валентинов Тодоров</LineData>
+                            <LineData name="LINE 2">Криптоар ООД</LineData>
+                            <LineData name="LINE 3">отдел Маркетинг</LineData>
+                            <LineData name="LINE 4">ул.&quot;Шарл Шампо&quot;, № 3</LineData>
+                            <LineData name="LINE 5">3453 Видин</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Тонка</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Смолева</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Иванова</U10.09.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Инж.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Академик Стефан Младенов&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Инж. Тонка Иванова Смолева</LineData>
+                            <LineData name="LINE 2">ул. &quot;Академик Стефан Младенов&quot;, № 1, бл. 31</LineData>
+                            <LineData name="LINE 3">1700 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Тонка</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Смолева</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Иванова</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Академик Стефан Младенов&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Тонка Иванова Смолева</LineData>
+                            <LineData name="LINE 2">ул. &quot;Академик Стефан Младенов&quot;, № 1, бл. 31</LineData>
+                            <LineData name="LINE 3">1700 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Български пощи ЕАД</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Академик Стефан Младенов&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Български пощи ЕАД</LineData>
+                            <LineData name="LINE 2">ул. &quot;Академик Стефан Младенов&quot;, № 1, бл. 31</LineData>
+                            <LineData name="LINE 3">1700 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Български пощи ЕАД</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Отдел Пощенски услуги</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Академик Стефан Младенов&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Български пощи ЕАД</LineData>
+                            <LineData name="LINE 2">Отдел Пощенски услуги</LineData>
+                            <LineData name="LINE 3">ул. &quot;Академик Стефан Младенов&quot;, № 1, бл. 31</LineData>
+                            <LineData name="LINE 4">1700 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Стажант в отдел ИТ</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Свилен</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Грозданов</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Стефанов</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Български пощи ЕАД</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ул. &quot;Академик Стефан Младенов&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Свилен Стефанов Грозданов</LineData>
+                            <LineData name="LINE 2">Стажант в отдел ИТ</LineData>
+                            <LineData name="LINE 3">Български пощи ЕАД</LineData>
+                            <LineData name="LINE 4">ул. &quot;Академик Стефан Младенов&quot;, № 1, бл. 31</LineData>
+                            <LineData name="LINE 5">1700 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Гергана</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Младенова</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Недялкова</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Вита ЕАД</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1766</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ж.к. Младост 5</U40.17.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Бизнес Парк София</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">Сграда 10</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">ет. 5</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Гергана Недялкова Младенова</LineData>
+                            <LineData name="LINE 2">Вита ЕАД</LineData>
+                            <LineData name="LINE 3">Сграда 10, ет. 5</LineData>
+                            <LineData name="LINE 4">Бизнес Парк София</LineData>
+                            <LineData name="LINE 5">ж.к. Младост 5</LineData>
+                            <LineData name="LINE 6">1766 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Георги</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Петров</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Каменов</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1232</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">София</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">К-с &quot;Кошарите&quot;</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">бл. 3</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">вх. 2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">ап. 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Cyrl</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Георги Каменов Петров</LineData>
+                            <LineData name="LINE 2">К-с &quot;Кошарите&quot;, бл. 3, вх. 2, ап. 15</LineData>
+                            <LineData name="LINE 3">1232 София</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Petko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kasabov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Hristov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul.&quot;Stefan Karadzha&quot;</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 12A</U40.24.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 5</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Petko Hristov Kasabov</LineData>
+                            <LineData name="LINE 2">ul.&quot;Stefan Karadzha&quot;, № 12A, ap. 5</LineData>
+                            <LineData name="LINE 3">1000 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ivanov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Plamenov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">zh.k. Belite brezi</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 104</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 4</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ivan Plamenov Ivanov</LineData>
+                            <LineData name="LINE 2">zh.k. Belite brezi, bl. 104, vh. 1, et. 2, ap. 4</LineData>
+                            <LineData name="LINE 3">1680 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ivan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ivanov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Plamenov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1202</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Byal Kamak</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. B</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 2</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ivan Plamenov Ivanov</LineData>
+                            <LineData name="LINE 2">ul. Byal Kamak, bl. 31, vh. B, et. 2, ap. 3</LineData>
+                            <LineData name="LINE 3">1202 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nikolai</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Keratinov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Aleksandrov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">zh.k. Belite brezi</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">bul. Prof. Dimitar Atanasov</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 40</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nikolai Aleksandrov Keratinov</LineData>
+                            <LineData name="LINE 2">zh.k. Belite brezi</LineData>
+                            <LineData name="LINE 3">bul. Prof. Dimitar Atanasov, bl. 40, vh. 1, et. 4, ap. 3</LineData>
+                            <LineData name="LINE 4">1680 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nikolai</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Keratinov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Aleksandrov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1680</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">zh.k. Belite brezi</U40.17.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Venera</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 40</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. 1</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 4</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 3</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nikolai Aleksandrov Keratinov</LineData>
+                            <LineData name="LINE 2">zh.k. Belite brezi</LineData>
+                            <LineData name="LINE 3">ul. Venera, bl. 40, vh. 1, et. 4, ap. 3</LineData>
+                            <LineData name="LINE 4">1680 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Penka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smugleva</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Hristova</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3264</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">obl. Vratsa</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">s. Mechka</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Kokiche</U40.21.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Penka Hristova Smugleva</LineData>
+                            <LineData name="LINE 2">ul. Kokiche</LineData>
+                            <LineData name="LINE 3">obl. Vratsa</LineData>
+                            <LineData name="LINE 4">3264 s. Mechka</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Toshko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yankov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Vladimirov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9299</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">obl. Varna</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">s.Karamanite</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">box 2</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Toshko Vladimirov Yankov</LineData>
+                            <LineData name="LINE 2">box 2</LineData>
+                            <LineData name="LINE 3">obl. Varna</LineData>
+                            <LineData name="LINE 4">9299 s.Karamanite</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Toshko</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Yankov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Vladimirov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9299</U40.13.00.00>
+                        <U40.15.00.00 uniq="U40Region">obl. Varna</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">s.Karamanite</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">mahala Gorna</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Toshko Vladimirov Yankov</LineData>
+                            <LineData name="LINE 2">mahala Gorna</LineData>
+                            <LineData name="LINE 3">obl. Varna</LineData>
+                            <LineData name="LINE 4">9299 s.Karamanite</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Maria</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Stoyanova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Stoyanova</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Box 11</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Maria Stoyanova Stoyanova</LineData>
+                            <LineData name="LINE 2">Box 11</LineData>
+                            <LineData name="LINE 3">1000 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Kiro</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zhelyazkov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Petrov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1408</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.19.00.00 uniq="U40DelServId">Do poiskvane</U40.19.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Kiro Petrov Zhelyazkov</LineData>
+                            <LineData name="LINE 2">Do poiskvane</LineData>
+                            <LineData name="LINE 3">1408 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">NAP</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Otdel &quot;Choveshki resursi&quot;</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4000</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Plovdiv</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NAP</LineData>
+                            <LineData name="LINE 2">Otdel &quot;Choveshki resursi&quot;</LineData>
+                            <LineData name="LINE 3">4000 Plovdiv</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Do</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">g-ca</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Antoniya</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petkova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Svetlanova</U10.09.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">Za</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Vasilii</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Djambazov</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1463</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Vitosha</U40.21.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 36</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. A</U40.29.00.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 1</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Do g-ca Antoniya Svetlanova Petkova</LineData>
+                            <LineData name="LINE 2">Za Vasilii Djambazov</LineData>
+                            <LineData name="LINE 3">ul. Vitosha, bl. 36, vh. A, et. 3, ap. 1</LineData>
+                            <LineData name="LINE 4">1463 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Do</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">g-n</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Dimityr</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dimitrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Dimitrov</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Hotel Berlin Green Park, к.к.Zlatni Pyasаci</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9007</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Varna</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Do g-n Dimityr Dimitrov Dimitrov</LineData>
+                            <LineData name="LINE 2">Hotel Berlin Green Park, к.к.Zlatni Pyasаci</LineData>
+                            <LineData name="LINE 3">9007 Varna</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Evgeni</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Todorov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Valentinov</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kriptoar OOD</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">otdel Marketing</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3453</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Vidin</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Sharl Shampo</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 3</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Evgeni Valentinov Todorov</LineData>
+                            <LineData name="LINE 2">Kriptoar OOD</LineData>
+                            <LineData name="LINE 3">otdel Marketing</LineData>
+                            <LineData name="LINE 4">ul. Sharl Shampo, № 3</LineData>
+                            <LineData name="LINE 5">3453 Vidin</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tonka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smoleva</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanova</U10.09.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Inzh.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Akademik Stefan Mladenov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Inzh. Tonka Ivanova Smoleva</LineData>
+                            <LineData name="LINE 2">ul. Akademik Stefan Mladenov, № 1, bl. 31</LineData>
+                            <LineData name="LINE 3">1700 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tonka</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Smoleva</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Ivanova</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Akademik Stefan Mladenov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tonka Ivanova Smoleva</LineData>
+                            <LineData name="LINE 2">ul. Akademik Stefan Mladenov, № 1, bl. 31</LineData>
+                            <LineData name="LINE 3">1700 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Balgarski poshti EAD</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Akademik Stefan Mladenov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Balgarski poshti EAD</LineData>
+                            <LineData name="LINE 2">ul. Akademik Stefan Mladenov, № 1, bl. 31</LineData>
+                            <LineData name="LINE 3">1700 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bylgarski poshti EAD</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Otdel &quot;Poshtenki uslugi&quot;</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Akademik Stefan Mladenov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bylgarski poshti EAD</LineData>
+                            <LineData name="LINE 2">Otdel &quot;Poshtenki uslugi&quot;</LineData>
+                            <LineData name="LINE 3">ul. Akademik Stefan Mladenov, № 1, bl. 31</LineData>
+                            <LineData name="LINE 4">1700 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">stajant v otdel IT</U10.03.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Svilen</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Grozdanov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Stefanov</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Balgarski poshti EAD</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1700</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ul. Akademik Stefan Mladenov</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">№ 1</U40.24.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 31</U40.26.21.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Svilen Stefanov Grozdanov</LineData>
+                            <LineData name="LINE 2">stajant v otdel IT</LineData>
+                            <LineData name="LINE 3">Balgarski poshti EAD</LineData>
+                            <LineData name="LINE 4">ul. Akademik Stefan Mladenov, № 1, bl. 31</LineData>
+                            <LineData name="LINE 5">1700 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gergana</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mladenova</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Nedyalkova</U10.09.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Vita EAD</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1766</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">zh.k. Mladost 5</U40.17.00.00>
+                        <U40.26.11.00 uniq="U40BuildingLev1">Biznes Park Sofia</U40.26.11.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">sgrada 10</U40.26.21.00>
+                        <U40.31.00.00 uniq="U40Floor">et. 5</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gergana Nedyalkova Mladenova</LineData>
+                            <LineData name="LINE 2">Vita EAD</LineData>
+                            <LineData name="LINE 3">sgrada 10, et. 5</LineData>
+                            <LineData name="LINE 4">Biznes Park Sofia</LineData>
+                            <LineData name="LINE 5">zh.k. Mladost 5</LineData>
+                            <LineData name="LINE 6">1766 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Georgi</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petrov</U10.08.00.00>
+                        <U10.09.00.00 uniq="U10NameQualifier">Kamenov</U10.09.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">1232</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Sofia</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Kompleks Kosharite</U40.17.00.00>
+                        <U40.26.21.00 uniq="U40BuildingLev2">bl. 3</U40.26.21.00>
+                        <U40.29.00.00 uniq="U40Wing">vh. 2</U40.29.00.00>
+                        <U40.32.00.00 uniq="U40Door">ap. 15</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">bg</U50.51.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Georgi Kamenov Petrov</LineData>
+                            <LineData name="LINE 2">Kompleks Kosharite, bl. 3, vh. 2, ap. 15</LineData>
+                            <LineData name="LINE 3">1232 Sofia</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

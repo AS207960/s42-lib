@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>CL</GroupDescription>
+            <GroupItemCount>19</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señorita</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Maria Teresa</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Torres</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8720019</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">QUILICURA</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">El Juncal</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">050</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Edificio B</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 2</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señorita</LineData>
+                            <LineData name="LINE 2">Maria Teresa Torres</LineData>
+                            <LineData name="LINE 3">El Juncal 050, Edificio B, Piso 2</LineData>
+                            <LineData name="LINE 4">8720019 QUILICURA</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                            <LineData name="LINE 6">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CORREOS CHILE</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">GERENCIA GENERAL</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORES</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7500646</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">PROVIDENCIA</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CALLE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MAR DEL PLATA</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1934</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORES</LineData>
+                            <LineData name="LINE 2">CORREOS CHILE</LineData>
+                            <LineData name="LINE 3">GERENCIA GENERAL</LineData>
+                            <LineData name="LINE 4">MAR DEL PLATA 1934</LineData>
+                            <LineData name="LINE 5">7500646 PROVIDENCIA</LineData>
+                            <LineData name="LINE 6">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">CONCURSO</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORES</U10.05.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8329100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SANTIAGO</U40.15.21.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASILLA</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13-D</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">AGENCIA MONEDA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORES</LineData>
+                            <LineData name="LINE 2">CONCURSO</LineData>
+                            <LineData name="LINE 3">CASILLA 13-D, AGENCIA MONEDA</LineData>
+                            <LineData name="LINE 4">8329100 SANTIAGO</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORITA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA TERESA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LEIVA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">4650000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">NOVENA REGION</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ANGOL</U40.15.21.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">CASILLA</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">58</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">AGENCIA PRINCIPAL ANGOL</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORITA</LineData>
+                            <LineData name="LINE 2">MARIA TERESA LEIVA</LineData>
+                            <LineData name="LINE 3">CASILLA 58, AGENCIA PRINCIPAL ANGOL</LineData>
+                            <LineData name="LINE 4">4650000 ANGOL</LineData>
+                            <LineData name="LINE 5">NOVENA REGION</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GONZALO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CONTRERAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">5618103</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">DECIMA REGION</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">LLANQUIHUE</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">LOS PELLINES</U40.16.00.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EL SENDERO</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">S/N</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">PARCELA 33</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">GONZALO CONTRERAS</LineData>
+                            <LineData name="LINE 3">EL SENDERO S/N, PARCELA 33</LineData>
+                            <LineData name="LINE 4">LOS PELLINES</LineData>
+                            <LineData name="LINE 5">5618103 LLANQUIHUE</LineData>
+                            <LineData name="LINE 6">DECIMA REGION</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">MARIA LUISA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CORDERO</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOCTORA</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3568104</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">INDEPENDENCIA</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LA PAZ</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1208</U40.24.11.00>
+                        <U40.32.00.00 uniq="U40Door">OFICINA 45</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOCTORA</LineData>
+                            <LineData name="LINE 2">MARIA LUISA CORDERO</LineData>
+                            <LineData name="LINE 3">AVENIDA LA PAZ 1208, OFICINA 45</LineData>
+                            <LineData name="LINE 4">3568104 INDEPENDENCIA</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">EDUARDO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LEON</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6208114</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">DUODECIMA REGION</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">PUNTA ARENAS</U40.15.21.00>
+                        <U40.16.00.00 uniq="U40Town">CABO NEGRO</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">CAMINO</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EL CORDERO</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">S/N</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">FUNDO VIÑA DEL MAR</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">EDUARDO LEON</LineData>
+                            <LineData name="LINE 3">CAMINO EL CORDERO S/N, FUNDO VIÑA DEL MAR</LineData>
+                            <LineData name="LINE 4">CABO NEGRO</LineData>
+                            <LineData name="LINE 5">6208114 PUNTA ARENAS</LineData>
+                            <LineData name="LINE 6">DUODECIMA REGION</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">COUNTRY MANAGER</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SEBASTIAN</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LAURA</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">NETENVIOS.COM</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">7550173</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">LAS CONDES</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EL BOSQUE NORTE</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">0107</U40.24.11.00>
+                        <U40.31.00.00 uniq="U40Floor">PISO 8</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">OFICINA 82</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">SEBASTIAN LAURA</LineData>
+                            <LineData name="LINE 3">COUNTRY MANAGER</LineData>
+                            <LineData name="LINE 4">NETENVIOS.COM</LineData>
+                            <LineData name="LINE 5">AVENIDA EL BOSQUE NORTE 0107, PISO 8, OFICINA 82</LineData>
+                            <LineData name="LINE 6">7550173 LAS CONDES</LineData>
+                            <LineData name="LINE 7">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">NICOLAS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALDUNATE ARANDA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6771057</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">LAS CONDES</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENIDA</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ORESIDENTE RIESCO</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">5520</U40.24.11.00>
+                        <U40.32.00.00 uniq="U40Door">DEPTO. 205</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">NICOLAS ALDUNATE ARANDA</LineData>
+                            <LineData name="LINE 2">AVENIDA ORESIDENTE RIESCO 5520, DEPTO. 205</LineData>
+                            <LineData name="LINE 3">6771057 LAS CONDES</LineData>
+                            <LineData name="LINE 4">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">JORGE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">VALENZUELA RAMOS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6500709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SANTIAGO</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MONEDA</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1155</U40.24.11.00>
+                        <U40.31.00.00 uniq="U40Floor">PISO 3</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">OFICINA 303</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">JORGE VALENZUELA RAMOS</LineData>
+                            <LineData name="LINE 3">MONEDA 1155, PISO 3, OFICINA 303</LineData>
+                            <LineData name="LINE 4">6500709 SANTIAGO</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑOR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">FRANCISCO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GALVEZ TAPIA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6500709</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SANTIAGO</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MONEDA</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1155</U40.24.11.00>
+                        <U40.31.00.00 uniq="U40Floor">TERCER PISO</U40.31.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑOR</LineData>
+                            <LineData name="LINE 2">FRANCISCO GALVEZ TAPIA</LineData>
+                            <LineData name="LINE 3">MONEDA 1155, TERCER PISO</LineData>
+                            <LineData name="LINE 4">6500709 SANTIAGO</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SEÑORA</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">VICTORIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GARCIA</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2521245</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">V REGIÓN DE VALPARAÍSO</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">VINA DEL MAR</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">LA MAESTRANZA</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1244</U40.24.11.00>
+                        <U40.32.00.00 uniq="U40Door">DEPARTMENTO B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SEÑORA</LineData>
+                            <LineData name="LINE 2">VICTORIA GARCIA</LineData>
+                            <LineData name="LINE 3">LA MAESTRANZA 1244, DEPARTMENTO B</LineData>
+                            <LineData name="LINE 4">2521245 VINA DEL MAR</LineData>
+                            <LineData name="LINE 5">V REGIÓN DE VALPARAÍSO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">SR.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">PEDRO</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GONZALEZ</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">COMERCIAL ECCSA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">6760341</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">LAS CONDES</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">APOQUINO</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">6540</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">CL</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">SR.</LineData>
+                            <LineData name="LINE 2">PEDRO GONZALEZ</LineData>
+                            <LineData name="LINE 3">COMERCIAL ECCSA</LineData>
+                            <LineData name="LINE 4">APOQUINO 6540</LineData>
+                            <LineData name="LINE 5">6760341 LAS CONDES</LineData>
+                            <LineData name="LINE 6">REGION METROPOLITANA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señor</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Juan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pérez</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8340648</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SANTIAGO</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Moneda</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1152</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señor</LineData>
+                            <LineData name="LINE 2">Juan Pérez</LineData>
+                            <LineData name="LINE 3">Moneda 1152</LineData>
+                            <LineData name="LINE 4">8340648 SANTIAGO</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                            <LineData name="LINE 6">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señorita</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ester</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Avila</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">9180794</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">ESTACION CENTRAL</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Palena</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1084</U40.24.11.00>
+                        <U40.31.00.00 uniq="U40Floor">Piso 5</U40.31.00.00>
+                        <U40.32.00.00 uniq="U40Door">Depto. 505</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señorita</LineData>
+                            <LineData name="LINE 2">Ester Avila</LineData>
+                            <LineData name="LINE 3">Avenida Palena 1084, Piso 5, Depto. 505</LineData>
+                            <LineData name="LINE 4">9180794 ESTACION CENTRAL</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                            <LineData name="LINE 6">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señora</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Fernanda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Genoud</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8329001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SANTIAGO</U40.15.21.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Casilla</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13-D</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Sucursal Plaza de Armas</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señora</LineData>
+                            <LineData name="LINE 2">Fernanda Genoud</LineData>
+                            <LineData name="LINE 3">Casilla 13-D, Sucursal Plaza de Armas </LineData>
+                            <LineData name="LINE 4">8329001 SANTIAGO</LineData>
+                            <LineData name="LINE 5">REGION METROPOLITANA</LineData>
+                            <LineData name="LINE 6">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señor</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Pedro</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">López</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Empresa Automotriz</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">3930000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">VIII REGION DEL BIOBIO</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">BULNES</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Avenida</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Arturo Prat</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">567</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señor</LineData>
+                            <LineData name="LINE 2">Pedro López</LineData>
+                            <LineData name="LINE 3">Empresa Automotriz</LineData>
+                            <LineData name="LINE 4">Avenida Arturo Prat 567</LineData>
+                            <LineData name="LINE 5">3930000 BULNES</LineData>
+                            <LineData name="LINE 6">VIII REGION DEL BIOBIO</LineData>
+                            <LineData name="LINE 7">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señor</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Manuel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Vera</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Empresa Metalúrgica</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">8700000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">REGION METROPOLITANA</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">QUILICURA</U40.15.21.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Panamericana Norte</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">S/N</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Km. 15</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señor</LineData>
+                            <LineData name="LINE 2">Manuel Vera</LineData>
+                            <LineData name="LINE 3">Empresa Metalúrgica</LineData>
+                            <LineData name="LINE 4">Panamericana Norte S/N Km. 15</LineData>
+                            <LineData name="LINE 5">8700000 QUILICURA</LineData>
+                            <LineData name="LINE 6">REGION METROPOLITANA</LineData>
+                            <LineData name="LINE 7">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Señor</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Enrique</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">González</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">2970000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">CHILE</U40.14.00.00>
+                        <U40.15.11.00 uniq="U40RegionLev1Pos1">VI REGION DE O’HIGGINS</U40.15.11.00>
+                        <U40.15.21.00 uniq="U40RegionLev2Pos1">SAN VICENTE DE T.T.</U40.15.21.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">Camino</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Público</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">S/N</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Tunca Arriba</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">es</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">CL</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Señor</LineData>
+                            <LineData name="LINE 2">Enrique González</LineData>
+                            <LineData name="LINE 3">Camino Público S/N, Tunca Arriba</LineData>
+                            <LineData name="LINE 4">2970000 SAN VICENTE DE T.T.</LineData>
+                            <LineData name="LINE 5">VI REGION DE O’HIGGINS</LineData>
+                            <LineData name="LINE 6">CHILE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>ZW</GroupDescription>
+            <GroupItemCount>39</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">I</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Matambanadzo</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Marondera</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Nyameni</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Tambaoga</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">9</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">I Matambanadzo</LineData>
+                            <LineData name="LINE 2">9 Tambaoga street</LineData>
+                            <LineData name="LINE 3">Nyameni</LineData>
+                            <LineData name="LINE 4">Marondera</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sigauke</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Mabelreign</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Close</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Ashmore</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">8</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">C Sigauke</LineData>
+                            <LineData name="LINE 2">8 Ashmore Close</LineData>
+                            <LineData name="LINE 3">Mabelreign</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">J H</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Jooste</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mutare</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Murambi</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Gukurahundi</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">6</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">J H Jooste</LineData>
+                            <LineData name="LINE 2">6 Gukurahundi Avenue</LineData>
+                            <LineData name="LINE 3">Murambi</LineData>
+                            <LineData name="LINE 4">Mutare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nyabvure</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Masvingo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Northleigh</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Drive</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mimosa</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">7</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">G Nyabvure</LineData>
+                            <LineData name="LINE 2">7 Mimosa Drive</LineData>
+                            <LineData name="LINE 3">Northleigh</LineData>
+                            <LineData name="LINE 4">Masvingo</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">M</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">McPhil</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kwekwe</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Newtown</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Crescent</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Livingstone</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">5</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M McPhil</LineData>
+                            <LineData name="LINE 2">5 Livingstone Crescent</LineData>
+                            <LineData name="LINE 3">Newtown</LineData>
+                            <LineData name="LINE 4">Kwekwe</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ndlovu &amp; Hwacha Practitioners</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Masvingo</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Hofmeyer</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">46</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Richard Flats</U40.26.00.00>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ndlovu &amp; Hwacha Practitioners</LineData>
+                            <LineData name="LINE 2">1 Richard Flats</LineData>
+                            <LineData name="LINE 3">46 Hofmeyer street</LineData>
+                            <LineData name="LINE 4">Masvingo</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">D</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kwenda</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">1st</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Cabs House</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Fifth floor</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Room</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">406</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street, intersection,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">D Kwenda</LineData>
+                            <LineData name="LINE 2">Room 406</LineData>
+                            <LineData name="LINE 3">Fifth floor</LineData>
+                            <LineData name="LINE 4">Cabs House</LineData>
+                            <LineData name="LINE 5">1st street</LineData>
+                            <LineData name="LINE 6">Harare</LineData>
+                            <LineData name="LINE 7">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Moyo</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bulawayo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Mpopoma</U40.17.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">47032/1</U40.24.11.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical site, plot,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">S Moyo</LineData>
+                            <LineData name="LINE 2">47032/1</LineData>
+                            <LineData name="LINE 3">Mpopoma</LineData>
+                            <LineData name="LINE 4">Bulawayo</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sithole</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gweru</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Thornhill</U40.17.11.00>
+                        <U40.29.00.00 uniq="U40Wing">Block 4</U40.29.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Flat</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">41</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">C Sithole</LineData>
+                            <LineData name="LINE 2">Flat 41</LineData>
+                            <LineData name="LINE 3">Block 4</LineData>
+                            <LineData name="LINE 4">Thornhill</LineData>
+                            <LineData name="LINE 5">Gweru</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">D</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pahla</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mutare</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Sakubva</U40.17.11.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Murahwa</U40.17.12.00>
+                        <U40.29.00.00 uniq="U40Wing">Court 15</U40.29.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Flat</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">1</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical site, plot,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">D Pahla</LineData>
+                            <LineData name="LINE 2">Flat 1</LineData>
+                            <LineData name="LINE 3">Court 15</LineData>
+                            <LineData name="LINE 4">Murahwa</LineData>
+                            <LineData name="LINE 5">Sakubva</LineData>
+                            <LineData name="LINE 6">Mutare</LineData>
+                            <LineData name="LINE 7">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">BOC Gases</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bulawayo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Belmont</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">8195</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">BOC Gases</LineData>
+                            <LineData name="LINE 2">PO Box 8195</LineData>
+                            <LineData name="LINE 3">Belmont</LineData>
+                            <LineData name="LINE 4">Bulawayo</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Nicoz Diamond</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gweru</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">688</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">CONFLICTING</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nicoz Diamond</LineData>
+                            <LineData name="LINE 2">P.O Box 688</LineData>
+                            <LineData name="LINE 3">Gweru</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Label Flex</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Graniteside</U40.17.12.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">GT 220</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">CONFLICTING</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Label Flex</LineData>
+                            <LineData name="LINE 2">P.O Box GT 220</LineData>
+                            <LineData name="LINE 3">Graniteside</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Muskwe and Associates</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Causeway</U40.17.12.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">Cy170</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">CONFLICTING</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Muskwe and Associates</LineData>
+                            <LineData name="LINE 2">P.O Box Cy170</LineData>
+                            <LineData name="LINE 3">Causeway</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tshaka</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Bulawayo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Nkayi</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">130</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">S Tshaka</LineData>
+                            <LineData name="LINE 2">P.O Box 130</LineData>
+                            <LineData name="LINE 3">Nkayi</LineData>
+                            <LineData name="LINE 4">Bulawayo</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">H</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chindedza</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Causeway</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">CY 7752</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">P BAG</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">H Chindedza</LineData>
+                            <LineData name="LINE 2">P Bag CY 7752</LineData>
+                            <LineData name="LINE 3">Causeway</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Vandirai</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kadoma</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Rimuka</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">9032</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">P BAG</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">S Vandirai</LineData>
+                            <LineData name="LINE 2">P Bag 9032</LineData>
+                            <LineData name="LINE 3">Rimuka</LineData>
+                            <LineData name="LINE 4">Kadoma</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Matiza</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Plumtree</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Bulilimamangwe</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1044</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">P BAG</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">B Matiza</LineData>
+                            <LineData name="LINE 2">P Bag 1044</LineData>
+                            <LineData name="LINE 3">Bulilimamangwe</LineData>
+                            <LineData name="LINE 4">Plumtree</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Nyagundi Sec School</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mutare</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Odzi</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2012</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">P BAG</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nyagundi Sec School</LineData>
+                            <LineData name="LINE 2">P Bag 2012</LineData>
+                            <LineData name="LINE 3">Odzi</LineData>
+                            <LineData name="LINE 4">Mutare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Monte Casino Mission</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Macheke</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Macheke</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">902</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">P BAG</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Monte Casino Mission</LineData>
+                            <LineData name="LINE 2">P Bag 902</LineData>
+                            <LineData name="LINE 3">Macheke</LineData>
+                            <LineData name="LINE 4">Macheke</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">G</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chakanyuka</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Graniteside</U40.17.12.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">Gt 10</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">G Chakanyuka</LineData>
+                            <LineData name="LINE 2">P.O Box Gt 10</LineData>
+                            <LineData name="LINE 3">Graniteside</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                            <LineData name="LINE 5">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">A</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kutsvara</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Masvingo</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Jerera Post Office</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Poste restante</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">A Kutsvara</LineData>
+                            <LineData name="LINE 2">Jerera Post Office</LineData>
+                            <LineData name="LINE 3">Masvingo</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Z</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Karonga</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chegutu</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Chegutu Post Offfice</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Poste restante</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Z Karonga</LineData>
+                            <LineData name="LINE 2">Chegutu Post Offfice</LineData>
+                            <LineData name="LINE 3">Chegutu</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">K</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nyandoro</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mutare</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Dangamvura Post Office</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Poste restante</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">K Nyandoro</LineData>
+                            <LineData name="LINE 2">Dangamvura Post Office</LineData>
+                            <LineData name="LINE 3">Mutare</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">V</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Rwodzi</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Myuma</U40.16.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Mvuma Post Office</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Poste restante</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">V Rwodzi</LineData>
+                            <LineData name="LINE 2">Mvuma Post Office</LineData>
+                            <LineData name="LINE 3">Myuma</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Philip</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gurure</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">708001</U40.24.12.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Shamva</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical, rural,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Philip Gurure</LineData>
+                            <LineData name="LINE 2">708001</LineData>
+                            <LineData name="LINE 3">Shamva</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joseph</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Masiya</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">2611003</U40.24.12.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Shamva</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical, rural,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joseph Masiya</LineData>
+                            <LineData name="LINE 2">2611003</LineData>
+                            <LineData name="LINE 3">Shamva</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Winisai</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muwati</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">1804113</U40.24.12.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Mt Darwin</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical, rural,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Winisai Muwati</LineData>
+                            <LineData name="LINE 2">1804113</LineData>
+                            <LineData name="LINE 3">Mt Darwin</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Patrick</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Singe</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">1230002</U40.24.12.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Mt Darwin</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical, rural,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Patrick Singe</LineData>
+                            <LineData name="LINE 2">1230002</LineData>
+                            <LineData name="LINE 3">Mt Darwin</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Bruffwell</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chiwayo</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">2309102</U40.24.12.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Goromonzi</U40.35.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical, rural,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Bruffwell Chiwayo</LineData>
+                            <LineData name="LINE 2">2309102</LineData>
+                            <LineData name="LINE 3">Goromonzi</LineData>
+                            <LineData name="LINE 4">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Africom</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Samora Machel</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Tendeseka Office Pk</U40.26.00.00>
+                        <U40.29.00.00 uniq="U40Wing">Block 2</U40.29.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Africom</LineData>
+                            <LineData name="LINE 2">Block 2</LineData>
+                            <LineData name="LINE 3">Tendeseka Office Pk</LineData>
+                            <LineData name="LINE 4">Samora Machel Avenue</LineData>
+                            <LineData name="LINE 5">Harare</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Elite</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Park</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Coal House Eastwing</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Second flr</U40.31.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street, intersection,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Elite</LineData>
+                            <LineData name="LINE 2">Second flr</LineData>
+                            <LineData name="LINE 3">Coal House Eastwing</LineData>
+                            <LineData name="LINE 4">Park street</LineData>
+                            <LineData name="LINE 5">Harare</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Nemchem</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Belmont</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Vanguard</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Johnson Complex</U40.26.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Unit</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">6</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street, intersection,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nemchem</LineData>
+                            <LineData name="LINE 2">Unit 6</LineData>
+                            <LineData name="LINE 3">Johnson Complex</LineData>
+                            <LineData name="LINE 4">Vanguard street</LineData>
+                            <LineData name="LINE 5">Belmont</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Liberty Financial Services</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Mutare</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Ave.</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Herbert Chitepo</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">123</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Medical Centre</U40.26.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">17</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Liberty Financial Services</LineData>
+                            <LineData name="LINE 2">Suite 17</LineData>
+                            <LineData name="LINE 3">Medical Centre</LineData>
+                            <LineData name="LINE 4">123 Herbert Chitepo Ave.</LineData>
+                            <LineData name="LINE 5">Mutare</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Tenendum Consultants</U10.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Gweru</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Main</U40.21.11.41>
+                        <U40.26.00.00 uniq="U40Building">Appolo Court</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">Second floor</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">Suite</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">15</U40.32.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">Physical street,</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tenendum Consultants</LineData>
+                            <LineData name="LINE 2">Suite 15</LineData>
+                            <LineData name="LINE 3">Second floor</LineData>
+                            <LineData name="LINE 4">Appolo Court</LineData>
+                            <LineData name="LINE 5">Main Street</LineData>
+                            <LineData name="LINE 6">Gweru</LineData>
+                            <LineData name="LINE 7">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Joe</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">John</U10.08.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZIMBABWE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HARARE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Amby</U40.17.11.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">AY 30</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Joe John</LineData>
+                            <LineData name="LINE 2">P.O. Box AY 30</LineData>
+                            <LineData name="LINE 3">Amby</LineData>
+                            <LineData name="LINE 4">HARARE</LineData>
+                            <LineData name="LINE 5">ZIMBABWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">Manager, Legal and International Affairs</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Posts and Telecommunications Corporation</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZIMBABWE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">HARARE</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Causeway</U40.17.12.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">CY 44</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Manager, Legal and International Affairs</LineData>
+                            <LineData name="LINE 2">Posts and Telecommunications Corporation</LineData>
+                            <LineData name="LINE 3">P.O. Box CY 44</LineData>
+                            <LineData name="LINE 4">Causeway</LineData>
+                            <LineData name="LINE 5">HARARE</LineData>
+                            <LineData name="LINE 6">ZIMBABWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">D L</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cruttenden</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">CILT - Zimbabwe</U20.00.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">2991</U40.19.11.21>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZW</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">D L Cruttenden</LineData>
+                            <LineData name="LINE 2">CILT - Zimbabwe</LineData>
+                            <LineData name="LINE 3">PO Box 2991</LineData>
+                            <LineData name="LINE 4">Harare</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Victor S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nkomo</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Olivine Industries</U20.00.00.00>
+                        <U20.01.00.00 uniq="U20LegalStatus">(Pvt.) Limited</U20.01.00.00>
+                        <U20.03.00.00 uniq="U20Function">Human Resources</U20.03.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">Zimbabwe</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Harare</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">797</U40.19.11.21>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZW</U50.54.00.00>
+                        <U50.55.00.00 uniq="U50AddressType">PO BOX</U50.55.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>7</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Victor S Nkomo</LineData>
+                            <LineData name="LINE 2">Human Resources</LineData>
+                            <LineData name="LINE 3">Olivine Industries (Pvt.) Limited</LineData>
+                            <LineData name="LINE 4">Box 797</LineData>
+                            <LineData name="LINE 5">Harare</LineData>
+                            <LineData name="LINE 6">Zimbabwe</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

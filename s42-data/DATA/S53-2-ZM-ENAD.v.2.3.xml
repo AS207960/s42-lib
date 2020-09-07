@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>ZM</GroupDescription>
+            <GroupItemCount>90</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50101</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZAMBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kansenshi</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">71845</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">P.O. Box 71845</LineData>
+                            <LineData name="LINE 3">50101 Kansenshi</LineData>
+                            <LineData name="LINE 4">ZAMBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">P.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sendoi</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Agriculture</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10010</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZAMBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ndola</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">34567</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Kansenshi</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs P. Sendoi</LineData>
+                            <LineData name="LINE 2">Ministry of Agriculture</LineData>
+                            <LineData name="LINE 3">P.O. Box 34567 Kansenshi</LineData>
+                            <LineData name="LINE 4">10010 Ndola</LineData>
+                            <LineData name="LINE 5">ZAMBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lucky</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mbola</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZAMBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Chama</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">34567</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lucky Mbola</LineData>
+                            <LineData name="LINE 2">P.O. Box 34567</LineData>
+                            <LineData name="LINE 3">23345 Chama</LineData>
+                            <LineData name="LINE 4">ZAMBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Happy</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sichikolo</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Commerce</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZAMBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ndola</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">34876</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Ndola Main</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Happy Sichikolo</LineData>
+                            <LineData name="LINE 2">Ministry of Commerce</LineData>
+                            <LineData name="LINE 3">P.O. Box 34876 Ndola Main</LineData>
+                            <LineData name="LINE 4">12234 Ndola</LineData>
+                            <LineData name="LINE 5">ZAMBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Fred</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sambale</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">78890</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">ZAMBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Choma</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">23456</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Fred Sambale</LineData>
+                            <LineData name="LINE 2">P.O. Box 23456</LineData>
+                            <LineData name="LINE 3">78890 Choma</LineData>
+                            <LineData name="LINE 4">ZAMBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Licencing Office</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">36871</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Licencing Office</LineData>
+                            <LineData name="LINE 3">ZICTA</LineData>
+                            <LineData name="LINE 4">Box 36871</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">J</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Solo</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Capt.</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Army</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">1st Battalion HQ</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34440</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KABWE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">3447</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Capt. J Solo</LineData>
+                            <LineData name="LINE 2">1st Battalion HQ</LineData>
+                            <LineData name="LINE 3">Zambia Army</LineData>
+                            <LineData name="LINE 4">P.O. Box 3447</LineData>
+                            <LineData name="LINE 5">34440 KABWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Chisala</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">UTH</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Oncology Dept</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIDGEWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">65678</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Chisala</LineData>
+                            <LineData name="LINE 2">Oncology Dept</LineData>
+                            <LineData name="LINE 3">UTH</LineData>
+                            <LineData name="LINE 4">P.O. Box 65678</LineData>
+                            <LineData name="LINE 5">12345 RIDGEWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hildah</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petersson</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Lands</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Surveyor General</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIDGEWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">455676</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hildah Petersson</LineData>
+                            <LineData name="LINE 2">Surveyor General</LineData>
+                            <LineData name="LINE 3">Ministry of Lands</LineData>
+                            <LineData name="LINE 4">P.O. Box 455676</LineData>
+                            <LineData name="LINE 5">12345 RIDGEWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Police</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Provincial Command</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">36578</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Provincial Command</LineData>
+                            <LineData name="LINE 3">Zambia Police</LineData>
+                            <LineData name="LINE 4">P.O. Box 36578</LineData>
+                            <LineData name="LINE 5">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHONGWE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">678</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">ZICTA</LineData>
+                            <LineData name="LINE 3">Private Bag 678</LineData>
+                            <LineData name="LINE 4">12345 CHONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chikuni</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Maj Gen.</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Air Force</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34455</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUMBWA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">445</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Maj Gen. C Chikuni</LineData>
+                            <LineData name="LINE 2">Zambia Air Force</LineData>
+                            <LineData name="LINE 3">Private Bag 445</LineData>
+                            <LineData name="LINE 4">34455 MUMBWA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Chisala</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">UTH</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIDGEWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">E 345</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Chisala</LineData>
+                            <LineData name="LINE 2">UTH</LineData>
+                            <LineData name="LINE 3">Private Bag E 345</LineData>
+                            <LineData name="LINE 4">12345 RIDGEWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hildah</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petersson</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Lands</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIDGEWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">B 34</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hildah Petersson</LineData>
+                            <LineData name="LINE 2">Ministry of Lands</LineData>
+                            <LineData name="LINE 3">Private Bag B 34</LineData>
+                            <LineData name="LINE 4">12345 RIDGEWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Police</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">C 234</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Zambia Police</LineData>
+                            <LineData name="LINE 3">Private Bag C 234</LineData>
+                            <LineData name="LINE 4">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Licencing Office</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHONGWE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">678</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Licencing Office</LineData>
+                            <LineData name="LINE 3">ZICTA</LineData>
+                            <LineData name="LINE 4">P Bag 678</LineData>
+                            <LineData name="LINE 5">12345 CHONGWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr.</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Health</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">District Director Health</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56788</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFUMBWE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">4456</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr. C. Mwansa</LineData>
+                            <LineData name="LINE 2">District Director Health</LineData>
+                            <LineData name="LINE 3">Ministry of Health</LineData>
+                            <LineData name="LINE 4">Private Bag 4456</LineData>
+                            <LineData name="LINE 5">56788 MUFUMBWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Chisala</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">UTH</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Oncology Dept</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RIDGEWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">S 345</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Chisala</LineData>
+                            <LineData name="LINE 2">Oncology Dept</LineData>
+                            <LineData name="LINE 3">UTH</LineData>
+                            <LineData name="LINE 4">Private Bag S 345</LineData>
+                            <LineData name="LINE 5">12345 RIDGEWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hildah</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petersson</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Lands</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Surveyor General</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">FREEDOMWAY</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">B678</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hildah Petersson</LineData>
+                            <LineData name="LINE 2">Surveyor General</LineData>
+                            <LineData name="LINE 3">Ministry of Lands</LineData>
+                            <LineData name="LINE 4">Private Bag B678</LineData>
+                            <LineData name="LINE 5">12345 FREEDOMWAY</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Police</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Provincial Command</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PRIVATE Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">ZP 1</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Provincial Command</LineData>
+                            <LineData name="LINE 3">Zambia Police</LineData>
+                            <LineData name="LINE 4">PRIVATE Bag ZP 1</LineData>
+                            <LineData name="LINE 5">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KITWE</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">POSTNET MATERO</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">234</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">ZICTA</LineData>
+                            <LineData name="LINE 3">POSTNET MATERO 234</LineData>
+                            <LineData name="LINE 4">23456 KITWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Isaac</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nonde</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Nonde &amp; Associates</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67890</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postnet Kabulonga</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">556</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. Isaac Nonde</LineData>
+                            <LineData name="LINE 2">Nonde &amp; Associates</LineData>
+                            <LineData name="LINE 3">Postnet Kabulonga 556</LineData>
+                            <LineData name="LINE 4">67890 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Chisala</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">UTH</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHILANGA</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postcom Chilanga</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">345</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr Chisala</LineData>
+                            <LineData name="LINE 2">UTH</LineData>
+                            <LineData name="LINE 3">Postcom Chilanga 345</LineData>
+                            <LineData name="LINE 4">12345 CHILANGA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hildah</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Petersson</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Ministry of Lands</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Kamwala</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postcom Kamwala</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">678</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hildah Petersson</LineData>
+                            <LineData name="LINE 2">Ministry of Lands</LineData>
+                            <LineData name="LINE 3">Postcom Kamwala 678</LineData>
+                            <LineData name="LINE 4">12345 Kamwala</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Police</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postcom Fallsway</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">234</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Zambia Police</LineData>
+                            <LineData name="LINE 3">Postcom Fallsway 234</LineData>
+                            <LineData name="LINE 4">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Licencing Office</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KITWE</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">POSTNET ARCADES</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">23</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Licencing Office</LineData>
+                            <LineData name="LINE 3">ZICTA</LineData>
+                            <LineData name="LINE 4">POSTNET ARCADES 23</LineData>
+                            <LineData name="LINE 5">23456 KITWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mulikita</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Airtel Zambia</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Regulatory Affairs</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10098</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NORTHMEAD</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postnet Mandahill</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">556</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs S. Mulikita</LineData>
+                            <LineData name="LINE 2">Regulatory Affairs</LineData>
+                            <LineData name="LINE 3">Airtel Zambia</LineData>
+                            <LineData name="LINE 4">Postnet Mandahill 556</LineData>
+                            <LineData name="LINE 5">10098 NORTHMEAD</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ernie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Els</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">PGA Southern Africa</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Junior Golf Development</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Castle</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postbest Makeni</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">908</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ernie Els</LineData>
+                            <LineData name="LINE 2">Junior Golf Development</LineData>
+                            <LineData name="LINE 3">PGA Southern Africa</LineData>
+                            <LineData name="LINE 4">Postbest Makeni 908</LineData>
+                            <LineData name="LINE 5">23456 Castle</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Roger</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Miller</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">FIFA Southern Africa</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Junior Soccer</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34567</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postbest Eastleigh</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">89</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Roger Miller</LineData>
+                            <LineData name="LINE 2">Junior Soccer</LineData>
+                            <LineData name="LINE 3">FIFA Southern Africa</LineData>
+                            <LineData name="LINE 4">Postbest Eastleigh 89</LineData>
+                            <LineData name="LINE 5">34567 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Zambia Police</U20.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">Provincial Command</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.12.11 uniq="U40AltDelServType">Postbest Maramba</U40.19.12.11>
+                        <U40.19.12.21 uniq="U40AltDelServInd">567</U40.19.12.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Provincial Command</LineData>
+                            <LineData name="LINE 3">Zambia Police</LineData>
+                            <LineData name="LINE 4">Postbest Maramba 567</LineData>
+                            <LineData name="LINE 5">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67890</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAMFYA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">67890 SAMFYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Umberto</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Father</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">78889</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MONGU</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Father Umberto</LineData>
+                            <LineData name="LINE 2">Post Restante</LineData>
+                            <LineData name="LINE 3">78889 MONGU</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Ernie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Els</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Castle</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ernie Els</LineData>
+                            <LineData name="LINE 2">Post Restante</LineData>
+                            <LineData name="LINE 3">23456 Castle</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Roger</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Miller</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34567</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Roger Miller</LineData>
+                            <LineData name="LINE 2">Post Restante</LineData>
+                            <LineData name="LINE 3">34567 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Brenda</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Muntemba</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">Livingstone</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Post Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Brenda Muntemba</LineData>
+                            <LineData name="LINE 2">Post Restante</LineData>
+                            <LineData name="LINE 3">23345 Livingstone</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SHAKESPEARE</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Independence</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">21</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">21 Independence Avenue</LineData>
+                            <LineData name="LINE 3">23456 SHAKESPEARE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Joel</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Phiri</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">78889</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUANSHYA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Lantana</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Joel Phiri</LineData>
+                            <LineData name="LINE 2">23 Lantana Avenue</LineData>
+                            <LineData name="LINE 3">78889 LUANSHYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tamara</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chunda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kabelenga</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">45</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tamara Chunda</LineData>
+                            <LineData name="LINE 2">45 Kabelenga Road</LineData>
+                            <LineData name="LINE 3">12345 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Hillary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mulima</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56789</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHOMA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Close</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kalungu</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">34</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hillary Mulima</LineData>
+                            <LineData name="LINE 2">34 Kalungu Close</LineData>
+                            <LineData name="LINE 3">56789 CHOMA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Anthony</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34567</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Avenue</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Entebbe</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">24</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Anthony Mwansa</LineData>
+                            <LineData name="LINE 2">24 Entebbe Avenue</LineData>
+                            <LineData name="LINE 3">34567 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Northmead</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Cairo</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">148A</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Stanbic Bank House</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Stanbic Bank House</LineData>
+                            <LineData name="LINE 3">148A Cairo Road</LineData>
+                            <LineData name="LINE 4">Northmead</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Honourable</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">M.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mulembo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">way</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Independence</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">4585</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Government Complex</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Suite 567</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Honourable M. Mulembo</LineData>
+                            <LineData name="LINE 2">Suite 567 Government Complex</LineData>
+                            <LineData name="LINE 3">4585 Independence way</LineData>
+                            <LineData name="LINE 4">CBD</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tamara</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chunda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">RHODES PARK</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Broadway</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">100</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Provident House</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tamara Chunda</LineData>
+                            <LineData name="LINE 2">Provident House</LineData>
+                            <LineData name="LINE 3">100 Broadway Road</LineData>
+                            <LineData name="LINE 4">RHODES PARK</LineData>
+                            <LineData name="LINE 5">12234 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">M.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chisha</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Constable</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Woodlands</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Lane</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Mimosa</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">12A</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Emmasdale Police Station</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Constable M. Chisha</LineData>
+                            <LineData name="LINE 2">Emmasdale Police Station</LineData>
+                            <LineData name="LINE 3">12A Mimosa Lane</LineData>
+                            <LineData name="LINE 4">Woodlands</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76654</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFUMBWE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Town Centre</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Solwezi</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">213</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Mufumbwe General Hospital</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr C. Mwansa</LineData>
+                            <LineData name="LINE 2">Mufumbwe General Hospital</LineData>
+                            <LineData name="LINE 3">213 Solwezi Road</LineData>
+                            <LineData name="LINE 4">Town Centre</LineData>
+                            <LineData name="LINE 5">76654 MUFUMBWE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">67834</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">RHODES PARK</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Cairo</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23C</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Kafue View Heights</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">804</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">804 Kafue View Heights</LineData>
+                            <LineData name="LINE 3">23C Cairo Road</LineData>
+                            <LineData name="LINE 4">RHODES PARK</LineData>
+                            <LineData name="LINE 5">67834 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>47</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ngoma</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Gen.</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10202</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Woodlands</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Road</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Jubilee</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">12</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Arakan Barracks</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gen. B Ngoma</LineData>
+                            <LineData name="LINE 2">Unit A Arakan Barracks</LineData>
+                            <LineData name="LINE 3">12 Jubilee Road</LineData>
+                            <LineData name="LINE 4">Woodlands</LineData>
+                            <LineData name="LINE 5">10202 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>48</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tamra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chunda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Town Centre</U40.17.11.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Broadway</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">100</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Provident House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 23</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tamra Chunda</LineData>
+                            <LineData name="LINE 2">Room 23 Provident House</LineData>
+                            <LineData name="LINE 3">100 Broadway</LineData>
+                            <LineData name="LINE 4">Town Centre</LineData>
+                            <LineData name="LINE 5">12234 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>49</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">K.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malama</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12233</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Central</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Finance House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">12B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr K. Malama</LineData>
+                            <LineData name="LINE 2">12B Finance House</LineData>
+                            <LineData name="LINE 3">1 Central Street</LineData>
+                            <LineData name="LINE 4">CBD</LineData>
+                            <LineData name="LINE 5">12233 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>50</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mwila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwila</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Northmead</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">8th</U40.21.11.41>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23A</U40.24.11.00>
+                        <U40.26.00.00 uniq="U40Building">Walcourt Estate</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">456</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mwila Mwila</LineData>
+                            <LineData name="LINE 2">456 Walcourt Estate</LineData>
+                            <LineData name="LINE 3">23A 8th Street</LineData>
+                            <LineData name="LINE 4">Northmead</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>51</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KABULONGA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">KABULONGA Extension 3</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner of</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Kabulonga</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">&amp;</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Road</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Bishops</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Melborne Estate</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Unit 123</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Unit 123 Melborne Estate</LineData>
+                            <LineData name="LINE 3">Corner of Kabulonga &amp; Bishops Road</LineData>
+                            <LineData name="LINE 4">KABULONGA Extension 3</LineData>
+                            <LineData name="LINE 5">12345 KABULONGA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>52</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">David</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Musonda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23454</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Matero</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner of</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Buyantanshi</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">&amp;</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Road</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Lumumba</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Mulungushi Village</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Suite A</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">David Musonda</LineData>
+                            <LineData name="LINE 2">Suite A Mulungushi Village</LineData>
+                            <LineData name="LINE 3">Corner of Buyantanshi &amp; Lumumba Road</LineData>
+                            <LineData name="LINE 4">Matero</LineData>
+                            <LineData name="LINE 5">23454 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>53</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tamra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chunda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Town Centre</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner of</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Broadway</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">&amp;</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Avenue</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Chillers</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Provident House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 23</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tamra Chunda</LineData>
+                            <LineData name="LINE 2">Room 23 Provident House</LineData>
+                            <LineData name="LINE 3">Corner of Broadway &amp; Chillers Avenue</LineData>
+                            <LineData name="LINE 4">Town Centre</LineData>
+                            <LineData name="LINE 5">12234 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>54</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">K.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malama</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12233</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner of</U40.21.11.11>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Central</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">&amp;</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Street</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">7th</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Finance House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">12B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr K. Malama</LineData>
+                            <LineData name="LINE 2">12B Finance House</LineData>
+                            <LineData name="LINE 3">Corner of Central Street &amp; 7th Street</LineData>
+                            <LineData name="LINE 4">CBD</LineData>
+                            <LineData name="LINE 5">12233 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>55</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mwila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwila</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Northmead</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">8th</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">&amp;</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Street</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Central</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Walcourt Estate</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">456</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mwila Mwila</LineData>
+                            <LineData name="LINE 2">456 Walcourt Estate</LineData>
+                            <LineData name="LINE 3">Corner 8th &amp; Central Street</LineData>
+                            <LineData name="LINE 4">Northmead</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>56</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">87654</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">KABWATA ESTATES</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street, </U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Seventh</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">off</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Road</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Burma</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Melborne Estate</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 123</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Room 123 Melborne Estate</LineData>
+                            <LineData name="LINE 3">Seventh Street, off Burma Road</LineData>
+                            <LineData name="LINE 4">KABWATA ESTATES</LineData>
+                            <LineData name="LINE 5">87654 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>57</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Mary</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Zulu</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">50098</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Town Centre</U40.17.11.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Broadway</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">off</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Street</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Main</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Provident House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">3rd Floor</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs. Mary Zulu</LineData>
+                            <LineData name="LINE 2">3rd Floor Provident House</LineData>
+                            <LineData name="LINE 3">Broadway off Main Street</LineData>
+                            <LineData name="LINE 4">Town Centre</LineData>
+                            <LineData name="LINE 5">50098 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>58</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Tamra</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chunda</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">NDOLA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Town Centre</U40.17.11.00>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Broadway</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">off</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Avenue</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Chillers</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Provident House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">Room 23</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Tamra Chunda</LineData>
+                            <LineData name="LINE 2">Room 23 Provident House</LineData>
+                            <LineData name="LINE 3">Broadway off Chillers Avenue</LineData>
+                            <LineData name="LINE 4">Town Centre</LineData>
+                            <LineData name="LINE 5">12234 NDOLA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>59</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">K.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Malama</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12233</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">CBD</U40.17.11.00>
+                        <U40.21.11.22 uniq="U40SuccPrimThoroType">Street</U40.21.11.22>
+                        <U40.21.11.41 uniq="U40PrimThoroName">Central</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">off</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Street</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">7th</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Finance House</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">12B</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr K. Malama</LineData>
+                            <LineData name="LINE 2">12B Finance House</LineData>
+                            <LineData name="LINE 3">Central Street off 7th Street</LineData>
+                            <LineData name="LINE 4">CBD</LineData>
+                            <LineData name="LINE 5">12233 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>60</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Mwila</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwila</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Northmead</U40.17.11.00>
+                        <U40.21.11.11 uniq="U40PrecPrimThoroQualifier">Corner</U40.21.11.11>
+                        <U40.21.11.41 uniq="U40PrimThoroName">8th</U40.21.11.41>
+                        <U40.21.21.11 uniq="U40PrecSecThoroQualifier">off</U40.21.21.11>
+                        <U40.21.21.22 uniq="U40SuccSecThoroType">Street</U40.21.21.22>
+                        <U40.21.21.41 uniq="U40SecThoroName">Central</U40.21.21.41>
+                        <U40.26.00.00 uniq="U40Building">Walcourt Estate</U40.26.00.00>
+                        <U40.32.00.00 uniq="U40Door">456</U40.32.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mwila Mwila</LineData>
+                            <LineData name="LINE 2">456 Walcourt Estate</LineData>
+                            <LineData name="LINE 3">Corner 8th off Central Street</LineData>
+                            <LineData name="LINE 4">Northmead</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>61</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65432</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAFUE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZICTA TOWNSHIP</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Silverton</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot No. 2345</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">House 6</U40.24.12.00>
+                        <U40.28.00.00 uniq="U40ExtensionDesignation">subdivision 3050</U40.28.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">Plot No. 2345 subdivision 3050 House 6 Silverton</LineData>
+                            <LineData name="LINE 3">ZICTA TOWNSHIP</LineData>
+                            <LineData name="LINE 4">65432 KAFUE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>62</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Eric</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lwao</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12234</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Mupambe Township</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section 3</U40.17.31.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 234</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Number 6</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Eric Lwao</LineData>
+                            <LineData name="LINE 2">Plot 234 Number 6</LineData>
+                            <LineData name="LINE 3">Mupambe Township Section 3</LineData>
+                            <LineData name="LINE 4">12234 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>63</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Milingo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lungu</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34567</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Lusaka East</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">New Kasama</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 34567</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Milingo Lungu</LineData>
+                            <LineData name="LINE 2">Plot 34567 New Kasama</LineData>
+                            <LineData name="LINE 3">Lusaka East</LineData>
+                            <LineData name="LINE 4">34567 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>64</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Japhet</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Molimba</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chawama</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Northview</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 5467</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">No, 45</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Japhet Molimba</LineData>
+                            <LineData name="LINE 2">Plot 5467 No, 45 Northview</LineData>
+                            <LineData name="LINE 3">Chawama</LineData>
+                            <LineData name="LINE 4">34456 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>65</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Grace</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Gondwe</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KALULUSHI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Location</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Old City</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 34567</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Grace Gondwe</LineData>
+                            <LineData name="LINE 2">Plot 34567 Old City</LineData>
+                            <LineData name="LINE 3">Location</LineData>
+                            <LineData name="LINE 4">12345 KALULUSHI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>66</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65432</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAFUE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZICTA TOWNSHIP</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Silverton</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot No. 2345</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">House 6</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">ZICTA</LineData>
+                            <LineData name="LINE 3">Plot No. 2345 House 6 Silverton</LineData>
+                            <LineData name="LINE 4">ZICTA TOWNSHIP</LineData>
+                            <LineData name="LINE 5">65432 KAFUE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>67</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">C</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bulaya</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Kamuchanga Hospital</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Orchard</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section 3</U40.17.31.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 123</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Number 4</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr C Bulaya</LineData>
+                            <LineData name="LINE 2">Kamuchanga Hospital</LineData>
+                            <LineData name="LINE 3">Plot 123 Number 4</LineData>
+                            <LineData name="LINE 4">Orchard Section 3</LineData>
+                            <LineData name="LINE 5">12345 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>68</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Milingo</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lungu</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Lungu &amp; Associates</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56578</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Mandevu Compound</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Chaisa</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 4456</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">No. 23a</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Milingo Lungu</LineData>
+                            <LineData name="LINE 2">Lungu &amp; Associates</LineData>
+                            <LineData name="LINE 3">Plot 4456 No. 23a Chaisa</LineData>
+                            <LineData name="LINE 4">Mandevu Compound</LineData>
+                            <LineData name="LINE 5">56578 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>69</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Peter</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pande</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Nkana Milling</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23456</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUANSHYA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Kamirenda</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section 4</U40.17.31.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 3456</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">No. 34B</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Peter Pande</LineData>
+                            <LineData name="LINE 2">Nkana Milling</LineData>
+                            <LineData name="LINE 3">Plot 3456 No. 34B</LineData>
+                            <LineData name="LINE 4">Kamirenda Section 4</LineData>
+                            <LineData name="LINE 5">23456 LUANSHYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>70</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Sula</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Biemba</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Rokana Farm</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">32789</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHIPATA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ntundwe Township</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Lingfield</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 3456</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Unit 45C</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Sula Biemba</LineData>
+                            <LineData name="LINE 2">Rokana Farm</LineData>
+                            <LineData name="LINE 3">Plot 3456 Unit 45C Lingfield</LineData>
+                            <LineData name="LINE 4">Ntundwe Township</LineData>
+                            <LineData name="LINE 5">32789 CHIPATA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>71</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65432</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAFUE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZICTA TOWNSHIP</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Silverton</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1234/H5.6</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">1234/H5.6 Silverton</LineData>
+                            <LineData name="LINE 3">ZICTA TOWNSHIP</LineData>
+                            <LineData name="LINE 4">65432 KAFUE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>72</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">C</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mulenga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76869</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Garden Compound</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Luangwa</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 7864</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">Number 2</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs C Mulenga</LineData>
+                            <LineData name="LINE 2">Plot 7864 Number 2 Luangwa</LineData>
+                            <LineData name="LINE 3">Garden Compound</LineData>
+                            <LineData name="LINE 4">76869 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>73</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jacob</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mulrnga</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12343</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chalala Site &amp; Service</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Hilview</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot No. 3455</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jacob Mulrnga</LineData>
+                            <LineData name="LINE 2">Plot No. 3455 Hilview</LineData>
+                            <LineData name="LINE 3">Chalala Site &amp; Service</LineData>
+                            <LineData name="LINE 4">12343 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>74</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Moses</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Sichone</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34556</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Eastleigh</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Mimosa</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot No. 3245</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">House No.34A</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Moses Sichone</LineData>
+                            <LineData name="LINE 2">Plot No. 3245 House No.34A Mimosa</LineData>
+                            <LineData name="LINE 3">Eastleigh</LineData>
+                            <LineData name="LINE 4">34556 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>75</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Isaac</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chipulu</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34556</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MUFULIRA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Orchard</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">Section 4</U40.17.31.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot NO. 789</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Isaac Chipulu</LineData>
+                            <LineData name="LINE 2">Plot NO. 789</LineData>
+                            <LineData name="LINE 3">Orchard Section 4</LineData>
+                            <LineData name="LINE 4">34556 MUFULIRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>76</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">65432</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAFUE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">ZICTA TOWNSHIP</U40.17.11.00>
+                        <U40.17.31.00 uniq="U40DistrictLev3Pos1">extension 5</U40.17.31.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 1234</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">house 6</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">ZICTA</LineData>
+                            <LineData name="LINE 3">Plot 1234 house 6</LineData>
+                            <LineData name="LINE 4">ZICTA TOWNSHIP extension 5</LineData>
+                            <LineData name="LINE 5">65432 KAFUE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>77</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Joyce</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chiinda</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Bubbles Nursery School</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12343</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chalala</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Rockfield</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 4568</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Joyce Chiinda</LineData>
+                            <LineData name="LINE 2">Bubbles Nursery School</LineData>
+                            <LineData name="LINE 3">Plot 4568 Rockfield</LineData>
+                            <LineData name="LINE 4">Chalala</LineData>
+                            <LineData name="LINE 5">12343 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>78</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">The Manager</U10.03.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Boxrod Mechanics</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUSAKA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chainda West</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">John Laing</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 456</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">No. 32</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Manager</LineData>
+                            <LineData name="LINE 2">Boxrod Mechanics</LineData>
+                            <LineData name="LINE 3">Plot 456 No. 32 John Laing</LineData>
+                            <LineData name="LINE 4">Chainda West</LineData>
+                            <LineData name="LINE 5">12345 LUSAKA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>79</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Harry</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Potter</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Hogwarts</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">76789</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KALULUSHI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Mine Compound</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Zamclay</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 456</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Harry Potter</LineData>
+                            <LineData name="LINE 2">Hogwarts</LineData>
+                            <LineData name="LINE 3">Plot 456 Zamclay</LineData>
+                            <LineData name="LINE 4">Mine Compound</LineData>
+                            <LineData name="LINE 5">76789 KALULUSHI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>80</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Andrew</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bowden</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Chibuluma Trust</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">78987</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KALULUSHI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chilengwalesa</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Westway A</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 4567</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Andrew Bowden</LineData>
+                            <LineData name="LINE 2">Chibuluma Trust</LineData>
+                            <LineData name="LINE 3">Plot 4567 Westway A</LineData>
+                            <LineData name="LINE 4">Chilengwalesa</LineData>
+                            <LineData name="LINE 5">78987 KALULUSHI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>81</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAWAMBWA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Mbereshi</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Mansa Village</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">34 56 78</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">34 56 78 Mansa Village</LineData>
+                            <LineData name="LINE 3">Chief Mbereshi</LineData>
+                            <LineData name="LINE 4">12345 KAWAMBWA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>82</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.08.00.00 uniq="U10Surname">Mumena</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Chief</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MWENSE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Mumena</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Kamena</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23 45 67</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Chief Mumena</LineData>
+                            <LineData name="LINE 2">23 45 67 Kamena</LineData>
+                            <LineData name="LINE 3">Chief Mumena</LineData>
+                            <LineData name="LINE 4">23345 MWENSE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>83</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Wilma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chisampa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54378</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAPUTA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Kaputa District</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Sabi Village</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">34 56 90</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wilma Chisampa</LineData>
+                            <LineData name="LINE 2">34 56 90 Sabi Village</LineData>
+                            <LineData name="LINE 3">Kaputa District</LineData>
+                            <LineData name="LINE 4">54378 KAPUTA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>84</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chansa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">55345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAZEMBE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chiefteness Mona</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Chawama</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">55 23 45</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paul Chansa</LineData>
+                            <LineData name="LINE 2">55 23 45 Chawama</LineData>
+                            <LineData name="LINE 3">Chiefteness Mona</LineData>
+                            <LineData name="LINE 4">55345 KAZEMBE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>85</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Wilbur</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Simusa</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56789</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAMFYA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Samfya District</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Chiwila</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">45 67 89</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wilbur Simusa</LineData>
+                            <LineData name="LINE 2">45 67 89 Chiwila</LineData>
+                            <LineData name="LINE 3">Samfya District</LineData>
+                            <LineData name="LINE 4">56789 SAMFYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>86</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">B</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ZICTA</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MBALA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MANSA</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Zicta Village</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">345678</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr. B Mwansa</LineData>
+                            <LineData name="LINE 2">ZICTA</LineData>
+                            <LineData name="LINE 3">345678 Zicta Village</LineData>
+                            <LineData name="LINE 4">MANSA</LineData>
+                            <LineData name="LINE 5">12345 MBALA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>87</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Lottie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chanda</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Lottice Grocery</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23344</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MILENGE</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Milenge</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Ngona Village</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23 45 87</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Lottie Chanda</LineData>
+                            <LineData name="LINE 2">Lottice Grocery</LineData>
+                            <LineData name="LINE 3">23 45 87 Ngona Village</LineData>
+                            <LineData name="LINE 4">Chief Milenge</LineData>
+                            <LineData name="LINE 5">23344 MILENGE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>88</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Wilma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chisampa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Sabi Clinic</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54378</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAPUTA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Puta</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Sabi Village</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">34 56 87</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wilma Chisampa</LineData>
+                            <LineData name="LINE 2">Sabi Clinic</LineData>
+                            <LineData name="LINE 3">34 56 87 Sabi Village</LineData>
+                            <LineData name="LINE 4">Chief Puta</LineData>
+                            <LineData name="LINE 5">54378 KAPUTA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>89</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mwansa</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Mwansa Farm</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">54678</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAMFYA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Mwelwa</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Chilemba</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">34 56 78</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paul Mwansa</LineData>
+                            <LineData name="LINE 2">Mwansa Farm</LineData>
+                            <LineData name="LINE 3">34 56 78 Chilemba</LineData>
+                            <LineData name="LINE 4">Chief Mwelwa</LineData>
+                            <LineData name="LINE 5">54678 SAMFYA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>90</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">James</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Chama</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Chama &amp; Sons</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">34567</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">MBALA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Chief Chama</U40.17.11.00>
+                        <U40.17.21.00 uniq="U40DistrictLev2Pos1">Chama</U40.17.21.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">55 56 56</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">ZM</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">ZM</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>5</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">James Chama</LineData>
+                            <LineData name="LINE 2">Chama &amp; Sons</LineData>
+                            <LineData name="LINE 3">55 56 56 Chama</LineData>
+                            <LineData name="LINE 4">Chief Chama</LineData>
+                            <LineData name="LINE 5">34567 MBALA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

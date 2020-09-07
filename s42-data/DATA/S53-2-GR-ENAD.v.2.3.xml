@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>GR</GroupDescription>
+            <GroupItemCount>35</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALEXANDROS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RIGAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">193 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ASPROPYRGOS</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">POSITION PLACE GORITSA</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RIGAS ALEXANDROS</LineData>
+                            <LineData name="LINE 2">POSITION PLACE GORITSA</LineData>
+                            <LineData name="LINE 3">193 00  ASPROPYRGOS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ΑΛΕΞΑΝΔΡΟΣ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ΡΗΓΑΣ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">193 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΣΠΡΟΠΥΡΓΟΣ</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ΘΕΣΗ ΓΚΟΡΙΤΣΑ</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΡΗΓΑΣ ΑΛΕΞΑΝΔΡΟΣ</LineData>
+                            <LineData name="LINE 2">ΘΕΣΗ ΓΚΟΡΙΤΣΑ</LineData>
+                            <LineData name="LINE 3">193 00  ΑΣΠΡΟΠΥΡΓΟΣ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALEXANDROS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RIGAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">345 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ALIVERI</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">KARABOS ALIVERIOY</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RIGAS ALEXANDROS</LineData>
+                            <LineData name="LINE 2">KARABOS ALIVERIOY</LineData>
+                            <LineData name="LINE 3">345 00  ALIVERI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ΑΛΕΞΑΝΔΡΟΣ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ΡΗΓΑΣ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">345 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΛΙΒΕΡΙ</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ΚΑΡΑΒΟΣ ΑΛΙΒΕΡΙΟΥ</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΡΗΓΑΣ ΑΛΕΞΑΝΔΡΟΣ</LineData>
+                            <LineData name="LINE 2">ΚΑΡΑΒΟΣ ΑΛΙΒΕΡΙΟΥ</LineData>
+                            <LineData name="LINE 3">345 00  ΑΛΙΒΕΡΙ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALEXANDROS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RIGAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">734 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KISSAMOS</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">METOCHI LOTSAKION</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RIGAS ALEXANDROS</LineData>
+                            <LineData name="LINE 2">METOCHI LOTSAKION</LineData>
+                            <LineData name="LINE 3">734 00  KISSAMOS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ΑΛΕΞΑΝΔΡΟΣ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ΡΗΓΑΣ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">734 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΚΙΣΣΑΜΟΣ</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">ΜΕΤΟΧΙ ΛΟΤΣΑΚΙΩΝ</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΡΗΓΑΣ ΑΛΕΞΑΝΔΡΟΣ</LineData>
+                            <LineData name="LINE 2">ΜΕΤΟΧΙ ΛΟΤΣΑΚΙΩΝ</LineData>
+                            <LineData name="LINE 3">734 00  ΚΙΣΣΑΜΟΣ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Dimitrios</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ellinas</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">731 32</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHANIA</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kritis</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dimitrios Ellinas</LineData>
+                            <LineData name="LINE 2">Kritis 8</LineData>
+                            <LineData name="LINE 3">731 32  CHANIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Δημήτριος</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Έλληνας</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">731 32</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΧΑΝΙΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Κρήτης</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Δημήτριος Έλληνας</LineData>
+                            <LineData name="LINE 2">Κρήτης 8</LineData>
+                            <LineData name="LINE 3">731 32  ΧΑΝΙΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Dimitrios</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ellinas</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">731 32</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">GREECE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHANIA</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Kritis</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">8</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dimitrios Ellinas</LineData>
+                            <LineData name="LINE 2">Kritis 8</LineData>
+                            <LineData name="LINE 3">731 32  CHANIA</LineData>
+                            <LineData name="LINE 4">GREECE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Giorgos</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nikolakakis</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">741 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">RETHIMNO</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Giorgos Nikolakakis</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">741 00  RETHIMNO</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Γιώργος</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Νικολακάκης</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">741 00</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΡΕΘΥΜΝΟ</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste Restante</U40.19.11.11>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Γιώργος Νικολακάκης</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">741 00  ΡΕΘΥΜΝΟ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ATE S.A.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">102 21</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ATE S.A.</LineData>
+                            <LineData name="LINE 2">102 21  ATHENS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ΑΤΕ Α.Ε.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">102 21</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΑΤΕ Α.Ε.</LineData>
+                            <LineData name="LINE 2">102 21  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Stelios</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Andreadakis</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Eleni</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Lioli</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">124 61</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">CHAIDARI</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Thermopilon</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">100</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Stelios Andreadakis</LineData>
+                            <LineData name="LINE 2">c/o Eleni Lioli</LineData>
+                            <LineData name="LINE 3">Thermopilon 100</LineData>
+                            <LineData name="LINE 4">124 61  CHAIDARI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Στέλιος</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Ανδρεαδάκης</U10.08.00.00>
+                        <U20.04.00.00 uniq="U20RoleDescriptor">c/o</U20.04.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Ελένη</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Λιώλη</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">124 61</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΧΑΪΔΑΡΙ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Θερμοπυλών</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">100</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Στέλιος Ανδρεαδάκης</LineData>
+                            <LineData name="LINE 2">c/o Ελένη Λιώλη</LineData>
+                            <LineData name="LINE 3">Θερμοπυλών 100</LineData>
+                            <LineData name="LINE 4">124 61  ΧΑΪΔΑΡΙ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MPENAKON C.O</U10.00.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">ATTENTION</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Kostas</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mpenakis</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">115 28</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Varvaki</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">GR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MPENAKON C.O</LineData>
+                            <LineData name="LINE 2">ATTENTION Mr Mpenakis Kostas</LineData>
+                            <LineData name="LINE 3">Varvaki 15</LineData>
+                            <LineData name="LINE 4">115 28  ATHENS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ΜΠΕΝΑΚΟΝ Α.Ε</U10.00.00.00>
+                        <U10.04.00.00 uniq="U10RoleDescriptor">Υπόψη</U10.04.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Κ.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Κώστα</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Μπενάκη</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">115 28</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Βαρβάκη</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">15</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">GR</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΜΠΕΝΑΚΟΝ Α.Ε</LineData>
+                            <LineData name="LINE 2">Υπόψη Κ. Μπενάκη Κώστα</LineData>
+                            <LineData name="LINE 3">Βαρβάκη 15</LineData>
+                            <LineData name="LINE 4">115 28  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Em.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Tzagarakis</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ELTA S.A.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">101 88</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Apellou</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Em. Tzagarakis</LineData>
+                            <LineData name="LINE 2">ELTA S.A.</LineData>
+                            <LineData name="LINE 3">Apellou 1</LineData>
+                            <LineData name="LINE 4">101 88  ATHENS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Κος</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Εμ.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Τζαγκαράκης</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">ΕΛΤΑ Α.Ε.</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">101 88</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Απελλού</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Κος Εμ. Τζαγκαράκης</LineData>
+                            <LineData name="LINE 2">ΕΛΤΑ Α.Ε.</LineData>
+                            <LineData name="LINE 3">Απελλού 1</LineData>
+                            <LineData name="LINE 4">101 88  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Hellenic Post  S.A.</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Karalis</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Panos</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">101 88</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Apellou</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Hellenic Post  S.A.</LineData>
+                            <LineData name="LINE 2">Karalis Panos</LineData>
+                            <LineData name="LINE 3">Apellou 1</LineData>
+                            <LineData name="LINE 4">101 88  ATHENS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">ΕΛΤΑ Α.Ε.</U10.00.00.00>
+                        <U20.06.00.00 uniq="U20GivenName">Κάραλης</U20.06.00.00>
+                        <U20.08.00.00 uniq="U20Surname">Πάνος</U20.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">101 88</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Απελλού</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΕΛΤΑ Α.Ε.</LineData>
+                            <LineData name="LINE 2">Κάραλης Πάνος</LineData>
+                            <LineData name="LINE 3">Απελλού 1</LineData>
+                            <LineData name="LINE 4">101 88  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Maria</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Papadopoulou</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Doctor</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">105 58</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">GREECE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Apellou</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Doctor Maria Papadopoulou</LineData>
+                            <LineData name="LINE 2">Apellou 1</LineData>
+                            <LineData name="LINE 3">105 58  ATHENS</LineData>
+                            <LineData name="LINE 4">GREECE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Μαρίας</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Παπαδοπούλου</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Ιατρείο</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">105 58</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Απελλού</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ιατρείο Μαρίας Παπαδοπούλου</LineData>
+                            <LineData name="LINE 2">Απελλού 1</LineData>
+                            <LineData name="LINE 3">105 58  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MR</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">GLETSOS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">PANOS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">185 80</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">GREECE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PIREAS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">PIREOS</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MR GLETSOS PANOS</LineData>
+                            <LineData name="LINE 2">PIREOS 10</LineData>
+                            <LineData name="LINE 3">185 80  PIREAS</LineData>
+                            <LineData name="LINE 4">GREECE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">ΚΟΣ</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ΓΚΛΕΤΣΟΣ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ΠΑΝΑΓΙΩΤΗΣ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">185 80</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΠΕΙΡΑΙΑΣ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ΠΕΙΡΑΙΩΣ</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">10</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΚΟΣ ΓΚΛΕΤΣΟΣ ΠΑΝΑΓΙΩΤΗΣ</LineData>
+                            <LineData name="LINE 2">ΠΕΙΡΑΙΩΣ 10</LineData>
+                            <LineData name="LINE 3">185 80  ΠΕΙΡΑΙΑΣ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AEGEAN AIRLINES S.A.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">115 28</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ATHENS</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Chatzigianni Mexi</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AEGEAN AIRLINES S.A.</LineData>
+                            <LineData name="LINE 2">Chatzigianni Mexi 5</LineData>
+                            <LineData name="LINE 3">115 28  ATHENS</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">AEGEAN AIRLINES Α.Ε.</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">115 28</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΑΘΗΝΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">Χατζηγιάννη Μέξη</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">5</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">AEGEAN AIRLINES Α.Ε.</LineData>
+                            <LineData name="LINE 2">Χατζηγιάννη Μέξη 5</LineData>
+                            <LineData name="LINE 3">115 28  ΑΘΗΝΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MODEL SHOP S.A</U10.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">DEPARTMENT OF SALES</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 02</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">GREECE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">PAIANIA</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">PRIFTI</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">US</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MODEL SHOP S.A</LineData>
+                            <LineData name="LINE 2">DEPARTMENT OF SALES</LineData>
+                            <LineData name="LINE 3">PRIFTI 1</LineData>
+                            <LineData name="LINE 4">190 02  PAIANIA</LineData>
+                            <LineData name="LINE 5">GREECE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">MODEL SHOP A.Ε.</U10.00.00.00>
+                        <U20.02.00.00 uniq="U20OrgUnit">ΤΜΗΜΑ ΠΩΛΗΣΕΩΝ</U20.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 02</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΠΑΙΑΝΙΑ</U40.16.00.00>
+                        <U40.21.00.00 uniq="U40Thoro">ΠΡΙΦΤΗ</U40.21.00.00>
+                        <U40.24.00.00 uniq="U40PremId">1</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MODEL SHOP A.Ε.</LineData>
+                            <LineData name="LINE 2">ΤΜΗΜΑ ΠΩΛΗΣΕΩΝ</LineData>
+                            <LineData name="LINE 3">ΠΡΙΦΤΗ 1</LineData>
+                            <LineData name="LINE 4">190 02  ΠΑΙΑΝΙΑ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">MANAGER OF EDUCATION</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">John</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pappas</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">University of Patras</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">265 04</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">GREECE</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RΙΟ</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Patras Campus</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr John Pappas</LineData>
+                            <LineData name="LINE 2">MANAGER OF EDUCATION</LineData>
+                            <LineData name="LINE 3">University of Patras</LineData>
+                            <LineData name="LINE 4">Patras Campus</LineData>
+                            <LineData name="LINE 5">265 04  RΙΟ</LineData>
+                            <LineData name="LINE 6">GREECE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.03.00.00 uniq="U10Function">ΔΙΕΥΘΥΝΤΗ ΣΠΟΥΔΩΝ</U10.03.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">κο</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Γιάννη</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Παππά</U10.08.00.00>
+                        <U20.00.00.00 uniq="U20OrgName">Πανεπιστήμιο Πατρών</U20.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">265 04</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΡΙΟ</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">Πανεπιστημιούπολη</U40.17.00.00>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">κο Γιάννη Παππά</LineData>
+                            <LineData name="LINE 2">ΔΙΕΥΘΥΝΤΗ ΣΠΟΥΔΩΝ</LineData>
+                            <LineData name="LINE 3">Πανεπιστήμιο Πατρών</LineData>
+                            <LineData name="LINE 4">Πανεπιστημιούπολη</LineData>
+                            <LineData name="LINE 5">265 04  ΡΙΟ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ALEXANDROS</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">RIGAS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 14</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">KAPANDRITI</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1053</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">RIGAS ALEXANDROS</LineData>
+                            <LineData name="LINE 2">P.O. BOX 1053</LineData>
+                            <LineData name="LINE 3">190 14  KAPANDRITI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">ΑΛΕΞΑΝΔΡΟΣ</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ΡΗΓΑΣ</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">190 14</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΚΑΠΑΝΔΡΙΤΙ</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Τ.Θ.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1053</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">s</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">ΡΗΓΑΣ ΑΛΕΞΑΝΔΡΟΣ</LineData>
+                            <LineData name="LINE 2">Τ.Θ. 1053</LineData>
+                            <LineData name="LINE 3">190 14  ΚΑΠΑΝΔΡΙΤΙ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Nikos</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kritikos</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">131 10</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ILION</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO BOX</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">888</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Nikos Kritikos</LineData>
+                            <LineData name="LINE 2">PO BOX 888</LineData>
+                            <LineData name="LINE 3">131 10  ILION</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Νίκος</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Κρητικός</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">131 10</U40.13.00.00>
+                        <U40.16.00.00 uniq="U40Town">ΙΛΙΟΝ</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Τ.Θ.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">888</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Grek</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">el</U50.51.00.00>
+                        <U50.52.00.00 uniq="U50AddressFormat">g</U50.52.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">GR</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Νίκος Κρητικός</LineData>
+                            <LineData name="LINE 2">Τ.Θ. 888</LineData>
+                            <LineData name="LINE 3">131 10  ΙΛΙΟΝ</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

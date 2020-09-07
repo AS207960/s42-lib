@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>NA</GroupDescription>
+            <GroupItemCount>45</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Nampost</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Postal Services</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ambrosius</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Iipinge</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11111</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">287</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WINDHOEK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ambrosius Iipinge</LineData>
+                            <LineData name="LINE 2">Postal Services</LineData>
+                            <LineData name="LINE 3">Nampost</LineData>
+                            <LineData name="LINE 4">PO Box 287</LineData>
+                            <LineData name="LINE 5">WINDHOEK</LineData>
+                            <LineData name="LINE 6">11111</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Chapel Inn</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ndahafu</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Nambira</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11031</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">PO Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1840</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">KEETMANSHOOP</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Ndahafu Nambira
+
+</LineData>
+                            <LineData name="LINE 2">Chapel Inn</LineData>
+                            <LineData name="LINE 3">PO Box 1840</LineData>
+                            <LineData name="LINE 4">KEETMANSHOOP</LineData>
+                            <LineData name="LINE 5">11031</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">HR Solutions</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">HR Department</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">S</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bergh</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O.</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">22570</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">OKAHANDJA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs S Bergh</LineData>
+                            <LineData name="LINE 2">HR Department</LineData>
+                            <LineData name="LINE 3">HR Solutions</LineData>
+                            <LineData name="LINE 4">P.O. 22570</LineData>
+                            <LineData name="LINE 5">OKAHANDJA</LineData>
+                            <LineData name="LINE 6">12001</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Zex</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Mail Services</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Clement</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dunaiski</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13008</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">766</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">OSHAKATI</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clement Dunaiski</LineData>
+                            <LineData name="LINE 2">Mail Services</LineData>
+                            <LineData name="LINE 3">Zex</LineData>
+                            <LineData name="LINE 4">P.O. Box 766</LineData>
+                            <LineData name="LINE 5">OSHAKATI</LineData>
+                            <LineData name="LINE 6">13008</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Air Namibia</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Reservations</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Anna Marie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Clarke</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11111</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">P.O. Box</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">731</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Windhoek</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Anna Marie Clarke</LineData>
+                            <LineData name="LINE 2">Reservations</LineData>
+                            <LineData name="LINE 3">Air Namibia</LineData>
+                            <LineData name="LINE 4">P.O. Box 731</LineData>
+                            <LineData name="LINE 5">Windhoek</LineData>
+                            <LineData name="LINE 6">11111</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ministry of ICT</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Director: Communication</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Henri J.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kassen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13344</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WINDHOEK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Henri J. Kassen</LineData>
+                            <LineData name="LINE 2">Director: Communication</LineData>
+                            <LineData name="LINE 3">Ministry of ICT</LineData>
+                            <LineData name="LINE 4">Private Bag 13344</LineData>
+                            <LineData name="LINE 5">WINDHOEK</LineData>
+                            <LineData name="LINE 6">12345</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Oshakati State Hospital</U10.00.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">E.W.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lisse</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">Dr</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">X5501</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">OSHAKATI</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Dr E.W. Lisse</LineData>
+                            <LineData name="LINE 2">Oshakati State Hospital</LineData>
+                            <LineData name="LINE 3">Private Bag X5501</LineData>
+                            <LineData name="LINE 4">OSHAKATI</LineData>
+                            <LineData name="LINE 5">14000</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Internal Audits</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">George</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Itembu</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13005</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">ONDANGWA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr George Itembu</LineData>
+                            <LineData name="LINE 2">Internal Audits</LineData>
+                            <LineData name="LINE 3">Private bag 13005</LineData>
+                            <LineData name="LINE 4">ONDANGWA</LineData>
+                            <LineData name="LINE 5">14003</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Telecom Namibia</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">The Chief Executive Office</U10.02.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11002</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private Bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">133259</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WINDHOEK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">The Chief Executive Office</LineData>
+                            <LineData name="LINE 2">Telecom Namibia</LineData>
+                            <LineData name="LINE 3">Private Bag 133259</LineData>
+                            <LineData name="LINE 4">WINDHOEK</LineData>
+                            <LineData name="LINE 5">11002</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">First National Bank</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Home Loans</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Virginia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Freeman</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11002</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Private bag</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">13678</U40.19.11.21>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Windhoek</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Virginia Freeman</LineData>
+                            <LineData name="LINE 2">Home Loans</LineData>
+                            <LineData name="LINE 3">First National Bank</LineData>
+                            <LineData name="LINE 4">Private bag 13678</LineData>
+                            <LineData name="LINE 5">Windhoek</LineData>
+                            <LineData name="LINE 6">11002</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Wilmarc</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Lewies</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">91777</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Poste Restante</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">OLYMPIA</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Wilmarc Lewies</LineData>
+                            <LineData name="LINE 2">Poste Restante</LineData>
+                            <LineData name="LINE 3">OLYMPIA</LineData>
+                            <LineData name="LINE 4">91777</LineData>
+                            <LineData name="LINE 5">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Military Field Post Service</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Field Office 5</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Festus</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hangula</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">25667</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">GROOTFONTEIN</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Festus Hangula</LineData>
+                            <LineData name="LINE 2">Field Office 5</LineData>
+                            <LineData name="LINE 3">Military Field Post Service</LineData>
+                            <LineData name="LINE 4">GROOTFONTEIN</LineData>
+                            <LineData name="LINE 5">25667</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Windhoek Post Office</U10.00.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Eldorette</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Harmse</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23441</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">WINDHOEK</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Eldorette Harmse</LineData>
+                            <LineData name="LINE 2">Windhoek Post Office</LineData>
+                            <LineData name="LINE 3">WINDHOEK</LineData>
+                            <LineData name="LINE 4">23441</LineData>
+                            <LineData name="LINE 5">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Deon</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Meyer</U10.08.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">will be collected</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10087</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Cell 0811 272 811</U40.34.00.00>
+                        <U40.35.00.00 uniq="U40DelServQualifier">AUSSENKEHR</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Deon Meyer</LineData>
+                            <LineData name="LINE 2">Cell 0811 272 811</LineData>
+                            <LineData name="LINE 3">will be collected</LineData>
+                            <LineData name="LINE 4">AUSSENKEHR</LineData>
+                            <LineData name="LINE 5">10087</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Don</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dunaiski</U10.08.00.00>
+                        <U30.33.00.00 uniq="U30SuppDespatchInfo">collection at counter 5</U30.33.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11003</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">Farmers Private bag</U40.19.11.11>
+                        <U40.35.00.00 uniq="U40DelServQualifier">Windhoek</U40.35.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Don Dunaiski</LineData>
+                            <LineData name="LINE 2">Farmers Private bag</LineData>
+                            <LineData name="LINE 3">collection at counter 5</LineData>
+                            <LineData name="LINE 4">Windhoek</LineData>
+                            <LineData name="LINE 5">11003</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Nangula</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Hamutenya</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">26890</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">UIS</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ocean View</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Mermaid street</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">11</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Nangula Hamutenya</LineData>
+                            <LineData name="LINE 2">11 Mermaid street</LineData>
+                            <LineData name="LINE 3">Ocean View</LineData>
+                            <LineData name="LINE 4">UIS</LineData>
+                            <LineData name="LINE 5">26890</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Visman</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">38765</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Big Bend</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Outapi Street</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Plot 1376</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jan Visman</LineData>
+                            <LineData name="LINE 2">Plot 1376 Outapi Street</LineData>
+                            <LineData name="LINE 3">Big Bend</LineData>
+                            <LineData name="LINE 4">WINDHOEK</LineData>
+                            <LineData name="LINE 5">38765</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Boas</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Mweend</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12098</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Cimbebasia</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Chobe Street</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Erf 213/65</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Boas Mweend</LineData>
+                            <LineData name="LINE 2">Erf 213/65 Chobe Street</LineData>
+                            <LineData name="LINE 3">Cimbebasia</LineData>
+                            <LineData name="LINE 4">WINDHOEK</LineData>
+                            <LineData name="LINE 5">12098</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Clement</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dunaiski</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11004</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Kloppersdal</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Anemone street</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">2916</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clement Dunaiski</LineData>
+                            <LineData name="LINE 2">2916 Anemone street</LineData>
+                            <LineData name="LINE 3">Kloppersdal</LineData>
+                            <LineData name="LINE 4">WINDHOEK</LineData>
+                            <LineData name="LINE 5">11004</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Manager Edcon group</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11005</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Windhoek</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Windhoek Central</U40.17.11.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Werhill Shop</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">14</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Manager Edcon group</LineData>
+                            <LineData name="LINE 2">Werhill Shop 14</LineData>
+                            <LineData name="LINE 3">Windhoek Central</LineData>
+                            <LineData name="LINE 4">Windhoek</LineData>
+                            <LineData name="LINE 5">11005</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">P. Rossouw &amp; Associates</U10.00.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12345</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OSHIKOTO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Oluno</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Main Road</U40.21.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Punyu Complex</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">23</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">P. Rossouw &amp; Associates</LineData>
+                            <LineData name="LINE 2">23 Punyu Complex</LineData>
+                            <LineData name="LINE 3">Main Road</LineData>
+                            <LineData name="LINE 4">Oluno</LineData>
+                            <LineData name="LINE 5">OSHIKOTO</LineData>
+                            <LineData name="LINE 6">12345</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">A.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Iipinge</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24415</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TSUMEB</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Tseiblaagte</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Riverside Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">37</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Sandcastle Apartments</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Flat 23</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">A. Iipinge</LineData>
+                            <LineData name="LINE 2">Flat 23 Sandcastle Apartments</LineData>
+                            <LineData name="LINE 3">37 Riverside Avenue</LineData>
+                            <LineData name="LINE 4">Tseiblaagte</LineData>
+                            <LineData name="LINE 5">TSUMEB</LineData>
+                            <LineData name="LINE 6">24415</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Sebby</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kankondi</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12556</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Klein Kuppe</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Sesriem Street</U40.21.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Frankie Fredericks residential estate</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Unit 14</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Sebby Kankondi</LineData>
+                            <LineData name="LINE 2">Unit 14 Frankie Fredericks residential estate</LineData>
+                            <LineData name="LINE 3">Sesriem Street</LineData>
+                            <LineData name="LINE 4">Klein Kuppe</LineData>
+                            <LineData name="LINE 5">WINDHOEK</LineData>
+                            <LineData name="LINE 6">12556</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Jan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Claasen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">16673</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Windhoek</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Central Business Area</U40.21.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Sanlam building</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">No 7</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jan Claasen</LineData>
+                            <LineData name="LINE 2">No 7 Sanlam building</LineData>
+                            <LineData name="LINE 3">Central Business Area</LineData>
+                            <LineData name="LINE 4">Windhoek</LineData>
+                            <LineData name="LINE 5">WINDHOEK</LineData>
+                            <LineData name="LINE 6">16673</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Pax</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Schoemans</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11007</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Windhoek</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Rocky Crest</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Moses Garoeb Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">44</U40.24.11.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Angrila Flat</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">nr 77</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Pax Schoemans</LineData>
+                            <LineData name="LINE 2">Angrila Flat nr 77</LineData>
+                            <LineData name="LINE 3">44 Moses Garoeb Avenue</LineData>
+                            <LineData name="LINE 4">Rocky Crest</LineData>
+                            <LineData name="LINE 5">Windhoek</LineData>
+                            <LineData name="LINE 6">11007</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Namibia Post Limited</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Courier Services</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Clement</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Dunaiski</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">91111</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LUDERITZ</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Independence Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">175</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Mail Center</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Clement Dunaiski</LineData>
+                            <LineData name="LINE 2">Courier Services</LineData>
+                            <LineData name="LINE 3">Namibia Post Limited</LineData>
+                            <LineData name="LINE 4">Mail Center</LineData>
+                            <LineData name="LINE 5">175 Independence Avenue</LineData>
+                            <LineData name="LINE 6">LUDERITZ</LineData>
+                            <LineData name="LINE 7">91111</LineData>
+                            <LineData name="LINE 8">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Charly&apos;s Desert Tours</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Accounts department</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">A.N.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bookkeeper</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">26262</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SWAKOPMUND</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Sam Nujoma Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">11</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Woermann Brock Centre</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">B2</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. A.N. Bookkeeper</LineData>
+                            <LineData name="LINE 2">Accounts department</LineData>
+                            <LineData name="LINE 3">Charly&apos;s Desert Tours</LineData>
+                            <LineData name="LINE 4">B2 Woermann Brock Centre</LineData>
+                            <LineData name="LINE 5">11 Sam Nujoma Avenue</LineData>
+                            <LineData name="LINE 6">SWAKOPMUND</LineData>
+                            <LineData name="LINE 7">26262</LineData>
+                            <LineData name="LINE 8">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Etosha Transport</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Mail Services</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Max</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Schafer</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">91111</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">PROSPERITA</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Voight street</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">40</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Etosha Building</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Max Schafer</LineData>
+                            <LineData name="LINE 2">Mail Services</LineData>
+                            <LineData name="LINE 3">Etosha Transport</LineData>
+                            <LineData name="LINE 4">Etosha Building</LineData>
+                            <LineData name="LINE 5">40 Voight street</LineData>
+                            <LineData name="LINE 6">PROSPERITA</LineData>
+                            <LineData name="LINE 7">WINDHOEK</LineData>
+                            <LineData name="LINE 8">91111</LineData>
+                            <LineData name="LINE 9">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Bank of Namibia</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Notes Counting Dept</U10.02.00.00>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Joshua</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kapiti</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12334</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Central Business Area</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Independence Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Bank of Namibia Building</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Joshua Kapiti</LineData>
+                            <LineData name="LINE 2">Notes Counting Dept</LineData>
+                            <LineData name="LINE 3">Bank of Namibia</LineData>
+                            <LineData name="LINE 4">Bank of Namibia Building</LineData>
+                            <LineData name="LINE 5">23 Independence Avenue</LineData>
+                            <LineData name="LINE 6">Central Business Area</LineData>
+                            <LineData name="LINE 7">WINDHOEK</LineData>
+                            <LineData name="LINE 8">12334</LineData>
+                            <LineData name="LINE 9">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Namibia Post Ltd</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Marketing Department</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Berlindi van</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Eck</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">11001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Windhoek</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Windhoek Central</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Independence Avenue</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">185</U40.24.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Namibia Post HQ</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Berlindi van Eck</LineData>
+                            <LineData name="LINE 2">Marketing Department</LineData>
+                            <LineData name="LINE 3">Namibia Post Ltd</LineData>
+                            <LineData name="LINE 4">Namibia Post HQ</LineData>
+                            <LineData name="LINE 5">185 Independence Avenue</LineData>
+                            <LineData name="LINE 6">Windhoek Central</LineData>
+                            <LineData name="LINE 7">Windhoek</LineData>
+                            <LineData name="LINE 8">11001</LineData>
+                            <LineData name="LINE 9">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">J</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Claasen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">12334</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Goreangab Ext 3. North</U40.17.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Erf C-230</U40.24.11.00>
+                        <U40.24.12.00 uniq="U40PremIdPos2">East End</U40.24.12.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">J Claasen</LineData>
+                            <LineData name="LINE 2">Erf C-230 East End</LineData>
+                            <LineData name="LINE 3">Goreangab Ext 3. North</LineData>
+                            <LineData name="LINE 4">WINDHOEK</LineData>
+                            <LineData name="LINE 5">12334</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mrs</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Berlindi van</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Eck</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">47786</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ROSH PINAH</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Rosh Pinah Township</U40.17.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">23/4567</U40.24.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">North-East off C13 main road</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mrs Berlindi van Eck</LineData>
+                            <LineData name="LINE 2">23/4567</LineData>
+                            <LineData name="LINE 3">North-East off C13 main road</LineData>
+                            <LineData name="LINE 4">Rosh Pinah Township</LineData>
+                            <LineData name="LINE 5">ROSH PINAH</LineData>
+                            <LineData name="LINE 6">47786</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Bertie</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Reyneke</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">57787</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OUTAPI</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Uutapi Township</U40.17.11.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">House</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">3-25</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Bertie Reyneke</LineData>
+                            <LineData name="LINE 2">House 3-25</LineData>
+                            <LineData name="LINE 3">Uutapi Township</LineData>
+                            <LineData name="LINE 4">OUTAPI</LineData>
+                            <LineData name="LINE 5">57787</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Namibia Post</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Postal Services</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Alma</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Negongo</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13351</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Oshona Region</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Ondangwa</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Outapi</U40.17.11.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">Erf</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">10</U40.26.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">District 13</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Alma Negongo</LineData>
+                            <LineData name="LINE 2">Postal Services</LineData>
+                            <LineData name="LINE 3">Namibia Post</LineData>
+                            <LineData name="LINE 4">Erf 10</LineData>
+                            <LineData name="LINE 5">District 13</LineData>
+                            <LineData name="LINE 6">Outapi</LineData>
+                            <LineData name="LINE 7">Ondangwa</LineData>
+                            <LineData name="LINE 8">Oshona Region</LineData>
+                            <LineData name="LINE 9">13351</LineData>
+                            <LineData name="LINE 10">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Ministry of Traditional affairs</U10.00.00.00>
+                        <U10.02.00.00 uniq="U10OrgUnit">Village councillor</U10.02.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Ambrosius</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Iipinge</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">13572</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.15.00.00 uniq="U40Region">Otjizondjuba Region</U40.15.00.00>
+                        <U40.16.00.00 uniq="U40Town">Otjiiwarongo</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Okakarara</U40.17.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Erf 66</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ambrosius Iipinge</LineData>
+                            <LineData name="LINE 2">Village councillor</LineData>
+                            <LineData name="LINE 3">Ministry of Traditional affairs</LineData>
+                            <LineData name="LINE 4">Erf 66</LineData>
+                            <LineData name="LINE 5">Okakarara</LineData>
+                            <LineData name="LINE 6">Otjiiwarongo</LineData>
+                            <LineData name="LINE 7">Otjizondjuba Region</LineData>
+                            <LineData name="LINE 8">13572</LineData>
+                            <LineData name="LINE 9">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Dunenblick General and Airtime store</U10.00.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">G.</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Bailey</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">91656</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Walvis Bay</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">MAXUILILI</U40.17.11.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">section 12</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">1234/9</U40.24.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">off Justine Street, near to New World bar</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">G. Bailey</LineData>
+                            <LineData name="LINE 2">Dunenblick General and Airtime store</LineData>
+                            <LineData name="LINE 3">1234/9 section 12</LineData>
+                            <LineData name="LINE 4">off Justine Street, near to New World bar</LineData>
+                            <LineData name="LINE 5">MAXUILILI</LineData>
+                            <LineData name="LINE 6">Walvis Bay</LineData>
+                            <LineData name="LINE 7">91656</LineData>
+                            <LineData name="LINE 8">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Norman</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Cloete</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">87654</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">WINDHOEK</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">KATUTURA</U40.17.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Havana</U40.26.11.12>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">Plot 1807,</U40.26.11.21>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">corner of Matshitshi Street at Monte Christo Road</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Norman Cloete</LineData>
+                            <LineData name="LINE 2">Plot 1807, Havana</LineData>
+                            <LineData name="LINE 3">corner of Matshitshi Street at Monte Christo Road</LineData>
+                            <LineData name="LINE 4">KATUTURA</LineData>
+                            <LineData name="LINE 5">WINDHOEK</LineData>
+                            <LineData name="LINE 6">87654</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">E</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Harmse</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">74574</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SWAKOPMUND</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">DRC</U40.17.11.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Coke Bar</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms E Harmse</LineData>
+                            <LineData name="LINE 2">Coke Bar</LineData>
+                            <LineData name="LINE 3">DRC</LineData>
+                            <LineData name="LINE 4">SWAKOPMUND</LineData>
+                            <LineData name="LINE 5">74574</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Gertrude</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Pius</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61514</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OKAHANDJA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">VYF RAND CAMP</U40.17.11.00>
+                        <U40.26.11.11 uniq="U40PrecBuildingLev1Type">House</U40.26.11.11>
+                        <U40.26.11.21 uniq="U40BuildingLev1Ind">5</U40.26.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Gertrude Pius</LineData>
+                            <LineData name="LINE 2">House 5</LineData>
+                            <LineData name="LINE 3">VYF RAND CAMP</LineData>
+                            <LineData name="LINE 4">OKAHANDJA</LineData>
+                            <LineData name="LINE 5">61514</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.00.00.00 uniq="U10OrgName">Farm Grosse</U10.00.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Jan</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Claasen</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">45526</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Maltahohe</U40.16.00.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Farm Road D123</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Farm 12</U40.24.11.00>
+                        <U40.34.00.00 uniq="U40SuppDelPointData">Maltahohe - Walvis Bay road</U40.34.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Jan Claasen</LineData>
+                            <LineData name="LINE 2">Farm Grosse</LineData>
+                            <LineData name="LINE 3">Farm 12 Farm Road D123</LineData>
+                            <LineData name="LINE 4">Maltahohe - Walvis Bay road</LineData>
+                            <LineData name="LINE 5">Maltahohe</LineData>
+                            <LineData name="LINE 6">45526</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Rosalia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Iwata</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56351</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ONDANGWA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Onethindi</U40.17.11.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Olukonda Village</U40.17.12.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Onamulunga Communal Area</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">12345</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Rosalia Iwata</LineData>
+                            <LineData name="LINE 2">12345 Onamulunga Communal Area</LineData>
+                            <LineData name="LINE 3">Olukonda Village</LineData>
+                            <LineData name="LINE 4">Onethindi</LineData>
+                            <LineData name="LINE 5">ONDANGWA</LineData>
+                            <LineData name="LINE 6">56351</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Ms.</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Rosalia</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Iwata</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56352</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OSHIKOTO</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Ondangwa Rural</U40.17.11.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Ontananga</U40.17.12.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Ontananga A</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">Ontnn-000005</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Ms. Rosalia Iwata</LineData>
+                            <LineData name="LINE 2">Ontnn-000005 Ontananga A</LineData>
+                            <LineData name="LINE 3">Ontananga</LineData>
+                            <LineData name="LINE 4">Ondangwa Rural</LineData>
+                            <LineData name="LINE 5">OSHIKOTO</LineData>
+                            <LineData name="LINE 6">56352</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">Mr</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">Neville</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Field</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">56748</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BETHANIE</U40.16.00.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Bethanie Village</U40.17.12.00>
+                        <U40.21.11.00 uniq="U40PrimThoro">Section E Dagbreek Farm</U40.21.11.00>
+                        <U40.24.11.00 uniq="U40PremIdPos1">45678</U40.24.11.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Mr Neville Field
+</LineData>
+                            <LineData name="LINE 2">45678 Section E Dagbreek Farm</LineData>
+                            <LineData name="LINE 3">Bethanie Village</LineData>
+                            <LineData name="LINE 4">BETHANIE</LineData>
+                            <LineData name="LINE 5">56748</LineData>
+                            <LineData name="LINE 6">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kakove</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24246</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">OKAHANDJA</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Okahandja</U40.17.11.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Epako</U40.17.12.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Life gardens</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paul Kakove</LineData>
+                            <LineData name="LINE 2">Life gardens</LineData>
+                            <LineData name="LINE 3">Epako</LineData>
+                            <LineData name="LINE 4">Okahandja</LineData>
+                            <LineData name="LINE 5">OKAHANDJA</LineData>
+                            <LineData name="LINE 6">24246</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">Paul</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">Kakoro</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">78876</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">NAMIBIA</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">Aranos</U40.16.00.00>
+                        <U40.17.11.00 uniq="U40DistrictLev1Pos1">Aminuis</U40.17.11.00>
+                        <U40.17.12.00 uniq="U40DistrictLev1Pos2">Aminuis</U40.17.12.00>
+                        <U40.26.11.12 uniq="U40SuccBuildingLev1Type">Office of the Councilor</U40.26.11.12>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">en</U50.51.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">NA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>10</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">Paul Kakoro</LineData>
+                            <LineData name="LINE 2">Office of the Councilor</LineData>
+                            <LineData name="LINE 3">Aminuis</LineData>
+                            <LineData name="LINE 4">Aminuis</LineData>
+                            <LineData name="LINE 5">Aranos</LineData>
+                            <LineData name="LINE 6">78876</LineData>
+                            <LineData name="LINE 7">NAMIBIA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+

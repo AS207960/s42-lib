@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S53-2-ExchangeNameAddressData.v.2.3 xmlns:S42="http://www.upu.int/Standards/S42/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <GeneralData>
+        <DataSetId>1001</DataSetId>
+        <ENADVersion>2.3</ENADVersion>
+        <S42Version>S42-8</S42Version>
+        <GroupCount>1</GroupCount>
+    </GeneralData>
+    <GroupData>
+        <GroupHeader>
+            <GroupId>1</GroupId>
+            <GroupDescription>MA</GroupDescription>
+            <GroupItemCount>46</GroupItemCount>
+            <GroupRosterCount>0</GroupRosterCount>
+        </GroupHeader>
+        <GroupItems>
+            <Item>
+                <ItemIdentifier>1</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">محمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">وزاني</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20500</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الدار البيضاء</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">زنقة</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">القاضي شرايبي</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">16</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد محمد وزاني</LineData>
+                            <LineData name="LINE 2">16 زنقة القاضي شرايبي</LineData>
+                            <LineData name="LINE 3">الدار البيضاء 20500</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>2</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">حبيبة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">تلماني</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الدار البيضاء</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">زنقة</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ديوان</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">78</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة حبيبة تلماني</LineData>
+                            <LineData name="LINE 2">78 زنقة ديوان</LineData>
+                            <LineData name="LINE 3">الدار البيضاء 20150</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>3</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">جواد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">الزين</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">فاس</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ميدان</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">قرطبة</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">إقامة طلحة</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق الرابع</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">شقة رقم</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">15</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد جواد الزين</LineData>
+                            <LineData name="LINE 2">الطابق الرابع شقة رقم 15</LineData>
+                            <LineData name="LINE 3">إقامة طلحة</LineData>
+                            <LineData name="LINE 4">4 ميدان قرطبة</LineData>
+                            <LineData name="LINE 5">فاس 30100</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>4</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">جواد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">الزين</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">فاس</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ميدان</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">قرطبة</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">إقامة طلحة</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق 4</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">شقة رقم</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">15</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد جواد الزين</LineData>
+                            <LineData name="LINE 2">الطابق 4 شقة رقم 15</LineData>
+                            <LineData name="LINE 3">إقامة طلحة</LineData>
+                            <LineData name="LINE 4">4 ميدان قرطبة</LineData>
+                            <LineData name="LINE 5">فاس 30100</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>5</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">عبد القادر</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">سليماني</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">فاس</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">شارع</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">العلويين</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد عبد القادر سليماني</LineData>
+                            <LineData name="LINE 2">7 شارع العلويين</LineData>
+                            <LineData name="LINE 3">فاس 30000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>6</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">أحمد</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">المختار</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرباط</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">حسان</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ميدان</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">الوحدة</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">عمارة الوفاء</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق الثالث</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">شقة رقم</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">9</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد أحمد المختار</LineData>
+                            <LineData name="LINE 2">الطابق الثالث شقة رقم 9</LineData>
+                            <LineData name="LINE 3">عمارة الوفاء</LineData>
+                            <LineData name="LINE 4">6 ميدان الوحدة</LineData>
+                            <LineData name="LINE 5">حسان</LineData>
+                            <LineData name="LINE 6">الرباط 10000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>7</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">فتيحة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">إدريسي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">26000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">سطات</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">حي الفرح</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">زنقة</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">وزان</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة فتيحة إدريسي</LineData>
+                            <LineData name="LINE 2">19 زنقة وزان</LineData>
+                            <LineData name="LINE 3">حي الفرح</LineData>
+                            <LineData name="LINE 4">سطات 26000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>8</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">الآنسة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">سلوى</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">سلاوي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرباط</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">شارع</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">علال ابنعبد الله</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">عمارة مكة</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">الطابق الأول</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">شقة رقم</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">5</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الآنسة سلوى سلاوي</LineData>
+                            <LineData name="LINE 2">الطابق الأول شقة رقم 5</LineData>
+                            <LineData name="LINE 3">عمارة مكة</LineData>
+                            <LineData name="LINE 4">4 شارع علال ابنعبد الله</LineData>
+                            <LineData name="LINE 5">الرباط 10000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>9</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">عبد الله</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">جيلالي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الدار البيضاء</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">شارع</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">القدس</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">إقامة الأندلس</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد عبد الله جيلالي</LineData>
+                            <LineData name="LINE 2">إقامة الأندلس</LineData>
+                            <LineData name="LINE 3">11 شارع القدس</LineData>
+                            <LineData name="LINE 4">الدار البيضاء 20150</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>10</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">فوزية</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">شادلي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الفقيه ابن صالح</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">طريق</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">137</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة فوزية شادلي</LineData>
+                            <LineData name="LINE 2">طريق 137</LineData>
+                            <LineData name="LINE 3">الفقيه ابن صالح 23200</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>11</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">لطيفة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">سملالي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرباط</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">محج</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">طرابلس</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">24</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة لطيفة سملالي</LineData>
+                            <LineData name="LINE 2">24 محج طرابلس</LineData>
+                            <LineData name="LINE 3">الرباط 10000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>12</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">الآنسة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">نجلاء</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بوشاقور</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">فاس</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">حي الأدارسة</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">محج</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">محمد الخامس</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">41</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الآنسة نجلاء بوشاقور</LineData>
+                            <LineData name="LINE 2">41 محج محمد الخامس</LineData>
+                            <LineData name="LINE 3">حي الأدارسة</LineData>
+                            <LineData name="LINE 4">فاس 30000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>13</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيد</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">علال</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">خميش</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الدار البيضاء</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">زنقة</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">الأوج</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيد علال خميش</LineData>
+                            <LineData name="LINE 2">65 زنقة الأوج</LineData>
+                            <LineData name="LINE 3">الدار البيضاء 20000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>14</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">نصيرة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">غازي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الرباط</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">زنقة</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">الرحمة</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة نصيرة غازي</LineData>
+                            <LineData name="LINE 2">2 زنقة الرحمة</LineData>
+                            <LineData name="LINE 3">الرباط 10050</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>15</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">حسار</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">لحمر</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">الدكتور</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">تاوريرت</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">محج</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">رابوز</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">فيلا النرجس</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الدكتور حسار لحمر</LineData>
+                            <LineData name="LINE 2">فيلا النرجس</LineData>
+                            <LineData name="LINE 3">3 محج رابوز</LineData>
+                            <LineData name="LINE 4">تاوريرت 60400</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>16</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">نجية</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">دحص</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الجديدة</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">شارع</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">الأنوار</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">58</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">تجزئة البيضاء</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة نجية دحص</LineData>
+                            <LineData name="LINE 2">تجزئة البيضاء</LineData>
+                            <LineData name="LINE 3">58 شارع الأنوار</LineData>
+                            <LineData name="LINE 4">الجديدة 24000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>17</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">فاطمة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ابنعبد الله</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">84000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">طاطا</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">شارع</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">الحسن الثاني</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">78</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة فاطمة ابنعبد الله</LineData>
+                            <LineData name="LINE 2">78 شارع الحسن الثاني</LineData>
+                            <LineData name="LINE 3">طاطا 84000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>18</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">الآنسة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">إيمان</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ابن حدوا</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">فكيك</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">170</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">الآنسة إيمان ابن حدوا</LineData>
+                            <LineData name="LINE 2">ص ب 170</LineData>
+                            <LineData name="LINE 3">فكيك 61000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>19</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">سليمة</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">لبيض</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">62550</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">الناضور</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">650</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة سليمة لبيض</LineData>
+                            <LineData name="LINE 2">ص ب 650</LineData>
+                            <LineData name="LINE 3">الناضور 62550</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>20</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">وفاء</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">دوبلالي</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">مراكش</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">78</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة وفاء دوبلالي</LineData>
+                            <LineData name="LINE 2">ص ب 78</LineData>
+                            <LineData name="LINE 3">مراكش 40000</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>21</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">السيدة</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">كلثوم</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">بياز</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">المغرب</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">بوعرفة</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">ص ب</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">1286</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Arab</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">ar</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">السيدة كلثوم بياز</LineData>
+                            <LineData name="LINE 2">ص ب 1286</LineData>
+                            <LineData name="LINE 3">بوعرفة 61200</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>22</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MOHAMMED</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">OUAZZANI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20500</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASABLANCA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CADI CHRAIBI</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">16</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M MOHAMMED OUAZZANI</LineData>
+                            <LineData name="LINE 2">16 RUE CADI CHRAIBI</LineData>
+                            <LineData name="LINE 3">20500 CASABLANCA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>23</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADAME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">HABIBA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TELMANI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASABLANCA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">DIWANE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">78</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADAME HABIBA TELMANI</LineData>
+                            <LineData name="LINE 2">78 RUE DIWANE</LineData>
+                            <LineData name="LINE 3">20150 CASABLANCA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>24</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">JOUAD</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ZINE</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30100</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FES</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PLACE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">CORTOBA</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">RESIDENCE TALHA</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ETAGE N° 4</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APPARTEMENT N°</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">15</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M JOUAD ZINE</LineData>
+                            <LineData name="LINE 2">APPARTEMENT N° 15 ETAGE N° 4</LineData>
+                            <LineData name="LINE 3">RESIDENCE TALHA</LineData>
+                            <LineData name="LINE 4">4 PLACE CORTOBA</LineData>
+                            <LineData name="LINE 5">30100 FES</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>25</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ABDELKADER</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SLIMANI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FES</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">EL ALAOUIYINE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">7</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M ABDELKADER SLIMANI</LineData>
+                            <LineData name="LINE 2">7 AVENUE EL ALAOUIYINE</LineData>
+                            <LineData name="LINE 3">30000 FES</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>26</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">AHMED</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">ALMOKHTAR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RABAT</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">HASSAN</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">PLACE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AL OUAHDA ALIFQUIAH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">6</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">IMMEUBLE ALWAFA</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ETAGE N° 3</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APPARTEMENT N°</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">9</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M AHMED ALMOKHTAR</LineData>
+                            <LineData name="LINE 2">APPARTEMENT N° 9 ETAGE N° 3</LineData>
+                            <LineData name="LINE 3">IMMEUBLE ALWAFA</LineData>
+                            <LineData name="LINE 4">6 PLACE AL OUAHDA ALIFQUIAH</LineData>
+                            <LineData name="LINE 5">HASSAN</LineData>
+                            <LineData name="LINE 6">10000 RABAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>27</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">FATIHA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">IDRISSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">26000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SETTAT</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">HAY FARAH</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">OUEZZANE</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">19</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME FATIHA IDRISSI</LineData>
+                            <LineData name="LINE 2">19 RUE OUEZZANE</LineData>
+                            <LineData name="LINE 3">HAY FARAH</LineData>
+                            <LineData name="LINE 4">26000 SETTAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>28</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADEMOISELLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SALOUA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SLAOUI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RABAT</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ALLAL BEN ABDELLAH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">4</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">IMMEUBLE MEKKA</U40.26.00.00>
+                        <U40.31.00.00 uniq="U40Floor">ETAGE N° 1</U40.31.00.00>
+                        <U40.32.11.11 uniq="U40DoorType">APPARTEMENT N°</U40.32.11.11>
+                        <U40.32.11.21 uniq="U40DoorInd">4</U40.32.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADEMOISELLE SALOUA SLAOUI</LineData>
+                            <LineData name="LINE 2">APPARTEMENT N° 4 ETAGE N° 1</LineData>
+                            <LineData name="LINE 3">IMMEUBLE MEKKA</LineData>
+                            <LineData name="LINE 4">4 AVENUE ALLAL BEN ABDELLAH</LineData>
+                            <LineData name="LINE 5">10000 RABAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>29</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ABDELILLAH</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">JILALI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20150</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASABLANCA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ELQODS</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">11</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">RESIDENCE ANDALOUS</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M ABDELILLAH JILALI</LineData>
+                            <LineData name="LINE 2">RESIDENCE ANDALOUS</LineData>
+                            <LineData name="LINE 3">11 AVENUE ELQODS</LineData>
+                            <LineData name="LINE 4">20150 CASABLANCA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>30</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">FOUZIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">CHADILI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">23200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KFKIH BEN SALEH</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">ROUTE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">137</U40.21.11.41>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME FOUZIA CHADILI</LineData>
+                            <LineData name="LINE 2">ROUTE 137</LineData>
+                            <LineData name="LINE 3">23200 KFKIH BEN SALEH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>31</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADAME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">LATIFA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SMLALI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RABAT</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">BOULEVARD</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">TRABLESS</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">24</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADAME LATIFA SMLALI</LineData>
+                            <LineData name="LINE 2">24 BOULEVARD TRABLESS</LineData>
+                            <LineData name="LINE 3">10000 RABAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>32</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MLLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">NAJLAA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BOUCHAKOUR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">30000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FES</U40.16.00.00>
+                        <U40.17.00.00 uniq="U40District">HAY ADARISSAH</U40.17.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">BOULEVARD</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">MOHMMED V</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">41</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MLLE NAJLAA BOUCHAKOUR</LineData>
+                            <LineData name="LINE 2">41 BOULEVARD MOHMMED V</LineData>
+                            <LineData name="LINE 3">HAY ADARISSAH</LineData>
+                            <LineData name="LINE 4">30000 FES</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>33</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">ALLAL</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">KHMICH</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASABLANCA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ELAOUJA</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">65</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M ALLAL KHMICH</LineData>
+                            <LineData name="LINE 2">65 RUE ELAOUJA</LineData>
+                            <LineData name="LINE 3">20000 CASABLANCA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>34</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">NACIRA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">GHAZI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">10050</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">RABAT</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">RUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">AR RAHMAH</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">2</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME NACIRA GHAZI</LineData>
+                            <LineData name="LINE 2">2 RUE AR RAHMAH</LineData>
+                            <LineData name="LINE 3">10050 RABAT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>35</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.06.00.00 uniq="U10GivenName">HASSAR</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LHIMR</U10.08.00.00>
+                        <U10.10.00.00 uniq="U10Qualification">DOCTEUR</U10.10.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">60400</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TAOURIRT</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">BOULEVARD</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">RABOZ</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">3</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">VILLA ANNARJIS</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">DOCTEUR HASSAR LHIMR</LineData>
+                            <LineData name="LINE 2">VILLA ANNARJIS</LineData>
+                            <LineData name="LINE 3">3 BOULEVARD RABOZ</LineData>
+                            <LineData name="LINE 4">60400 TAOURIRT</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>36</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">NAJIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DAHS</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">24000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">ELJADIDA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">ANNOUAR</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">58</U40.24.00.00>
+                        <U40.26.00.00 uniq="U40Building">LOTISSEMENT ELBAIDA</U40.26.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME NAJIA DAHS</LineData>
+                            <LineData name="LINE 2">LOTISSEMENT ELBAIDA</LineData>
+                            <LineData name="LINE 3">58 AVENUE ANNOUAR</LineData>
+                            <LineData name="LINE 4">24000 ELJADIDA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>37</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">FATIMA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BENABDELLAH</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">84000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">TATA</U40.16.00.00>
+                        <U40.21.11.21 uniq="U40PrecPrimThoroType">AVENUE</U40.21.11.21>
+                        <U40.21.11.41 uniq="U40PrimThoroName">HASSAN II</U40.21.11.41>
+                        <U40.24.00.00 uniq="U40PremId">78</U40.24.00.00>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME FATIMA BENABDELLAH</LineData>
+                            <LineData name="LINE 2">78 AVENUE HASSAN II</LineData>
+                            <LineData name="LINE 3">84000 TATA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>38</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADEMOISELLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">IMANE</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BENHADDOU</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">FIGUIG</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">170</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADEMOISELLE IMANE BENHADDOU</LineData>
+                            <LineData name="LINE 2">BP N° 170</LineData>
+                            <LineData name="LINE 3">61000 FIGUIG</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>39</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SALIMA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">LABIED</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">62550</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">NADOR</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">654</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME SALIMA LABIED</LineData>
+                            <LineData name="LINE 2">BP N° 654</LineData>
+                            <LineData name="LINE 3">62550 NADOR</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>40</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">WAFAA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">DOUBLALI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARRAKECH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">923</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME WAFAA DOUBLALI</LineData>
+                            <LineData name="LINE 2">BP N° 923</LineData>
+                            <LineData name="LINE 3">40000 MARRAKECH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>41</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">KALTOUM</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">BIAZZI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">61200</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">BOUARFA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">73</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME KALTOUM BIAZZI</LineData>
+                            <LineData name="LINE 2">BP N° 73</LineData>
+                            <LineData name="LINE 3">61200 BOUARFA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>42</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">M</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">KHALID</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">MEKOUAR</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">20001</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">CASABLANCA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">45</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">M KHALID MEKOUAR</LineData>
+                            <LineData name="LINE 2">BP N° 45</LineData>
+                            <LineData name="LINE 3">20001 CASABLANCA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>43</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SAMIHA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NOURI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">14000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">KENITRA</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">206</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MME SAMIHA NOURI</LineData>
+                            <LineData name="LINE 2">BP N° 206</LineData>
+                            <LineData name="LINE 3">14000 KENITRA</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>44</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MLLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">LOUBNA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">NAJI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">70000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">LAAYOUNE</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">21</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MLLE LOUBNA NAJI</LineData>
+                            <LineData name="LINE 2">BP N° 21</LineData>
+                            <LineData name="LINE 3">70000 LAAYOUNE</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>45</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADAME</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">SAMIA</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">SABRI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">40000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">MARRAKECH</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">130</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADAME SAMIA SABRI</LineData>
+                            <LineData name="LINE 2">BP N° 130</LineData>
+                            <LineData name="LINE 3">40000 MARRAKECH</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+            <Item>
+                <ItemIdentifier>46</ItemIdentifier>
+                <Representation category="Postal">
+                    <Components>
+                        <U10.05.00.00 uniq="U10FormOfAddress">MADEMOISELLE</U10.05.00.00>
+                        <U10.06.00.00 uniq="U10GivenName">MERIEM</U10.06.00.00>
+                        <U10.08.00.00 uniq="U10Surname">TOUNSI</U10.08.00.00>
+                        <U40.13.00.00 uniq="U40PostCode">46000</U40.13.00.00>
+                        <U40.14.00.00 uniq="U40CountryName">MOROCCO</U40.14.00.00>
+                        <U40.16.00.00 uniq="U40Town">SAFI</U40.16.00.00>
+                        <U40.19.11.11 uniq="U40PrimDelServType">BP N°</U40.19.11.11>
+                        <U40.19.11.21 uniq="U40PrimDelServInd">389</U40.19.11.21>
+                        <U50.50.00.00 uniq="U50Script">Latn</U50.50.00.00>
+                        <U50.51.00.00 uniq="U50Language">fr</U50.51.00.00>
+                        <U50.53.00.00 uniq="U50DespatchingCountry">MA</U50.53.00.00>
+                        <U50.54.00.00 uniq="U50DeliveringCountry">MA</U50.54.00.00>
+                    </Components>
+                    <RenditionData>
+                        <AddressLineBlock>
+                            <NumberOfLines>6</NumberOfLines>
+                            <LengthOfLines>40</LengthOfLines>
+                            <LineData name="LINE 1">MADEMOISELLE MERIEM TOUNSI</LineData>
+                            <LineData name="LINE 2">BP N° 389</LineData>
+                            <LineData name="LINE 3">46000 SAFI</LineData>
+                        </AddressLineBlock>
+                    </RenditionData>
+                </Representation>
+            </Item>
+        </GroupItems>
+    </GroupData>
+</S53-2-ExchangeNameAddressData.v.2.3>
+
+
