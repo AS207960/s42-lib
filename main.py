@@ -1,6 +1,5 @@
 import glob
 import os.path
-import pprint
 import xml.etree.ElementTree
 
 import s42.data
@@ -50,6 +49,4 @@ if __name__ == "__main__":
             print(expected)
             print("--  ACTUAL  --")
             print(actual)
-            pprint.pprint(render._candidates)
-            pprint.pprint(render.lines)
             break

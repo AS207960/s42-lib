@@ -55,7 +55,7 @@ class Template:
             if self.invoke_procedure(precondition.procedure, dto) != precondition.output:
                 raise exceptions.PreconditionError(precondition.procedure)
 
-        return rendition.AddressRendition(self, dto, abstract=abstract)
+        return str(rendition.AddressRendition(self, dto, abstract=abstract))
 
     @classmethod
     def register_procedure(cls, country, func_name):
