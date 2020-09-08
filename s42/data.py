@@ -79,6 +79,17 @@ class AddressDTO:
         else:
             return val
 
+    def get_code(self, code):
+        if not isinstance(code, Code):
+            code = Code.fromstring(code)
+
+        if self._elements.get(code):
+            return code
+        elif self._elements.get(code.base):
+            return code.base
+        else:
+            return None
+
     def set(self, code, value):
         if isinstance(code, str):
             code = Code.fromstring(code)

@@ -47,7 +47,7 @@ class Template:
             lines.extend([self._get_line(x) for x in candidates])
         return lines
 
-    def render(self, dto, abstract=False):
+    def render(self, dto, abstract=False, fail_on_missing=True):
         if isinstance(dto, dict):
             dto = data.AddressDTO.fromdict(dto)
 
@@ -55,7 +55,7 @@ class Template:
             if self.invoke_procedure(precondition.procedure, dto) != precondition.output:
                 raise exceptions.PreconditionError(precondition.procedure)
 
-        return str(rendition.AddressRendition(self, dto, abstract=abstract))
+        return rendition.AddressRendition(self, dto, abstract=abstract, fail_on_missing=fail_on_missing)
 
     @classmethod
     def register_procedure(cls, country, func_name):

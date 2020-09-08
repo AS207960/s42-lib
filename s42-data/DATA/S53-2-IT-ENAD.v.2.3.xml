@@ -556,7 +556,7 @@
                             <NumberOfLines>5</NumberOfLines>
                             <LengthOfLines>40</LengthOfLines>
                             <LineData name="LINE 1">SERGIO BRIO</LineData>
-                            <LineData name="LINE 2">VIA ARGINE POLCEVERA 3 ROSSO</LineData>
+                            <LineData name="LINE 2">VIA ARGINE POLCEVERA 3/ROSSO</LineData>
                             <LineData name="LINE 3">16147 GENOVA GE</LineData>
                         </AddressLineBlock>
                     </RenditionData>
@@ -1157,10 +1157,11 @@
                             <NumberOfLines>5</NumberOfLines>
                             <LengthOfLines>40</LengthOfLines>
                             <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
-                            <LineData name="LINE 2">C.A. RESP. COMUNIC. E ANIM. SIG. MARIO ROSSI</LineData>
-                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
-                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
-                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                            <LineData name="LINE 2">C.A. RESP. COMUNIC. E ANIM.</LineData>
+                            <LineData name="LINE 3">SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 4">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 5">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 6">00185 ROMA RM</LineData>
                         </AddressLineBlock>
                     </RenditionData>
                 </Representation>
@@ -1192,11 +1193,12 @@
                         <AddressLineBlock>
                             <NumberOfLines>5</NumberOfLines>
                             <LengthOfLines>40</LengthOfLines>
-                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI DIR MARKETING E INNOV.</LineData>
-                            <LineData name="LINE 2">C.A. SIG. MARIO ROSSI</LineData>
-                            <LineData name="LINE 3">UFFICIO ROMA 158</LineData>
-                            <LineData name="LINE 4">CASELLA POSTALE 2421</LineData>
-                            <LineData name="LINE 5">00185 ROMA RM</LineData>
+                            <LineData name="LINE 1">SPETT. CARTOGRAFICA VERDI</LineData>
+                            <LineData name="LINE 2">SIG. MARIO ROSSI</LineData>
+                            <LineData name="LINE 3">C.A. DIR MARKETING E INNOV.</LineData>
+                            <LineData name="LINE 4">UFFICIO ROMA 158</LineData>
+                            <LineData name="LINE 5">CASELLA POSTALE 2421</LineData>
+                            <LineData name="LINE 6">00185 ROMA RM</LineData>
                         </AddressLineBlock>
                     </RenditionData>
                 </Representation>

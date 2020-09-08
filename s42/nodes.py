@@ -23,6 +23,17 @@ class Node:
     def is_leaf(self):
         return bool(self.children)
 
+    def is_empty(self):
+        if self.is_element():
+            return False
+
+        for c in self.children:
+            if c.is_element():
+                return False
+            if not c.is_empty():
+                return False
+        return True
+
     def is_rightmost(self):
         return self.siblings and (self.siblings[-1] == self)
 
@@ -62,20 +73,41 @@ class AddressNode(Node):
 class ComponentNode(Node):
     name = "ComponentNode"
 
+    def __init__(self, template, dto, name):
+        Node.__init__(self, template, dto)
+        self.comp_id = name
 
-class ElementNode(Node):
-    name = "ElementNode"
+    def __repr__(self):
+        if self.children:
+            children = '\n-'.join(map(repr, self.children))
+            children = f"-{children}"
+            children = "\n".join(f"  {line}" for line in children.split("\n"))
+            return f"<{self.name}: {self.comp_id}>:\n{children}"
+        else:
+            return f"<{self.name}: {self.comp_id}>"
 
 
 class LineNode(Node):
     name = "LineNode"
 
+    def __init__(self, template, dto, name):
+        Node.__init__(self, template, dto)
+        self.line_id = name
+
+    def __repr__(self):
+        if self.children:
+            children = '\n-'.join(map(repr, self.children))
+            children = f"-{children}"
+            children = "\n".join(f"  {line}" for line in children.split("\n"))
+            return f"<{self.name}: {self.line_id}>:\n{children}"
+        else:
+            return f"<{self.name}: {self.line_id}>"
+
     @property
     def nodeseq(self):
         for component in self.children:
             for element in component:
-                for atomic in element:
-                    yield atomic
+                yield element
 
     def render(self):
         if not self.children:
@@ -83,8 +115,16 @@ class LineNode(Node):
 
         output = ''
         nodes = list(self.nodeseq)
+        last_node = None
         for node in nodes:
-            if (nodes[-1] == node) and not node.is_element():
+            if last_node and node.is_element():
+                if isinstance(last_node, SeparatorNode):
+                    output += last_node.value
+                else:
+                    output += ' '
+
+            last_node = node
+            if not node.is_element():
                 continue
             output += str(node)
 

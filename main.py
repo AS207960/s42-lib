@@ -1,7 +1,7 @@
 import glob
 import os.path
 import xml.etree.ElementTree
-
+import pprint
 import s42.data
 import s42.template
 
@@ -28,25 +28,27 @@ def get_data(country_code, s53_version='2'):
 
 
 if __name__ == "__main__":
-    template = get_template("gb")
+    for country in ("gb", "de", "us", "nl",):
+        template = get_template(country)
 
-    data = get_data("gb")
+        data = get_data(country)
 
-    for item in data.findall('./GroupData/GroupItems/Item'):
-        dto = {}
-        for component in item.findall('./Representation/Components/*'):
-            dto[component.tag] = component.text
+        for item in data.findall('./GroupData/GroupItems/Item'):
+            dto = {}
+            for component in item.findall('./Representation/Components/*'):
+                dto[component.tag] = component.text
 
-        lines = item.findall('./Representation/RenditionData/AddressLineBlock/LineData')
-        expected = "\n".join(map(lambda a: a.text, lines))
+            lines = item.findall('./Representation/RenditionData/AddressLineBlock/LineData')
+            expected = "\n".join(map(lambda a: a.text, lines))
 
-        dto = s42.data.AddressDTO.fromdict(dto)
-        render = template.render(dto)
-        actual = str(render)
+            dto = s42.data.AddressDTO.fromdict(dto)
+            render = template.render(dto, fail_on_missing=False)
+            actual = str(render)
 
-        if expected != actual:
-            print("-- EXPECTED --")
-            print(expected)
-            print("--  ACTUAL  --")
-            print(actual)
-            break
+            if expected != actual:
+                print("-- EXPECTED --")
+                print(expected)
+                print("--  ACTUAL  --")
+                print(actual)
+                # pprint.pprint(render._candidates)
+                pprint.pprint(render._lines)

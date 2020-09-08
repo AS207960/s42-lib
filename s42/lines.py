@@ -18,12 +18,11 @@ class Line:
 
         return cls(identifier=identifier, components=components)
 
-    def as_node(self, template, dto):
-        node = nodes.LineNode(template, dto)
-        for component in self.get_valid_components(dto):
+    def as_node(self, template, dto, fail_on_missing=True):
+        node = nodes.LineNode(template, dto, self.identifier.symbolic)
+        for component in (self.get_valid_components(dto) if fail_on_missing else self.components):
             c_node = component.as_node(template, dto)
-            if bool(c_node.children):
-                node.add(c_node)
+            node.add(c_node)
 
         return node
 
@@ -43,7 +42,7 @@ class LineComponent:
 
     @property
     def required_elements(self):
-        return [x.code for x in self.elements if x.required]
+        return [x.code for x in self.elements if x.is_element and x.required]
 
     def is_valid(self, dto):
         return all([dto.is_populated(x) for x in self.required_elements])
@@ -64,7 +63,7 @@ class LineComponent:
             elif tag == 'priority':
                 kwargs['priority'] = int(value)
             elif tag == 'renditionOperator':
-                elements[-1].set_succeeding_rendition_operator(RenditionOperator.fromxml(child))
+                elements.append(RenditionOperator.fromxml(child))
             else:
                 raise NotImplementedError("Unrecognized tag: " + tag)
 
@@ -72,10 +71,10 @@ class LineComponent:
         return cls(**kwargs)
 
     def as_node(self, template, dto):
-        node = nodes.ComponentNode(template, dto)
+        node = nodes.ComponentNode(template, dto, self.component_id)
 
         for element in self.elements:
-            if not dto.is_populated(element.code):
+            if element.is_element and not dto.is_populated(element.code):
                 continue
             node.add(element.as_node(template, dto))
         return node
@@ -88,6 +87,14 @@ class RenditionOperator:
     justify: typing.Optional[str] = None
 
     CONCAT = 'CONCAT'
+
+    @property
+    def is_element(self):
+        return False
+
+    def as_node(self, template, dto):
+        node = nodes.SeparatorNode(template, dto, self.text)
+        return node
 
     @classmethod
     def fromxml(cls, element):
@@ -115,7 +122,10 @@ class ElementData:
     justify: str = 'L'
     position: typing.Optional[str] = None
     migration_precedence: typing.Optional[int] = None
-    succeeding_operator: typing.Optional[str] = None
+
+    @property
+    def is_element(self):
+        return True
 
     @classmethod
     def fromxml(cls, element):
@@ -144,17 +154,5 @@ class ElementData:
         return cls(**kwargs)
 
     def as_node(self, template, dto):
-        node = nodes.ElementNode(template, dto)
-        node.add(nodes.ValueNode(template, dto, self.code))
-        node.add(nodes.SeparatorNode(template, dto, self.get_succeeding_separator()))
+        node = nodes.ValueNode(template, dto, self.code)
         return node
-
-    def get_preceding_separator(self):
-        return ''
-
-    def get_succeeding_separator(self):
-        return ' ' if not self.succeeding_operator\
-            else str(self.succeeding_operator)
-
-    def add_to_line(self, parts, value):
-        parts.extend([value, self.get_succeeding_separator()])
